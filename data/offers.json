@@ -1,47 +1,6 @@
 {
-  "updatedAt": "2026-10-25T21:40:27.450Z",
+  "updatedAt": "2026-10-25T21:50:31.921Z",
   "offers": [
-    {
-      "id": "22494274076",
-      "title": "Conjunto Pijama Brilha no Escuro Personagens Menino Infantil Mickey Homem Aranha Malha Levinha",
-      "price": 27.9,
-      "originalPrice": 69.75,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyf-mcrvs9be51s0a1",
-      "url": "https://s.shopee.com.br/5q9ESNJkPf",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2614,
-      "seller": "Bombollê Kids",
-      "category": "Moda"
-    },
-    {
-      "id": "26044322175",
-      "title": "Uniwity Mouse Sem Fio Recarregável com Bluetooth, RGB e Design Ergonômico – Conforto e Estilo",
-      "price": 65.9,
-      "originalPrice": 199.7,
-      "discountPercent": 67,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlbqolciatxcb6",
-      "url": "https://s.shopee.com.br/113yhUG9IN",
-      "rating": 4.8,
-      "salesCount": 420,
-      "seller": "ToolMaster0.br",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "22697063003",
-      "title": "1/2/3 Unidades Luminárias Solares Impermeáveis Prova De Chuva 100 Led Sensor Courtyard Light Promoção",
-      "price": 20.88,
-      "originalPrice": 47.45,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257u-mss63m7i054w30",
-      "url": "https://s.shopee.com.br/BUqU41To8",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 5924,
-      "seller": "INFINITY COMERCIO DE VARIEDADES",
-      "category": "Casa e organização"
-    },
     {
       "id": "58211536223",
       "title": "Watersy Garrafa Térmica 17oz/510ml a Vácuo Inox 18/8 Antivazamento Portátil para Café Chá Água",
@@ -941,20 +900,6 @@
       "category": "Beleza"
     },
     {
-      "id": "44810906243",
-      "title": "Porta De Elfo De Fada THUY , Decoração De Parede De Quarto De Casa De Bonecas , Desenho Animado , Caixa De Dente De Bebê",
-      "price": 28.93,
-      "originalPrice": 53.57,
-      "discountPercent": 46,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259j-mspzyfqd2h3bb3",
-      "url": "https://s.shopee.com.br/qkYai1HjC",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 73,
-      "seller": "Jony Bebê e Moda Infantil Loja",
-      "category": "Casa e organização"
-    },
-    {
       "id": "45056823760",
       "title": "Bandeja Espelhada Decorativa Orgânico Couro Ecológico Premium 38x26cm Sala Quarto Banheiro Mesa Hall",
       "price": 38.9,
@@ -1171,6 +1116,21 @@
       "salesCount": 2526,
       "seller": "Gota de ouro ",
       "category": "Moda"
+    },
+    {
+      "id": "21797728567",
+      "title": "Arara 4/5 Andares Multiuso c/ Sapateira, Cabideiro e Suporte p/ Roupas, Tênis e Closet Quarto",
+      "price": 39.49,
+      "originalPrice": 179.5,
+      "discountPercent": 78,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7req6-m8dk5gglfv7k20",
+      "url": "https://s.shopee.com.br/1gJfUhE0zC",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 3356,
+      "seller": "ZSZ_brasil",
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "58209495815",
@@ -1397,19 +1357,6 @@
       "category": "Ferramentas"
     },
     {
-      "id": "23893371348",
-      "title": "Luminaria Meia Lua Estetica Mesa Spa Arco 3 Tons Ajustavel Salao Beleza Limpeza De Pele",
-      "price": 229.99,
-      "originalPrice": 884.58,
-      "discountPercent": 74,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8f75haaxqfl65",
-      "url": "https://s.shopee.com.br/8V9zdGN89F",
-      "rating": 4.9,
-      "salesCount": 920,
-      "seller": "MOEN HOME",
-      "category": "Casa e organização"
-    },
-    {
       "id": "47305656878",
       "title": "Espelho Redondo Decorativo Adnet Alça Couro Suporte 60cm Sala Quarto Banheiro",
       "price": 22.9,
@@ -1421,6 +1368,19 @@
       "rating": 4.8,
       "salesCount": 3769,
       "seller": "Eddias Home",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "23893371348",
+      "title": "Luminaria Meia Lua Estetica Mesa Spa Arco 3 Tons Ajustavel Salao Beleza Limpeza De Pele",
+      "price": 229.99,
+      "originalPrice": 884.58,
+      "discountPercent": 74,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8f75haaxqfl65",
+      "url": "https://s.shopee.com.br/8V9zdGN89F",
+      "rating": 4.9,
+      "salesCount": 920,
+      "seller": "MOEN HOME",
       "category": "Casa e organização"
     },
     {
@@ -1671,6 +1631,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "58257090824",
+      "title": "Kit 4 Capas de Almofada 40x40 Suede Luxo Decorativa para Sofá Sala Quarto Macia com Zíper",
+      "price": 31.99,
+      "originalPrice": 79.97,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mmm1sfjpscna7b",
+      "url": "https://s.shopee.com.br/3VlJg4otbS",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3664,
+      "seller": "VISIO DECORE ",
+      "category": "Casa e organização"
+    },
+    {
       "id": "58264684239",
       "title": "Kit Hidrabene Clareador Skincare Clareador Facial: Sabonete, Protetor 70 FPS e Sérum Multicorretivo",
       "price": 79.9,
@@ -1725,20 +1699,6 @@
       "rating": 4.9,
       "salesCount": 2681,
       "seller": "CasaLauraEnxovais",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58257090824",
-      "title": "Kit 4 Capas de Almofada 40x40 Suede Luxo Decorativa para Sofá Sala Quarto Macia com Zíper",
-      "price": 31.99,
-      "originalPrice": 79.97,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mmm1sfjpscna7b",
-      "url": "https://s.shopee.com.br/3VlJg4otbS",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3664,
-      "seller": "VISIO DECORE ",
       "category": "Casa e organização"
     },
     {
@@ -2098,8 +2058,7 @@
       "rating": 4.9,
       "salesCount": 6923,
       "seller": "ELITE SHOES ",
-      "category": "Moda",
-      "hot": true
+      "category": "Moda"
     },
     {
       "id": "52858085838",
@@ -2157,6 +2116,20 @@
       "salesCount": 1154,
       "seller": "LS Jalecos",
       "category": "Moda"
+    },
+    {
+      "id": "22798224799",
+      "title": "Papel de Parede Autocolante Textura Madeira 5m x 45cm, Impermeável Removível, Ideal para Parede, Móveis, Sala e Quarto",
+      "price": 18.88,
+      "originalPrice": 52.44,
+      "discountPercent": 64,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mndneuqbbbwh90",
+      "url": "https://s.shopee.com.br/30p3598wHK",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 3675,
+      "seller": "Papel de Parede - Loja",
+      "category": "Casa e organização"
     },
     {
       "id": "58200141324",
@@ -2354,6 +2327,20 @@
       "category": "Beleza"
     },
     {
+      "id": "20597689349",
+      "title": "Protetor Impermeável Capa Colchão Matelada Cama Quarto Berço, Solteiro, Casal, Queen, King com Elástico",
+      "price": 25.9,
+      "originalPrice": 44.66,
+      "discountPercent": 42,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m97a2cdipgcic6",
+      "url": "https://s.shopee.com.br/5LCxrOW8QY",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 7151,
+      "seller": "CasaLauraEnxovais",
+      "category": "Casa e organização"
+    },
+    {
       "id": "22993817264",
       "title": "Bolsa Feminina Baú Transversal Média com Lenço Alça Tiracolo Estruturada e Espaçosa",
       "price": 39.98,
@@ -2408,19 +2395,6 @@
       "official": true,
       "seller": "Primacial",
       "category": "Beleza"
-    },
-    {
-      "id": "23098245574",
-      "title": "Kit Feminino com Relógio LED + Pulseira e Brinco – Estilo, Elegância e Presente Perfeito",
-      "price": 29.69,
-      "originalPrice": 50.32,
-      "discountPercent": 41,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8zhe18agwzmbc",
-      "url": "https://s.shopee.com.br/7Ky2F7ENCa",
-      "rating": 4.6,
-      "salesCount": 1059,
-      "seller": "T.R. Imports Brasil",
-      "category": "Moda"
     },
     {
       "id": "17192537739",
@@ -3259,6 +3233,7 @@
       "discountPercent": 35,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mo5vncqk1ssi68",
       "url": "https://s.shopee.com.br/9Kj6coF9bN",
+      "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 1052,
       "official": true,
@@ -3348,6 +3323,20 @@
       "rating": 4.9,
       "salesCount": 3204,
       "seller": "Pet Prime Br",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58255488276",
+      "title": "Painel Ripado autoadesivo 3D 3m x 60cm Grosso Revestimento Amadeirado Madeira Parede Autocolante Quarto Sala",
+      "price": 79.8,
+      "originalPrice": 140,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zug-mkwz5xpqeio1dd",
+      "url": "https://s.shopee.com.br/AAIDcHDjcZ",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3903,
+      "seller": "LJLP Online",
       "category": "Casa e organização"
     },
     {
@@ -4107,6 +4096,20 @@
       "salesCount": 2611,
       "seller": "Casa Oliveira Decor",
       "category": "Casa e organização"
+    },
+    {
+      "id": "22892161372",
+      "title": "Combinação De Roupa De Halloween Cosplay Ball Party Coelho Veludo Relógio De Chapéu Alto Conjunto De Nariz De Gravata",
+      "price": 54.55,
+      "originalPrice": 102.92,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfht-m4ftozon71k283",
+      "url": "https://s.shopee.com.br/1BNP01DeNa",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 68,
+      "seller": "Qileii.br",
+      "category": "Moda"
     },
     {
       "id": "22393485784",
