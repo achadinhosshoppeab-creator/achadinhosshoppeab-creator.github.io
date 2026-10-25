@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T21:20:30.680Z",
+  "updatedAt": "2026-10-25T21:30:52.087Z",
   "offers": [
     {
       "id": "23798128210",
@@ -56,6 +56,19 @@
       "salesCount": 2614,
       "seller": "Bombollê Kids",
       "category": "Moda"
+    },
+    {
+      "id": "20354305078",
+      "title": "Kit 10  Capa Celular Bolsa Case Estanque A Prova D'Água Transparente Universal Praia Piscina Viajar",
+      "price": 29.9,
+      "originalPrice": 80.81,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259e-mtw1pjp20emba3",
+      "url": "https://s.shopee.com.br/1BRaWTxM3",
+      "rating": 4.9,
+      "salesCount": 327,
+      "seller": "RISESHOP_brasil",
+      "category": "Eletrônicos"
     },
     {
       "id": "26044322175",
@@ -127,6 +140,19 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23798855593",
+      "title": "Kit Máscara Mergulho Snorkel Óculos Respirador Profissional Adulto Praia Piscina Ajustável Silicone+Celular case",
+      "price": 49.36,
+      "originalPrice": 126.56,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhk5a7c13vnncc",
+      "url": "https://s.shopee.com.br/3qOA9ZFMZY",
+      "rating": 4.9,
+      "salesCount": 464,
+      "seller": "Essenciais br",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "23098686875",
       "title": "Abajur Recarregável Touch Luminária Retrátil em Aço com Luz de Led Branco Quente Ajustável-USB",
       "price": 29.99,
@@ -167,6 +193,20 @@
       "category": "Moda"
     },
     {
+      "id": "19899586753",
+      "title": "Fone de Ouvido Sem Fio Com Cancelamento De Ruído Bluetooth Pop-Up",
+      "price": 42.89,
+      "originalPrice": 194.95,
+      "discountPercent": 78,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rffm-m4f5wo6pi7mjaa",
+      "url": "https://s.shopee.com.br/qkYVALWER",
+      "rating": 4.8,
+      "salesCount": 6449,
+      "seller": "JX VERDE",
+      "category": "Eletrônicos",
+      "hot": true
+    },
+    {
       "id": "43981426348",
       "title": "Tenis Masculino Escolar Academia Corrida Original FREEDOM Corrida Caminhada Lançamento EXCLUSIVO CINZA GRAVITE e LARANJA",
       "price": 43.5,
@@ -178,34 +218,6 @@
       "salesCount": 3736,
       "seller": "Cirandinha Shoes",
       "category": "Moda"
-    },
-    {
-      "id": "58201617917",
-      "title": "Kit 50/100 Peças Grampos De Cabelo Estrela Dopamina Cor Doce Para Mulheres，ModaPresilhas Laterais",
-      "price": 15.99,
-      "originalPrice": 37.19,
-      "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhzi90bjhxqe93",
-      "url": "https://s.shopee.com.br/8pmq1pVwQU",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 5738,
-      "seller": "Bem Viver",
-      "category": "Beleza"
-    },
-    {
-      "id": "58203954393",
-      "title": "Capa Magnética MagSafe Laranja para iPhone 13 14 15 16 17 Pro Max Antichoque com Proteção de Câmera",
-      "price": 23.89,
-      "originalPrice": 55.56,
-      "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mmrsr2ewmjgh8f",
-      "url": "https://s.shopee.com.br/4qGhGTttpf",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2705,
-      "seller": "LuoYi Best shop",
-      "category": "Eletrônicos"
     },
     {
       "id": "22392992790",
@@ -303,6 +315,20 @@
       "salesCount": 1224,
       "seller": "Eddias Home",
       "category": "Casa e organização"
+    },
+    {
+      "id": "22397607324",
+      "title": "Arranhador Para Gato Parede Sisal 50x20 Grande Brinquedo Pet Ricapet",
+      "price": 29.94,
+      "originalPrice": 49.9,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zud-mkkwfz3onyte0f",
+      "url": "https://s.shopee.com.br/6L5V89sZsY",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 148,
+      "seller": "Ricapet_",
+      "category": "Pet e bebê"
     },
     {
       "id": "22093716644",
@@ -453,20 +479,6 @@
       "rating": 4.9,
       "salesCount": 2015,
       "seller": "TRADENO ECOMERCE",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "58203749906",
-      "title": "2026 Novo Q71 Fones de ouvido Bluetooth sem fio OWS fones de ouvido esportivos com clipe",
-      "price": 42.8,
-      "originalPrice": 147.59,
-      "discountPercent": 71,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zub-mkkp8o2qrxfl50",
-      "url": "https://s.shopee.com.br/3g4jwXphkZ",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 4366,
-      "seller": "LUNANA Shop",
       "category": "Eletrônicos"
     },
     {
@@ -913,6 +925,20 @@
       "category": "Beleza"
     },
     {
+      "id": "21698034552",
+      "title": "Kit 2 Película Vidro 3D + Capa Capinha Transparente IPhone 7/8 Plus X/Xs Xr 11 12 13 14 15 16 ProMax 17 Pro Max Air",
+      "price": 16.96,
+      "originalPrice": 32,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcd8-m6frp9ylzekp46",
+      "url": "https://s.shopee.com.br/3B8TMLHtvM",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 443,
+      "seller": "Brasil Capas de Capinha Celular HAO",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "22694204664",
       "title": "Cozedor De Ovos Portátil Elétrico Cozinha A Vapor 110v/220v",
       "price": 28.3,
@@ -1052,30 +1078,18 @@
       "category": "Beleza"
     },
     {
-      "id": "22192825762",
-      "title": "Kit 10 Espelhos Decorativos Em Acrílico Em Formato De Hexágono 12x10cm Top&Casa Flexível Ecológico",
-      "price": 19.9,
-      "originalPrice": 49.75,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me5qca5qgmip9a",
-      "url": "https://s.shopee.com.br/6L5V3EsaZl",
-      "rating": 4.7,
-      "salesCount": 307,
-      "seller": "Ecolume ",
-      "category": "Presentes e papelaria"
-    },
-    {
-      "id": "58250325986",
-      "title": "Espelhos Acrílico em formato Hexagono Kit com 10 Unidades 12x10cm - Achadinhos da Shopee",
-      "price": 19.99,
-      "originalPrice": 49.97,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821dr-mgnzwn4493wv78",
-      "url": "https://s.shopee.com.br/70LBqVK6sV",
-      "rating": 4.8,
-      "salesCount": 71,
-      "seller": "MM Soluções Ecommerce",
-      "category": "Presentes e papelaria"
+      "id": "58251577291",
+      "title": "Caminha Pet Luxo 70x50cm  Conforto Premium Com Almofadinhas (Brinquedos) para Cães Pequenos e Médios",
+      "price": 56,
+      "originalPrice": 124.44,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhkw04gv48p2ec",
+      "url": "https://s.shopee.com.br/4qGhLOyHv7",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 215,
+      "seller": "Nosso Lar Enxovais ",
+      "category": "Pet e bebê"
     },
     {
       "id": "23199020709",
@@ -1216,20 +1230,6 @@
       "hot": true
     },
     {
-      "id": "52605012484",
-      "title": "Relógio De Quartzo Da Moda Feminina E Conjunto De Joias Com Pulseira De Couro Sem Caixa Pulso Elegante",
-      "price": 18.05,
-      "originalPrice": 82.05,
-      "discountPercent": 78,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82590-mrlbd6atm51k71",
-      "url": "https://s.shopee.com.br/9APgUevIrf",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 940,
-      "seller": "Choice Oficial",
-      "category": "Moda"
-    },
-    {
       "id": "58209495815",
       "title": "Lanterna Decorativa Lampião de Led Luminária Dourado Enfeite Decoração Vela",
       "price": 21.9,
@@ -1282,6 +1282,20 @@
       "rating": 4.6,
       "salesCount": 1084,
       "seller": "TRADENO ECOMERCE",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "58255159172",
+      "title": "Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com Estojo Recarregável",
+      "price": 20.47,
+      "originalPrice": 52.49,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mltkawis4qo439",
+      "url": "https://s.shopee.com.br/6Am3d5jAwy",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 10175,
+      "seller": "YYYNN",
       "category": "Eletrônicos"
     },
     {
@@ -1339,6 +1353,20 @@
       "salesCount": 3766,
       "seller": "ANJGG Brazil",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "22398906461",
+      "title": "Kit Pancake Branco + Batom  Preto Halloween Maquiagem Artística Bruxa Festa Fantasia Colormake",
+      "price": 19.98,
+      "originalPrice": 51.23,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mshcold93shxfc",
+      "url": "https://s.shopee.com.br/2VsmUFEq3H",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1059,
+      "seller": "Loja do Abençoado F",
+      "category": "Beleza"
     },
     {
       "id": "18499853587",
@@ -1729,6 +1757,19 @@
       "category": "Beleza"
     },
     {
+      "id": "48254895784",
+      "title": "Brinquedo Porco Saltitante para Cachorros Mordedor com Som para Cães Pequenos Teddy e Bichon",
+      "price": 62.85,
+      "originalPrice": 125.7,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262m-mjmpd53ut05d24",
+      "url": "https://s.shopee.com.br/40haLs1Sc0",
+      "rating": 5,
+      "salesCount": 50,
+      "seller": "Suprimentos para Animais MG.br",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "23493398563",
       "title": "KIT 50 UN ESPELHO ACRILICO AUTOCOLANTE  DECORATIVO ADS REDONDO VÁRIOS TAMANHOS 1CM A 6,9CM ACHADINHOS SHOPEE",
       "price": 22.16,
@@ -1868,20 +1909,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "22394836346",
-      "title": "Arranhador de Parede para Gatos | Sisal Natural 6mm | Brinquedo Anti Estresse | MDF Reforçado | Ideal para Apartamento",
-      "price": 29.99,
-      "originalPrice": 53.55,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mtjpi5o44nibed",
-      "url": "https://s.shopee.com.br/1BNOtjz3kU",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1726,
-      "seller": "Chérí Pet",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "10398027894",
       "title": "Espelho Redondo  Lapidado com LED Decorativo para Banheiro Lavabo Quarto Sala Vários Tamanhos",
       "price": 29,
@@ -1908,19 +1935,6 @@
       "rating": 4.8,
       "salesCount": 2023,
       "seller": "JIMMY.STORE",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "22594859564",
-      "title": "Fone de Ouvido Bluetooth Sem Fio TWS PRO 3 Com Microfone e Touch Para Celular Android e iOS",
-      "price": 28.9,
-      "originalPrice": 68.81,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259n-mtiycipsr30q1e",
-      "url": "https://s.shopee.com.br/2LZMM5umSR",
-      "rating": 4.6,
-      "salesCount": 3403,
-      "seller": "Loja Gudeltec",
       "category": "Eletrônicos"
     },
     {
@@ -1977,6 +1991,20 @@
       "rating": 4.7,
       "salesCount": 2356,
       "seller": "LUNANA Shop",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "23198032344",
+      "title": "Kit Protetor de Cabo Transparente Cabo de carregamento e capas de carregador compatível 1 4m durável Ultra Resistente",
+      "price": 18.49,
+      "originalPrice": 34.89,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7s31cr2daxg46",
+      "url": "https://s.shopee.com.br/1qd5ltMydE",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 399,
+      "seller": "Adamantium BR",
       "category": "Eletrônicos"
     },
     {
@@ -2062,19 +2090,6 @@
       "category": "Ferramentas"
     },
     {
-      "id": "43828181509",
-      "title": "Rampa Casa de Gato Toca Para Gatos Arranhador Brinquedo Playground MDF Carpete 30x47x30cm",
-      "price": 29.85,
-      "originalPrice": 49.75,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjppm99xbuh244",
-      "url": "https://s.shopee.com.br/3LRtTlKniX",
-      "rating": 4.6,
-      "salesCount": 1815,
-      "seller": "ACB UTILIDADES",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "22898395702",
       "title": "Luminaria Meia Lua Estetica Mesa 3 Tons Ajustavel Salao Beleza Limpeza De Pele",
       "price": 229.99,
@@ -2140,8 +2155,7 @@
       "rating": 4.9,
       "salesCount": 6923,
       "seller": "ELITE SHOES ",
-      "category": "Moda",
-      "hot": true
+      "category": "Moda"
     },
     {
       "id": "52858085838",
@@ -2534,19 +2548,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "58253767614",
-      "title": "Arranhador Gato Rampa Anti Estresse Casinha Brinquedo Tóca 30x47cm",
-      "price": 29.9,
-      "originalPrice": 49.83,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjppm99xbuh244",
-      "url": "https://s.shopee.com.br/30p359M4OR",
-      "rating": 4.7,
-      "salesCount": 1573,
-      "seller": "ACB_Home",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "53611255903",
       "title": "Espelho Para Quarto Banheiro Grande De Parede Adnet 60cm Couro Sala Hall Entrada Decorativo Com Alça",
       "price": 30.79,
@@ -2933,6 +2934,48 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "21797639166",
+      "title": "ANA1108 Kit - 600 Escovinhas + 600 Microbrush + 600 Aplicador de Batom Alongamento Cilios",
+      "price": 69.32,
+      "originalPrice": 198.06,
+      "discountPercent": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdn-lsmpvvrbz9wrb3",
+      "url": "https://s.shopee.com.br/BUrhxNimj",
+      "rating": 4.9,
+      "salesCount": 1398,
+      "official": true,
+      "seller": "ANA 1108  Loja Oficial",
+      "category": "Beleza"
+    },
+    {
+      "id": "28130363589",
+      "title": "Presilhas de Cabelo Estrelas Coloridas para Meninas – 50 Unidades de Acessórios de Cabelo Fashion para Franjas Laterais",
+      "price": 18.21,
+      "originalPrice": 29.85,
+      "discountPercent": 39,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qp-mp4m8rz0nq4hd7",
+      "url": "https://s.shopee.com.br/2qVcxjAESl",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 4346,
+      "seller": "Choice Oficial",
+      "category": "Beleza"
+    },
+    {
+      "id": "20398021296",
+      "title": "Gato Arranhador Parede Sisal Brinquedo Pet Poste",
+      "price": 29.9,
+      "originalPrice": 53.39,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbkc-m5u0tfyujydccc",
+      "url": "https://s.shopee.com.br/4LKQkU0Bw6",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 170,
+      "seller": "Terra On",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "58267735345",
       "title": "Porta Temperos Giratório 12/9/6 Potes Vidro Tampa Dosadora Condimentos Profissional",
       "price": 29.99,
@@ -3124,6 +3167,20 @@
       "salesCount": 1354,
       "seller": "GreenStore",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "22491618254",
+      "title": "Fone Bluetooth Sem Fio De Ouvido  P9 TWS Macaron Headphone Fone de Ouvido  Envio Imediato",
+      "price": 22.99,
+      "originalPrice": 58.95,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lomqjeb9ouk2cc",
+      "url": "https://s.shopee.com.br/9APgQTpnKH",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 4321,
+      "seller": "lojamegas",
+      "category": "Eletrônicos"
     },
     {
       "id": "58260720450",
@@ -3421,19 +3478,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58251006635",
-      "title": "KIT 40 unidades de xuxinhas com Detalhes de Silicone Laço/Coroa/Unicornio/muitos Modelo Aleatorio",
-      "price": 20.98,
-      "originalPrice": 49.95,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mszsj0tzug3p1b",
-      "url": "https://s.shopee.com.br/9APgQRUfkW",
-      "rating": 4.9,
-      "salesCount": 5087,
-      "seller": "RicH !",
-      "category": "Beleza"
-    },
-    {
       "id": "58212657626",
       "title": "Garrafa Térmica Inox 900ml com Alça, Tampa Antivazamento, para Academia, Trabalho, Viagem e Bebidas Quentes e Frias",
       "price": 33.2,
@@ -3445,6 +3489,20 @@
       "salesCount": 2231,
       "seller": "payq1nh_nu",
       "category": "Cozinha"
+    },
+    {
+      "id": "40479113098",
+      "title": "Capa De Telefone De Silicone Fosco De Cor Sólida Compatível Com iPhone 11 XR XSMax TO 17 Pro Max Shell modificada",
+      "price": 16.99,
+      "originalPrice": 40.45,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlj7otc7bf28e8",
+      "url": "https://s.shopee.com.br/2LZMMoL4cP",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 186,
+      "seller": "Monin.br",
+      "category": "Eletrônicos"
     },
     {
       "id": "22294689106",
@@ -3777,6 +3835,20 @@
       "category": "Cozinha"
     },
     {
+      "id": "26585706315",
+      "title": "360 Capa Completa Para Samsung Galaxy A17 A37 A57 A06 A16 A26 A36 A56 A05 A15 A25 A35 A55 A14 A24 A34 A54 A13 A23 A53 Ca",
+      "price": 17.57,
+      "originalPrice": 31.95,
+      "discountPercent": 45,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfhk-m98j5cbkhedx3d",
+      "url": "https://s.shopee.com.br/qkYa3QmfG",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 172,
+      "seller": "Strapwatchband.br",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "53750943172",
       "title": "Jogo De Panelas 10 Peças Antiaderente Conjunto Frigideira Fervedor tampa de vidro Cor Coffee Cappuccino Kit Talheres",
       "price": 199.99,
@@ -3887,19 +3959,6 @@
       "salesCount": 1533,
       "seller": "Gabi Pires Enxovais",
       "category": "Casa e organização"
-    },
-    {
-      "id": "26592557125",
-      "title": "Bola Voadora Mágica Interativa Disco Voador Brinquedo para Cachorro Gato e Criança Pet Prime",
-      "price": 24.9,
-      "originalPrice": 40.16,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-msvpg5xgzsp208",
-      "url": "https://s.shopee.com.br/50a7SmkSy7",
-      "rating": 4.8,
-      "salesCount": 2473,
-      "seller": "Pet Prime Br",
-      "category": "Pet e bebê"
     },
     {
       "id": "7360221057",
@@ -4042,17 +4101,30 @@
       "category": "Casa e organização"
     },
     {
-      "id": "23693858343",
-      "title": "Kit 10/6 Brinquedos Mordedores Cachorro Filhote Anti-stress Pet Ranger os dentes Limpeza da boca",
-      "price": 23.91,
-      "originalPrice": 36.78,
-      "discountPercent": 35,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7vv7n19x28k12",
-      "url": "https://s.shopee.com.br/3B8THSLR3S",
+      "id": "9412752689",
+      "title": "Cama Pet Tamanho 80x60cm Para Cachorro de porte Médio Com  Brinquedos que são Ossinho e Almofadinha",
+      "price": 62.1,
+      "originalPrice": 124.2,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mspy9i07h6v813",
+      "url": "https://s.shopee.com.br/4B10YB0pH3",
       "rating": 4.9,
-      "salesCount": 1726,
-      "seller": "OtimoLegal",
+      "salesCount": 151,
+      "seller": "Ana Pet Ibitinga",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "47351297746",
+      "title": "17 Segundos Para Janelas Grandes Avançadas Case Celular Capinha Capa Para IPhone 18 17 16 15 14 13 Pro Max  17AIR",
+      "price": 25.99,
+      "originalPrice": 51.98,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821f6-mh083yasxwqzb9",
+      "url": "https://s.shopee.com.br/2BFwAVLhxO",
+      "rating": 4.8,
+      "salesCount": 372,
+      "seller": "yingge1.br",
+      "category": "Eletrônicos"
     },
     {
       "id": "45754796089",
@@ -4079,76 +4151,6 @@
       "salesCount": 916,
       "seller": "KEEP SHOP",
       "category": "Beleza"
-    },
-    {
-      "id": "18097800819",
-      "title": "Jogo De Panelas Antiaderente 10 Peças Bianco Conjunto Kit Teflon  Com Tampa De Vidro Temperado Cozinha",
-      "price": 205.6,
-      "originalPrice": 311.52,
-      "discountPercent": 34,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mou1drs2b2m810",
-      "url": "https://s.shopee.com.br/9fLx1PIglb",
-      "rating": 4.8,
-      "salesCount": 532,
-      "official": true,
-      "seller": "Essenza Di Chef",
-      "category": "Cozinha"
-    },
-    {
-      "id": "23394513975",
-      "title": "caneca Garrafa Térmica Vacuum Bottle Inox 500ml +  Xícaras Bebidas Fria ou Quente",
-      "price": 26.99,
-      "originalPrice": 48.2,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mqxgs36zuv44ce",
-      "url": "https://s.shopee.com.br/W7i6YViy3",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1976,
-      "seller": "GL.COMERCIO",
-      "category": "Cozinha"
-    },
-    {
-      "id": "23398336644",
-      "title": "Tenis Esportivo Masculino Feminino Academia Treino Leve",
-      "price": 47.99,
-      "originalPrice": 78.67,
-      "discountPercent": 39,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7m8vni9x7roa2",
-      "url": "https://s.shopee.com.br/5fpoG4G3GO",
-      "rating": 4.9,
-      "salesCount": 2486,
-      "official": true,
-      "seller": "Loja Light",
-      "category": "Moda"
-    },
-    {
-      "id": "23992857268",
-      "title": "Cadeira Gamer Premium Escritório Giratória 360º Reclinável Apoio Para Pés E Encosto Ajustável Couro",
-      "price": 390.79,
-      "originalPrice": 697.84,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mlgobompkzyf05",
-      "url": "https://s.shopee.com.br/4B10TJQA3M",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 539,
-      "official": true,
-      "seller": "Led Tools Oficial",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "17512767444",
-      "title": "Kit 5 Pomadas Preventivas para Assaduras 45g Turminha da Bagunça Pomada Bebê",
-      "price": 27.92,
-      "originalPrice": 45.03,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mlp21ce1lnnq1c",
-      "url": "https://s.shopee.com.br/7Aec2pRs4m",
-      "rating": 4.9,
-      "salesCount": 4863,
-      "seller": "ATACADO DO LENÇO UMEDECIDO",
-      "category": "Pet e bebê"
     }
   ]
 }
