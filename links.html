@@ -4,28 +4,31 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Achadinhos · Links</title>
-<meta name="description" content="Ofertas da Shopee, canal no Telegram e loja. Links do Achadinhos.">
+<meta name="description" content="Ofertas da Shopee selecionadas todo dia. Loja Achadinhos e canal no Telegram.">
 <link rel="icon" type="image/png" href="favicon.png">
 <link rel="apple-touch-icon" href="icon-512.png">
 <meta property="og:title" content="Achadinhos · Links">
 <meta property="og:image" content="https://achadinhosshoppeab-creator.github.io/logo.png">
 <style>
-  :root { --bg: #fff6f2; --card: #ffffff; --text: #1f1f1f; --muted: #6b6b6b; --brand: #ee4d2d; --line: #f1d9d0; }
-  @media (prefers-color-scheme: dark) { :root { --bg: #161210; --card: #221b18; --text: #f3ece8; --muted: #b3a79f; --line: #3a2d27; } }
+  :root { --brand: #ee4d2d; --brand-dark: #c93c20; --bg: #ee4d2d; --text: #ffffff; --card: #ffffff; --card-text: #1f1f1f; --muted: rgba(255,255,255,.85); }
   * { box-sizing: border-box; }
-  body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
-  main { max-width: 420px; margin: 0 auto; padding: 40px 16px 48px; text-align: center; }
-  .avatar { width: 96px; height: 96px; border-radius: 50%; display: block; margin: 0 auto 12px; }
-  h1 { margin: 0; font-size: 24px; color: var(--brand); }
-  .tag { margin: 6px 0 24px; color: var(--muted); font-size: 14px; }
-  .links { display: flex; flex-direction: column; gap: 12px; }
-  .link { display: flex; align-items: center; gap: 12px; background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 14px 16px; text-decoration: none; color: inherit; font-weight: 700; font-size: 16px; }
-  .link:active { transform: scale(.98); }
-  .link.primary { background: var(--brand); border-color: var(--brand); color: #fff; }
-  .link .ico { font-size: 22px; width: 28px; text-align: center; }
-  .link .sub { display: block; font-weight: 500; font-size: 12px; opacity: .8; }
+  body { margin: 0; min-height: 100vh; background: var(--bg); background-image: radial-gradient(circle at 50% -10%, #ff7a5c 0, var(--brand) 55%); color: var(--text); font: 16px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  main { max-width: 420px; margin: 0 auto; padding: 40px 20px 48px; text-align: center; }
+  .avatar { width: 96px; height: 96px; border-radius: 50%; display: block; margin: 0 auto 12px; border: 4px solid #fff; box-shadow: 0 6px 20px rgba(0,0,0,.2); }
+  h1 { margin: 0; font-size: 28px; letter-spacing: .3px; }
+  .tag { margin: 6px 0 28px; color: var(--muted); font-size: 15px; }
+  .main { display: block; background: var(--card); color: var(--card-text); text-decoration: none; border-radius: 18px; padding: 22px 18px; box-shadow: 0 10px 30px rgba(0,0,0,.25); animation: pulse 2.2s ease-in-out infinite; }
+  .main .big { display: block; font-size: 22px; font-weight: 900; color: var(--brand); }
+  .main .sub { display: block; font-size: 14px; color: #6b6b6b; margin-top: 4px; }
+  .main .go { display: inline-block; margin-top: 12px; background: var(--brand); color: #fff; font-weight: 800; padding: 10px 22px; border-radius: 999px; font-size: 15px; }
+  .main:active { transform: scale(.98); }
+  @keyframes pulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.025); } }
+  .others { display: flex; flex-direction: column; gap: 10px; margin-top: 22px; }
+  .link { display: flex; align-items: center; gap: 12px; background: rgba(255,255,255,.14); border: 1px solid rgba(255,255,255,.35); color: #fff; border-radius: 14px; padding: 12px 14px; text-decoration: none; font-weight: 700; font-size: 15px; }
+  .link .ico { font-size: 20px; width: 26px; text-align: center; }
+  .link .sub { display: block; font-weight: 500; font-size: 12px; opacity: .85; }
   .link span.txt { text-align: left; }
-  footer { margin-top: 28px; color: var(--muted); font-size: 12px; }
+  footer { margin-top: 30px; color: var(--muted); font-size: 12px; }
   footer a { color: inherit; }
 </style>
 </head>
@@ -34,11 +37,18 @@
   <img class="avatar" src="icon-512.png" alt="">
   <h1>Achadinhos</h1>
   <p class="tag">Ofertas da Shopee selecionadas todo dia</p>
-  <div class="links">
-    <a class="link primary" href="index.html"><span class="ico">🔥</span><span class="txt">Ofertas de hoje<span class="sub">Atualizadas automaticamente</span></span></a>
+
+  <a class="main" href="index.html">
+    <span class="big">🔥 Ver as ofertas de hoje</span>
+    <span class="sub">Centenas de achadinhos com desconto, atualizados agora</span>
+    <span class="go">Entrar na loja</span>
+  </a>
+
+  <div class="others">
     <a class="link" href="https://t.me/achadinhos_divulga" target="_blank" rel="noopener"><span class="ico">✈️</span><span class="txt">Canal no Telegram<span class="sub">Receba os achadinhos primeiro</span></span></a>
-    <a class="link" href="https://s.shopee.com.br/6VOv8nOxGY" target="_blank" rel="noopener sponsored"><span class="ico">🛍️</span><span class="txt">Loja Shopee<span class="sub">Cupons e frete grátis</span></span></a>
+    <a class="link" href="https://s.shopee.com.br/6VOv8nOxGY" target="_blank" rel="noopener sponsored"><span class="ico">🛍️</span><span class="txt">Shopee<span class="sub">Cupons e frete grátis</span></span></a>
   </div>
+
   <footer>
     <p><a href="privacidade.html">Privacidade</a> · <a href="termos.html">Termos</a></p>
   </footer>
