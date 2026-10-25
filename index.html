@@ -24,20 +24,20 @@
   body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
   a { color: inherit; }
   header { position: sticky; top: 0; z-index: 5; background: var(--bg); border-bottom: 1px solid var(--line); }
-  .bar { max-width: 960px; margin: 0 auto; padding: 12px 16px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+  .bar { max-width: 960px; margin: 0 auto; padding: 12px 16px 8px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
   .brand { display: flex; align-items: center; gap: 8px; text-decoration: none; font-weight: 800; font-size: 20px; color: var(--brand); }
   .brand img { width: 32px; height: 32px; border-radius: 8px; }
-  .search { flex: 1 1 200px; display: flex; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: 999px; padding: 6px 12px; gap: 8px; }
+  .search { flex: 1 1 180px; display: flex; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: 999px; padding: 6px 12px; gap: 8px; }
   .search input { flex: 1; border: 0; background: transparent; color: inherit; font: inherit; outline: none; min-width: 0; }
   .search input::placeholder { color: var(--muted); }
-  select { background: var(--card); color: inherit; border: 1px solid var(--line); border-radius: 999px; padding: 7px 10px; font: inherit; font-size: 14px; }
+  select { background: var(--card); color: inherit; border: 1px solid var(--line); border-radius: 999px; padding: 7px 10px; font: inherit; font-size: 14px; max-width: 100%; }
   .tg { display: inline-flex; align-items: center; gap: 6px; background: #2aabee; color: #fff; text-decoration: none; font-weight: 700; font-size: 14px; padding: 7px 12px; border-radius: 999px; white-space: nowrap; }
-  main { max-width: 960px; margin: 0 auto; padding: 12px 16px 40px; }
-  .meta { display: flex; justify-content: space-between; align-items: center; gap: 8px; color: var(--muted); font-size: 13px; margin: 4px 0 12px; flex-wrap: wrap; }
-  .chips { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 6px; margin-bottom: 10px; scrollbar-width: none; }
+  .chips { max-width: 960px; margin: 0 auto; display: flex; gap: 8px; overflow-x: auto; padding: 0 16px 10px; scrollbar-width: none; }
   .chips::-webkit-scrollbar { display: none; }
-  .chip { flex: 0 0 auto; background: var(--chip); color: var(--brand); border: 1px solid transparent; border-radius: 999px; padding: 6px 12px; font-size: 13px; font-weight: 700; cursor: pointer; }
+  .chip { flex: 0 0 auto; background: var(--chip); color: var(--brand); border: 1px solid transparent; border-radius: 999px; padding: 6px 12px; font: inherit; font-size: 13px; font-weight: 700; cursor: pointer; }
   .chip.on { background: var(--brand); color: #fff; }
+  main { max-width: 960px; margin: 0 auto; padding: 12px 16px 40px; }
+  .meta { display: flex; justify-content: space-between; align-items: center; gap: 8px; color: var(--muted); font-size: 13px; margin: 0 0 12px; flex-wrap: wrap; }
   .grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
   @media (min-width: 560px) { .grid { grid-template-columns: repeat(3, 1fr); } }
   @media (min-width: 800px) { .grid { grid-template-columns: repeat(4, 1fr); } }
@@ -47,6 +47,7 @@
   .badge { position: absolute; top: 8px; left: 8px; background: var(--brand); color: #fff; font-weight: 800; font-size: 13px; padding: 4px 8px; border-radius: 999px; }
   .mall { position: absolute; top: 8px; right: 8px; background: #1f1f1f; color: #fff; font-weight: 700; font-size: 11px; padding: 3px 7px; border-radius: 999px; }
   .body { padding: 10px 10px 12px; display: flex; flex-direction: column; gap: 4px; flex: 1; }
+  .cat { color: var(--brand); font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .3px; min-height: 1.2em; }
   .title { font-size: 13px; line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; min-height: 2.6em; }
   .proof { color: var(--muted); font-size: 12px; display: flex; gap: 6px; align-items: center; min-height: 1.2em; }
   .proof .star { color: var(--star); }
@@ -72,6 +73,13 @@
   <div class="bar">
     <a class="brand" href="./"><img src="icon-512.png" alt="">Achadinhos</a>
     <label class="search">🔍<input id="q" type="search" placeholder="Buscar produto..." autocomplete="off"></label>
+    <select id="price" aria-label="Faixa de preço">
+      <option value="0-">Qualquer preço</option>
+      <option value="0-30">Até R$ 30</option>
+      <option value="30-60">R$ 30 a 60</option>
+      <option value="60-100">R$ 60 a 100</option>
+      <option value="100-">Acima de R$ 100</option>
+    </select>
     <select id="sort" aria-label="Ordenar">
       <option value="discount">Maior desconto</option>
       <option value="price">Menor preço</option>
@@ -80,9 +88,9 @@
     </select>
     <a class="tg" href="https://t.me/achadinhos_divulga" target="_blank" rel="noopener">✈️ Telegram</a>
   </div>
+  <div class="chips" id="chips"></div>
 </header>
 <main>
-  <div class="chips" id="chips"></div>
   <div class="meta"><span id="count"></span><span id="updated"></span></div>
   <div class="grid skeleton" id="grid"><a class="card"></a><a class="card"></a><a class="card"></a><a class="card"></a></div>
   <p class="empty" id="empty" hidden>Nenhuma oferta encontrada.</p>
@@ -101,17 +109,23 @@
   const brl = new Intl.NumberFormat("pt-BR", { style: "currency", currency: "BRL" });
   const fmtSales = (n) => n >= 1000 ? (n / 1000).toFixed(n >= 10000 ? 0 : 1).replace(".", ",") + " mil" : String(n);
   const norm = (s) => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
-  const PRICE_CHIPS = [["Todos", 0, Infinity], ["Até R$ 30", 0, 30], ["R$ 30 a 60", 30, 60], ["R$ 60 a 100", 60, 100], ["Acima de R$ 100", 100, Infinity]];
   const $ = (id) => document.getElementById(id);
-  let all = [], page = 1, chip = 0;
+  let all = [], page = 1, cat = "";
 
-  const state = () => ({ q: norm($("q").value.trim()), sort: $("sort").value });
   function filtered() {
-    const { q, sort } = state();
-    const [, min, max] = PRICE_CHIPS[chip];
-    let list = all.filter((o) => o.price >= min && o.price < max && (!q || norm(o.title).includes(q)));
-    const by = { discount: (a, b) => b.discountPercent - a.discountPercent, price: (a, b) => a.price - b.price, sales: (a, b) => (b.salesCount || 0) - (a.salesCount || 0), rating: (a, b) => (b.rating || 0) - (a.rating || 0) || (b.salesCount || 0) - (a.salesCount || 0) };
-    return list.sort(by[sort]);
+    const q = norm($("q").value.trim());
+    const [min, max] = $("price").value.split("-").map((v) => v === "" ? null : Number(v));
+    let list = all.filter((o) =>
+      (!cat || o.category === cat) &&
+      (min === null || o.price >= min) && (max === null || o.price < max) &&
+      (!q || norm(o.title).includes(q)));
+    const by = {
+      discount: (a, b) => b.discountPercent - a.discountPercent,
+      price: (a, b) => a.price - b.price,
+      sales: (a, b) => (b.salesCount || 0) - (a.salesCount || 0),
+      rating: (a, b) => (b.rating || 0) - (a.rating || 0) || (b.salesCount || 0) - (a.salesCount || 0),
+    };
+    return list.sort(by[$("sort").value]);
   }
   function card(o) {
     const a = document.createElement("a");
@@ -120,10 +134,11 @@
     a.innerHTML =
       `<span class="badge">-${Math.round(o.discountPercent)}%</span>` + (o.official ? `<span class="mall">Loja oficial</span>` : "") +
       `<img loading="lazy" src="${o.imageUrl || ""}" alt="">` +
-      `<div class="body"><div class="title"></div><div class="proof">${proof}</div>` +
+      `<div class="body"><div class="cat"></div><div class="title"></div><div class="proof">${proof}</div>` +
       `<div class="old">${o.originalPrice ? "de " + brl.format(o.originalPrice) : ""}</div>` +
       `<div class="price">${o.hasVariantPrices ? "<small>a partir de</small> " : ""}${brl.format(o.price)}</div>` +
       `<div class="btn">Ver na Shopee</div></div>`;
+    a.querySelector(".cat").textContent = o.category || "";
     a.querySelector(".title").textContent = o.title;
     return a;
   }
@@ -146,10 +161,19 @@
     }
     if (scroll) window.scrollTo({ top: 0 });
   }
-  const chips = $("chips");
-  PRICE_CHIPS.forEach(([label], i) => { const b = document.createElement("button"); b.className = "chip" + (i === chip ? " on" : ""); b.textContent = label; b.onclick = () => { chip = i; page = 1; [...chips.children].forEach((c, j) => c.classList.toggle("on", j === i)); render(); }; chips.appendChild(b); });
-  $("q").addEventListener("input", () => { page = 1; render(); });
-  $("sort").addEventListener("change", () => { page = 1; render(); });
+  function buildChips() {
+    const counts = {};
+    all.forEach((o) => { if (o.category) counts[o.category] = (counts[o.category] || 0) + 1; });
+    const names = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
+    const chips = $("chips"); chips.innerHTML = "";
+    [["", "Todas"], ...names.map((n) => [n, n])].forEach(([value, label]) => {
+      const b = document.createElement("button"); b.className = "chip" + (value === cat ? " on" : "");
+      b.textContent = value ? `${label} (${counts[value]})` : label;
+      b.onclick = () => { cat = value; page = 1; [...chips.children].forEach((c) => c.classList.toggle("on", c === b)); render(); };
+      chips.appendChild(b);
+    });
+  }
+  ["q", "price", "sort"].forEach((id) => $(id).addEventListener(id === "q" ? "input" : "change", () => { page = 1; render(); }));
 
   fetch("data/offers.json?t=" + Math.floor(Date.now() / 60000))
     .then((r) => r.json())
@@ -159,6 +183,7 @@
         const d = new Date(data.updatedAt);
         $("updated").textContent = "Atualizado " + d.toLocaleString("pt-BR", { timeZone: "America/Sao_Paulo", day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" });
       }
+      buildChips();
       render();
     })
     .catch(() => { $("grid").classList.remove("skeleton"); $("grid").innerHTML = ""; $("empty").hidden = false; });
