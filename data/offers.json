@@ -1,49 +1,6 @@
 {
-  "updatedAt": "2026-10-25T23:23:47.453Z",
+  "updatedAt": "2026-10-25T23:48:36.447Z",
   "offers": [
-    {
-      "id": "23593332489",
-      "title": "Espelho Lopazzi Base Reta Corpo Inteiro 170x70 Com Suporte de Chão Moldura Alumínio Quarto Sala Decorativo",
-      "price": 419.9,
-      "originalPrice": 807.5,
-      "discountPercent": 48,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7taq0e5d7ys2c",
-      "url": "https://s.shopee.com.br/2BFw5cyN5G",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 496,
-      "official": true,
-      "seller": "Loja Lopazzi",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "22499056874",
-      "title": "Smartwatch MINI 38MM PRO Com monitor De Frequência Cardíaca Do Computador São Paulo pronta entrega",
-      "price": 53.99,
-      "originalPrice": 199.96,
-      "discountPercent": 73,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg4sqr0e5nggcd",
-      "url": "https://s.shopee.com.br/3VlJg52AB2",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1750,
-      "seller": "Os produtos preferidos",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "18799900509",
-      "title": "T900 Ultra Smartwatch Relógio Inteligente Prova Bluetooth Monitoramento De Saúde Exercício Contagem NFC",
-      "price": 39.9,
-      "originalPrice": 147.78,
-      "discountPercent": 73,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfffhm1n60p1be",
-      "url": "https://s.shopee.com.br/5fpoG3tumh",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 891,
-      "seller": "Relógios ULTRA",
-      "category": "Eletrônicos"
-    },
     {
       "id": "22094238842",
       "title": "BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL",
@@ -3034,7 +2991,6 @@
       "discountPercent": 43,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zug-mkwz5xpqeio1dd",
       "url": "https://s.shopee.com.br/AAIDcHDjcZ",
-      "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 3903,
       "seller": "LJLP Online",
@@ -4158,6 +4114,49 @@
       "salesCount": 17229,
       "seller": "Value Choice",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "40664949220",
+      "title": "TWS X55 Fones De Ouvido Sono Sem Fio Redução Ruído Alta Fidelidade Microfone Estéreo À Prova Dwaterproof Água Longo Play",
+      "price": 21.04,
+      "originalPrice": 28.05,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7rdxu-mdae0vb9hdbr3f",
+      "url": "https://s.shopee.com.br/1Lgp65JcDa",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 7419,
+      "seller": "Choice Oficial",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "41781797063",
+      "title": "ESPELHO DE CORAÇÃO PARA BOTTON MAQUINA CHINESA ACHADINHOS DA SHOPEE",
+      "price": 23.98,
+      "originalPrice": 36.89,
+      "discountPercent": 35,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820l7-mqx3xvvvg3d1d7",
+      "url": "https://s.shopee.com.br/6q1leCKkDQ",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 90,
+      "seller": "YELLOW LASER 3",
+      "category": "Presentes e papelaria"
+    },
+    {
+      "id": "21299607301",
+      "title": "Jogo De Panelas 8 Peças Teflon Antiaderente Frigideira Caçarola Fervedor Talheres Tampa De Vidro",
+      "price": 154.69,
+      "originalPrice": 220.99,
+      "discountPercent": 30,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6dwy6oqra5s4d",
+      "url": "https://s.shopee.com.br/9V2Wp6JK6W",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 720,
+      "official": true,
+      "seller": "ARARAS ONLINE",
+      "category": "Cozinha"
     }
   ]
 }
