@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Achadinhos</title>
-<meta name="description" content="As melhores ofertas do dia na Shopee, selecionadas automaticamente. Links de afiliado.">
+<meta name="description" content="As melhores ofertas do dia na Shopee, selecionadas automaticamente.">
 <meta name="robots" content="index,follow">
 <link rel="icon" type="image/png" href="favicon.png">
 <link rel="apple-touch-icon" href="icon-512.png">
@@ -64,6 +64,13 @@
   .cta { margin-top: 28px; background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 16px; text-align: center; }
   .cta p { margin: 0 0 10px; }
   footer { max-width: 960px; margin: 0 auto; padding: 16px; color: var(--muted); font-size: 12px; text-align: center; border-top: 1px solid var(--line); }
+  .hot { margin: 0 0 16px; }
+  .hot h2 { margin: 0 0 8px; font-size: 16px; display: flex; align-items: center; gap: 6px; }
+  .hot .row { display: flex; gap: 12px; overflow-x: auto; padding-bottom: 6px; scroll-snap-type: x mandatory; scrollbar-width: none; }
+  .hot .row::-webkit-scrollbar { display: none; }
+  .hot .card { flex: 0 0 150px; scroll-snap-align: start; border-color: var(--brand); box-shadow: 0 0 0 1px var(--brand); }
+  @media (min-width: 560px) { .hot .card { flex-basis: 170px; } }
+  .hot .fire { position: absolute; top: 8px; right: 8px; font-size: 18px; }
   .skeleton .card { min-height: 280px; background: linear-gradient(90deg, var(--card) 25%, var(--chip) 50%, var(--card) 75%); background-size: 200% 100%; animation: sh 1.2s infinite; }
   @keyframes sh { to { background-position: -200% 0; } }
 </style>
@@ -91,6 +98,10 @@
   <div class="chips" id="chips"></div>
 </header>
 <main>
+  <section class="hot" id="hot" hidden>
+    <h2>🔥 Pegando fogo</h2>
+    <div class="row" id="hotrow"></div>
+  </section>
   <div class="meta"><span id="count"></span><span id="updated"></span></div>
   <div class="grid skeleton" id="grid"><a class="card"></a><a class="card"></a><a class="card"></a><a class="card"></a></div>
   <p class="empty" id="empty" hidden>Nenhuma oferta encontrada.</p>
@@ -101,7 +112,7 @@
   </div>
 </main>
 <footer>
-  <p>Os links desta página são de afiliado: podemos receber comissão pelas compras, sem custo extra para você. Preços e estoque são definidos pela loja e podem mudar a qualquer momento.</p>
+  <p>Preços e estoque são definidos pela loja e podem mudar a qualquer momento.</p>
   <p><a href="privacidade.html">Política de privacidade</a> · <a href="termos.html">Termos de uso</a> · <a href="links.html">Links</a></p>
 </footer>
 <script>
@@ -132,7 +143,7 @@
     a.className = "card"; a.href = o.url; a.target = "_blank"; a.rel = "noopener sponsored";
     const proof = [o.rating ? `<span class="star">★</span>${o.rating.toFixed(1).replace(".", ",")}` : "", o.salesCount ? `${fmtSales(o.salesCount)} vendidos` : ""].filter(Boolean).join(" · ");
     a.innerHTML =
-      `<span class="badge">-${Math.round(o.discountPercent)}%</span>` + (o.official ? `<span class="mall">Loja oficial</span>` : "") +
+      `<span class="badge">-${Math.round(o.discountPercent)}%</span>` + (o.official && !o.hot ? `<span class="mall">Loja oficial</span>` : "") +
       `<img loading="lazy" src="${o.imageUrl || ""}" alt="">` +
       `<div class="body"><div class="cat"></div><div class="title"></div><div class="proof">${proof}</div>` +
       `<div class="old">${o.originalPrice ? "de " + brl.format(o.originalPrice) : ""}</div>` +
@@ -142,7 +153,17 @@
     a.querySelector(".title").textContent = o.title;
     return a;
   }
+  function renderHot() {
+    const q = $("q").value.trim();
+    const hot = all.filter((o) => o.hot);
+    const show = hot.length > 0 && !q && !cat && $("price").value === "0-";
+    $("hot").hidden = !show;
+    if (!show) return;
+    const row = $("hotrow"); row.innerHTML = "";
+    hot.forEach((o) => { const c = card(o); c.insertAdjacentHTML("beforeend", '<span class="fire">🔥</span>'); row.appendChild(c); });
+  }
   function render(scroll) {
+    renderHot();
     const list = filtered();
     const pages = Math.max(1, Math.ceil(list.length / PER_PAGE));
     page = Math.min(Math.max(1, page), pages);
