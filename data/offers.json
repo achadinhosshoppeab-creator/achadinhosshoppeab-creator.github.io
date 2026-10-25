@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-10-25T21:12:03.341Z",
+  "updatedAt": "2026-10-25T21:20:30.680Z",
   "offers": [
-    {
-      "id": "19651910894",
-      "title": "Luminária Lustre Pendente Abajur de Teto Quarto Sala Decoração Iluminação Decorativa",
-      "price": 79.8,
-      "originalPrice": 210,
-      "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259c-mudfuptr1zba61",
-      "url": "https://s.shopee.com.br/AAIDcHdzne",
-      "rating": 4.8,
-      "salesCount": 93,
-      "seller": "Haute Decor",
-      "category": "Presentes e papelaria"
-    },
     {
       "id": "23798128210",
       "title": "Torneira Inox  Prata/Preto Com Chuveiro Com Rotação De 360° Cozinha Luxo Parede Promoção",
@@ -140,19 +127,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "19297789278",
-      "title": "Coleira Guia 10 Metros para Cachorro Cães Longa Adestramento Unificada Várias estampas Basic Pet",
-      "price": 58.9,
-      "originalPrice": 151.03,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf1ezjdn4m4mff",
-      "url": "https://s.shopee.com.br/AAIDfwEE96",
-      "rating": 5,
-      "salesCount": 136,
-      "seller": "Bali Pet",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "23098686875",
       "title": "Abajur Recarregável Touch Luminária Retrátil em Aço com Luz de Led Branco Quente Ajustável-USB",
       "price": 29.99,
@@ -191,20 +165,6 @@
       "salesCount": 4601,
       "seller": "WM FASHION",
       "category": "Moda"
-    },
-    {
-      "id": "19899586753",
-      "title": "Fone de Ouvido Sem Fio Com Cancelamento De Ruído Bluetooth Pop-Up",
-      "price": 42.89,
-      "originalPrice": 194.95,
-      "discountPercent": 78,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rffm-m4f5wo6pi7mjaa",
-      "url": "https://s.shopee.com.br/qkYVALWER",
-      "rating": 4.8,
-      "salesCount": 6449,
-      "seller": "JX VERDE",
-      "category": "Eletrônicos",
-      "hot": true
     },
     {
       "id": "43981426348",
@@ -385,33 +345,6 @@
       "category": "Moda"
     },
     {
-      "id": "58252739941",
-      "title": "Coleira De Nylon Duplo Resistente Com Fecho Fivela 2 Pinos Para Cães De Médio E Grande Porte",
-      "price": 31.9,
-      "originalPrice": 106.33,
-      "discountPercent": 70,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262x-mj5htu861dds7f",
-      "url": "https://s.shopee.com.br/1BNOxOmUPX",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 92,
-      "seller": "Pet 90",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "58216502207",
-      "title": "Kit 2 Tapetes Comedouro Pet Antiderrapante Lavável | Tapete para Ração Cachorro e Gato | Base Emborrachada",
-      "price": 25,
-      "originalPrice": 50,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-ms2op6sv45jb81",
-      "url": "https://s.shopee.com.br/6q1lhoR3RZ",
-      "rating": 4.7,
-      "salesCount": 372,
-      "seller": "Casa e Amore",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "19046617590",
       "title": "Ampliadora Lente De Aumento Tela 3d Suporte Tablet Zoom Celular",
       "price": 16.99,
@@ -523,18 +456,18 @@
       "category": "Eletrônicos"
     },
     {
-      "id": "23494305181",
-      "title": "coleira para cachorro + plaquinha de identificação pet reforçada com trava  ajustável",
-      "price": 22.02,
-      "originalPrice": 34.95,
-      "discountPercent": 37,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mnn8k2kv51506a",
-      "url": "https://s.shopee.com.br/qkYYmnl5R",
+      "id": "58203749906",
+      "title": "2026 Novo Q71 Fones de ouvido Bluetooth sem fio OWS fones de ouvido esportivos com clipe",
+      "price": 42.8,
+      "originalPrice": 147.59,
+      "discountPercent": 71,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zub-mkkp8o2qrxfl50",
+      "url": "https://s.shopee.com.br/3g4jwXphkZ",
       "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 119,
-      "seller": "grulldog",
-      "category": "Pet e bebê"
+      "rating": 4.8,
+      "salesCount": 4366,
+      "seller": "LUNANA Shop",
+      "category": "Eletrônicos"
     },
     {
       "id": "46860175552",
@@ -746,6 +679,19 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "58206605624",
+      "title": "Peitoral Para Cachorro + Guia Nylon Conjunto Ajustável Passeio",
+      "price": 18.9,
+      "originalPrice": 27,
+      "discountPercent": 30,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-molm14xtl9fk0d",
+      "url": "https://s.shopee.com.br/9APgQVK7US",
+      "rating": 4.9,
+      "salesCount": 1136,
+      "seller": "container.pet",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "58211381206",
       "title": "Corretivo Líquido Under Eye 10 ML - Ruby Kisses",
       "price": 23.99,
@@ -799,6 +745,20 @@
       "official": true,
       "seller": "FX SEMIJOIAS",
       "category": "Moda"
+    },
+    {
+      "id": "23193474101",
+      "title": "Coleira colar de cordas trançadas ajustável com plaquinha de identificação para cachorro e gato",
+      "price": 15,
+      "originalPrice": 25,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1jeillccxqp82",
+      "url": "https://s.shopee.com.br/qkYVBpqOb",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 2042,
+      "seller": "Use_Pipo",
+      "category": "Pet e bebê"
     },
     {
       "id": "23994387054",
@@ -1256,6 +1216,20 @@
       "hot": true
     },
     {
+      "id": "52605012484",
+      "title": "Relógio De Quartzo Da Moda Feminina E Conjunto De Joias Com Pulseira De Couro Sem Caixa Pulso Elegante",
+      "price": 18.05,
+      "originalPrice": 82.05,
+      "discountPercent": 78,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82590-mrlbd6atm51k71",
+      "url": "https://s.shopee.com.br/9APgUevIrf",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 940,
+      "seller": "Choice Oficial",
+      "category": "Moda"
+    },
+    {
       "id": "58209495815",
       "title": "Lanterna Decorativa Lampião de Led Luminária Dourado Enfeite Decoração Vela",
       "price": 21.9,
@@ -1308,20 +1282,6 @@
       "rating": 4.6,
       "salesCount": 1084,
       "seller": "TRADENO ECOMERCE",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "58255159172",
-      "title": "Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com Estojo Recarregável",
-      "price": 20.47,
-      "originalPrice": 52.49,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mltkawis4qo439",
-      "url": "https://s.shopee.com.br/6Am3d5jAwy",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 10175,
-      "seller": "YYYNN",
       "category": "Eletrônicos"
     },
     {
@@ -1379,20 +1339,6 @@
       "salesCount": 3766,
       "seller": "ANJGG Brazil",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "22398906461",
-      "title": "Kit Pancake Branco + Batom  Preto Halloween Maquiagem Artística Bruxa Festa Fantasia Colormake",
-      "price": 19.98,
-      "originalPrice": 51.23,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mshcold93shxfc",
-      "url": "https://s.shopee.com.br/2VsmUFEq3H",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1059,
-      "seller": "Loja do Abençoado F",
-      "category": "Beleza"
     },
     {
       "id": "18499853587",
@@ -1908,6 +1854,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "58256992129",
+      "title": "Comedouro Alimentador Automático Pássaros Acrílico Anti-Sujeira Para Calopsita Canário Gaiola",
+      "price": 39.99,
+      "originalPrice": 99.98,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261n-mlvvul2gqgw40b",
+      "url": "https://s.shopee.com.br/8KqZQyRtlQ",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1163,
+      "seller": "Super mantimentos comprar",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "22394836346",
       "title": "Arranhador de Parede para Gatos | Sisal Natural 6mm | Brinquedo Anti Estresse | MDF Reforçado | Ideal para Apartamento",
       "price": 29.99,
@@ -1948,6 +1908,19 @@
       "rating": 4.8,
       "salesCount": 2023,
       "seller": "JIMMY.STORE",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "22594859564",
+      "title": "Fone de Ouvido Bluetooth Sem Fio TWS PRO 3 Com Microfone e Touch Para Celular Android e iOS",
+      "price": 28.9,
+      "originalPrice": 68.81,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259n-mtiycipsr30q1e",
+      "url": "https://s.shopee.com.br/2LZMM5umSR",
+      "rating": 4.6,
+      "salesCount": 3403,
+      "seller": "Loja Gudeltec",
       "category": "Eletrônicos"
     },
     {
@@ -2167,7 +2140,8 @@
       "rating": 4.9,
       "salesCount": 6923,
       "seller": "ELITE SHOES ",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "52858085838",
@@ -2821,6 +2795,20 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "26790623882",
+      "title": "Capas Para Orelhas De Cachorro SKEC , Protetor De Orelha Calmante Cães Antirruído Com Redução De Ruído , Protetores Ajus",
+      "price": 34.4,
+      "originalPrice": 54.6,
+      "discountPercent": 37,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824gm-mdzqzv4b6txgcd",
+      "url": "https://s.shopee.com.br/1BNOtnoZih",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1834,
+      "seller": "Tudo Bem",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "22094228144",
       "title": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
       "price": 63.99,
@@ -2945,20 +2933,6 @@
       "category": "Eletrônicos"
     },
     {
-      "id": "21797639166",
-      "title": "ANA1108 Kit - 600 Escovinhas + 600 Microbrush + 600 Aplicador de Batom Alongamento Cilios",
-      "price": 69.32,
-      "originalPrice": 198.06,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdn-lsmpvvrbz9wrb3",
-      "url": "https://s.shopee.com.br/BUrhxNimj",
-      "rating": 4.9,
-      "salesCount": 1398,
-      "official": true,
-      "seller": "ANA 1108  Loja Oficial",
-      "category": "Beleza"
-    },
-    {
       "id": "58267735345",
       "title": "Porta Temperos Giratório 12/9/6 Potes Vidro Tampa Dosadora Condimentos Profissional",
       "price": 29.99,
@@ -2971,6 +2945,19 @@
       "salesCount": 610,
       "seller": "Casa Interlagos",
       "category": "Cozinha"
+    },
+    {
+      "id": "25344731578",
+      "title": "Comedouro e bebedouro inox Duplo para bicho de estimação cachorro ou gatos C/antiderrapante",
+      "price": 23.39,
+      "originalPrice": 49.77,
+      "discountPercent": 53,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mb12nmluvqgp1a",
+      "url": "https://s.shopee.com.br/gR8Isv5Jn",
+      "rating": 4.9,
+      "salesCount": 1346,
+      "seller": "Ezome.br",
+      "category": "Pet e bebê"
     },
     {
       "id": "58213593462",
@@ -3126,18 +3113,17 @@
       "category": "Beleza"
     },
     {
-      "id": "22491618254",
-      "title": "Fone Bluetooth Sem Fio De Ouvido  P9 TWS Macaron Headphone Fone de Ouvido  Envio Imediato",
-      "price": 22.99,
-      "originalPrice": 58.95,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lomqjeb9ouk2cc",
-      "url": "https://s.shopee.com.br/9APgQTpnKH",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 4321,
-      "seller": "lojamegas",
-      "category": "Eletrônicos"
+      "id": "58256996145",
+      "title": "Kit 4 Coleiras Antiparasitária Dugs Antipulgas e Carrapatos Cães World Veterinária",
+      "price": 36.9,
+      "originalPrice": 97.11,
+      "discountPercent": 62,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262v-mlw2698zayh441",
+      "url": "https://s.shopee.com.br/AKbdoeFg7Z",
+      "rating": 4.9,
+      "salesCount": 1354,
+      "seller": "GreenStore",
+      "category": "Pet e bebê"
     },
     {
       "id": "58260720450",
@@ -3554,6 +3540,20 @@
       "official": true,
       "seller": "Deccó",
       "category": "Moda"
+    },
+    {
+      "id": "23397277498",
+      "title": "02 Coleira Cães Antipulgas E Carrapatos Dugs 56cm World",
+      "price": 19.2,
+      "originalPrice": 44.65,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbkx-lq22tpnq1js601",
+      "url": "https://s.shopee.com.br/80Dj2MOYrD",
+      "rating": 4.9,
+      "salesCount": 1169,
+      "official": true,
+      "seller": "MANADA ANIMAL",
+      "category": "Pet e bebê"
     },
     {
       "id": "22794151527",
