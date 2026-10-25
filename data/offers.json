@@ -1,34 +1,6 @@
 {
-  "updatedAt": "2026-10-25T22:40:28.246Z",
+  "updatedAt": "2026-10-25T22:50:25.644Z",
   "offers": [
-    {
-      "id": "58212573737",
-      "title": "Tapete Higiênico Cães Carvão Bambu Ativado Aroma Lavanda 30 Unidades Absorvente Anti Odor Tamanho 60x60cm / 80x60cm",
-      "price": 55.9,
-      "originalPrice": 151.08,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mrjuw7udmqdj44",
-      "url": "https://s.shopee.com.br/906GEBPhBA",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2556,
-      "seller": "Newpet - marca",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "53462836946",
-      "title": "Camisa de Compressão Poliamida LISA Masculina Camiseta BASICA Rash Guard Jiujitsu Academia Treino",
-      "price": 27.99,
-      "originalPrice": 121.7,
-      "discountPercent": 77,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ir-mpx01diao1lb06",
-      "url": "https://s.shopee.com.br/6Am4qzIPTZ",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2095,
-      "seller": "EQ Multimarcas🏅",
-      "category": "Moda"
-    },
     {
       "id": "22099191110",
       "title": "Garrafa Térmica WATERSY 500ml - 48h Frio! Perfeita para Academia, Futebol e Dia a Dia⚽🏋️",
@@ -223,20 +195,6 @@
       "category": "Eletrônicos"
     },
     {
-      "id": "58203749906",
-      "title": "2026 Novo Q71 Fones de ouvido Bluetooth sem fio OWS fones de ouvido esportivos com clipe",
-      "price": 42.8,
-      "originalPrice": 147.59,
-      "discountPercent": 71,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zub-mkkp8o2qrxfl50",
-      "url": "https://s.shopee.com.br/3g4jwXphkZ",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 4366,
-      "seller": "LUNANA Shop",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "46860175552",
       "title": "Organizador de Cabides em Forma de V de Dupla Face - Cabide Multi-Gancho que Economiza Espaço para Guarda-Roupa do Quart",
       "price": 21,
@@ -289,21 +247,6 @@
       "official": true,
       "seller": "Primacial",
       "category": "Beleza"
-    },
-    {
-      "id": "22794158252",
-      "title": "WATERSY Garrafa Térmica 500ml Inox 304 Sem BPA 24h Gelada 12h Quente Portátil Academia Futebol",
-      "price": 31.98,
-      "originalPrice": 99.94,
-      "discountPercent": 68,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcnq5vetrk8i9b",
-      "url": "https://s.shopee.com.br/80DjC0PBvm",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 975,
-      "official": true,
-      "seller": "WATERSY",
-      "category": "Cozinha"
     },
     {
       "id": "58266070880",
@@ -820,20 +763,6 @@
       "category": "Beleza"
     },
     {
-      "id": "58251577291",
-      "title": "Caminha Pet Luxo 70x50cm  Conforto Premium Com Almofadinhas (Brinquedos) para Cães Pequenos e Médios",
-      "price": 56,
-      "originalPrice": 124.44,
-      "discountPercent": 55,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhkw04gv48p2ec",
-      "url": "https://s.shopee.com.br/AUv4AbB8YD",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 215,
-      "seller": "Nosso Lar Enxovais ",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "22192825762",
       "title": "Kit 10 Espelhos Decorativos Em Acrílico Em Formato De Hexágono 12x10cm Top&Casa Flexível Ecológico",
       "price": 19.9,
@@ -1051,6 +980,20 @@
       "salesCount": 1084,
       "seller": "TRADENO ECOMERCE",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "23694347564",
+      "title": "GOKOCO Escova Secadora 5 Em 1 Conjunto De Secador De Cabelo Multifuncional De Alta Velocidade Dupla voltagem 110V-240V",
+      "price": 429,
+      "originalPrice": 997.67,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-msbapxbqpouead",
+      "url": "https://s.shopee.com.br/5LCxtdOFHS",
+      "rating": 4.9,
+      "salesCount": 2153,
+      "official": true,
+      "seller": "GOKOCO Offical Shop.BR",
+      "category": "Beleza"
     },
     {
       "id": "58255159172",
@@ -1482,6 +1425,20 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "20699892486",
+      "title": "Sapateira 4/5 Andares Organizador de Sapatos Tênis 8/10 Pares Desmontável Multiuso para Sapatos, Livros e Brinquedos",
+      "price": 19.58,
+      "originalPrice": 43.51,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm77p5j0ruu03",
+      "url": "https://s.shopee.com.br/5AtXf80ccV",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 5328,
+      "seller": "MANGO-SHOP",
+      "category": "Casa e organização"
+    },
+    {
       "id": "58257090824",
       "title": "Kit 4 Capas de Almofada 40x40 Suede Luxo Decorativa para Sofá Sala Quarto Macia com Zíper",
       "price": 31.99,
@@ -1650,32 +1607,18 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "56061994382",
-      "title": "Expositor 50 Carrinhos Prateleira Hot Weels Coleção Miniaturas Carros Organizador",
-      "price": 27.85,
-      "originalPrice": 60.54,
-      "discountPercent": 54,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mr8q0hjawzyee0",
-      "url": "https://s.shopee.com.br/20wW2yQ2Ch",
-      "rating": 4.9,
-      "salesCount": 633,
-      "seller": "Bigarelli Arts MDF",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "22894286824",
-      "title": "CIVAGO Copo Térmico 770ml Fashion Garrafa Térmica Aço Inox Revestimento Interior Cerâmico Antivazamento e Anti-poeira",
-      "price": 77.1,
-      "originalPrice": 151.18,
-      "discountPercent": 49,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mu7j3z83fjlt1d",
-      "url": "https://s.shopee.com.br/8fTPzEMeZy",
+      "id": "22394836346",
+      "title": "Arranhador de Parede para Gatos | Sisal Natural 6mm | Brinquedo Anti Estresse | MDF Reforçado | Ideal para Apartamento",
+      "price": 29.99,
+      "originalPrice": 53.55,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mtjpi5o44nibed",
+      "url": "https://s.shopee.com.br/1BNOtjz3kU",
       "hasVariantPrices": true,
       "rating": 5,
-      "salesCount": 817,
-      "official": true,
-      "seller": "CIVAGO Loja Oficial",
-      "category": "Cozinha"
+      "salesCount": 1726,
+      "seller": "Chérí Pet",
+      "category": "Pet e bebê"
     },
     {
       "id": "10398027894",
@@ -1705,20 +1648,6 @@
       "salesCount": 2023,
       "seller": "JIMMY.STORE",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "58206420202",
-      "title": "Garrafa Térmica Portátil de 350/600/800ml em Aço Inoxidável 304---Miranda",
-      "price": 26.9,
-      "originalPrice": 99.63,
-      "discountPercent": 73,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mm7gd5k50p34b7",
-      "url": "https://s.shopee.com.br/1qd5qfmfRR",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1716,
-      "seller": "MIRANDA13",
-      "category": "Cozinha"
     },
     {
       "id": "18725087530",
@@ -1859,6 +1788,19 @@
       "category": "Ferramentas"
     },
     {
+      "id": "43828181509",
+      "title": "Rampa Casa de Gato Toca Para Gatos Arranhador Brinquedo Playground MDF Carpete 30x47x30cm",
+      "price": 29.85,
+      "originalPrice": 49.75,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjppm99xbuh244",
+      "url": "https://s.shopee.com.br/3LRtTlKniX",
+      "rating": 4.6,
+      "salesCount": 1815,
+      "seller": "ACB UTILIDADES",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "22898395702",
       "title": "Luminaria Meia Lua Estetica Mesa 3 Tons Ajustavel Salao Beleza Limpeza De Pele",
       "price": 229.99,
@@ -1928,17 +1870,18 @@
       "hot": true
     },
     {
-      "id": "53764783409",
-      "title": "Kit 3 Dispensers organizadores Banheiro 500ml Shampoo Condicionador Sabonete Frascos PET Âmbar",
-      "price": 27.9,
-      "originalPrice": 49.82,
+      "id": "52858085838",
+      "title": "Garrafa Térmica Cabo Madeira Para Café 1l",
+      "price": 44.99,
+      "originalPrice": 80.34,
       "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ba-mr20qyodaznp6c",
-      "url": "https://s.shopee.com.br/1W0FS3RwDe",
-      "rating": 4.9,
-      "salesCount": 646,
-      "seller": "Dona Belezza",
-      "category": "Casa e organização"
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mpwlcsd38hz589",
+      "url": "https://s.shopee.com.br/3VlJg1q6jJ",
+      "rating": 4.8,
+      "salesCount": 6836,
+      "official": true,
+      "seller": "SELLNEEDS",
+      "category": "Cozinha"
     },
     {
       "id": "18298305366",
@@ -2318,6 +2261,19 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "58253767614",
+      "title": "Arranhador Gato Rampa Anti Estresse Casinha Brinquedo Tóca 30x47cm",
+      "price": 29.9,
+      "originalPrice": 49.83,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjppm99xbuh244",
+      "url": "https://s.shopee.com.br/30p359M4OR",
+      "rating": 4.7,
+      "salesCount": 1573,
+      "seller": "ACB_Home",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "53611255903",
       "title": "Espelho Para Quarto Banheiro Grande De Parede Adnet 60cm Couro Sala Hall Entrada Decorativo Com Alça",
       "price": 30.79,
@@ -2539,20 +2495,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "22021239862",
-      "title": "Cabideiro De Chão Arara Organizador De Roupas Com Sapateira Rodinhas Regulável",
-      "price": 49.9,
-      "originalPrice": 118.81,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabekprehd4m6d",
-      "url": "https://s.shopee.com.br/3g4k22Jgp7",
-      "rating": 4.6,
-      "salesCount": 687,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Casa e organização"
-    },
-    {
       "id": "21197749562",
       "title": "Cortina Blackout premium de 6,00x2,80  Diversas Cores e Tamanhos Tecido de 2 a 6 metros de largura",
       "price": 53.9,
@@ -2592,20 +2534,6 @@
       "salesCount": 1834,
       "seller": "Tudo Bem",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "23798897474",
-      "title": "Garrafa Térmica De 32 Oz Para Esportes E Condicionamento Físico Ao Ar Livre",
-      "price": 41.3,
-      "originalPrice": 70,
-      "discountPercent": 41,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820mr-mneo0i5nmt52f7",
-      "url": "https://s.shopee.com.br/1W0FS3nw7P",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 933,
-      "seller": "7fupresentes",
-      "category": "Cozinha"
     },
     {
       "id": "22094228144",
@@ -2648,20 +2576,6 @@
       "salesCount": 2463,
       "seller": "zapshop815",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "22794646868",
-      "title": "Kit 3/5/10 Sacos A Vácuo Grande 110x70 Organizador Edredom Cobertor P/ Guarda Roupa Com/Sem Bomba",
-      "price": 19.9,
-      "originalPrice": 39.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mscewpmmq0p31a",
-      "url": "https://s.shopee.com.br/2VsmdtO8Bk",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 916,
-      "seller": "OtimoLegal",
-      "category": "Casa e organização"
     },
     {
       "id": "52658057285",
@@ -2841,20 +2755,6 @@
       "salesCount": 2375,
       "seller": "Omnni TEK",
       "category": "Casa e organização"
-    },
-    {
-      "id": "18197521728",
-      "title": "Brinquedo Bola Globo Acrílico para Hamster e Roedores 14cm Pet Prime",
-      "price": 17.9,
-      "originalPrice": 33.77,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbkv-lolbbu0fmepo4c",
-      "url": "https://s.shopee.com.br/9pfNNNDfu9",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 209,
-      "seller": "Pet Prime Br",
-      "category": "Pet e bebê"
     },
     {
       "id": "22694228606",
@@ -3290,6 +3190,19 @@
       "category": "Beleza"
     },
     {
+      "id": "58212657626",
+      "title": "Garrafa Térmica Inox 900ml com Alça, Tampa Antivazamento, para Academia, Trabalho, Viagem e Bebidas Quentes e Frias",
+      "price": 33.2,
+      "originalPrice": 79.05,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-msqcjodxx8ue2f",
+      "url": "https://s.shopee.com.br/1BNOtmTBcF",
+      "rating": 4.9,
+      "salesCount": 2231,
+      "seller": "payq1nh_nu",
+      "category": "Cozinha"
+    },
+    {
       "id": "22294689106",
       "title": "Mouse Sem Fio Recarregável Silencioso Bluetooth/USB Ergonômico PC Notebook",
       "price": 18.58,
@@ -3496,20 +3409,6 @@
       "category": "Moda"
     },
     {
-      "id": "21598282675",
-      "title": "Kit 5 Brinquedos Arco-Íris Calopsita, Periquito calopsita, agapornis, acessórios para gaiola, poleiro, escada, balanço",
-      "price": 29.93,
-      "originalPrice": 39.91,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mplgo36o6vb78d",
-      "url": "https://s.shopee.com.br/gR8SWmZVC",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 157,
-      "seller": "Bird Park",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "21098661719",
       "title": "Organizador de maquiagem Giratório 360º Acrílico Suporte de Cosméticos",
       "price": 38.98,
@@ -3552,19 +3451,6 @@
       "category": "Beleza"
     },
     {
-      "id": "22996968770",
-      "title": "50 cabides adulto 39 cm preço de atacado PRETO direto da fabrica",
-      "price": 29.99,
-      "originalPrice": 39.99,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98s-lm6awsdeto2z7c",
-      "url": "https://s.shopee.com.br/3qOAELJ3U8",
-      "rating": 4.8,
-      "salesCount": 599,
-      "seller": "REI DOS  CABIDES",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58259961185",
       "title": "Kit até 6 Unidades Enchimento 45x45 Almofada de Flocos Macia Antialérgica p/ Sofá Cama Decorativa",
       "price": 26.9,
@@ -3592,6 +3478,20 @@
       "category": "Beleza"
     },
     {
+      "id": "45963749827",
+      "title": "ROMANTIC CROWN Copo Térmico Inox Portátil 1200ml/600ml com Tampa e Canudo Garrafa Térmica Inoxidável",
+      "price": 34.98,
+      "originalPrice": 69.96,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mtgcw2meqoeac6",
+      "url": "https://s.shopee.com.br/3g4jsKpTOM",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 4283,
+      "seller": "Romantic.Crown.07",
+      "category": "Cozinha"
+    },
+    {
       "id": "26980788215",
       "title": "ROMANTIC CROWN Copo Térmico Inox Portátil 1200ml/600ml/1.2L Garrafa Térmica Inoxidável com Tampa e Canudo",
       "price": 34.98,
@@ -3603,6 +3503,20 @@
       "rating": 5,
       "salesCount": 5548,
       "seller": "Romantic.Crown.07",
+      "category": "Cozinha"
+    },
+    {
+      "id": "58251614409",
+      "title": "ROMANTIC CROWN Copo Térmico Portátil 1200ml/600ml com Tampa e Canudo Garrafa Térmica Inoxidável À prova de vazamentos",
+      "price": 34.98,
+      "originalPrice": 69.96,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-msdnnzmmtpfp25",
+      "url": "https://s.shopee.com.br/30p356s0kI",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 4691,
+      "seller": "Romantic Crown",
       "category": "Cozinha"
     },
     {
@@ -3717,34 +3631,6 @@
       "category": "Ferramentas"
     },
     {
-      "id": "20197498789",
-      "title": "Roda Silenciosa para Hamster e Roedores Brinquedo de Exercício para Ratos Pet Prime",
-      "price": 24.9,
-      "originalPrice": 40.82,
-      "discountPercent": 39,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0ioit5zu7a556",
-      "url": "https://s.shopee.com.br/8KqZacJNwy",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 221,
-      "seller": "Pet Prime Br",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "22694199912",
-      "title": "Garrafão Térmico 5L Supertermo Quente Frio Bebida Gelada 10H O Mais Vendido - Termolar 5 Litros",
-      "price": 42.99,
-      "originalPrice": 70.48,
-      "discountPercent": 39,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbpl90i3r6hz27",
-      "url": "https://s.shopee.com.br/20wW2ym26Y",
-      "rating": 4.9,
-      "salesCount": 1320,
-      "official": true,
-      "seller": "Sombrisul Equipamentos",
-      "category": "Cozinha"
-    },
-    {
       "id": "11585289179",
       "title": "Cortina Blackout em Tecido Varias Cores",
       "price": 56.9,
@@ -3757,6 +3643,19 @@
       "salesCount": 1533,
       "seller": "Gabi Pires Enxovais",
       "category": "Casa e organização"
+    },
+    {
+      "id": "26592557125",
+      "title": "Bola Voadora Mágica Interativa Disco Voador Brinquedo para Cachorro Gato e Criança Pet Prime",
+      "price": 24.9,
+      "originalPrice": 40.16,
+      "discountPercent": 38,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-msvpg5xgzsp208",
+      "url": "https://s.shopee.com.br/50a7SmkSy7",
+      "rating": 4.8,
+      "salesCount": 2473,
+      "seller": "Pet Prime Br",
+      "category": "Pet e bebê"
     },
     {
       "id": "7360221057",
@@ -3897,6 +3796,19 @@
       "salesCount": 5387,
       "seller": "EM CASA ENCONTRA",
       "category": "Casa e organização"
+    },
+    {
+      "id": "23693858343",
+      "title": "Kit 10/6 Brinquedos Mordedores Cachorro Filhote Anti-stress Pet Ranger os dentes Limpeza da boca",
+      "price": 23.91,
+      "originalPrice": 36.78,
+      "discountPercent": 35,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7vv7n19x28k12",
+      "url": "https://s.shopee.com.br/3B8THSLR3S",
+      "rating": 4.9,
+      "salesCount": 1726,
+      "seller": "OtimoLegal",
+      "category": "Pet e bebê"
     },
     {
       "id": "45754796089",
@@ -4051,34 +3963,6 @@
       "category": "Beleza"
     },
     {
-      "id": "22895162663",
-      "title": "Garrafa Térmica Café Roma 0,5 Litro P/ Chá Café Chimarrão Unitermi Com Bico Dosador",
-      "price": 29.99,
-      "originalPrice": 49.98,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mqyrgze6bcw763",
-      "url": "https://s.shopee.com.br/1LgpFkoZSM",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1842,
-      "seller": "Albuquerque Distribuicao",
-      "category": "Cozinha"
-    },
-    {
-      "id": "22294243246",
-      "title": "Xicaras Garrafa Termica Vacuum Com xicaras Bottle Inox Fosca 500ml",
-      "price": 25.99,
-      "originalPrice": 43.32,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwl-mcaodhpvpkxj7d",
-      "url": "https://s.shopee.com.br/2LZMRaklQa",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1307,
-      "seller": "HEXUN SHOP",
-      "category": "Cozinha"
-    },
-    {
       "id": "4573892116",
       "title": "Cortina Blackout PVC 1,10m x 1,30m Corta 100% a  Luz",
       "price": 21.59,
@@ -4158,6 +4042,117 @@
       "rating": 4.8,
       "salesCount": 2095,
       "seller": "Choice Oficial",
+      "category": "Moda"
+    },
+    {
+      "id": "22798943741",
+      "title": "KIT 100 UN ESPELHO ACRILICO SEM COLA  DECORATIVO REDONDO VÁRIOS TAMANHOS 1CM A 6,9CM ACHADINHOS SHOPEE",
+      "price": 36.98,
+      "originalPrice": 64.88,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2nstsgxzwkaa",
+      "url": "https://s.shopee.com.br/7Aec2oJTXW",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 56,
+      "seller": "YELLOW LASER 3",
+      "category": "Presentes e papelaria"
+    },
+    {
+      "id": "44230742944",
+      "title": "Kit Jogo De Panelas Brasilia 8 Peças Antiaderente Teflon",
+      "price": 124.9,
+      "originalPrice": 219.12,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rc-mova96hzajgu04",
+      "url": "https://s.shopee.com.br/AUv40wFW4g",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 889,
+      "seller": "Global Alumínios",
+      "category": "Cozinha"
+    },
+    {
+      "id": "18498293522",
+      "title": "Mochila Bolsa Reforçada Notebook Impermeavel Colorido Material Premium Elegantes Excecultivo Ref:888",
+      "price": 39.3,
+      "originalPrice": 63.39,
+      "discountPercent": 38,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md6iwjk2awc264",
+      "url": "https://s.shopee.com.br/9Kj6cnxh34",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 3881,
+      "seller": "M Flowerr",
+      "category": "Moda"
+    },
+    {
+      "id": "21296971156",
+      "title": "Lampada Musical Caixa Som Bluetooth Led Rgb Com Controle",
+      "price": 19.89,
+      "originalPrice": 31.57,
+      "discountPercent": 37,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rblx-lopj5y7tmcce2d",
+      "url": "https://s.shopee.com.br/7fasdjmMzL",
+      "rating": 4.6,
+      "salesCount": 2751,
+      "seller": "Teslastore",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "23893313535",
+      "title": "Conjunto de Panelas Antiaderente 10 Peças Prime Alumínio Teflon Com Tampa De Vidro Jogo De Panelas Kit De Panelas",
+      "price": 229.9,
+      "originalPrice": 310.68,
+      "discountPercent": 26,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mps9nwzdgd8h5d",
+      "url": "https://s.shopee.com.br/1Lgp65oPfg",
+      "rating": 4.8,
+      "salesCount": 1608,
+      "official": true,
+      "seller": "Essenza Di Chef",
+      "category": "Cozinha"
+    },
+    {
+      "id": "27228426023",
+      "title": "Conjunto De Relógio Feminino Ros ivga 6 Peças De Pulseira De Liga De Quartzo Com Strass Joias Da Moda Presente Para O Na",
+      "price": 20.9,
+      "originalPrice": 29.86,
+      "discountPercent": 30,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823ok-mp4mjqghgeto57",
+      "url": "https://s.shopee.com.br/5q9ESMK5FH",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1156,
+      "seller": "Choice Oficial",
+      "category": "Moda"
+    },
+    {
+      "id": "40984178757",
+      "title": "Tênis Masculino Mizon Air RMax 90 Moderno com Tecnologia de Amortecimento",
+      "price": 59.89,
+      "originalPrice": 92.14,
+      "discountPercent": 35,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mst4iw2d5p8k87",
+      "url": "https://s.shopee.com.br/5q9ESNFPvR",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1943,
+      "seller": "Pechincha Livre",
+      "category": "Moda"
+    },
+    {
+      "id": "58205018164",
+      "title": "KIT 2 Camisa Gola Polo Alta Qualidade 100% Algodão Camiseta Básica Masculina  Diversas Cores",
+      "price": 59.8,
+      "originalPrice": 99.67,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zty-mkjyqctdl34035",
+      "url": "https://s.shopee.com.br/3qOA4hRICs",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3309,
+      "seller": "TP Camisetas",
       "category": "Moda"
     }
   ]
