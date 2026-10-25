@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-25T04:49:40.642Z",
+  "updatedAt": "2026-10-25T20:18:49.935Z",
   "offers": [
-    {
-      "id": "22892833180",
-      "title": "40 Peças / 46 Peças Jogo De Chave Catraca Caixa De Ferramentas para Reparo de Carros / Conjuntos de Chaves",
-      "price": 28.99,
-      "originalPrice": 90.59,
-      "discountPercent": 68,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mqt86n8incape7",
-      "url": "https://s.shopee.com.br/2LZL43FMrS",
-      "hasVariantPrices": true
-    },
     {
       "id": "19651910894",
       "title": "Luminária Lustre Pendente Abajur de Teto Quarto Sala Decoração Iluminação Decorativa",
@@ -18,7 +8,10 @@
       "originalPrice": 210,
       "discountPercent": 62,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259c-mudfuptr1zba61",
-      "url": "https://s.shopee.com.br/AUv2n3og3i"
+      "url": "https://s.shopee.com.br/AAIDcHdzne",
+      "rating": 4.8,
+      "salesCount": 93,
+      "seller": "Haute Decor"
     },
     {
       "id": "23798128210",
@@ -27,18 +20,24 @@
       "originalPrice": 66.36,
       "discountPercent": 61,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825au-mt4uxbsl5jpid1",
-      "url": "https://s.shopee.com.br/1gJeGpHuDO",
-      "hasVariantPrices": true
+      "url": "https://s.shopee.com.br/4Vdqrrzhqp",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 9939,
+      "seller": "INFINITY COMERCIO DE VARIEDADES"
     },
     {
       "id": "22697063003",
       "title": "1/2/3 Unidades Luminárias Solares Impermeáveis Prova De Chuva 100 Led Sensor Courtyard Light Promoção",
       "price": 20.88,
-      "originalPrice": 48.56,
-      "discountPercent": 57,
+      "originalPrice": 47.45,
+      "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257u-mss63m7i054w30",
       "url": "https://s.shopee.com.br/BUqU41To8",
-      "hasVariantPrices": true
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 5924,
+      "seller": "INFINITY COMERCIO DE VARIEDADES"
     },
     {
       "id": "23098686875",
@@ -47,7 +46,10 @@
       "originalPrice": 99.97,
       "discountPercent": 70,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbpku4t6ql3t16",
-      "url": "https://s.shopee.com.br/50a6Ewj503"
+      "url": "https://s.shopee.com.br/qkYV7rfKp",
+      "rating": 4.8,
+      "salesCount": 6293,
+      "seller": "Nova Link"
     },
     {
       "id": "58201617917",
@@ -56,8 +58,11 @@
       "originalPrice": 37.19,
       "discountPercent": 57,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhzi90bjhxqe93",
-      "url": "https://s.shopee.com.br/1LgnsD5yYt",
-      "hasVariantPrices": true
+      "url": "https://s.shopee.com.br/8pmq1pVwQU",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 5738,
+      "seller": "Bem Viver"
     },
     {
       "id": "58203954393",
@@ -66,8 +71,11 @@
       "originalPrice": 55.56,
       "discountPercent": 57,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mmrsr2ewmjgh8f",
-      "url": "https://s.shopee.com.br/4qGg2e1JYP",
-      "hasVariantPrices": true
+      "url": "https://s.shopee.com.br/4qGhGTttpf",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2705,
+      "seller": "LuoYi Best shop"
     },
     {
       "id": "23091546001",
@@ -76,7 +84,10 @@
       "originalPrice": 29.81,
       "discountPercent": 43,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259l-mskzqxceqnm23c",
-      "url": "https://s.shopee.com.br/9fLvnWVqqN"
+      "url": "https://s.shopee.com.br/9fLx1MK2Po",
+      "rating": 4.6,
+      "salesCount": 7492,
+      "seller": "P&H  Oficial"
     },
     {
       "id": "22099191110",
@@ -85,8 +96,11 @@
       "originalPrice": 116.58,
       "discountPercent": 76,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-msl12l6zbq4k5a",
-      "url": "https://s.shopee.com.br/1W0E4W9jyO",
-      "hasVariantPrices": true
+      "url": "https://s.shopee.com.br/2qVcsnse5F",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 5090,
+      "seller": "Watersy Store"
     },
     {
       "id": "19046617590",
@@ -95,16 +109,23 @@
       "originalPrice": 29.81,
       "discountPercent": 43,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257u-msgod13asrggd3",
-      "url": "https://s.shopee.com.br/8pmonzZ1XE"
+      "url": "https://s.shopee.com.br/9pfNDfJP4r",
+      "rating": 4.6,
+      "salesCount": 9028,
+      "seller": "Vida Criativa "
     },
     {
       "id": "25293647491",
       "title": "Celimax The Vita A Retinal Shot Tightening Booster 15ml",
-      "price": 135.99,
-      "originalPrice": 219.34,
+      "price": 136,
+      "originalPrice": 219.35,
       "discountPercent": 38,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825ai-mr9pynhmd43k22",
-      "url": "https://s.shopee.com.br/3LRsFsyMTN"
+      "url": "https://s.shopee.com.br/4VdqrrmMvp",
+      "rating": 5,
+      "salesCount": 17080,
+      "official": true,
+      "seller": "koksara.kbeauty"
     },
     {
       "id": "22494941454",
@@ -113,7 +134,11 @@
       "originalPrice": 85.57,
       "discountPercent": 30,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mqbygibr40sg7a",
-      "url": "https://s.shopee.com.br/4B0zFPvBma"
+      "url": "https://s.shopee.com.br/50a7SmkSuy",
+      "rating": 4.9,
+      "salesCount": 11773,
+      "official": true,
+      "seller": "KOKESHI OFICIAL"
     },
     {
       "id": "21678240017",
@@ -122,7 +147,11 @@
       "originalPrice": 64.14,
       "discountPercent": 30,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mrvgs50iy8zr1f",
-      "url": "https://s.shopee.com.br/4fxFqKtHll"
+      "url": "https://s.shopee.com.br/BUrhu2rj9",
+      "rating": 4.9,
+      "salesCount": 7593,
+      "official": true,
+      "seller": "KOKESHI OFICIAL"
     },
     {
       "id": "58255360638",
@@ -131,8 +160,11 @@
       "originalPrice": 68.5,
       "discountPercent": 60,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mo06m1cq90cg1f",
-      "url": "https://s.shopee.com.br/7VHRDXrA57",
-      "hasVariantPrices": true
+      "url": "https://s.shopee.com.br/BUrhu7GWk",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1640,
+      "seller": "INKY GRAF"
     },
     {
       "id": "23994387054",
@@ -141,7 +173,11 @@
       "originalPrice": 56.2,
       "discountPercent": 29,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mq3nf4vg8k5f75",
-      "url": "https://s.shopee.com.br/4Vdpe1tv6g"
+      "url": "https://s.shopee.com.br/4fxH4Aljaw",
+      "rating": 4.9,
+      "salesCount": 9383,
+      "official": true,
+      "seller": "KOKESHI OFICIAL"
     },
     {
       "id": "23593847901",
@@ -150,8 +186,11 @@
       "originalPrice": 99.96,
       "discountPercent": 74,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262f-ml3p8fq62c5g00",
-      "url": "https://s.shopee.com.br/7farPqv41z",
-      "hasVariantPrices": true
+      "url": "https://s.shopee.com.br/1Lgp63BYRu",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 3540,
+      "seller": "JIMMY.STORE"
     },
     {
       "id": "55315796592",
@@ -160,7 +199,10 @@
       "originalPrice": 78.38,
       "discountPercent": 63,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ac-mrqr6zca7jeud6",
-      "url": "https://s.shopee.com.br/6VOu1huy6p"
+      "url": "https://s.shopee.com.br/113yhR45pp",
+      "rating": 4.8,
+      "salesCount": 2382,
+      "seller": "XY Casa & Auto🏡"
     },
     {
       "id": "23494419761",
@@ -169,7 +211,10 @@
       "originalPrice": 99.95,
       "discountPercent": 63,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mev5roo2xwcjfb",
-      "url": "https://s.shopee.com.br/1qd4T8HGsR"
+      "url": "https://s.shopee.com.br/6Am4qvtMTA",
+      "rating": 4.9,
+      "salesCount": 9053,
+      "seller": "PENGFA TECH LTDA"
     },
     {
       "id": "21235699753",
@@ -178,8 +223,12 @@
       "originalPrice": 58.55,
       "discountPercent": 62,
       "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlr6x8dggpa8d1",
-      "url": "https://s.shopee.com.br/1BQHlB3EP",
-      "hasVariantPrices": true
+      "url": "https://s.shopee.com.br/LoHuCxtrs",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 14241,
+      "official": true,
+      "seller": "fadvan.br"
     },
     {
       "id": "46360468172",
@@ -188,7 +237,11 @@
       "originalPrice": 99.98,
       "discountPercent": 60,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822x5-mo74eg768t8m85",
-      "url": "https://s.shopee.com.br/9pfLzpMHQt"
+      "url": "https://s.shopee.com.br/40haGwb4bW",
+      "rating": 4.5,
+      "salesCount": 9465,
+      "official": true,
+      "seller": "SELLNEEDS"
     },
     {
       "id": "19697980846",
@@ -198,7 +251,10 @@
       "discountPercent": 50,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqkzkrt4w03ba",
       "url": "https://s.shopee.com.br/5AtWRFiRf4",
-      "hasVariantPrices": true
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 7476,
+      "seller": "SKY MALL"
     },
     {
       "id": "22192825762",
@@ -207,7 +263,10 @@
       "originalPrice": 49.75,
       "discountPercent": 60,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me5qca5qgmip9a",
-      "url": "https://s.shopee.com.br/8pmonzv1RE"
+      "url": "https://s.shopee.com.br/6L5V3EsaZl",
+      "rating": 4.7,
+      "salesCount": 307,
+      "seller": "Ecolume "
     },
     {
       "id": "58251693883",
@@ -216,8 +275,11 @@
       "originalPrice": 66.26,
       "discountPercent": 57,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mtnc2038j1ts56",
-      "url": "https://s.shopee.com.br/3qO8qo0rEw",
-      "hasVariantPrices": true
+      "url": "https://s.shopee.com.br/5AtXf5jlLn",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 3143,
+      "seller": "Watersy Oficial"
     },
     {
       "id": "58255159172",
@@ -227,17 +289,10 @@
       "discountPercent": 61,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mltkawis4qo439",
       "url": "https://s.shopee.com.br/6Am3d5jAwy",
-      "hasVariantPrices": true
-    },
-    {
-      "id": "22899036423",
-      "title": "TOMI MITO Bolsa de Ombro Acolchoada com Alça de Corrente Estilo Casual Elegante para Trabalho e Passeio T310 ",
-      "price": 69.99,
-      "originalPrice": 159.07,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mstpal90d8g683",
-      "url": "https://s.shopee.com.br/70LAccxbNv",
-      "hasVariantPrices": true
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 10175,
+      "seller": "YYYNN"
     },
     {
       "id": "18499853587",
@@ -246,8 +301,11 @@
       "originalPrice": 57.76,
       "discountPercent": 50,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mavkx3k4v9n308",
-      "url": "https://s.shopee.com.br/9V2VbDWUBI",
-      "hasVariantPrices": true
+      "url": "https://s.shopee.com.br/9APgQRLwQf",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 14836,
+      "seller": "JX VERDE"
     },
     {
       "id": "22497773735",
@@ -256,7 +314,10 @@
       "originalPrice": 499.92,
       "discountPercent": 76,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mt38wyvxh81x6a",
-      "url": "https://s.shopee.com.br/7Ky11EwKht"
+      "url": "https://s.shopee.com.br/1gJfUfAHlw",
+      "rating": 5,
+      "salesCount": 5052,
+      "seller": "Romantic Crown 02"
     },
     {
       "id": "58264684239",
@@ -265,8 +326,12 @@
       "originalPrice": 159.8,
       "discountPercent": 50,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mt45q21kcvt09d",
-      "url": "https://s.shopee.com.br/3VlISBxj8O",
-      "hasVariantPrices": true
+      "url": "https://s.shopee.com.br/4LKQfYn0Gm",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 20792,
+      "official": true,
+      "seller": "Hidrabene "
     },
     {
       "id": "23493398563",
@@ -275,8 +340,11 @@
       "originalPrice": 44.32,
       "discountPercent": 50,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134211-81ztl-ml1e22udxpfn05",
-      "url": "https://s.shopee.com.br/9Kj5Out7QP",
-      "hasVariantPrices": true
+      "url": "https://s.shopee.com.br/5VWO3hvlGg",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 173,
+      "seller": "YELLOW LASER 3"
     },
     {
       "id": "22394836346",
@@ -285,8 +353,368 @@
       "originalPrice": 53.55,
       "discountPercent": 44,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mtjpi5o44nibed",
-      "url": "https://s.shopee.com.br/5q9DEToqR6",
-      "hasVariantPrices": true
+      "url": "https://s.shopee.com.br/1BNOtjz3kU",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 1726,
+      "seller": "Chérí Pet"
+    },
+    {
+      "id": "18725087530",
+      "title": "Pistola De Cola Quente Bivolt 10w + 10, 20 ou 30 Bastões De Cola Revolver (110v e 220v) Profissional",
+      "price": 20.49,
+      "originalPrice": 55.38,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/e66d544521b287be5b25ba87de5740c7",
+      "url": "https://s.shopee.com.br/60Seectzo9",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 8654,
+      "seller": "About Life Store"
+    },
+    {
+      "id": "58253571216",
+      "title": "Cola Transparente Para Reparo De Sapatos – Adesivo À Prova D'água Fixação De Solas , Saltos E Bolsas (60ml)",
+      "price": 15.98,
+      "originalPrice": 25.37,
+      "discountPercent": 37,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262m-mjnqv9wc55ohc2",
+      "url": "https://s.shopee.com.br/8KqZQukuF6",
+      "rating": 4.8,
+      "salesCount": 6162,
+      "seller": "Summit--07"
+    },
+    {
+      "id": "52858085838",
+      "title": "Garrafa Térmica Cabo Madeira Para Café 1l",
+      "price": 44.99,
+      "originalPrice": 80.34,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mpwlcsd38hz589",
+      "url": "https://s.shopee.com.br/3VlJg1q6jJ",
+      "rating": 4.8,
+      "salesCount": 6836,
+      "official": true,
+      "seller": "SELLNEEDS"
+    },
+    {
+      "id": "20597689349",
+      "title": "Protetor Impermeável Capa Colchão Matelada Cama Quarto Berço, Solteiro, Casal, Queen, King com Elástico",
+      "price": 25.9,
+      "originalPrice": 44.66,
+      "discountPercent": 42,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m97a2cdipgcic6",
+      "url": "https://s.shopee.com.br/5LCxrOW8QY",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 7151,
+      "seller": "CasaLauraEnxovais"
+    },
+    {
+      "id": "21999578406",
+      "title": "4 lED À Prova D'água Para Jardim Muro e Varanda Luminária Solar De Parede Promoção",
+      "price": 20.99,
+      "originalPrice": 41.98,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-7r98o-m4tyl6444nlxc8",
+      "url": "https://s.shopee.com.br/1qd5gxnrJ3",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 3214,
+      "seller": "IDEAL LIFE.br"
+    },
+    {
+      "id": "58214668571",
+      "title": "Hidrabene Protetor Solar Clareador Facial 70 FPS",
+      "price": 36.9,
+      "originalPrice": 59.52,
+      "discountPercent": 38,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mswt16eywd1h35",
+      "url": "https://s.shopee.com.br/3VlJg1qAxb",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 50475,
+      "official": true,
+      "seller": "Hidrabene "
+    },
+    {
+      "id": "23793675077",
+      "title": "Oferta! Kit 7 Espelhos Acrílico em formato Losango 34x67cm - Achadinhos da Shopee",
+      "price": 27.9,
+      "originalPrice": 45,
+      "discountPercent": 38,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mer6000x36de1b",
+      "url": "https://s.shopee.com.br/9fLx1Mftob",
+      "rating": 4.6,
+      "salesCount": 93,
+      "seller": "Ecolaser Ecommerce"
+    },
+    {
+      "id": "22094228144",
+      "title": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
+      "price": 63.99,
+      "originalPrice": 130.59,
+      "discountPercent": 51,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824hz-mpj8tt3gjlkx51",
+      "url": "https://s.shopee.com.br/8V9zdDkGu9",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 5876,
+      "seller": "Amy.Store"
+    },
+    {
+      "id": "58208798751",
+      "title": "TOMI MITO Bolsa Transversal Feminina Vintage Couro PU Compacta e Organizada para Uso Diário TM9176 ",
+      "price": 62.99,
+      "originalPrice": 128.55,
+      "discountPercent": 51,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mt38860rvt3aa7",
+      "url": "https://s.shopee.com.br/1qd5gy9eQz",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2426,
+      "seller": "Amy.Store"
+    },
+    {
+      "id": "58260720450",
+      "title": "BB Cream Foundation/Concealer with Mushroom-Shaped Sponge Makeup Whitening Cream Martin Natural  HB2006",
+      "price": 31.99,
+      "originalPrice": 49.98,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822yk-mo94qpmn0j5y3a",
+      "url": "https://s.shopee.com.br/1gJfUespAG",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 7531,
+      "seller": "WANGYE"
+    },
+    {
+      "id": "58266394932",
+      "title": "ROMANTIC CROWN Garrafa Térmica 800ml Aço Inox 304 com 2 Formas de Beber para Viagem e Esporte",
+      "price": 44.98,
+      "originalPrice": 99.96,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-msxvdbpqj9c4e4",
+      "url": "https://s.shopee.com.br/50a7SmkOgk",
+      "rating": 5,
+      "salesCount": 3405,
+      "seller": "Romantic Crown"
+    },
+    {
+      "id": "23297997133",
+      "title": "6 Cores Caneta Carimbo Roller Colorido Papelaria/Papelaria Fofa",
+      "price": 18.99,
+      "originalPrice": 46.32,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mscw5vs0xjbabc",
+      "url": "https://s.shopee.com.br/70LBqShFee",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 849,
+      "official": true,
+      "seller": "SPLORO Papelaria"
+    },
+    {
+      "id": "58255488276",
+      "title": "Painel Ripado autoadesivo 3D 3m x 60cm Grosso Revestimento Amadeirado Madeira Parede Autocolante Quarto Sala",
+      "price": 79.8,
+      "originalPrice": 140,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zug-mkwz5xpqeio1dd",
+      "url": "https://s.shopee.com.br/AAIDcHDjcZ",
+      "rating": 4.9,
+      "salesCount": 3903,
+      "seller": "LJLP Online"
+    },
+    {
+      "id": "58206129432",
+      "title": "Luminária 80W 52CM 42CM 60W Ventilador De Teto 6 Hélices Luz Ajustável Controle Remoto Silencioso E Econômico",
+      "price": 49.9,
+      "originalPrice": 118.81,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262k-mld2gm8ly4gf84",
+      "url": "https://s.shopee.com.br/2LZMHslxIC",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 3021,
+      "seller": "T&T Acessorios"
+    },
+    {
+      "id": "58251006635",
+      "title": "KIT 40 unidades de xuxinhas com Detalhes de Silicone Laço/Coroa/Unicornio/muitos Modelo Aleatorio",
+      "price": 20.98,
+      "originalPrice": 49.95,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mszsj0tzug3p1b",
+      "url": "https://s.shopee.com.br/9APgQRUfkW",
+      "rating": 4.9,
+      "salesCount": 5087,
+      "seller": "RicH !"
+    },
+    {
+      "id": "21299677651",
+      "title": "BB CreamBase/Corretivo com Esponja com Formato de Cogumelo Base Clareador Maquiagem Creme Clareador Cor Marfim e Natural",
+      "price": 30.66,
+      "originalPrice": 44.43,
+      "discountPercent": 31,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7reop-m817hciex8sg71",
+      "url": "https://s.shopee.com.br/gR8IowdC2",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 7107,
+      "seller": "WANGYE"
+    },
+    {
+      "id": "21098661719",
+      "title": "Organizador de maquiagem Giratório 360º Acrílico Suporte de Cosméticos",
+      "price": 38.98,
+      "originalPrice": 86.62,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd6c-m729rq2ye1aka6",
+      "url": "https://s.shopee.com.br/BUrhuBfIZ",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2600,
+      "seller": "lojamegas"
+    },
+    {
+      "id": "45963749827",
+      "title": "ROMANTIC CROWN Copo Térmico Inox Portátil 1200ml/600ml com Tampa e Canudo Garrafa Térmica Inoxidável",
+      "price": 34.98,
+      "originalPrice": 69.96,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mtgcw2meqoeac6",
+      "url": "https://s.shopee.com.br/3g4jsKpTOM",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 4283,
+      "seller": "Romantic.Crown.07"
+    },
+    {
+      "id": "26980788215",
+      "title": "ROMANTIC CROWN Copo Térmico Inox Portátil 1200ml/600ml/1.2L Garrafa Térmica Inoxidável com Tampa e Canudo",
+      "price": 34.98,
+      "originalPrice": 69.96,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mrsfn2n1nkec7c",
+      "url": "https://s.shopee.com.br/2gCCgUtHQC",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 5548,
+      "seller": "Romantic.Crown.07"
+    },
+    {
+      "id": "58251614409",
+      "title": "ROMANTIC CROWN Copo Térmico Portátil 1200ml/600ml com Tampa e Canudo Garrafa Térmica Inoxidável À prova de vazamentos",
+      "price": 34.98,
+      "originalPrice": 69.96,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-msdnnzmmtpfp25",
+      "url": "https://s.shopee.com.br/30p356s0kI",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 4691,
+      "seller": "Romantic Crown"
+    },
+    {
+      "id": "43133655210",
+      "title": "ROMANTIC CROWN Copo Térmico Inox 1200ml com Bico Flip e Alça Garrafa Térmica para Viagem e Carro",
+      "price": 49.98,
+      "originalPrice": 99.96,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-msz051f1n4lg47",
+      "url": "https://s.shopee.com.br/4fxH4AlfMe",
+      "rating": 5,
+      "salesCount": 3032,
+      "seller": "Romantic.Crown.07"
+    },
+    {
+      "id": "26592557125",
+      "title": "Bola Voadora Mágica Interativa Disco Voador Brinquedo para Cachorro Gato e Criança Pet Prime",
+      "price": 24.9,
+      "originalPrice": 40.16,
+      "discountPercent": 38,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-msvpg5xgzsp208",
+      "url": "https://s.shopee.com.br/50a7SmkSy7",
+      "rating": 4.8,
+      "salesCount": 2473,
+      "seller": "Pet Prime Br"
+    },
+    {
+      "id": "22994141410",
+      "title": "Luminária LED Pérola Concha Decorativa | Luz Noturna para Quarto Presente Criativo",
+      "price": 25.9,
+      "originalPrice": 47.96,
+      "discountPercent": 46,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-max8r6an720pd6",
+      "url": "https://s.shopee.com.br/2VsmUByNnE",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1442,
+      "seller": "NEST&NOOK"
+    },
+    {
+      "id": "49108107903",
+      "title": "Kit 10 Pote Hermético Empilháveis Porta Mantimento Cozinha Organizador Rebirth",
+      "price": 79.9,
+      "originalPrice": 159.8,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mmje77j1jpc068",
+      "url": "https://s.shopee.com.br/1BRVaqRF0",
+      "rating": 4.9,
+      "salesCount": 5387,
+      "seller": "EM CASA ENCONTRA"
+    },
+    {
+      "id": "49912454334",
+      "title": "Maria 5D W M Curl UC/UD Cílios Fácil LU Ventilador Extensões De Atacado Volume Pré-Fabricado Estilo W Natural Macio",
+      "price": 20.54,
+      "originalPrice": 34.23,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpj7tsq5r0gb60",
+      "url": "https://s.shopee.com.br/1BNOtjujB7",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 6222,
+      "seller": "Maria sasha eyelashes"
+    },
+    {
+      "id": "27944090972",
+      "title": "2 Pçs Feminino Retângulo Relógio De Quartzo Pulseira Conjunto Strass Moda Jóias Presente Elegante",
+      "price": 22.9,
+      "originalPrice": 34.18,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258l-mrr259mcx2pxca",
+      "url": "https://s.shopee.com.br/4B10TG0yUh",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2095,
+      "seller": "Choice Oficial"
+    },
+    {
+      "id": "27939346346",
+      "title": "Suporte Para Telefone Principal Alça De Montagem Ajustável Multifuncional Tiro Ao Vivo Primeira Pessoa Com Clipe",
+      "price": 32.24,
+      "originalPrice": 42.99,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7reo9-m8vck44ich0533",
+      "url": "https://s.shopee.com.br/8pmq1pND6d",
+      "rating": 4.9,
+      "salesCount": 17229,
+      "seller": "Value Choice"
+    },
+    {
+      "id": "22493572369",
+      "title": "Cortina Blackout Para Quarto Sala Cozinha PVC Corta 100% Luz 2,80 Largura X 2,30 Altura Grande",
+      "price": 33.89,
+      "originalPrice": 46.42,
+      "discountPercent": 27,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m84shxe4v8c1d9",
+      "url": "https://s.shopee.com.br/9pfNDfF0IX",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 4557,
+      "seller": "MovicPets"
     }
   ]
 }
