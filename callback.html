@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Autorização · Achadinhos</title>
+<style>
+  body { margin: 0; background: #fff6f2; color: #1f1f1f; font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  main { max-width: 680px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { color: #ee4d2d; }
+  textarea { width: 100%; min-height: 120px; font: 13px/1.4 ui-monospace, Menlo, monospace; padding: 10px; border: 1px solid #f1d9d0; border-radius: 10px; box-sizing: border-box; }
+  button { margin-top: 10px; background: #ee4d2d; color: #fff; border: 0; border-radius: 10px; padding: 10px 16px; font-weight: 700; font-size: 15px; }
+  .ok { color: #1a7f37; font-weight: 700; }
+  @media (prefers-color-scheme: dark) { body { background: #161210; color: #f3ece8; } textarea { background: #221b18; color: #f3ece8; border-color: #3a2d27; } }
+</style>
+</head>
+<body>
+<main>
+  <h1>Autorização recebida</h1>
+  <p>Esta página só serve para conectar as contas da marca aos aplicativos do Achadinhos. Copie a URL abaixo e cole no terminal do bot.</p>
+  <textarea id="url" readonly></textarea>
+  <button id="copy">Copiar URL</button>
+  <p id="status"></p>
+  <p><a href="index.html">← Voltar para as ofertas</a></p>
+</main>
+<script>
+  const box = document.getElementById("url");
+  box.value = location.href;
+  const params = new URLSearchParams(location.search);
+  if (params.get("error")) {
+    document.getElementById("status").textContent = "Erro retornado: " + params.get("error") + " " + (params.get("error_description") || "");
+  } else if (!params.get("code")) {
+    document.getElementById("status").textContent = "Nenhum código na URL. Refaça o login a partir do bot.";
+  }
+  document.getElementById("copy").onclick = async () => {
+    box.select();
+    try { await navigator.clipboard.writeText(box.value); document.getElementById("status").innerHTML = '<span class="ok">Copiado.</span>'; }
+    catch { document.execCommand("copy"); document.getElementById("status").innerHTML = '<span class="ok">Copiado.</span>'; }
+  };
+</script>
+</body>
+</html>
