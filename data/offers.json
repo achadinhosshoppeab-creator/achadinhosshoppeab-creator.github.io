@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T23:20:27.409Z",
+  "updatedAt": "2026-10-25T23:23:47.453Z",
   "offers": [
     {
       "id": "23593332489",
@@ -83,20 +83,6 @@
       "rating": 4.9,
       "salesCount": 2015,
       "seller": "TRADENO ECOMERCE",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "58203749906",
-      "title": "2026 Novo Q71 Fones de ouvido Bluetooth sem fio OWS fones de ouvido esportivos com clipe",
-      "price": 42.8,
-      "originalPrice": 147.59,
-      "discountPercent": 71,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zub-mkkp8o2qrxfl50",
-      "url": "https://s.shopee.com.br/3g4jwXphkZ",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 4366,
-      "seller": "LUNANA Shop",
       "category": "Eletrônicos"
     },
     {
@@ -1499,6 +1485,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "22394836346",
+      "title": "Arranhador de Parede para Gatos | Sisal Natural 6mm | Brinquedo Anti Estresse | MDF Reforçado | Ideal para Apartamento",
+      "price": 29.99,
+      "originalPrice": 53.55,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mtjpi5o44nibed",
+      "url": "https://s.shopee.com.br/1BNOtjz3kU",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 1726,
+      "seller": "Chérí Pet",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "10398027894",
       "title": "Espelho Redondo  Lapidado com LED Decorativo para Banheiro Lavabo Quarto Sala Vários Tamanhos",
       "price": 29,
@@ -1624,20 +1624,6 @@
       "category": "Moda"
     },
     {
-      "id": "23398830440",
-      "title": "Brinquedo de Mastigar para Grandes Cachorro Limpeza Dental Moagem Resistente e Sabor Bacon",
-      "price": 18.96,
-      "originalPrice": 43.09,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mlwx2vn0jg1yac",
-      "url": "https://s.shopee.com.br/3qOAH5tyeA",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 944,
-      "seller": "Atisen",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "22293232559",
       "title": "Kit Cueca Samba Canção Masculino Short de Dormir Shortinho Fresquinho e Confortável Pijama",
       "price": 25.98,
@@ -1678,6 +1664,19 @@
       "salesCount": 1505,
       "seller": "R&Y_Diversos",
       "category": "Ferramentas"
+    },
+    {
+      "id": "43828181509",
+      "title": "Rampa Casa de Gato Toca Para Gatos Arranhador Brinquedo Playground MDF Carpete 30x47x30cm",
+      "price": 29.85,
+      "originalPrice": 49.75,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjppm99xbuh244",
+      "url": "https://s.shopee.com.br/3LRtTlKniX",
+      "rating": 4.6,
+      "salesCount": 1815,
+      "seller": "ACB UTILIDADES",
+      "category": "Pet e bebê"
     },
     {
       "id": "22898395702",
@@ -2140,6 +2139,19 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "58253767614",
+      "title": "Arranhador Gato Rampa Anti Estresse Casinha Brinquedo Tóca 30x47cm",
+      "price": 29.9,
+      "originalPrice": 49.83,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjppm99xbuh244",
+      "url": "https://s.shopee.com.br/30p359M4OR",
+      "rating": 4.7,
+      "salesCount": 1573,
+      "seller": "ACB_Home",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "53611255903",
       "title": "Espelho Para Quarto Banheiro Grande De Parede Adnet 60cm Couro Sala Hall Entrada Decorativo Com Alça",
       "price": 30.79,
@@ -2442,20 +2454,6 @@
       "salesCount": 2463,
       "seller": "zapshop815",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "23398767625",
-      "title": "Brinquedo de Mastigar para Cachorro - Limpeza Dental, Moagem Natural e Treinamento Inteligente",
-      "price": 23.98,
-      "originalPrice": 68.51,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mstpr1ghczk590",
-      "url": "https://s.shopee.com.br/4fxHGcqnxR",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 899,
-      "seller": "Viva Lar_",
-      "category": "Pet e bebê"
     },
     {
       "id": "52658057285",
