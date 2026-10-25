@@ -1,33 +1,6 @@
 {
-  "updatedAt": "2026-10-25T22:10:27.872Z",
+  "updatedAt": "2026-10-25T22:20:30.701Z",
   "offers": [
-    {
-      "id": "23898670446",
-      "title": "KIT 3 Blusas Feminina Manga Longa Cacharrel Confortável Básico Gola Alta",
-      "price": 46.9,
-      "originalPrice": 151.29,
-      "discountPercent": 69,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfes7idiiy9wa2",
-      "url": "https://s.shopee.com.br/3B8THTTpYg",
-      "rating": 4.7,
-      "salesCount": 4601,
-      "seller": "WM FASHION",
-      "category": "Moda"
-    },
-    {
-      "id": "19899586753",
-      "title": "Fone de Ouvido Sem Fio Com Cancelamento De Ruído Bluetooth Pop-Up",
-      "price": 42.89,
-      "originalPrice": 194.95,
-      "discountPercent": 78,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rffm-m4f5wo6pi7mjaa",
-      "url": "https://s.shopee.com.br/qkYVALWER",
-      "rating": 4.8,
-      "salesCount": 6449,
-      "seller": "JX VERDE",
-      "category": "Eletrônicos",
-      "hot": true
-    },
     {
       "id": "43981426348",
       "title": "Tenis Masculino Escolar Academia Corrida Original FREEDOM Corrida Caminhada Lançamento EXCLUSIVO CINZA GRAVITE e LARANJA",
@@ -125,21 +98,6 @@
       "category": "Moda"
     },
     {
-      "id": "22099191110",
-      "title": "Garrafa Térmica WATERSY 500ml - 48h Frio! Perfeita para Academia, Futebol e Dia a Dia⚽🏋️",
-      "price": 27.98,
-      "originalPrice": 116.58,
-      "discountPercent": 76,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-msl12l6zbq4k5a",
-      "url": "https://s.shopee.com.br/2qVcsnse5F",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 5090,
-      "seller": "Watersy Store",
-      "category": "Cozinha",
-      "hot": true
-    },
-    {
       "id": "23492415109",
       "title": "Espelho Redondo Decorativo Adnet Supenso de Parede 60cm 50cm 40cm 30cm 20cm Com Alça + Pino",
       "price": 24.24,
@@ -164,6 +122,20 @@
       "rating": 4.8,
       "salesCount": 1224,
       "seller": "Eddias Home",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "43722867642",
+      "title": "Tapete Felpudo Para Sala E Quarto Vários Tamanhos Grande e Pequeno Peludo",
+      "price": 18.23,
+      "originalPrice": 72.92,
+      "discountPercent": 75,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-munsirzzadxc3f",
+      "url": "https://s.shopee.com.br/113yplJyQD",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 1741,
+      "seller": "CasaLauraEnxovais",
       "category": "Casa e organização"
     },
     {
@@ -232,20 +204,6 @@
       "official": true,
       "seller": "koksara.kbeauty",
       "category": "Beleza"
-    },
-    {
-      "id": "23598844056",
-      "title": "Organizador de Maquiagem Giratório – Suporte Multiuso 2/3 Andares p/ Cosméticos e Perfumes",
-      "price": 50,
-      "originalPrice": 80.65,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfv92cecwnpg7d",
-      "url": "https://s.shopee.com.br/AUv48XW74R",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1034,
-      "seller": "DeinShop",
-      "category": "Casa e organização"
     },
     {
       "id": "23593332489",
@@ -386,20 +344,6 @@
       "category": "Beleza"
     },
     {
-      "id": "58218792633",
-      "title": "Necessaire Organizador Cosmético Maquiagem Feminino Para Viagem Em Alto Qualidade",
-      "price": 16.98,
-      "originalPrice": 29.79,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mtgho0fm27ep26",
-      "url": "https://s.shopee.com.br/1W0FQ04NKq",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 940,
-      "seller": "Bem Viver",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58266070880",
       "title": "Kit Linha Coreana Hidrabene K-Sérum Harmonizador Facial + Sérum GHK-Cu + Sérum PDRN Skincare",
       "price": 79.9,
@@ -425,20 +369,6 @@
       "rating": 4.6,
       "salesCount": 1796,
       "seller": "Ambar.shop01",
-      "category": "Beleza"
-    },
-    {
-      "id": "22894932514",
-      "title": "Maleta de Viagem Masculina Grande Capacidade, Necessaire Dobrável para Barbear, Organizador Portátil",
-      "price": 21.95,
-      "originalPrice": 91.46,
-      "discountPercent": 76,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82592-mq69wbtrozdae9",
-      "url": "https://s.shopee.com.br/BUrpY9S2S",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1251,
-      "seller": "Damien Shop_Brasil",
       "category": "Beleza"
     },
     {
@@ -468,6 +398,20 @@
       "salesCount": 1955,
       "seller": "Lily Space",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "22894932514",
+      "title": "Maleta de Viagem Masculina Grande Capacidade, Necessaire Dobrável para Barbear, Organizador Portátil",
+      "price": 21.95,
+      "originalPrice": 91.46,
+      "discountPercent": 76,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82592-mq69wbtrozdae9",
+      "url": "https://s.shopee.com.br/BUrpY9S2S",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1251,
+      "seller": "Damien Shop_Brasil",
+      "category": "Beleza"
     },
     {
       "id": "22494941454",
@@ -512,6 +456,20 @@
       "category": "Beleza"
     },
     {
+      "id": "58264295508",
+      "title": "Copo garrafa Térmica Inox 1200ml Parede Dupla tampa Canudo Premium",
+      "price": 34.99,
+      "originalPrice": 99.97,
+      "discountPercent": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259c-mqovrhw9l5hca4",
+      "url": "https://s.shopee.com.br/qkYdSgbf5",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 1120,
+      "seller": "Lucky1 shop",
+      "category": "Cozinha"
+    },
+    {
       "id": "58255360638",
       "title": "Caderno Scrapbook 15x21cm Preto Capa Dura Com Opção de Canetas de Gel | Álbum DIY Presente Criativo",
       "price": 27.4,
@@ -524,6 +482,21 @@
       "salesCount": 1640,
       "seller": "INKY GRAF",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "19099597031",
+      "title": "Belifou Kit 24 Peças Jogo De Talheres Inox Faqueiro Completo Colher Garfo Faca Para Jantar Cozinha Luxo",
+      "price": 36.99,
+      "originalPrice": 105.69,
+      "discountPercent": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m8bovalmy7tdb1",
+      "url": "https://s.shopee.com.br/5VWO3kYcUC",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 668,
+      "official": true,
+      "seller": "Belifou Talheres",
+      "category": "Cozinha"
     },
     {
       "id": "58256763000",
@@ -563,7 +536,8 @@
       "rating": 4.9,
       "salesCount": 5201,
       "seller": "VICTORIA BAZAR EIRELI",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "8932435494",
@@ -647,7 +621,8 @@
       "rating": 4.8,
       "salesCount": 3540,
       "seller": "JIMMY.STORE",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "22198011069",
@@ -690,6 +665,21 @@
       "salesCount": 2638,
       "seller": "YYYNN",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "58251614514",
+      "title": "Belifou Glitter Garrafa Térmica Portátil De 800 Ml Com Isolamento Duplo Adequada Para Academia",
+      "price": 34.5,
+      "originalPrice": 93.24,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mouu57r72adhf3",
+      "url": "https://s.shopee.com.br/2VsmcWaGHV",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1498,
+      "official": true,
+      "seller": "Belifou Talheres",
+      "category": "Cozinha"
     },
     {
       "id": "55315796592",
@@ -814,6 +804,20 @@
       "rating": 4.8,
       "salesCount": 1914,
       "seller": "Inovar Top",
+      "category": "Cozinha"
+    },
+    {
+      "id": "58204197533",
+      "title": "Kit Ate 100 Unidades Garfo Faca Sal Guardanapo Descartavel Embalados Restaurante Delivery Festa",
+      "price": 28.99,
+      "originalPrice": 46.02,
+      "discountPercent": 37,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820la-mqynwoz58c1x0f",
+      "url": "https://s.shopee.com.br/5q9Eaeo2WY",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 801,
+      "seller": "Pague Pouco $",
       "category": "Cozinha"
     },
     {
@@ -1062,21 +1066,6 @@
       "category": "Moda"
     },
     {
-      "id": "21797728567",
-      "title": "Arara 4/5 Andares Multiuso c/ Sapateira, Cabideiro e Suporte p/ Roupas, Tênis e Closet Quarto",
-      "price": 39.49,
-      "originalPrice": 179.5,
-      "discountPercent": 78,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7req6-m8dk5gglfv7k20",
-      "url": "https://s.shopee.com.br/1gJfUhE0zC",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 3356,
-      "seller": "ZSZ_brasil",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "58209495815",
       "title": "Lanterna Decorativa Lampião de Led Luminária Dourado Enfeite Decoração Vela",
       "price": 21.9,
@@ -1144,21 +1133,6 @@
       "salesCount": 10175,
       "seller": "YYYNN",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "23094310840",
-      "title": "Belifou Garrafa Térmica Owala De 32 Oz Para Esportes E Condicionamento Físico Ao Ar Livre",
-      "price": 43.98,
-      "originalPrice": 99.95,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-mdhatr5e2wup8b",
-      "url": "https://s.shopee.com.br/1gJfUhRHbO",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1949,
-      "official": true,
-      "seller": "Belifou Talheres",
-      "category": "Cozinha"
     },
     {
       "id": "41733456705",
@@ -1245,6 +1219,20 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "21198500201",
+      "title": "cortina blackout com voil forro 6,00 x 2,70 metros para quarto sala e decoração casa blecaute",
+      "price": 78.9,
+      "originalPrice": 143.45,
+      "discountPercent": 45,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-luuq3zcaz9lx47",
+      "url": "https://s.shopee.com.br/9V2WxNncAp",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1917,
+      "seller": "Best casa",
+      "category": "Casa e organização"
+    },
+    {
       "id": "29028867072",
       "title": "Torneira De Cozinha Gourmet Alça Única Com Extensor De Spray Tubo De Água Flexível Superior Prateado Para Ajuste",
       "price": 64.99,
@@ -1257,20 +1245,6 @@
       "salesCount": 6934,
       "seller": "Muse.Mall",
       "category": "Ferramentas"
-    },
-    {
-      "id": "21198500201",
-      "title": "cortina blackout com voil forro 6,00 x 2,70 metros para quarto sala e decoração casa blecaute",
-      "price": 78.9,
-      "originalPrice": 143.45,
-      "discountPercent": 45,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-luuq3zcaz9lx47",
-      "url": "https://s.shopee.com.br/3qOA4gnlQt",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1917,
-      "seller": "Best casa",
-      "category": "Casa e organização"
     },
     {
       "id": "49614003027",
@@ -1301,6 +1275,19 @@
       "category": "Ferramentas"
     },
     {
+      "id": "23893371348",
+      "title": "Luminaria Meia Lua Estetica Mesa Spa Arco 3 Tons Ajustavel Salao Beleza Limpeza De Pele",
+      "price": 229.99,
+      "originalPrice": 884.58,
+      "discountPercent": 74,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8f75haaxqfl65",
+      "url": "https://s.shopee.com.br/8V9zdGN89F",
+      "rating": 4.9,
+      "salesCount": 920,
+      "seller": "MOEN HOME",
+      "category": "Casa e organização"
+    },
+    {
       "id": "47305656878",
       "title": "Espelho Redondo Decorativo Adnet Alça Couro Suporte 60cm Sala Quarto Banheiro",
       "price": 22.9,
@@ -1312,19 +1299,6 @@
       "rating": 4.8,
       "salesCount": 3769,
       "seller": "Eddias Home",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23893371348",
-      "title": "Luminaria Meia Lua Estetica Mesa Spa Arco 3 Tons Ajustavel Salao Beleza Limpeza De Pele",
-      "price": 229.99,
-      "originalPrice": 884.58,
-      "discountPercent": 74,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8f75haaxqfl65",
-      "url": "https://s.shopee.com.br/8V9zdGN89F",
-      "rating": 4.9,
-      "salesCount": 920,
-      "seller": "MOEN HOME",
       "category": "Casa e organização"
     },
     {
@@ -1423,19 +1397,6 @@
       "seller": "Calmaelar",
       "category": "Pet e bebê",
       "hot": true
-    },
-    {
-      "id": "58213814483",
-      "title": "Kit 3 Necessaires Transparentes Grande Capacidade Para Cosméticos e Maquiagem Organizador de Viagem",
-      "price": 29.99,
-      "originalPrice": 130.39,
-      "discountPercent": 77,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mt3hhjq5kr9jc1",
-      "url": "https://s.shopee.com.br/qkYcm6uge",
-      "rating": 4.9,
-      "salesCount": 1299,
-      "seller": "Lar Doce Luz",
-      "category": "Casa e organização"
     },
     {
       "id": "22693513091",
@@ -1574,17 +1535,32 @@
       "category": "Eletrônicos"
     },
     {
-      "id": "58257090824",
-      "title": "Kit 4 Capas de Almofada 40x40 Suede Luxo Decorativa para Sofá Sala Quarto Macia com Zíper",
-      "price": 31.99,
-      "originalPrice": 79.97,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mmm1sfjpscna7b",
-      "url": "https://s.shopee.com.br/3VlJg4otbS",
+      "id": "20699892486",
+      "title": "Sapateira 4/5 Andares Organizador de Sapatos Tênis 8/10 Pares Desmontável Multiuso para Sapatos, Livros e Brinquedos",
+      "price": 19.58,
+      "originalPrice": 43.51,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm77p5j0ruu03",
+      "url": "https://s.shopee.com.br/5AtXf80ccV",
       "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3664,
-      "seller": "VISIO DECORE ",
+      "rating": 4.6,
+      "salesCount": 5328,
+      "seller": "MANGO-SHOP",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "53505363371",
+      "title": "Espelho Oval Base Reta Corpo inteiro Moldura de Couro Madri Quarto Sala Salão Loja",
+      "price": 128.9,
+      "originalPrice": 257.8,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mpjp3w3zeigz87",
+      "url": "https://s.shopee.com.br/W7iEqLsRA",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1847,
+      "official": true,
+      "seller": "Maria's Decorações e Espelhos",
       "category": "Casa e organização"
     },
     {
@@ -1642,6 +1618,20 @@
       "rating": 4.9,
       "salesCount": 2681,
       "seller": "CasaLauraEnxovais",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58257090824",
+      "title": "Kit 4 Capas de Almofada 40x40 Suede Luxo Decorativa para Sofá Sala Quarto Macia com Zíper",
+      "price": 31.99,
+      "originalPrice": 79.97,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mmm1sfjpscna7b",
+      "url": "https://s.shopee.com.br/3VlJg4otbS",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3664,
+      "seller": "VISIO DECORE ",
       "category": "Casa e organização"
     },
     {
@@ -2005,20 +1995,6 @@
       "hot": true
     },
     {
-      "id": "52858085838",
-      "title": "Garrafa Térmica Cabo Madeira Para Café 1l",
-      "price": 44.99,
-      "originalPrice": 80.34,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mpwlcsd38hz589",
-      "url": "https://s.shopee.com.br/3VlJg1q6jJ",
-      "rating": 4.8,
-      "salesCount": 6836,
-      "official": true,
-      "seller": "SELLNEEDS",
-      "category": "Cozinha"
-    },
-    {
       "id": "18298305366",
       "title": "Espelho Redondo Decorativo Adnet com Alça e Suporte Couro 60cm 50cm 40cm 30cm Sala Banheiro Quarto",
       "price": 28.9,
@@ -2060,20 +2036,6 @@
       "salesCount": 1154,
       "seller": "LS Jalecos",
       "category": "Moda"
-    },
-    {
-      "id": "22798224799",
-      "title": "Papel de Parede Autocolante Textura Madeira 5m x 45cm, Impermeável Removível, Ideal para Parede, Móveis, Sala e Quarto",
-      "price": 18.88,
-      "originalPrice": 52.44,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mndneuqbbbwh90",
-      "url": "https://s.shopee.com.br/30p3598wHK",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 3675,
-      "seller": "Papel de Parede - Loja",
-      "category": "Casa e organização"
     },
     {
       "id": "58200141324",
@@ -2378,7 +2340,8 @@
       "rating": 4.9,
       "salesCount": 4858,
       "seller": "ADS-store",
-      "category": "Ferramentas"
+      "category": "Ferramentas",
+      "hot": true
     },
     {
       "id": "21297732100",
@@ -2434,6 +2397,19 @@
       "salesCount": 1840,
       "official": true,
       "seller": "Rei dos Vidros",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "18499088730",
+      "title": "ESPELHO LOPAZZI GRANDE VIDRO DECORAÇÃO PARA SALA QUARTO BANHEIRO",
+      "price": 79,
+      "originalPrice": 158,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8ni4a7uqrgx6a",
+      "url": "https://s.shopee.com.br/70LBymx8F2",
+      "rating": 4.9,
+      "salesCount": 2140,
+      "seller": "Aiko Comércio e Indústria",
       "category": "Casa e organização"
     },
     {
@@ -2548,20 +2524,6 @@
       "category": "Beleza"
     },
     {
-      "id": "21978586884",
-      "title": "Necessaire Organizador Feminino Para Viagem Em Alto Qualidade ATP01",
-      "price": 19.99,
-      "originalPrice": 32.24,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98p-llapzzxcekp7e0",
-      "url": "https://s.shopee.com.br/AKbdwEWkPO",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1611,
-      "seller": "All top Viagem",
-      "category": "Beleza"
-    },
-    {
       "id": "23793675077",
       "title": "Oferta! Kit 7 Espelhos Acrílico em formato Losango 34x67cm - Achadinhos da Shopee",
       "price": 27.9,
@@ -2587,6 +2549,20 @@
       "salesCount": 1135,
       "seller": "@LVSHOP",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "21978586884",
+      "title": "Necessaire Organizador Feminino Para Viagem Em Alto Qualidade ATP01",
+      "price": 19.99,
+      "originalPrice": 32.24,
+      "discountPercent": 38,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98p-llapzzxcekp7e0",
+      "url": "https://s.shopee.com.br/AKbdwEWkPO",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1611,
+      "seller": "All top Viagem",
+      "category": "Beleza"
     },
     {
       "id": "22595908195",
@@ -2668,6 +2644,20 @@
       "salesCount": 1834,
       "seller": "Tudo Bem",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "23698048173",
+      "title": "Lâmpada Pôr do Sol com Controle Remoto Luz Noturna USB 16 Cores Ajustáveis para Decoração de Quarto",
+      "price": 26.9,
+      "originalPrice": 42.03,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mqr378yt9h4xd5",
+      "url": "https://s.shopee.com.br/AUv49Djo8v",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2483,
+      "seller": "SUMARS",
+      "category": "Casa e organização"
     },
     {
       "id": "22094228144",
@@ -2891,6 +2881,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "20798293895",
+      "title": "kit com 2 Mesas de Cabeceira MAX com porta celular – Compacta, Moderna e Funcional ( a mais vendida do Brasil",
+      "price": 128.88,
+      "originalPrice": 299.72,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-msb6sdykp2bq93",
+      "url": "https://s.shopee.com.br/8AX9MvsgsR",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1907,
+      "seller": "Arte em Mobilia",
+      "category": "Casa e organização"
+    },
+    {
       "id": "22694228606",
       "title": "KIT UNHA POLYGEL CABINE SUN + POLYGEL + MOLDE F1 KIT FAÇA VOCE MESMO",
       "price": 31.9,
@@ -3001,6 +3005,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "7760921574",
+      "title": "Cortina Blackout 2,20m x 1,30m Quarto Sala Blackout PVC corta 100 % a luz Varias Cores",
+      "price": 28.9,
+      "originalPrice": 65.68,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/f0ad9f25dced277a4744202d43c9b780",
+      "url": "https://s.shopee.com.br/BUrqEN978",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1827,
+      "seller": "necasa",
+      "category": "Casa e organização"
+    },
+    {
       "id": "22491618254",
       "title": "Fone Bluetooth Sem Fio De Ouvido  P9 TWS Macaron Headphone Fone de Ouvido  Envio Imediato",
       "price": 22.99,
@@ -3040,20 +3058,6 @@
       "rating": 4.9,
       "salesCount": 1426,
       "seller": "tola1brasil",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "7760921574",
-      "title": "Cortina Blackout 2,20m x 1,30m Quarto Sala Blackout PVC corta 100 % a luz Varias Cores",
-      "price": 28.9,
-      "originalPrice": 65.68,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/f0ad9f25dced277a4744202d43c9b780",
-      "url": "https://s.shopee.com.br/40haGzn85w",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1827,
-      "seller": "necasa",
       "category": "Casa e organização"
     },
     {
@@ -3283,20 +3287,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58255488276",
-      "title": "Painel Ripado autoadesivo 3D 3m x 60cm Grosso Revestimento Amadeirado Madeira Parede Autocolante Quarto Sala",
-      "price": 79.8,
-      "originalPrice": 140,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zug-mkwz5xpqeio1dd",
-      "url": "https://s.shopee.com.br/AAIDcHDjcZ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3903,
-      "seller": "LJLP Online",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58206129432",
       "title": "Luminária 80W 52CM 42CM 60W Ventilador De Teto 6 Hélices Luz Ajustável Controle Remoto Silencioso E Econômico",
       "price": 49.9,
@@ -3322,19 +3312,6 @@
       "salesCount": 5087,
       "seller": "RicH !",
       "category": "Beleza"
-    },
-    {
-      "id": "58212657626",
-      "title": "Garrafa Térmica Inox 900ml com Alça, Tampa Antivazamento, para Academia, Trabalho, Viagem e Bebidas Quentes e Frias",
-      "price": 33.2,
-      "originalPrice": 79.05,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-msqcjodxx8ue2f",
-      "url": "https://s.shopee.com.br/1BNOtmTBcF",
-      "rating": 4.9,
-      "salesCount": 2231,
-      "seller": "payq1nh_nu",
-      "category": "Cozinha"
     },
     {
       "id": "22294689106",
@@ -3626,20 +3603,6 @@
       "category": "Cozinha"
     },
     {
-      "id": "26980788215",
-      "title": "ROMANTIC CROWN Copo Térmico Inox Portátil 1200ml/600ml/1.2L Garrafa Térmica Inoxidável com Tampa e Canudo",
-      "price": 34.98,
-      "originalPrice": 69.96,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mrsfn2n1nkec7c",
-      "url": "https://s.shopee.com.br/2gCCgUtHQC",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 5548,
-      "seller": "Romantic.Crown.07",
-      "category": "Cozinha"
-    },
-    {
       "id": "58251614409",
       "title": "ROMANTIC CROWN Copo Térmico Portátil 1200ml/600ml com Tampa e Canudo Garrafa Térmica Inoxidável À prova de vazamentos",
       "price": 34.98,
@@ -3651,19 +3614,6 @@
       "rating": 5,
       "salesCount": 4691,
       "seller": "Romantic Crown",
-      "category": "Cozinha"
-    },
-    {
-      "id": "43133655210",
-      "title": "ROMANTIC CROWN Copo Térmico Inox 1200ml com Bico Flip e Alça Garrafa Térmica para Viagem e Carro",
-      "price": 49.98,
-      "originalPrice": 99.96,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-msz051f1n4lg47",
-      "url": "https://s.shopee.com.br/4fxH4AlfMe",
-      "rating": 5,
-      "salesCount": 3032,
-      "seller": "Romantic.Crown.07",
       "category": "Cozinha"
     },
     {
@@ -3932,6 +3882,34 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23793480878",
+      "title": "Prateleira Estante Armario Organizador multiuso Para Quarto Cozinha Sapateira Organizadora Livros",
+      "price": 39.8,
+      "originalPrice": 79.6,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1r5yhrslu6g08",
+      "url": "https://s.shopee.com.br/8fTPxqqmrS",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1953,
+      "seller": "Lemann Shop",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58259574612",
+      "title": "Garrafa Térmica 550ML Infântil Inox Premium Portátil Com Canudo Tampa  Rosqueável Bebida Quente Fria Escola Criança",
+      "price": 29.88,
+      "originalPrice": 59.76,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mnh98qp13uv66a",
+      "url": "https://s.shopee.com.br/1qd5pIcndJ",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1323,
+      "seller": "Fuxi Store",
+      "category": "Cozinha"
+    },
+    {
       "id": "23693858343",
       "title": "Kit 10/6 Brinquedos Mordedores Cachorro Filhote Anti-stress Pet Ranger os dentes Limpeza da boca",
       "price": 23.91,
@@ -3985,20 +3963,6 @@
       "category": "Cozinha"
     },
     {
-      "id": "23394513975",
-      "title": "caneca Garrafa Térmica Vacuum Bottle Inox 500ml +  Xícaras Bebidas Fria ou Quente",
-      "price": 26.99,
-      "originalPrice": 48.2,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mqxgs36zuv44ce",
-      "url": "https://s.shopee.com.br/W7i6YViy3",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1976,
-      "seller": "GL.COMERCIO",
-      "category": "Cozinha"
-    },
-    {
       "id": "23398336644",
       "title": "Tenis Esportivo Masculino Feminino Academia Treino Leve",
       "price": 47.99,
@@ -4039,19 +4003,6 @@
       "salesCount": 4863,
       "seller": "ATACADO DO LENÇO UMEDECIDO",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "58268047298",
-      "title": "Necessaire Feminina Personalizada com Inicial e Alça Porta Maquiagem Organizador de Bolsa Estojo Viagem Presente",
-      "price": 19.89,
-      "originalPrice": 34.89,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mt8ghi9kshky14",
-      "url": "https://s.shopee.com.br/113yp56HLj",
-      "rating": 5,
-      "salesCount": 1042,
-      "seller": "PersonalizeArtBaby",
-      "category": "Casa e organização"
     },
     {
       "id": "23399044730",
@@ -4149,6 +4100,61 @@
       "salesCount": 1100,
       "seller": "Novelty Department Store",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "17162895110",
+      "title": "Cortina 100% Blackout 1,10m x 1,30m Para Sala e Quarto Folha Única",
+      "price": 19.99,
+      "originalPrice": 35.7,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me0epmq6tfy809",
+      "url": "https://s.shopee.com.br/9APgYlosqX",
+      "hasVariantPrices": true,
+      "rating": 4.5,
+      "salesCount": 2229,
+      "seller": "Moda Casa Sago",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "23198062865",
+      "title": "GUI ANA Depilador 2em1 Recarregavel Usb Sobrancelha Buço Batom",
+      "price": 16.75,
+      "originalPrice": 29.91,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lk-mqy3req2srgn0c",
+      "url": "https://s.shopee.com.br/2BFw5dG6jB",
+      "rating": 4.8,
+      "salesCount": 1639,
+      "seller": "GUI ANA SHOP",
+      "category": "Beleza"
+    },
+    {
+      "id": "27944090972",
+      "title": "2 Pçs Feminino Retângulo Relógio De Quartzo Pulseira Conjunto Strass Moda Jóias Presente Elegante",
+      "price": 22.9,
+      "originalPrice": 34.18,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258l-mrr259mcx2pxca",
+      "url": "https://s.shopee.com.br/4B10TG0yUh",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2095,
+      "seller": "Choice Oficial",
+      "category": "Moda"
+    },
+    {
+      "id": "22798943741",
+      "title": "KIT 100 UN ESPELHO ACRILICO SEM COLA  DECORATIVO REDONDO VÁRIOS TAMANHOS 1CM A 6,9CM ACHADINHOS SHOPEE",
+      "price": 36.98,
+      "originalPrice": 64.88,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2nstsgxzwkaa",
+      "url": "https://s.shopee.com.br/7Aec2oJTXW",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 56,
+      "seller": "YELLOW LASER 3",
+      "category": "Presentes e papelaria"
     }
   ]
 }
