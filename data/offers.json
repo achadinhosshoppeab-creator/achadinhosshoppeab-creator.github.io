@@ -1,159 +1,18 @@
 {
-  "updatedAt": "2026-10-26T23:30:48.026Z",
+  "updatedAt": "2026-10-26T23:51:12.521Z",
   "offers": [
     {
-      "id": "41027117403",
-      "title": "Presilha Prendedor de Cabelo Oval Garra Coreana Piranha de Cabelon Estilo Tartaruga Cores Opacas",
-      "price": 15.96,
-      "originalPrice": 39.9,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mu49dz2hewaoe6",
-      "url": "https://s.shopee.com.br/3g4lgOCKyN",
-      "hasVariantPrices": true,
+      "id": "22597543717",
+      "title": "MEDOOSI Quebra-Cabeça 3D 3 em 1 Tetris De Madeira Brinquedos E Tangram /Jogo Infantil Maginação Educativo para Crianças",
+      "price": 16.9,
+      "originalPrice": 49.71,
+      "discountPercent": 66,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mlh8fj65v11h1e",
+      "url": "https://s.shopee.com.br/60SgU6KqDJ",
       "rating": 4.9,
-      "salesCount": 1281,
-      "seller": "Difinity",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "22494463523",
-      "title": "Kit Colmeia Organizadora de Guarda Roupa P, M, G",
-      "price": 21.9,
-      "originalPrice": 42.12,
-      "discountPercent": 48,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfa1jvp92bk607",
-      "url": "https://s.shopee.com.br/2LZO5wdY5h",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 352,
-      "seller": "Maison Plus",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23535003648",
-      "title": "Brinquedo para Gato Arranhador com Pena e Rampa Poste Sisal",
-      "price": 39.89,
-      "originalPrice": 64.34,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhrp620eyj9f23",
-      "url": "https://s.shopee.com.br/1qd7V1JJnM",
-      "rating": 4.9,
-      "salesCount": 709,
-      "seller": "Fabrica Pet",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "58204962298",
-      "title": "Heemli Organizador de Guarda-Roupa Branco com Gaveta Multiuso Grande Capacidade Resistente e Durável",
-      "price": 53.98,
-      "originalPrice": 142.05,
-      "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82631-mkjbeeyo59mw05",
-      "url": "https://s.shopee.com.br/5fpq44QrK1",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 303,
-      "seller": "Heemli Casa & Banho",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "58264681920",
-      "title": "Cesto Organizador Dobrável Empilhável para Guarda-Roupa com Acesso Deslizante Heemli",
-      "price": 53.99,
-      "originalPrice": 138.44,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b4-mqx2m3g91ywx9a",
-      "url": "https://s.shopee.com.br/3qOBshXq2q",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 238,
-      "seller": "Heemli Casa & Banho",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "21899663973",
-      "title": "Organizador Dupla Face 30 Divisões: 12+18 Bolsos para Roupas Íntimas, Meias e Mais",
-      "price": 17.99,
-      "originalPrice": 32.71,
-      "discountPercent": 45,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd5s-m7dyj42j3wtsbb",
-      "url": "https://s.shopee.com.br/4qGj4XU20w",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 351,
-      "seller": "Lecmor store",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "19097970664",
-      "title": "[ KIT 3 ] Prendedor Maior Presilha Piranha / Grampo De Cabelo Grande Fosco Estilo Grande 11cm",
-      "price": 19.99,
-      "originalPrice": 33.32,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc0q0t054bbtc3",
-      "url": "https://s.shopee.com.br/1BTJeQIPp",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1495,
-      "seller": "FLUVI",
-      "category": "Beleza"
-    },
-    {
-      "id": "28130363589",
-      "title": "Presilhas de Cabelo Estrelas Coloridas para Meninas – 50 Unidades de Acessórios de Cabelo Fashion para Franjas Laterais",
-      "price": 18.21,
-      "originalPrice": 29.85,
-      "discountPercent": 39,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qp-mp4m8rz0nq4hd7",
-      "url": "https://s.shopee.com.br/1gJhIiJx23",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 4023,
-      "seller": "Choice Oficial",
-      "category": "Beleza"
-    },
-    {
-      "id": "18899493378",
-      "title": "KIT 10PCS Tiaras Delicada Feminina Pérola Luxo Arco Cabelo（10 modelos diferentes）",
-      "price": 19.95,
-      "originalPrice": 49.87,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lr-mqxecfqoehhh8c",
-      "url": "https://s.shopee.com.br/30p4tAEsKB",
-      "rating": 4.9,
-      "salesCount": 1928,
-      "seller": "GUI ANA SHOP",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "50055368316",
-      "title": "Arara 4/5 andar Sapateira Organizadora Cabideiro Suporte Multiuso Sapato Tenis Roupa Closet",
-      "price": 39.99,
-      "originalPrice": 90.89,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mph8c7yvvbph29",
-      "url": "https://s.shopee.com.br/60SgSgPae3",
-      "rating": 4.8,
-      "salesCount": 310,
-      "seller": "AstroNova ",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "19797994608",
-      "title": "ANA1108 12 Pacote Colorido Pequeno Elasticos Silicone Grosso De Cabelo Meninas  Elástico",
-      "price": 23.48,
-      "originalPrice": 49.96,
-      "discountPercent": 53,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7raty-maydkhzfz90i62",
-      "url": "https://s.shopee.com.br/2VsoIFGmLG",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1667,
-      "seller": "YOUYI BIJUTERIAS",
-      "category": "Beleza",
+      "salesCount": 2089,
+      "seller": "MEDOOSI-BR",
+      "category": "Pet e bebê",
       "hot": true
     },
     {
@@ -196,6 +55,20 @@
       "category": "Beleza"
     },
     {
+      "id": "22394200465",
+      "title": "Saco De Pancada Infantil + Luvas Boxe Brinquedo Treino Forte Brinquedo Educativo e Divertido",
+      "price": 46.9,
+      "originalPrice": 78.17,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82584-mrbwnk9qdvraec",
+      "url": "https://s.shopee.com.br/70LDfwH2BT",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 1945,
+      "seller": "VCOMMERCE_",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "18097800819",
       "title": "Jogo De Panelas Antiaderente 10 Peças Bianco Conjunto Kit Teflon  Com Tampa De Vidro Temperado Cozinha",
       "price": 205.6,
@@ -221,7 +94,8 @@
       "rating": 4.8,
       "salesCount": 1968,
       "seller": "GL.COMERCIO",
-      "category": "Cozinha"
+      "category": "Cozinha",
+      "hot": true
     },
     {
       "id": "23398336644",
@@ -238,20 +112,6 @@
       "category": "Moda"
     },
     {
-      "id": "23399044730",
-      "title": "Kit 4 Almofadas Decorativas Para Sofá Cheias 100% Fibra Siliconada Tecido Várias cores 45x45cm Luxo",
-      "price": 39.8,
-      "originalPrice": 69.82,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825au-mg5f23mnw07fb9",
-      "url": "https://s.shopee.com.br/70LBqVbZVB",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2585,
-      "seller": "Casa Oliveira Decor",
-      "category": "Casa e organização"
-    },
-    {
       "id": "17512767444",
       "title": "Kit 5 Pomadas Preventivas para Assaduras 45g Turminha da Bagunça Pomada Bebê",
       "price": 27.92,
@@ -263,6 +123,21 @@
       "salesCount": 4868,
       "seller": "ATACADO DO LENÇO UMEDECIDO",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "23399044730",
+      "title": "Kit 4 Almofadas Decorativas Para Sofá Cheias 100% Fibra Siliconada Tecido Várias cores 45x45cm Luxo",
+      "price": 39.8,
+      "originalPrice": 69.82,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825au-mg5f23mnw07fb9",
+      "url": "https://s.shopee.com.br/70LBqVbZVB",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2585,
+      "seller": "Casa Oliveira Decor",
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "22393485784",
@@ -292,20 +167,6 @@
       "salesCount": 3235,
       "seller": "Jesus é o Caminho",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "48158535582",
-      "title": "Kit 5 Sacos A Vácuo Tamanho Médio 40x60 Com Bomba Organizador Para Edredom Mala Roupa De Cama",
-      "price": 24.99,
-      "originalPrice": 46.28,
-      "discountPercent": 46,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ax-ms310cuaavid0d",
-      "url": "https://s.shopee.com.br/1qd7V1fS6e",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 381,
-      "seller": "Angel Universe",
-      "category": "Casa e organização"
     },
     {
       "id": "18799229666",
@@ -404,7 +265,8 @@
       "rating": 4.5,
       "salesCount": 2231,
       "seller": "Moda Casa Sago",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "23198062865",
@@ -432,6 +294,20 @@
       "salesCount": 2048,
       "seller": "Choice Oficial",
       "category": "Moda"
+    },
+    {
+      "id": "22798943741",
+      "title": "KIT 100 UN ESPELHO ACRILICO SEM COLA  DECORATIVO REDONDO VÁRIOS TAMANHOS 1CM A 6,9CM ACHADINHOS SHOPEE",
+      "price": 36.98,
+      "originalPrice": 64.88,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2nstsgxzwkaa",
+      "url": "https://s.shopee.com.br/7Aec2oJTXW",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 57,
+      "seller": "YELLOW LASER 3",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "44230742944",
@@ -588,6 +464,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "58263573730",
+      "title": "Kit 3 Porta Shampoo De Canto Luxo Prateleira Vidro Para Cozinha Ou Banheiro Organizador De Box",
+      "price": 21.85,
+      "originalPrice": 32.61,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mq6hg69vfzer9b",
+      "url": "https://s.shopee.com.br/AUv5qLZB5r",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1783,
+      "seller": "LM metais",
+      "category": "Casa e organização"
+    },
+    {
       "id": "45352758433",
       "title": "Laptop Infantil Notebook Educativo Computador Português e Inglês Raciocínio Lógico Palavras Números",
       "price": 49.9,
@@ -654,6 +544,20 @@
       "salesCount": 7171,
       "seller": "Choice Oficial",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "41781797063",
+      "title": "ESPELHO DE CORAÇÃO PARA BOTTON MAQUINA CHINESA ACHADINHOS DA SHOPEE",
+      "price": 23.98,
+      "originalPrice": 36.89,
+      "discountPercent": 35,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820l7-mqx3xvvvg3d1d7",
+      "url": "https://s.shopee.com.br/6q1leCKkDQ",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 88,
+      "seller": "YELLOW LASER 3",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "21299607301",
