@@ -1,34 +1,6 @@
 {
-  "updatedAt": "2026-10-26T05:45:40.801Z",
+  "updatedAt": "2026-10-26T06:16:22.825Z",
   "offers": [
-    {
-      "id": "22094984499",
-      "title": "Livro Educativo Bilíngue Interativo Com Som e Lousa Mágica 2 em 1 Brinquedo Infantil",
-      "price": 37.61,
-      "originalPrice": 98.97,
-      "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mtq42r43vev75d",
-      "url": "https://s.shopee.com.br/4B10TJYp7y",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3107,
-      "seller": "Super mantimentos comprar",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "57902938444",
-      "title": "Kit De Varinha Mágica De Bolha De Fumaça LED Com Luvas | Conjunto De Brinquedos Coloridos Luz E Efeito Visual",
-      "price": 37.8,
-      "originalPrice": 99.47,
-      "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mivgl21mmq6d10",
-      "url": "https://s.shopee.com.br/60SeegWJRX",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 5573,
-      "seller": "Vida Colorida",
-      "category": "Pet e bebê"
-    },
     {
       "id": "22799040705",
       "title": "Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna com Palmilha Massageadora",
@@ -983,7 +955,8 @@
       "rating": 4.8,
       "salesCount": 2023,
       "seller": "JIMMY.STORE",
-      "category": "Eletrônicos"
+      "category": "Eletrônicos",
+      "hot": true
     },
     {
       "id": "18725087530",
@@ -1190,21 +1163,6 @@
       "salesCount": 636,
       "seller": "@LVSHOP",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "23093824562",
-      "title": "Tênis Casual Branco Feminino Masculino Conforto Premium Academia Original",
-      "price": 29.9,
-      "originalPrice": 99.67,
-      "discountPercent": 70,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfn8h5ufyu4kb0",
-      "url": "https://s.shopee.com.br/3g4jsONb1T",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 6923,
-      "seller": "ELITE SHOES ",
-      "category": "Moda",
-      "hot": true
     },
     {
       "id": "52858085838",
