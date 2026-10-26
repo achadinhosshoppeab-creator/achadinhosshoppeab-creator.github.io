@@ -1,107 +1,6 @@
 {
-  "updatedAt": "2026-10-26T20:25:31.293Z",
+  "updatedAt": "2026-10-26T20:46:25.287Z",
   "offers": [
-    {
-      "id": "27043867803",
-      "title": "Pijama Infantil Bebê Menina Manga Curta com Estampas Fofas e Conforto Roupa para dormir Bebê Feminino Verão Calor L06",
-      "price": 19.99,
-      "originalPrice": 49.97,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-min0agqfsow1da",
-      "url": "https://s.shopee.com.br/8KqZQyAELO",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1537,
-      "official": true,
-      "seller": "Poloinfantil.store",
-      "category": "Moda",
-      "hot": true
-    },
-    {
-      "id": "58261543430",
-      "title": "Cortina Linho em Blackout 100% Contextura Toque Linho Corta Luz Janela Quarto Sala",
-      "price": 72.79,
-      "originalPrice": 102.52,
-      "discountPercent": 29,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mudltlobo3r614",
-      "url": "https://s.shopee.com.br/2qVcsqrZSb",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 2695,
-      "seller": "CB ENXOVAIS",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58214199207",
-      "title": "Kit 4 Capas de Almofada Linho 40x40 Rústico Moderno Decorativa Sofá Sala Quarto com Zíper",
-      "price": 39.99,
-      "originalPrice": 97.54,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259y-mqmnmvlzpgr2c0",
-      "url": "https://s.shopee.com.br/6Am4qyekCE",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1933,
-      "seller": "Bassi Casa & Decoração",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "41581456549",
-      "title": "Fones de Ouvido X55 TWS Mini Sleep Sem Fio Bluetooth com Display LED, Som Estéreo HIFI, IPX5 à Prova d’Água e",
-      "price": 18.1,
-      "originalPrice": 25.14,
-      "discountPercent": 28,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rp-mp7x1cv6r7da88",
-      "url": "https://s.shopee.com.br/1W0FIOIysd",
-      "rating": 4.8,
-      "salesCount": 6161,
-      "official": true,
-      "seller": "Brand Choice",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "58255488276",
-      "title": "Painel Ripado autoadesivo 3D 3m x 60cm Grosso Revestimento Amadeirado Madeira Parede Autocolante Quarto Sala",
-      "price": 79.8,
-      "originalPrice": 140,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zug-mkwz5xpqeio1dd",
-      "url": "https://s.shopee.com.br/AAIDcHDjcZ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3990,
-      "seller": "LJLP Online",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58251006635",
-      "title": "KIT 40 unidades de xuxinhas com Detalhes de Silicone Laço/Coroa/Unicornio/muitos Modelo Aleatorio",
-      "price": 20.98,
-      "originalPrice": 49.95,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mszsj0tzug3p1b",
-      "url": "https://s.shopee.com.br/9APgQRUfkW",
-      "rating": 4.9,
-      "salesCount": 4928,
-      "seller": "RicH !",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "58212657626",
-      "title": "Garrafa Térmica Inox 900ml com Alça, Tampa Antivazamento, para Academia, Trabalho, Viagem e Bebidas Quentes e Frias",
-      "price": 33.2,
-      "originalPrice": 79.05,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-msqcjodxx8ue2f",
-      "url": "https://s.shopee.com.br/1BNOtmTBcF",
-      "rating": 4.9,
-      "salesCount": 2179,
-      "seller": "payq1nh_nu",
-      "category": "Cozinha",
-      "hot": true
-    },
     {
       "id": "22294689106",
       "title": "Mouse Sem Fio Recarregável Silencioso Bluetooth/USB Ergonômico PC Notebook",
@@ -211,7 +110,8 @@
       "rating": 4.8,
       "salesCount": 1811,
       "seller": "VAULT NET COMERCIAL E DISTRIBUIDORA",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "23194426818",
@@ -308,7 +208,8 @@
       "rating": 4.7,
       "salesCount": 3442,
       "seller": "PLENCIA UNDERWEAR",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "21098661719",
@@ -392,7 +293,8 @@
       "rating": 5,
       "salesCount": 4341,
       "seller": "Romantic.Crown.07",
-      "category": "Cozinha"
+      "category": "Cozinha",
+      "hot": true
     },
     {
       "id": "26980788215",
@@ -421,7 +323,8 @@
       "rating": 5,
       "salesCount": 4566,
       "seller": "Romantic Crown",
-      "category": "Cozinha"
+      "category": "Cozinha",
+      "hot": true
     },
     {
       "id": "43133655210",
@@ -645,6 +548,20 @@
       "salesCount": 1618,
       "seller": "COCONUT SHOP",
       "category": "Ferramentas"
+    },
+    {
+      "id": "22994141410",
+      "title": "Luminária LED Pérola Concha Decorativa | Luz Noturna para Quarto Presente Criativo",
+      "price": 25.9,
+      "originalPrice": 47.96,
+      "discountPercent": 46,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-max8r6an720pd6",
+      "url": "https://s.shopee.com.br/2VsmUByNnE",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1444,
+      "seller": "NEST&NOOK",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "22894551427",
