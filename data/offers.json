@@ -1,89 +1,19 @@
 {
-  "updatedAt": "2026-10-26T19:44:15.596Z",
+  "updatedAt": "2026-10-26T20:04:42.158Z",
   "offers": [
     {
-      "id": "58266394932",
-      "title": "ROMANTIC CROWN Garrafa Térmica 800ml Aço Inox 304 com 2 Formas de Beber para Viagem e Esporte",
-      "price": 44.98,
-      "originalPrice": 99.96,
-      "discountPercent": 55,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-msxvdbpqj9c4e4",
-      "url": "https://s.shopee.com.br/50a7SmkOgk",
-      "rating": 5,
-      "salesCount": 3311,
-      "seller": "Romantic Crown",
-      "category": "Cozinha",
-      "hot": true
-    },
-    {
-      "id": "55666184367",
-      "title": "ROMANTIC CROWN Garrafa Térmica 800ml Aço Inox 304 Grande Capacidade com 2 Formas de Beber para Viagem e Esporte",
-      "price": 44.98,
-      "originalPrice": 99.96,
-      "discountPercent": 55,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtgcw2memgoy63",
-      "url": "https://s.shopee.com.br/AAIDcJuvLp",
-      "rating": 5,
-      "salesCount": 2707,
-      "seller": "Romantic.Crown.07",
-      "category": "Cozinha"
-    },
-    {
-      "id": "22694228606",
-      "title": "KIT UNHA POLYGEL CABINE SUN + POLYGEL + MOLDE F1 KIT FAÇA VOCE MESMO",
-      "price": 32.99,
-      "originalPrice": 82.48,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mq6m3qmijymbed",
-      "url": "https://s.shopee.com.br/1gJfWt30Si",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1639,
-      "seller": "Orizon Imports",
-      "category": "Cozinha"
-    },
-    {
-      "id": "58254342229",
-      "title": "Luminaria Projetor De Estrelas Galaxy Abajur Quarto Criancas Star Master Combinação de Duas Cores",
-      "price": 27.99,
-      "originalPrice": 55.98,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82624-mk398rzlko3m67",
-      "url": "https://s.shopee.com.br/2VsmUEshao",
-      "hasVariantPrices": true,
+      "id": "23698179357",
+      "title": "Porta Tempero Inox Giratório Vidro 12 Potes 360",
+      "price": 49.99,
+      "originalPrice": 86.19,
+      "discountPercent": 42,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mu0r4v7y1p8h3b",
+      "url": "https://s.shopee.com.br/5VWO3kcwzJ",
       "rating": 4.9,
-      "salesCount": 1955,
-      "seller": "zapshop2",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "20997924613",
-      "title": "Escova Secadora 3 em 1 Profissional",
-      "price": 90.99,
-      "originalPrice": 202.2,
-      "discountPercent": 55,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfi8-m9ahmbzrn20746",
-      "url": "https://s.shopee.com.br/1Lgp66NgCO",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 1853,
-      "seller": "OLIVIA.OFICIAIS",
-      "category": "Beleza"
-    },
-    {
-      "id": "58262387784",
-      "title": "Tênis O2x Feminino Esportivo Confortável Leve Treino Caminhada Fitness",
-      "price": 39.9,
-      "originalPrice": 99.75,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mo0j5ap2qi2p7f",
-      "url": "https://s.shopee.com.br/5LCxrSHFdw",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3675,
-      "seller": ".ELITE SHOES",
-      "category": "Moda",
-      "hot": true
+      "salesCount": 941,
+      "official": true,
+      "seller": "SELLNEEDS",
+      "category": "Cozinha"
     },
     {
       "id": "53003585950",
@@ -368,7 +298,8 @@
       "rating": 4.7,
       "salesCount": 2289,
       "seller": "Shop Hub",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "43182386687",
@@ -464,7 +395,8 @@
       "rating": 4.8,
       "salesCount": 2607,
       "seller": "lojamegas",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "23898040058",
@@ -712,7 +644,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-msvpg5xgzsp208",
       "url": "https://s.shopee.com.br/50a7SmkSy7",
       "rating": 4.8,
-      "salesCount": 2473,
+      "salesCount": 2466,
       "seller": "Pet Prime Br",
       "category": "Pet e bebê"
     },
@@ -1347,7 +1279,7 @@
       "url": "https://s.shopee.com.br/6q1leCKkDQ",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 90,
+      "salesCount": 88,
       "seller": "YELLOW LASER 3",
       "category": "Presentes e papelaria"
     },
@@ -1361,7 +1293,7 @@
       "url": "https://s.shopee.com.br/9V2Wp6JK6W",
       "hasVariantPrices": true,
       "rating": 4.7,
-      "salesCount": 720,
+      "salesCount": 704,
       "official": true,
       "seller": "ARARAS ONLINE",
       "category": "Cozinha"
