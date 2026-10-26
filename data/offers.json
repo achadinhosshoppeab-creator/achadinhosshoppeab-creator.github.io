@@ -1,32 +1,34 @@
 {
-  "updatedAt": "2026-10-26T02:41:08.255Z",
+  "updatedAt": "2026-10-26T03:11:54.742Z",
   "offers": [
     {
-      "id": "22497982173",
-      "title": "Suporte Porta Celular Moto Bike Á Prova Dágua 360° Articulado 6.5 POLEGADAS",
-      "price": 27.79,
-      "originalPrice": 60.41,
-      "discountPercent": 54,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-7r98o-m1ioorbbsm3532",
-      "url": "https://s.shopee.com.br/7fasdjdZRS",
+      "id": "58212573737",
+      "title": "Tapete Higiênico Cães Carvão Bambu Ativado Aroma Lavanda 30 Unidades Absorvente Anti Odor Tamanho 60x60cm / 80x60cm",
+      "price": 51.9,
+      "originalPrice": 140.27,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mrjuw7udmqdj44",
+      "url": "https://s.shopee.com.br/906GEBPhBA",
       "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 2638,
-      "seller": "YYYNN",
-      "category": "Eletrônicos"
+      "rating": 4.9,
+      "salesCount": 2556,
+      "seller": "Newpet - marca",
+      "category": "Casa e organização"
     },
     {
-      "id": "55315796592",
-      "title": "Brinquedo Squishy de Queijo Antiestresse, Bloco Macio para Apertar, Brinquedo Sensorial, Presente Criativo Infantil",
-      "price": 29,
-      "originalPrice": 78.38,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ac-mrqr6zca7jeud6",
-      "url": "https://s.shopee.com.br/113yhR45pp",
-      "rating": 4.8,
-      "salesCount": 2382,
-      "seller": "XY Casa & Auto🏡",
-      "category": "Presentes e papelaria"
+      "id": "19099597031",
+      "title": "Belifou Kit 24 Peças Jogo De Talheres Inox Faqueiro Completo Colher Garfo Faca Para Jantar Cozinha Luxo",
+      "price": 32.33,
+      "originalPrice": 92.37,
+      "discountPercent": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m8bovalmy7tdb1",
+      "url": "https://s.shopee.com.br/5VWO3kYcUC",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 668,
+      "official": true,
+      "seller": "Belifou Talheres",
+      "category": "Cozinha"
     },
     {
       "id": "23494419761",
@@ -156,6 +158,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "57902938444",
+      "title": "Kit De Varinha Mágica De Bolha De Fumaça LED Com Luvas | Conjunto De Brinquedos Coloridos Luz E Efeito Visual",
+      "price": 37.8,
+      "originalPrice": 99.47,
+      "discountPercent": 62,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mivgl21mmq6d10",
+      "url": "https://s.shopee.com.br/60SeegWJRX",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 5573,
+      "seller": "Vida Colorida",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "22799040705",
       "title": "Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna com Palmilha Massageadora",
       "price": 39.9,
@@ -169,18 +185,17 @@
       "category": "Beleza"
     },
     {
-      "id": "57902938444",
-      "title": "Kit De Varinha Mágica De Bolha De Fumaça LED Com Luvas | Conjunto De Brinquedos Coloridos Luz E Efeito Visual",
+      "id": "45056823760",
+      "title": "Bandeja Espelhada Decorativa Orgânico Couro Ecológico Premium 38x26cm Sala Quarto Banheiro Mesa Hall",
       "price": 38.9,
       "originalPrice": 99.74,
       "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mivgl21mmq6d10",
-      "url": "https://s.shopee.com.br/60SeegWJRX",
-      "hasVariantPrices": true,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mlf5x2xbx4hx2c",
+      "url": "https://s.shopee.com.br/906GEBYMDS",
       "rating": 4.9,
-      "salesCount": 5573,
-      "seller": "Vida Colorida",
-      "category": "Pet e bebê"
+      "salesCount": 1577,
+      "seller": "We Mirror Conceito",
+      "category": "Casa e organização"
     },
     {
       "id": "46360468172",
@@ -402,17 +417,18 @@
       "category": "Ferramentas"
     },
     {
-      "id": "58251693883",
-      "title": "Watersy Garrafa Térmica Portátil 532ml Aço Inox Sem BPA Presente para Viagem Trabalho",
-      "price": 28.49,
-      "originalPrice": 66.26,
+      "id": "23094310840",
+      "title": "Belifou Garrafa Térmica Owala De 32 Oz Para Esportes E Condicionamento Físico Ao Ar Livre",
+      "price": 43.11,
+      "originalPrice": 100.26,
       "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mtnc2038j1ts56",
-      "url": "https://s.shopee.com.br/5AtXf5jlLn",
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-mdhatr5e2wup8b",
+      "url": "https://s.shopee.com.br/1gJfUhRHbO",
       "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 3143,
-      "seller": "Watersy Oficial",
+      "rating": 4.9,
+      "salesCount": 1949,
+      "official": true,
+      "seller": "Belifou Talheres",
       "category": "Cozinha"
     },
     {
@@ -432,8 +448,8 @@
     {
       "id": "22693741525",
       "title": "Smartwatch Ultra 3 Max Carregamento sem fio relógio inteligente 2.18 inches Bluetooth AI Inteligente Esportivo",
-      "price": 45.99,
-      "originalPrice": 121.03,
+      "price": 45.88,
+      "originalPrice": 120.74,
       "discountPercent": 62,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd74-m6rybucp45yh0b",
       "url": "https://s.shopee.com.br/4B10TIzcpE",
@@ -442,6 +458,20 @@
       "salesCount": 1084,
       "seller": "TRADENO ECOMERCE",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "23694347564",
+      "title": "GOKOCO Escova Secadora 5 Em 1 Conjunto De Secador De Cabelo Multifuncional De Alta Velocidade Dupla voltagem 110V-240V",
+      "price": 425,
+      "originalPrice": 988.37,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-msbapxbqpouead",
+      "url": "https://s.shopee.com.br/5LCxtdOFHS",
+      "rating": 4.9,
+      "salesCount": 2153,
+      "official": true,
+      "seller": "GOKOCO Offical Shop.BR",
+      "category": "Beleza"
     },
     {
       "id": "58255159172",
@@ -456,21 +486,6 @@
       "salesCount": 10175,
       "seller": "YYYNN",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "23094310840",
-      "title": "Belifou Garrafa Térmica Owala De 32 Oz Para Esportes E Condicionamento Físico Ao Ar Livre",
-      "price": 43.98,
-      "originalPrice": 99.95,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-mdhatr5e2wup8b",
-      "url": "https://s.shopee.com.br/1gJfUhRHbO",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1949,
-      "official": true,
-      "seller": "Belifou Talheres",
-      "category": "Cozinha"
     },
     {
       "id": "41733456705",
@@ -540,6 +555,20 @@
       "salesCount": 14836,
       "seller": "JX VERDE",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "58251693883",
+      "title": "Watersy Garrafa Térmica Portátil 532ml Aço Inox Sem BPA Presente para Viagem Trabalho",
+      "price": 29.89,
+      "originalPrice": 66.42,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mtnc2038j1ts56",
+      "url": "https://s.shopee.com.br/5AtXf5jlLn",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 3143,
+      "seller": "Watersy Oficial",
+      "category": "Cozinha"
     },
     {
       "id": "44213872297",
@@ -972,20 +1001,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "45056823760",
-      "title": "Bandeja Espelhada Decorativa Orgânico Couro Ecológico Premium 38x26cm Sala Quarto Banheiro Mesa Hall",
-      "price": 38.9,
-      "originalPrice": 77.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mlf5x2xbx4hx2c",
-      "url": "https://s.shopee.com.br/906GEBYMDS",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1577,
-      "seller": "We Mirror Conceito",
-      "category": "Casa e organização"
-    },
-    {
       "id": "22694420696",
       "title": "Espelho Redondo Adnet Decorativo Suspenso de Parede 20cm + Pino",
       "price": 24.99,
@@ -1044,8 +1059,8 @@
     {
       "id": "54052225033",
       "title": "32 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas",
-      "price": 79,
-      "originalPrice": 197.5,
+      "price": 78.92,
+      "originalPrice": 197.3,
       "discountPercent": 60,
       "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhkecw4985qc28",
       "url": "https://s.shopee.com.br/3B8THTh6C8",
@@ -1724,6 +1739,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "26790623882",
+      "title": "Capas Para Orelhas De Cachorro SKEC , Protetor De Orelha Calmante Cães Antirruído Com Redução De Ruído , Protetores Ajus",
+      "price": 31.73,
+      "originalPrice": 53.78,
+      "discountPercent": 41,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824gm-mdzqzv4b6txgcd",
+      "url": "https://s.shopee.com.br/1BNOtnoZih",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1834,
+      "seller": "Tudo Bem",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "58253767614",
       "title": "Arranhador Gato Rampa Anti Estresse Casinha Brinquedo Tóca 30x47cm",
       "price": 29.9,
@@ -1753,8 +1782,8 @@
     {
       "id": "43124797776",
       "title": "Espelho Decorativo Redondo para Escritório Sala Quarto Banheiro c/ Led 60cm 50cm 40cm 30cm + Suporte",
-      "price": 49.9,
-      "originalPrice": 83.17,
+      "price": 49.54,
+      "originalPrice": 82.57,
       "discountPercent": 40,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfy5748s7f2d56",
       "url": "https://s.shopee.com.br/9pfNDiVBWZ",
@@ -1808,8 +1837,8 @@
     {
       "id": "22998326555",
       "title": "Organizador de Cintos Gravata Relógios Perfumes 34 x10 x 8 Com 6 Divisórias em Acrílico Para Gavetas e Armário",
-      "price": 36.9,
-      "originalPrice": 80.22,
+      "price": 37.9,
+      "originalPrice": 82.39,
       "discountPercent": 54,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-ms5mxz8lcyrp5d",
       "url": "https://s.shopee.com.br/3LRtcjl81f",
@@ -1983,20 +2012,6 @@
       "salesCount": 3784,
       "seller": "Ankco Shop",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "26790623882",
-      "title": "Capas Para Orelhas De Cachorro SKEC , Protetor De Orelha Calmante Cães Antirruído Com Redução De Ruído , Protetores Ajus",
-      "price": 34.4,
-      "originalPrice": 54.6,
-      "discountPercent": 37,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824gm-mdzqzv4b6txgcd",
-      "url": "https://s.shopee.com.br/1BNOtnoZih",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1834,
-      "seller": "Tudo Bem",
-      "category": "Pet e bebê"
     },
     {
       "id": "22094228144",
@@ -2220,20 +2235,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "22694228606",
-      "title": "KIT UNHA POLYGEL CABINE SUN + POLYGEL + MOLDE F1 KIT FAÇA VOCE MESMO",
-      "price": 31.9,
-      "originalPrice": 83.95,
-      "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mq6m3qmijymbed",
-      "url": "https://s.shopee.com.br/1gJfWt30Si",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1650,
-      "seller": "Orizon Imports",
-      "category": "Cozinha"
-    },
-    {
       "id": "23698179357",
       "title": "Porta Tempero Inox Giratório Vidro 12 Potes 360",
       "price": 58.9,
@@ -2278,8 +2279,8 @@
     {
       "id": "58258491270",
       "title": "Carregador Turbo 2 Saídas Fonte 50W 2 Entradas USB e USB-C com Cabo Lightning Ultra Rápido",
-      "price": 28.9,
-      "originalPrice": 60.21,
+      "price": 28.89,
+      "originalPrice": 60.19,
       "discountPercent": 52,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mnz3i6a2bwn4e3",
       "url": "https://s.shopee.com.br/1BNOtn6Zsd",
@@ -2440,6 +2441,20 @@
       "category": "Cozinha"
     },
     {
+      "id": "22694228606",
+      "title": "KIT UNHA POLYGEL CABINE SUN + POLYGEL + MOLDE F1 KIT FAÇA VOCE MESMO",
+      "price": 32.99,
+      "originalPrice": 82.48,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mq6m3qmijymbed",
+      "url": "https://s.shopee.com.br/1gJfWt30Si",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 1650,
+      "seller": "Orizon Imports",
+      "category": "Cozinha"
+    },
+    {
       "id": "20997924613",
       "title": "Escova Secadora 3 em 1 Profissional",
       "price": 90.99,
@@ -2519,7 +2534,6 @@
       "discountPercent": 35,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mo5vncqk1ssi68",
       "url": "https://s.shopee.com.br/9Kj6coF9bN",
-      "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 1052,
       "official": true,
@@ -2734,8 +2748,8 @@
     {
       "id": "58209820084",
       "title": "Mouse Sem Fio Silencioso Recarregável USB Design Moderno E Leve",
-      "price": 19.49,
-      "originalPrice": 36.77,
+      "price": 19.39,
+      "originalPrice": 36.58,
       "discountPercent": 47,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820nc-mnmh6ojoqbcw66",
       "url": "https://s.shopee.com.br/1W0FIPEFHU",
@@ -2753,6 +2767,7 @@
       "discountPercent": 42,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mu9absqxz9j43f",
       "url": "https://s.shopee.com.br/7Ky2F89daW",
+      "hasVariantPrices": true,
       "rating": 5,
       "salesCount": 2102,
       "official": true,
@@ -2832,8 +2847,8 @@
     {
       "id": "44915338553",
       "title": "Tapete Higiênico Para Cachorro 50 Unidades 50x60cm Com Gel Absorvente Fralda Manta Pet Cão",
-      "price": 44.89,
-      "originalPrice": 70.14,
+      "price": 44.9,
+      "originalPrice": 70.16,
       "discountPercent": 36,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mrez1cew2oed35",
       "url": "https://s.shopee.com.br/8KqZQxSEX6",
@@ -3107,6 +3122,19 @@
       "category": "Casa e organização"
     },
     {
+      "id": "25583979154",
+      "title": "120 Paleta De Sombra Colorida Mate Maquiagem Altamente Pigmentada Em Pó Longa Duração À Prova D'água",
+      "price": 42.74,
+      "originalPrice": 64.76,
+      "discountPercent": 34,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyl-mcamfjuyaj3r09",
+      "url": "https://s.shopee.com.br/5fpoG42e6w",
+      "rating": 4.7,
+      "salesCount": 277,
+      "seller": "Choice Oficial",
+      "category": "Beleza"
+    },
+    {
       "id": "26592557125",
       "title": "Bola Voadora Mágica Interativa Disco Voador Brinquedo para Cachorro Gato e Criança Pet Prime",
       "price": 24.9,
@@ -3249,8 +3277,8 @@
     {
       "id": "49108107903",
       "title": "Kit 10 Pote Hermético Empilháveis Porta Mantimento Cozinha Organizador Rebirth",
-      "price": 79.9,
-      "originalPrice": 159.8,
+      "price": 79.4,
+      "originalPrice": 158.8,
       "discountPercent": 50,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mmje77j1jpc068",
       "url": "https://s.shopee.com.br/1BNOtmFqjr",
@@ -3858,8 +3886,8 @@
     {
       "id": "22493572369",
       "title": "Cortina Blackout Para Quarto Sala Cozinha PVC Corta 100% Luz 2,80 Largura X 2,30 Altura Grande",
-      "price": 33.89,
-      "originalPrice": 46.42,
+      "price": 33.9,
+      "originalPrice": 46.44,
       "discountPercent": 27,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m84shxe4v8c1d9",
       "url": "https://s.shopee.com.br/1gJfUhw0pG",
