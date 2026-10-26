@@ -1,61 +1,6 @@
 {
-  "updatedAt": "2026-10-25T23:48:36.447Z",
+  "updatedAt": "2026-10-26T00:06:36.038Z",
   "offers": [
-    {
-      "id": "22094238842",
-      "title": "BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL",
-      "price": 24.9,
-      "originalPrice": 40.16,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mukoqlfdn280c5",
-      "url": "https://s.shopee.com.br/6fiLRtuZp2",
-      "rating": 4.8,
-      "salesCount": 5115,
-      "official": true,
-      "seller": "Primacial",
-      "category": "Beleza"
-    },
-    {
-      "id": "19199866082",
-      "title": "Suporte de peito ajustável para telefones celulares e câmeras GoPro para peito de motocicleta e bicicleta",
-      "price": 23.9,
-      "originalPrice": 85.36,
-      "discountPercent": 72,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me8dbv27szy8f0",
-      "url": "https://s.shopee.com.br/7VHSRQeCmP",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3256,
-      "seller": "JUNGE TECH LTDA",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "20999580796",
-      "title": "Carregador de carro retrátil com luz LED, carregador de carro rápido 4 em 1 de 120 W para iPhone e Android",
-      "price": 45.17,
-      "originalPrice": 196.39,
-      "discountPercent": 77,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdmsrbntex15d7",
-      "url": "https://s.shopee.com.br/8V9zdGejG2",
-      "rating": 4.9,
-      "salesCount": 2015,
-      "seller": "TRADENO ECOMERCE",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "46860175552",
-      "title": "Organizador de Cabides em Forma de V de Dupla Face - Cabide Multi-Gancho que Economiza Espaço para Guarda-Roupa do Quart",
-      "price": 21,
-      "originalPrice": 72.41,
-      "discountPercent": 71,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823q1-moj2uqprw6j2da",
-      "url": "https://s.shopee.com.br/3qOA4gaUoR",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 1744,
-      "seller": "Casa Encanto - Lar Completo",
-      "category": "Casa e organização"
-    },
     {
       "id": "20198263323",
       "title": "Tênis casual modelo estiloso e confortável",
@@ -4157,6 +4102,62 @@
       "official": true,
       "seller": "ARARAS ONLINE",
       "category": "Cozinha"
+    },
+    {
+      "id": "47602788791",
+      "title": "BATOM LÍQUIDO MATTE MAHAV EFEITO FOSCO CORES PODEROSAS",
+      "price": 16.77,
+      "originalPrice": 25.8,
+      "discountPercent": 35,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822y7-mi0935gr0zr489",
+      "url": "https://s.shopee.com.br/1gJfUiI0kA",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2147,
+      "seller": "DOSE DE AMOR.",
+      "category": "Beleza"
+    },
+    {
+      "id": "52311303643",
+      "title": "BODY SPLASH MASCULINO VIBRATION 200ML - PRIMACIAL PERFUME CÍTRICO",
+      "price": 45.9,
+      "originalPrice": 69.55,
+      "discountPercent": 34,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mukmdt0ea1hec7",
+      "url": "https://s.shopee.com.br/4fxH4E6eth",
+      "rating": 4.8,
+      "salesCount": 3210,
+      "official": true,
+      "seller": "Primacial",
+      "category": "Beleza"
+    },
+    {
+      "id": "22894246754",
+      "title": "BODY SPLASH MASCULINO BARBARIUS 200ML - PRIMACIAL PERFUME AMADEIRADO",
+      "price": 45.9,
+      "originalPrice": 69.55,
+      "discountPercent": 34,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mukmdt0eigw203",
+      "url": "https://s.shopee.com.br/qkYVBLFg4",
+      "rating": 4.7,
+      "salesCount": 1825,
+      "official": true,
+      "seller": "Primacial",
+      "category": "Beleza"
+    },
+    {
+      "id": "58266638000",
+      "title": "Cabo Carregador Super Rápido 120W Tipo C para Tipo C, p/Androi/Samsung Galaxy S26 S25Plus S24FE S23 S22 S21 Ultra USB-C",
+      "price": 24.88,
+      "originalPrice": 35.04,
+      "discountPercent": 29,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mt3lz6t6j0nbfd",
+      "url": "https://s.shopee.com.br/20wVtK3PBs",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2223,
+      "seller": "COPACAB Oficial",
+      "category": "Eletrônicos"
     }
   ]
 }
