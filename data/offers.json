@@ -1,122 +1,6 @@
 {
-  "updatedAt": "2026-10-26T21:47:48.731Z",
+  "updatedAt": "2026-10-26T22:08:14.365Z",
   "offers": [
-    {
-      "id": "52605012484",
-      "title": "Relógio De Quartzo Da Moda Feminina E Conjunto De Joias Com Pulseira De Couro Sem Caixa Pulso Elegante",
-      "price": 18.05,
-      "originalPrice": 82.05,
-      "discountPercent": 78,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82590-mrlbd6atm51k71",
-      "url": "https://s.shopee.com.br/8VA1KCdLcZ",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 891,
-      "seller": "Choice Oficial",
-      "category": "Moda",
-      "hot": true
-    },
-    {
-      "id": "26980788215",
-      "title": "ROMANTIC CROWN Copo Térmico Inox Portátil 1200ml/600ml/1.2L Garrafa Térmica Inoxidável com Tampa e Canudo",
-      "price": 34.98,
-      "originalPrice": 69.96,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mrsfn2n1nkec7c",
-      "url": "https://s.shopee.com.br/2gCCgUtHQC",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 5385,
-      "seller": "Romantic.Crown.07",
-      "category": "Cozinha",
-      "hot": true
-    },
-    {
-      "id": "58251614409",
-      "title": "ROMANTIC CROWN Copo Térmico Portátil 1200ml/600ml com Tampa e Canudo Garrafa Térmica Inoxidável À prova de vazamentos",
-      "price": 34.98,
-      "originalPrice": 69.96,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-msdnnzmmtpfp25",
-      "url": "https://s.shopee.com.br/30p356s0kI",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 4566,
-      "seller": "Romantic Crown",
-      "category": "Cozinha",
-      "hot": true
-    },
-    {
-      "id": "43133655210",
-      "title": "ROMANTIC CROWN Copo Térmico Inox 1200ml com Bico Flip e Alça Garrafa Térmica para Viagem e Carro",
-      "price": 49.98,
-      "originalPrice": 99.96,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-msz051f1n4lg47",
-      "url": "https://s.shopee.com.br/4fxH4AlfMe",
-      "rating": 5,
-      "salesCount": 3056,
-      "seller": "Romantic.Crown.07",
-      "category": "Cozinha",
-      "hot": true
-    },
-    {
-      "id": "58251519281",
-      "title": "ROMANTIC CROWN Copo Térmico Inox Portátil 1200ml/600ml com Tampa e Canudo Garrafa Térmica Inoxidável",
-      "price": 34.98,
-      "originalPrice": 69.96,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi59t0ifxfk25c",
-      "url": "https://s.shopee.com.br/40haGwoCia",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 2820,
-      "seller": "Romantic Crown",
-      "category": "Cozinha",
-      "hot": true
-    },
-    {
-      "id": "53750943172",
-      "title": "Jogo De Panelas 10 Peças Antiaderente Conjunto Frigideira Fervedor tampa de vidro Cor Coffee Cappuccino Kit Talheres",
-      "price": 199.99,
-      "originalPrice": 307.68,
-      "discountPercent": 35,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-ms42s3kelced28",
-      "url": "https://s.shopee.com.br/BUrhwsr2L",
-      "rating": 4.7,
-      "salesCount": 8433,
-      "official": true,
-      "seller": "ARARAS ONLINE",
-      "category": "Cozinha"
-    },
-    {
-      "id": "23793927191",
-      "title": "Panela De Pressão 4,5 Litros Antiaderente Teflon Com Tampa Externa Cinza PROMOÇAO",
-      "price": 148.9,
-      "originalPrice": 229.08,
-      "discountPercent": 35,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9068frjp1xe46",
-      "url": "https://s.shopee.com.br/AKbdodG9Pf",
-      "rating": 4.8,
-      "salesCount": 1025,
-      "official": true,
-      "seller": "impório_ecommerce",
-      "category": "Cozinha"
-    },
-    {
-      "id": "22098500509",
-      "title": "Kit Mouse Gamer + Mouse Pad Led Kit Gamer LED Iluminado RGB Para Jogos 1200DPI",
-      "price": 17.99,
-      "originalPrice": 25.7,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-moy8ifkag4cg98",
-      "url": "https://s.shopee.com.br/4qGhGX1Q0L",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 627,
-      "seller": "@LVSHOP",
-      "category": "Eletrônicos"
-    },
     {
       "id": "47602788791",
       "title": "BATOM LÍQUIDO MATTE MAHAV EFEITO FOSCO CORES PODEROSAS",
@@ -143,7 +27,8 @@
       "rating": 4.7,
       "salesCount": 1056,
       "seller": "Friburgo Oversize",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "18799077517",
@@ -257,7 +142,21 @@
       "rating": 4.9,
       "salesCount": 1882,
       "seller": "Ankco Shop",
-      "category": "Eletrônicos"
+      "category": "Eletrônicos",
+      "hot": true
+    },
+    {
+      "id": "21898130192",
+      "title": "Panela De Pressão 4,5 Litros Antiaderente Teflon Com Tampa Externa Cinza PROMOÇAO",
+      "price": 148.9,
+      "originalPrice": 218.97,
+      "discountPercent": 32,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9068frjp1xe46",
+      "url": "https://s.shopee.com.br/60SeefWeCv",
+      "rating": 4.8,
+      "salesCount": 913,
+      "seller": "Big_ecommerce",
+      "category": "Cozinha"
     },
     {
       "id": "58215053277",
@@ -355,7 +254,8 @@
       "rating": 4.9,
       "salesCount": 5292,
       "seller": "EM CASA ENCONTRA",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "23693858343",
@@ -519,7 +419,8 @@
       "rating": 4.7,
       "salesCount": 6041,
       "seller": "Maria sasha eyelashes",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "4573892116",
@@ -740,7 +641,8 @@
       "salesCount": 5329,
       "official": true,
       "seller": "Droga Clara",
-      "category": "Pet e bebê"
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "22499513376",
