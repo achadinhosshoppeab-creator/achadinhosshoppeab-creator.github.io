@@ -1,34 +1,6 @@
 {
-  "updatedAt": "2026-10-26T08:19:29.273Z",
+  "updatedAt": "2026-10-26T08:50:16.621Z",
   "offers": [
-    {
-      "id": "58259058219",
-      "title": "Espelho Mirano Paris 100x40cm Bisotê Grande Moderno Banheiro Lavabo Quarto Parede Decorativo Luxo",
-      "price": 99.99,
-      "originalPrice": 199.98,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mt9opk529wqoce",
-      "url": "https://s.shopee.com.br/AUv40wSeAd",
-      "rating": 4.9,
-      "salesCount": 1485,
-      "seller": "Mirano Comércio",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23793680492",
-      "title": "Espelho Orgânico Retangular 53x110cm Grande Moderno Decorativo Para Parede Sala Quarto Banheiro",
-      "price": 159,
-      "originalPrice": 212,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mmvz422rexhc0e",
-      "url": "https://s.shopee.com.br/20wVtJz0QF",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 975,
-      "official": true,
-      "seller": "Outlet dos Espelhos",
-      "category": "Casa e organização"
-    },
     {
       "id": "58259054290",
       "title": "Espelho Mirano Lisboa 100x40cm Lapidado Grande Moderno Banheiro Lavabo Quarto Parede Decorativo Luxo",
