@@ -1,103 +1,6 @@
 {
-  "updatedAt": "2026-10-26T14:32:52.272Z",
+  "updatedAt": "2026-10-26T14:53:49.307Z",
   "offers": [
-    {
-      "id": "18499884213",
-      "title": "Kit Teclado E Mouse Sem Fio Bluetooth Wireless 2.4ghz Notebook Usb Ultra Slim Compacto Android Pc",
-      "price": 79.99,
-      "originalPrice": 150.92,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjh4wzrmdm9uc0",
-      "url": "https://s.shopee.com.br/2VsnUMcjfD",
-      "rating": 4.8,
-      "salesCount": 955,
-      "seller": "HOME BLESS ",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "58253571216",
-      "title": "Cola Transparente Para Reparo De Sapatos – Adesivo À Prova D'água Fixação De Solas , Saltos E Bolsas (60ml)",
-      "price": 15.98,
-      "originalPrice": 25.37,
-      "discountPercent": 37,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262m-mjnqv9wc55ohc2",
-      "url": "https://s.shopee.com.br/8KqZQukuF6",
-      "rating": 4.8,
-      "salesCount": 6162,
-      "seller": "Summit--07",
-      "category": "Moda"
-    },
-    {
-      "id": "22494314914",
-      "title": "Tênis Meia Adulto Unissex – Ideal para Caminhada e Dia a Dia – 34 ao 43",
-      "price": 19.8,
-      "originalPrice": 70.71,
-      "discountPercent": 72,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mddthnih4dmpa3",
-      "url": "https://s.shopee.com.br/4B10TJLlJ0",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2383,
-      "seller": "Platina Shoes",
-      "category": "Moda",
-      "hot": true
-    },
-    {
-      "id": "22293232559",
-      "title": "Kit Cueca Samba Canção Masculino Short de Dormir Shortinho Fresquinho e Confortável Pijama",
-      "price": 25.98,
-      "originalPrice": 89.59,
-      "discountPercent": 71,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lp8ryycum8ut4f",
-      "url": "https://s.shopee.com.br/7fasdkClh4",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 2312,
-      "seller": "Friburgo Oversize",
-      "category": "Moda",
-      "hot": true
-    },
-    {
-      "id": "22999007704",
-      "title": "Aspirador Nasal Bebê Recarregável Silicone Macio Limpeza Nasal Infantil Portátil USB",
-      "price": 28.99,
-      "originalPrice": 99.97,
-      "discountPercent": 71,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r7-moh6bx9amnt5aa",
-      "url": "https://s.shopee.com.br/8AX9EfJay0",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1337,
-      "seller": "JIMMY.STORE",
-      "category": "Ferramentas"
-    },
-    {
-      "id": "23693597164",
-      "title": "Lanterna Super Potente Led Militar 3 Em 1 T9 Tática Forte Longo Alcance recarregável pesca camping",
-      "price": 21.98,
-      "originalPrice": 64.65,
-      "discountPercent": 66,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mo9z6tpllqth9e",
-      "url": "https://s.shopee.com.br/7VHSRRQSqC",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 1505,
-      "seller": "R&Y_Diversos",
-      "category": "Ferramentas"
-    },
-    {
-      "id": "43828181509",
-      "title": "Rampa Casa de Gato Toca Para Gatos Arranhador Brinquedo Playground MDF Carpete 30x47x30cm",
-      "price": 29.85,
-      "originalPrice": 49.75,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjppm99xbuh244",
-      "url": "https://s.shopee.com.br/3LRtTlKniX",
-      "rating": 4.6,
-      "salesCount": 1815,
-      "seller": "ACB UTILIDADES",
-      "category": "Pet e bebê"
-    },
     {
       "id": "22898395702",
       "title": "Luminaria Meia Lua Estetica Mesa 3 Tons Ajustavel Salao Beleza Limpeza De Pele",
@@ -265,7 +168,8 @@
       "rating": 4.9,
       "salesCount": 3284,
       "seller": "ENDLESS",
-      "category": "Eletrônicos"
+      "category": "Eletrônicos",
+      "hot": true
     },
     {
       "id": "58257809093",
@@ -433,7 +337,8 @@
       "rating": 4.9,
       "salesCount": 2253,
       "seller": "JIMMY.STORE",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "58258357808",
