@@ -1,76 +1,6 @@
 {
-  "updatedAt": "2026-10-26T21:06:52.008Z",
+  "updatedAt": "2026-10-26T21:27:17.419Z",
   "offers": [
-    {
-      "id": "23194426818",
-      "title": "Kit 2 Baby Tee Feminina Blusa Básica Manga Curta Slim Fit Camiseta Baby Look Várias Cores",
-      "price": 28.99,
-      "originalPrice": 65.89,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfk7nyralukk99",
-      "url": "https://s.shopee.com.br/7Ky2F8Dy6e",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 2289,
-      "seller": "Shop Hub",
-      "category": "Moda",
-      "hot": true
-    },
-    {
-      "id": "43182386687",
-      "title": "Kit Manta Decorativa 1,40 x1,70 + 4 Capas de Almofada Natal 43x43 para Sala e Sofá Decoração Natalina",
-      "price": 66.8,
-      "originalPrice": 90.27,
-      "discountPercent": 26,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-msmo4brf6fpidf",
-      "url": "https://s.shopee.com.br/7puIq2YOoO",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 1880,
-      "seller": "Vitoria Home",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "21299677651",
-      "title": "BB CreamBase/Corretivo com Esponja com Formato de Cogumelo Base Clareador Maquiagem Creme Clareador Cor Marfim e Natural",
-      "price": 30.66,
-      "originalPrice": 44.43,
-      "discountPercent": 31,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7reop-m817hciex8sg71",
-      "url": "https://s.shopee.com.br/gR8IowdC2",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 7142,
-      "seller": "WANGYE",
-      "category": "Beleza"
-    },
-    {
-      "id": "24740902631",
-      "title": "Cozedor de Ovos Elétrico 110V – Portátil a Vapor para Cozinha Envio Imediato",
-      "price": 28.48,
-      "originalPrice": 52.74,
-      "discountPercent": 46,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdg66onj1vipad",
-      "url": "https://s.shopee.com.br/1gJfUhislk",
-      "rating": 4.9,
-      "salesCount": 5928,
-      "seller": "HOMEFULL66",
-      "category": "Cozinha"
-    },
-    {
-      "id": "44915338553",
-      "title": "Tapete Higiênico Para Cachorro 50 Unidades 50x60cm Com Gel Absorvente Fralda Manta Pet Cão",
-      "price": 44.9,
-      "originalPrice": 70.16,
-      "discountPercent": 36,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mrez1cew2oed35",
-      "url": "https://s.shopee.com.br/8KqZQxSEX6",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2682,
-      "seller": "Usual Mix",
-      "category": "Casa e organização"
-    },
     {
       "id": "44267721436",
       "title": "Espelho Oval de Parede Moldura Design Moderno Decorativo Banheiro Quarto – Envio Imediato",
@@ -126,7 +56,8 @@
       "rating": 4.7,
       "salesCount": 1623,
       "seller": "Ankco Shop",
-      "category": "Eletrônicos"
+      "category": "Eletrônicos",
+      "hot": true
     },
     {
       "id": "55156662944",
