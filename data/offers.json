@@ -1,90 +1,6 @@
 {
-  "updatedAt": "2026-10-26T16:16:37.379Z",
+  "updatedAt": "2026-10-26T16:37:29.665Z",
   "offers": [
-    {
-      "id": "23599241533",
-      "title": "Tênis Masculino Running Academia Esportivo Corrida Caminhada Anti Impacto Respirável Macio Ultra Leve",
-      "price": 39.9,
-      "originalPrice": 99.75,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvf-mmnn6odp2qkm03",
-      "url": "https://s.shopee.com.br/7VHSRR94Xr",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2374,
-      "seller": "Evox Calçados e Acessórios LTDA",
-      "category": "Moda"
-    },
-    {
-      "id": "20597688217",
-      "title": "CABO PARA IOS USB-C LIGHTNING DE CARREGAMENTO RÁPIDO DADOS DE 1M OU 2M PARA IOS",
-      "price": 21.49,
-      "originalPrice": 44.77,
-      "discountPercent": 52,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lws2g40ecln689",
-      "url": "https://s.shopee.com.br/2gCCgY0rq4",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2052,
-      "seller": "LUFEE ACESSÓRIOS",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "55050251437",
-      "title": "KIT BODY SPLASH MASCULINO BARBARIUS E MIDTOWN 200ML - PRIMACIAL PERFUME FRESCO AMADEIRADO",
-      "price": 67.5,
-      "originalPrice": 140.63,
-      "discountPercent": 52,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mukoqlfbynszf3",
-      "url": "https://s.shopee.com.br/gR8IsLt13",
-      "rating": 4.8,
-      "salesCount": 1240,
-      "official": true,
-      "seller": "Primacial",
-      "category": "Beleza"
-    },
-    {
-      "id": "23098245574",
-      "title": "Kit Feminino com Relógio LED + Pulseira e Brinco – Estilo, Elegância e Presente Perfeito",
-      "price": 29.69,
-      "originalPrice": 50.32,
-      "discountPercent": 41,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8zhe18agwzmbc",
-      "url": "https://s.shopee.com.br/7Ky2F7ENCa",
-      "rating": 4.6,
-      "salesCount": 1059,
-      "seller": "T.R. Imports Brasil",
-      "category": "Moda"
-    },
-    {
-      "id": "17192537739",
-      "title": "Kit Cueca Samba Canção Masculino Pijama Masculino de Dormir Liganete Lisa Estampada Short de Dormir",
-      "price": 30.98,
-      "originalPrice": 91.12,
-      "discountPercent": 66,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnj7zuiw3uzt3b",
-      "url": "https://s.shopee.com.br/6L5V3IHqOg",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 3479,
-      "seller": "USE AD LINGERIE ",
-      "category": "Moda",
-      "hot": true
-    },
-    {
-      "id": "19999249755",
-      "title": "Kit Jogo de Alicates p/ Corte Eletrônico Artesanato & Bijuterias",
-      "price": 24.98,
-      "originalPrice": 86.14,
-      "discountPercent": 71,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd73-lv3eggtotyveb0",
-      "url": "https://s.shopee.com.br/9zynQ2CXzF",
-      "rating": 4.9,
-      "salesCount": 4858,
-      "seller": "ADS-store",
-      "category": "Ferramentas",
-      "hot": true
-    },
     {
       "id": "21297732100",
       "title": "Kit 8pçs Talheres de Silicone p/ Bebê c/ Ventosa, Colher, Garfo, Canudo e Babador Infantil",
@@ -596,7 +512,8 @@
       "rating": 4.8,
       "salesCount": 4155,
       "seller": "necasa",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "58215548303",
@@ -876,7 +793,8 @@
       "salesCount": 3551,
       "official": true,
       "seller": "Poloinfantil.store",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "46303601591",
