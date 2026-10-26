@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-26T13:51:23.811Z",
+  "updatedAt": "2026-10-26T14:12:12.756Z",
   "offers": [
+    {
+      "id": "58256992129",
+      "title": "Comedouro Alimentador Automático Pássaros Acrílico Anti-Sujeira Para Calopsita Canário Gaiola",
+      "price": 36.62,
+      "originalPrice": 98.97,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261n-mlvvul2gqgw40b",
+      "url": "https://s.shopee.com.br/8KqZQyRtlQ",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1163,
+      "seller": "Super mantimentos comprar",
+      "category": "Pet e bebê"
+    },
     {
       "id": "22694420696",
       "title": "Espelho Redondo Adnet Decorativo Suspenso de Parede 20cm + Pino",
@@ -69,93 +83,6 @@
       "salesCount": 4630,
       "seller": "DJ Super Direct Shop",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "58256992129",
-      "title": "Comedouro Alimentador Automático Pássaros Acrílico Anti-Sujeira Para Calopsita Canário Gaiola",
-      "price": 39.99,
-      "originalPrice": 99.98,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261n-mlvvul2gqgw40b",
-      "url": "https://s.shopee.com.br/8KqZQyRtlQ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1163,
-      "seller": "Super mantimentos comprar",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "22394836346",
-      "title": "Arranhador de Parede para Gatos | Sisal Natural 6mm | Brinquedo Anti Estresse | MDF Reforçado | Ideal para Apartamento",
-      "price": 29.99,
-      "originalPrice": 53.55,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mtjpi5o44nibed",
-      "url": "https://s.shopee.com.br/1BNOtjz3kU",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1726,
-      "seller": "Chérí Pet",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "10398027894",
-      "title": "Espelho Redondo  Lapidado com LED Decorativo para Banheiro Lavabo Quarto Sala Vários Tamanhos",
-      "price": 29,
-      "originalPrice": 80.56,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mmg32vmdob9cb1",
-      "url": "https://s.shopee.com.br/9Kj6cnX5XQ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1536,
-      "official": true,
-      "seller": "Up Glass",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "22993695412",
-      "title": "Bastão de selfie telescópico Bluetooth com controle remoto para celular com suporte de tripé com luz para selfie",
-      "price": 16.99,
-      "originalPrice": 65.35,
-      "discountPercent": 74,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbm6-m62rbhwe6v78e9",
-      "url": "https://s.shopee.com.br/7Aec2ofTSR",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2023,
-      "seller": "JIMMY.STORE",
-      "category": "Eletrônicos",
-      "hot": true
-    },
-    {
-      "id": "18725087530",
-      "title": "Pistola De Cola Quente Bivolt 10w + 10, 20 ou 30 Bastões De Cola Revolver (110v e 220v) Profissional",
-      "price": 20.49,
-      "originalPrice": 55.38,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/e66d544521b287be5b25ba87de5740c7",
-      "url": "https://s.shopee.com.br/60Seectzo9",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 8654,
-      "seller": "About Life Store",
-      "category": "Ferramentas",
-      "hot": true
-    },
-    {
-      "id": "22794711985",
-      "title": "Porta Temperos Profissional Giratório Potes Vidro com Tampa Dosadora Condimentos",
-      "price": 29.9,
-      "originalPrice": 80.81,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mmadej7e1gjk24",
-      "url": "https://s.shopee.com.br/9zynQ1Lor6",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1603,
-      "seller": "MUNDIMIX.",
-      "category": "Cozinha"
     },
     {
       "id": "58257024938",
@@ -391,7 +318,8 @@
       "rating": 4.8,
       "salesCount": 3675,
       "seller": "Papel de Parede - Loja",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "58200141324",
@@ -1086,7 +1014,8 @@
       "rating": 4.8,
       "salesCount": 3040,
       "seller": "ANJ.GG store",
-      "category": "Eletrônicos"
+      "category": "Eletrônicos",
+      "hot": true
     },
     {
       "id": "19199870733",
@@ -1611,6 +1540,7 @@
       "discountPercent": 43,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zug-mkwz5xpqeio1dd",
       "url": "https://s.shopee.com.br/AAIDcHDjcZ",
+      "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 3903,
       "seller": "LJLP Online",
