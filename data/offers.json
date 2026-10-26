@@ -1,35 +1,6 @@
 {
-  "updatedAt": "2026-10-26T03:11:54.742Z",
+  "updatedAt": "2026-10-26T03:42:41.578Z",
   "offers": [
-    {
-      "id": "58212573737",
-      "title": "Tapete Higiênico Cães Carvão Bambu Ativado Aroma Lavanda 30 Unidades Absorvente Anti Odor Tamanho 60x60cm / 80x60cm",
-      "price": 51.9,
-      "originalPrice": 140.27,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mrjuw7udmqdj44",
-      "url": "https://s.shopee.com.br/906GEBPhBA",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2556,
-      "seller": "Newpet - marca",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "19099597031",
-      "title": "Belifou Kit 24 Peças Jogo De Talheres Inox Faqueiro Completo Colher Garfo Faca Para Jantar Cozinha Luxo",
-      "price": 32.33,
-      "originalPrice": 92.37,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m8bovalmy7tdb1",
-      "url": "https://s.shopee.com.br/5VWO3kYcUC",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 668,
-      "official": true,
-      "seller": "Belifou Talheres",
-      "category": "Cozinha"
-    },
     {
       "id": "23494419761",
       "title": "uporte Universal de Alumínio De Base Com Rodinha Para Geladeira Fogão E Máquina De Lavar Lousa Base Carrinho até 200kg",
