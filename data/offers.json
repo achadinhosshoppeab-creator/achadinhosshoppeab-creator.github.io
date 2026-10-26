@@ -1,46 +1,6 @@
 {
-  "updatedAt": "2026-10-26T06:16:22.825Z",
+  "updatedAt": "2026-10-26T06:47:10.610Z",
   "offers": [
-    {
-      "id": "22799040705",
-      "title": "Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna com Palmilha Massageadora",
-      "price": 39.9,
-      "originalPrice": 90.68,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgxpzsodtg5g5e",
-      "url": "https://s.shopee.com.br/2VsmUFauDC",
-      "rating": 4.8,
-      "salesCount": 1866,
-      "seller": "Ploomer Premium",
-      "category": "Beleza"
-    },
-    {
-      "id": "45056823760",
-      "title": "Bandeja Espelhada Decorativa Orgânico Couro Ecológico Premium 38x26cm Sala Quarto Banheiro Mesa Hall",
-      "price": 38.9,
-      "originalPrice": 99.74,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mlf5x2xbx4hx2c",
-      "url": "https://s.shopee.com.br/906GEBYMDS",
-      "rating": 4.9,
-      "salesCount": 1577,
-      "seller": "We Mirror Conceito",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "46360468172",
-      "title": "Kit 4 Potes Herméticos Tampa Bambu Organizador Mantimentos Cozinha",
-      "price": 39.99,
-      "originalPrice": 99.98,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822x5-mo74eg768t8m85",
-      "url": "https://s.shopee.com.br/40haGwb4bW",
-      "rating": 4.5,
-      "salesCount": 9465,
-      "official": true,
-      "seller": "SELLNEEDS",
-      "category": "Casa e organização"
-    },
     {
       "id": "19697980846",
       "title": "Ventilador Luminária Led 6 Pás Lâmpada Soquete Bocal E27 Teto 3 Cores Luz Branco Amarelo Bivolt",
@@ -2451,7 +2411,6 @@
       "discountPercent": 43,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zug-mkwz5xpqeio1dd",
       "url": "https://s.shopee.com.br/AAIDcHDjcZ",
-      "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 3903,
       "seller": "LJLP Online",
