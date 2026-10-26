@@ -1,34 +1,6 @@
 {
-  "updatedAt": "2026-10-26T07:48:48.966Z",
+  "updatedAt": "2026-10-26T08:19:29.273Z",
   "offers": [
-    {
-      "id": "23199020709",
-      "title": "Cozedor de Ovos Elétrico Portátil Cozinha à Vapor 110V/220V Cores disponíveis （Branco Azul Rosa Amarelo）",
-      "price": 29.98,
-      "originalPrice": 99.93,
-      "discountPercent": 70,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfytb2po8gzk07",
-      "url": "https://s.shopee.com.br/1BRVdpE9K",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 11595,
-      "seller": "PENGFA TECH LTDA",
-      "category": "Cozinha",
-      "hot": true
-    },
-    {
-      "id": "22494773547",
-      "title": "Conjunto De Henna E Kit Para Sobrancelha Com Régua Faca Design De Sombrancelha",
-      "price": 19.89,
-      "originalPrice": 39.78,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj38t7snp6gx8f",
-      "url": "https://s.shopee.com.br/3qOA6rul4D",
-      "rating": 4.8,
-      "salesCount": 1499,
-      "seller": "Karla Cosméticos",
-      "category": "Cozinha"
-    },
     {
       "id": "58259058219",
       "title": "Espelho Mirano Paris 100x40cm Bisotê Grande Moderno Banheiro Lavabo Quarto Parede Decorativo Luxo",
@@ -222,7 +194,8 @@
       "rating": 4.8,
       "salesCount": 10175,
       "seller": "YYYNN",
-      "category": "Eletrônicos"
+      "category": "Eletrônicos",
+      "hot": true
     },
     {
       "id": "41733456705",
