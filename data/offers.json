@@ -1,117 +1,46 @@
 {
-  "updatedAt": "2026-10-26T15:14:49.724Z",
+  "updatedAt": "2026-10-26T15:35:44.940Z",
   "offers": [
     {
-      "id": "22898395610",
-      "title": "Luminaria Meia Lua Estetica Mesa 3 Tons Ajustavel Salao Beleza Limpeza De Pele",
-      "price": 229.98,
-      "originalPrice": 657.09,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8f7u3z6v3zl46",
-      "url": "https://s.shopee.com.br/8pmq1sLrTH",
-      "rating": 4.9,
-      "salesCount": 787,
-      "seller": "KRAUS Oficial",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58200141324",
-      "title": "Bolsa Feminina Transversal de Veludo Cotelê Casual Grande Ombro Tiracolo Escolar Universitária com Porta Moedas",
-      "price": 27.99,
-      "originalPrice": 90.29,
-      "discountPercent": 69,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a7-mgfaurmyhbt701",
-      "url": "https://s.shopee.com.br/80Dj2LGAIq",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 3179,
-      "seller": "JIMMY.STORE",
-      "category": "Moda",
-      "hot": true
-    },
-    {
-      "id": "58213134129",
-      "title": "Porta Temperos Saleiro Premium em Plástico Resistente com Colher Inclusa",
-      "price": 24.98,
-      "originalPrice": 54.3,
-      "discountPercent": 54,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824go-mptvxa3sapl870",
-      "url": "https://s.shopee.com.br/80Dj2LTQuW",
+      "id": "27893329314",
+      "title": "Lançamento De Smartwatch Relógio Inteligente Com Tela Infinita E Duas Alças , Estilo Tecnologia Para Homens Mulheres",
+      "price": 41.99,
+      "originalPrice": 113.49,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134211-820l4-mjnsf5otk4cm1f",
+      "url": "https://s.shopee.com.br/5AtXf8vonW",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 3264,
-      "seller": "NEJ SHOP",
-      "category": "Cozinha"
+      "salesCount": 1353,
+      "seller": "Cc conveniência",
+      "category": "Eletrônicos"
     },
     {
-      "id": "58260196865",
-      "title": "Kit 4 Capas de Almofadas Decorativas Suede Premium Sofá Sala Quarto – Conjunto Decoração",
-      "price": 31.91,
-      "originalPrice": 69.37,
-      "discountPercent": 54,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mnwzdp95zj0i3d",
-      "url": "https://s.shopee.com.br/AKbdodOsk9",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1518,
-      "seller": "Omnni TEK",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58200879255",
-      "title": "Carregador de Carregamento Turbo 30w Fonte 3A Torre Carregar Celular Tipo-C com Cabo Lightning(ios)",
-      "price": 24.99,
-      "originalPrice": 69.42,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mpfk4paqdm9v32",
-      "url": "https://s.shopee.com.br/1BRVeB1FI",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3284,
-      "seller": "ENDLESS",
-      "category": "Eletrônicos",
-      "hot": true
-    },
-    {
-      "id": "58257809093",
-      "title": "Aspirador de Carro Sem Fio Portátil Super Potente USB Recarregável Filtro Lavável Limpeza de Banco e Cantos",
-      "price": 38.5,
-      "originalPrice": 124.19,
-      "discountPercent": 69,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-msf1h2hp9vd2ff",
-      "url": "https://s.shopee.com.br/9V2Wp7EWGO",
-      "rating": 4.6,
-      "salesCount": 907,
-      "seller": "Maison Mimo Loja Oficial",
-      "category": "Ferramentas"
-    },
-    {
-      "id": "19197735852",
-      "title": "Kit 46 Peças Chave Catraca Jogo Soquetes Allen Torx Ferramentas Profissional Completo",
-      "price": 27.99,
-      "originalPrice": 66.64,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261j-mjejzlgokjk57c",
-      "url": "https://s.shopee.com.br/6fiLRuPEkP",
+      "id": "23297463869",
+      "title": "Penteadeira Suspensa com Gaveta Multifuncional Organizadora Maquiagens",
+      "price": 59.9,
+      "originalPrice": 146.1,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mneprgodvwn5c2",
+      "url": "https://s.shopee.com.br/5fpoG3KiW2",
       "hasVariantPrices": true,
       "rating": 4.7,
-      "salesCount": 4452,
-      "seller": "ANJ.GG store",
-      "category": "Ferramentas"
+      "salesCount": 1997,
+      "seller": "Kelan Móveis",
+      "category": "Casa e organização"
     },
     {
-      "id": "58216793487",
-      "title": "Kit 3/5/8 Saco A Vácuo Grande Organizador Edredom Coberto Mala Roupa Viagem De Cama com ou sem  Bomba",
-      "price": 16.72,
-      "originalPrice": 39.81,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-ms98lzrja9z9ca",
-      "url": "https://s.shopee.com.br/2gCCpVnfNT",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2295,
-      "seller": "HOMING.",
-      "category": "Casa e organização"
+      "id": "51753870489",
+      "title": "Nova capa de telefone de vidro fosco iPhone 17 16 15 14 13 Pro Max capa dura à prova de choque",
+      "price": 19.79,
+      "originalPrice": 35.98,
+      "discountPercent": 45,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zw4-mitd54eoohs167",
+      "url": "https://s.shopee.com.br/20wVtJYkE4",
+      "rating": 4.8,
+      "salesCount": 1725,
+      "seller": "LM-case",
+      "category": "Eletrônicos"
     },
     {
       "id": "23799127668",
@@ -227,21 +156,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "22993817264",
-      "title": "Bolsa Feminina Baú Transversal Média com Lenço Alça Tiracolo Estruturada e Espaçosa",
-      "price": 39.98,
-      "originalPrice": 121.15,
-      "discountPercent": 67,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825av-mrgkchcezqpu43",
-      "url": "https://s.shopee.com.br/6fiLRtLF0i",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2253,
-      "seller": "JIMMY.STORE",
-      "category": "Moda",
-      "hot": true
-    },
-    {
       "id": "58258357808",
       "title": "Cadeira Gamer Fox Racer Nordic Preta",
       "price": 357.79,
@@ -352,6 +266,20 @@
       "salesCount": 1834,
       "seller": "Tudo Bem",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "58203302127",
+      "title": "Cortina de Porta Estilo Passante Folha Única AVULSA 1 PARTE",
+      "price": 18.12,
+      "originalPrice": 30.2,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mqc1up8227ep95",
+      "url": "https://s.shopee.com.br/1W0FIOEeK9",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 3494,
+      "seller": "Deluca Enxovais",
+      "category": "Casa e organização"
     },
     {
       "id": "58253767614",
@@ -574,20 +502,6 @@
       "category": "Ferramentas"
     },
     {
-      "id": "23098838990",
-      "title": "Tapete de Água Mágico Brinquedo Educativo para Criatividade Reutilizável com 3 Canetas Presente",
-      "price": 23.59,
-      "originalPrice": 41.39,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mpv39qxgcjya1e",
-      "url": "https://s.shopee.com.br/4qGhGXWHmA",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2513,
-      "seller": "ASER COMERCIO DE PRESENTES LTDA",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "21197749562",
       "title": "Cortina Blackout premium de 6,00x2,80  Diversas Cores e Tamanhos Tecido de 2 a 6 metros de largura",
       "price": 53.9,
@@ -668,6 +582,20 @@
       "salesCount": 2279,
       "seller": "Romantic.Crown.07",
       "category": "Cozinha"
+    },
+    {
+      "id": "28453771048",
+      "title": "30pcs/20pcs/10pcs Adivinhe Ovos De Adivinhação Chave Tesoura De Rosto E Brinquedos Torção Presente Criativo Em Estoque",
+      "price": 20.99,
+      "originalPrice": 38.16,
+      "discountPercent": 45,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd6f-lwzeldw04ty7f3",
+      "url": "https://s.shopee.com.br/AAIDcJzBbl",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 1516,
+      "seller": "PuPu Store.br",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "26894959240",
@@ -1029,7 +957,8 @@
       "rating": 5,
       "salesCount": 4041,
       "seller": "INLIS ANA BAZAR",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "58266394932",
@@ -1097,7 +1026,8 @@
       "rating": 4.9,
       "salesCount": 3817,
       "seller": ".ELITE SHOES",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "53003585950",
@@ -1242,20 +1172,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58206129432",
-      "title": "Luminária 80W 52CM 42CM 60W Ventilador De Teto 6 Hélices Luz Ajustável Controle Remoto Silencioso E Econômico",
-      "price": 49.9,
-      "originalPrice": 118.81,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262k-mld2gm8ly4gf84",
-      "url": "https://s.shopee.com.br/2LZMHslxIC",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 3021,
-      "seller": "T&T Acessorios",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58251006635",
       "title": "KIT 40 unidades de xuxinhas com Detalhes de Silicone Laço/Coroa/Unicornio/muitos Modelo Aleatorio",
       "price": 20.98,
@@ -1266,7 +1182,8 @@
       "rating": 4.9,
       "salesCount": 5087,
       "seller": "RicH !",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "58212657626",
@@ -1739,19 +1656,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "25583979154",
-      "title": "120 Paleta De Sombra Colorida Mate Maquiagem Altamente Pigmentada Em Pó Longa Duração À Prova D'água",
-      "price": 42.74,
-      "originalPrice": 64.76,
-      "discountPercent": 34,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyl-mcamfjuyaj3r09",
-      "url": "https://s.shopee.com.br/5fpoG42e6w",
-      "rating": 4.7,
-      "salesCount": 277,
-      "seller": "Choice Oficial",
-      "category": "Beleza"
-    },
-    {
       "id": "26592557125",
       "title": "Bola Voadora Mágica Interativa Disco Voador Brinquedo para Cachorro Gato e Criança Pet Prime",
       "price": 24.9,
@@ -2171,7 +2075,7 @@
       "price": 124.9,
       "originalPrice": 219.12,
       "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rc-mova96hzajgu04",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82592-murykx9evf2f60",
       "url": "https://s.shopee.com.br/AUv40wFW4g",
       "hasVariantPrices": true,
       "rating": 4.6,
@@ -2526,6 +2430,20 @@
       "official": true,
       "seller": "Dutra Máquinas",
       "category": "Cozinha"
+    },
+    {
+      "id": "23794531204",
+      "title": "Porta Maquiagem Organizador de Cosméticos com Espelho e 2 Gavetas Estilo Clean e Funcional",
+      "price": 49.9,
+      "originalPrice": 66.53,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82595-mfzibrhxz026dd",
+      "url": "https://s.shopee.com.br/7Ky2F7EN8W",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1349,
+      "seller": "TeamL",
+      "category": "Casa e organização"
     },
     {
       "id": "20398003234",
