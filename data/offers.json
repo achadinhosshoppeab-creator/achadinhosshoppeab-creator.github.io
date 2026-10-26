@@ -1,102 +1,6 @@
 {
-  "updatedAt": "2026-10-26T12:47:39.091Z",
+  "updatedAt": "2026-10-26T13:08:32.869Z",
   "offers": [
-    {
-      "id": "23032999814",
-      "title": "3 Saco Organizador Multiuso Embalagem Transparente Edredom Coberta Toalhas de Pvc e Ziper Preto Enxoval Guarda Roupa",
-      "price": 19.99,
-      "originalPrice": 28.15,
-      "discountPercent": 29,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lusgv3w44b51bc",
-      "url": "https://s.shopee.com.br/qkZb1TGsR",
-      "rating": 4.8,
-      "salesCount": 1459,
-      "seller": "Isaplastic",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23593642820",
-      "title": "Cadeira Gamer Ergonômica Reclinável com Apoio de Pés Ajustável e Base Giratória – Máximo Conforto para Longas Sessões de",
-      "price": 479,
-      "originalPrice": 997.92,
-      "discountPercent": 52,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mu1v9m596cxs11",
-      "url": "https://s.shopee.com.br/60SeegJBKu",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 343,
-      "official": true,
-      "seller": " VIE IDÉALE",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "58204421120",
-      "title": "Escorredor de Louças Rack Aço Carbono Organizador Preto",
-      "price": 92,
-      "originalPrice": 235.9,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk8xynsgml1d6f",
-      "url": "https://s.shopee.com.br/3qOA4g1R5C",
-      "rating": 4.8,
-      "salesCount": 3947,
-      "seller": "KING BOUTIQUES",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "22497773735",
-      "title": "ROMANTIC CROWN Mochila Viagem Feminina Masculina Multifuncional Reforçada Impermeável Expansível, Notebook Antifurto USB",
-      "price": 119.98,
-      "originalPrice": 499.92,
-      "discountPercent": 76,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mt38wyvxh81x6a",
-      "url": "https://s.shopee.com.br/1gJfUfAHlw",
-      "rating": 5,
-      "salesCount": 5052,
-      "seller": "Romantic Crown 02",
-      "category": "Moda"
-    },
-    {
-      "id": "58259749592",
-      "title": "Kit Carregador 67W Turbo + Cabo Tipo-C Carga Rápida Universal Xiaomi Redmi Note E Poco X7 Android",
-      "price": 29.51,
-      "originalPrice": 50.02,
-      "discountPercent": 41,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258n-mr8vmek85csha1",
-      "url": "https://s.shopee.com.br/6Am4qynbzE",
-      "rating": 4.5,
-      "salesCount": 8093,
-      "seller": "Reis Empire",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "22194652188",
-      "title": "ORIGINAL - Caixa de som com Bluetooth, Led modelo Alexa DE UM APARELHO SUPER BASS",
-      "price": 46.99,
-      "originalPrice": 195.79,
-      "discountPercent": 76,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mga94n5gip6s74",
-      "url": "https://s.shopee.com.br/6fiLRtqB1B",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 2046,
-      "seller": "PENGFA TECH LTDA",
-      "category": "Eletrônicos",
-      "hot": true
-    },
-    {
-      "id": "20699892486",
-      "title": "Sapateira 4/5 Andares Organizador de Sapatos Tênis 8/10 Pares Desmontável Multiuso para Sapatos, Livros e Brinquedos",
-      "price": 19.58,
-      "originalPrice": 43.51,
-      "discountPercent": 55,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm77p5j0ruu03",
-      "url": "https://s.shopee.com.br/5AtXf80ccV",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 5328,
-      "seller": "MANGO-SHOP",
-      "category": "Casa e organização"
-    },
     {
       "id": "58257090824",
       "title": "Kit 4 Capas de Almofada 40x40 Suede Luxo Decorativa para Sofá Sala Quarto Macia com Zíper",
@@ -866,7 +770,8 @@
       "rating": 4.7,
       "salesCount": 3479,
       "seller": "USE AD LINGERIE ",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "19999249755",
