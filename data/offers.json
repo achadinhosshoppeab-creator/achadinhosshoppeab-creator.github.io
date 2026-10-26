@@ -1,106 +1,6 @@
 {
-  "updatedAt": "2026-10-26T22:28:34.261Z",
+  "updatedAt": "2026-10-26T22:49:26.888Z",
   "offers": [
-    {
-      "id": "58207180884",
-      "title": "TOMI MITO Bolsa Feminina Casual de Ombro com Estampa Geométrica e Pingente Charmoso para Trabalho e Passeios TM9187",
-      "price": 58.99,
-      "originalPrice": 109.24,
-      "discountPercent": 46,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-msjdqoh14wsn61",
-      "url": "https://s.shopee.com.br/5q9GC6VwKS",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1602,
-      "seller": "Amy.Store",
-      "category": "Moda"
-    },
-    {
-      "id": "22694682919",
-      "title": "TOMI MITO Bolsa Feminina Compacta com Alça de Mão e Ombro, Múltiplos Compartimentos e Bolsos com Zíper B752  ",
-      "price": 59.99,
-      "originalPrice": 149.98,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82583-msqtyxxynrb6f4",
-      "url": "https://s.shopee.com.br/6L5Wn1U2JV",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1770,
-      "seller": "Amy.Store",
-      "category": "Moda",
-      "hot": true
-    },
-    {
-      "id": "23893335036",
-      "title": "JAMI JAMI Bolsa Mochila Feminina Grande De Ombro Com Alça Transversal De Couro PU TM9034",
-      "price": 79.98,
-      "originalPrice": 199.95,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ij-mpm4eovkx5349e",
-      "url": "https://s.shopee.com.br/60SgOPVIzT",
-      "rating": 4.9,
-      "salesCount": 1947,
-      "seller": "Jami Ling",
-      "category": "Moda",
-      "hot": true
-    },
-    {
-      "id": "23093899800",
-      "title": "TOMI MITO Bolsa Mochila Feminina Grande De Ombro Com Alça Transversal De Couro PU TM9034",
-      "price": 79.98,
-      "originalPrice": 199.95,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mrh0ckba7mkm75",
-      "url": "https://s.shopee.com.br/5fppznWZfR",
-      "rating": 4.9,
-      "salesCount": 1294,
-      "seller": "Tomi Mito",
-      "category": "Moda",
-      "hot": true
-    },
-    {
-      "id": "45968468341",
-      "title": "TOMI MITO Bolsa Feminina Casual Transversal com Múltiplos Bolsos Alça Ajustável para Trabalho e Passeio TM9222",
-      "price": 64.99,
-      "originalPrice": 118.16,
-      "discountPercent": 45,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mtrwjsjda2gw7a",
-      "url": "https://s.shopee.com.br/70LDaFRUxp",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 801,
-      "seller": "Amy.Store",
-      "category": "Moda"
-    },
-    {
-      "id": "58208866676",
-      "title": "Kit 2 Bolsa Necessaire Feminino Cosmético De Couro PU De Grande Capacidade Em Alto Qualidade",
-      "price": 24.98,
-      "originalPrice": 59.48,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zwu-mn2909rquneq8a",
-      "url": "https://s.shopee.com.br/7Ky3yrQEHr",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1123,
-      "seller": "WISH BOLSAS",
-      "category": "Moda",
-      "hot": true
-    },
-    {
-      "id": "22494213555",
-      "title": "JAMI JAMI Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
-      "price": 63.99,
-      "originalPrice": 110.33,
-      "discountPercent": 42,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824jg-mpj8tsvnottu2b",
-      "url": "https://s.shopee.com.br/8fTRZJL9aF",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 831,
-      "seller": "Jami Vitor",
-      "category": "Moda"
-    },
     {
       "id": "7360221057",
       "title": "Cortina Blackout em Tecido Varias cores com ilhós",
@@ -254,7 +154,8 @@
       "rating": 4.9,
       "salesCount": 5292,
       "seller": "EM CASA ENCONTRA",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "23693858343",
@@ -376,7 +277,22 @@
       "rating": 4.8,
       "salesCount": 1459,
       "seller": "Casa Nova Alumínios",
-      "category": "Cozinha"
+      "category": "Cozinha",
+      "hot": true
+    },
+    {
+      "id": "18998115361",
+      "title": "12 a 36 Massinha Argila Pula Pula de E.V.A Super Leve + 3 Ferramentas Brinde Brinquedos Educativos",
+      "price": 15.92,
+      "originalPrice": 23.41,
+      "discountPercent": 32,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824gg-mpp6plwhefprbb",
+      "url": "https://s.shopee.com.br/20wVtKh4WN",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3235,
+      "seller": "Jesus é o Caminho",
+      "category": "Pet e bebê"
     },
     {
       "id": "18799229666",
@@ -390,7 +306,8 @@
       "rating": 4.8,
       "salesCount": 1664,
       "seller": "Moda Casa Sago",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "23393930670",
@@ -474,7 +391,8 @@
       "rating": 4.5,
       "salesCount": 2231,
       "seller": "Moda Casa Sago",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "23198062865",
@@ -769,19 +687,6 @@
       "category": "Cozinha"
     },
     {
-      "id": "58200674255",
-      "title": "Mochila feminina mediana estilosa casual elegante & acompanha pompom",
-      "price": 29.37,
-      "originalPrice": 44.5,
-      "discountPercent": 34,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh5jvjorm32d20",
-      "url": "https://s.shopee.com.br/5VWPnUXD0Q",
-      "rating": 4.9,
-      "salesCount": 1181,
-      "seller": "NSK MODAS",
-      "category": "Moda"
-    },
-    {
       "id": "52311303643",
       "title": "BODY SPLASH MASCULINO VIBRATION 200ML - PRIMACIAL PERFUME CÍTRICO",
       "price": 45.9,
@@ -850,6 +755,20 @@
       "salesCount": 4568,
       "seller": "MovicPets",
       "category": "Casa e organização"
+    },
+    {
+      "id": "20098032388",
+      "title": "Mangueira Mágica Expansível Elástica Flexível Tamanhos 15m /30m Metros Jardim Retrátil Multiuso Plantas",
+      "price": 29.9,
+      "originalPrice": 40.96,
+      "discountPercent": 27,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-msvlad4hbuh2ad",
+      "url": "https://s.shopee.com.br/7puIq2H0Tw",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 6945,
+      "seller": "Veryshopi",
+      "category": "Ferramentas"
     },
     {
       "id": "12237278339",
