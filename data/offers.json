@@ -1,32 +1,6 @@
 {
-  "updatedAt": "2026-10-26T00:06:36.038Z",
+  "updatedAt": "2026-10-26T00:15:25.564Z",
   "offers": [
-    {
-      "id": "20198263323",
-      "title": "Tênis casual modelo estiloso e confortável",
-      "price": 29.9,
-      "originalPrice": 59.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2id7i44lxj3e",
-      "url": "https://s.shopee.com.br/6L5V3IDVuS",
-      "rating": 4.5,
-      "salesCount": 2511,
-      "seller": "ENCAST 08",
-      "category": "Moda"
-    },
-    {
-      "id": "58267033396",
-      "title": "Baby Doll Short Doll Adulto Alcinha Pijama Capivara",
-      "price": 21,
-      "originalPrice": 70,
-      "discountPercent": 70,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257z-msdhhlw7kf0pfa",
-      "url": "https://s.shopee.com.br/7Aec2pEfi3",
-      "rating": 4.9,
-      "salesCount": 1529,
-      "seller": "Dream Magic",
-      "category": "Moda"
-    },
     {
       "id": "23694158325",
       "title": "BODY SPLASH FEMININO SUCCÈS VERT 200ML - PRIMACIAL PERFUME FLORAL CITRICO",
@@ -4158,6 +4132,34 @@
       "salesCount": 2223,
       "seller": "COPACAB Oficial",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "27253671214",
+      "title": "Kit De Maquiagem Profissional Multifuncional-24 Sombras , 3 Blushes , 6 Batons , 2 Pós E 3 Pincéis , Presente Ideal Para",
+      "price": 64.01,
+      "originalPrice": 95.54,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7rdvp-lzrm3gtl4vbx21",
+      "url": "https://s.shopee.com.br/3qOA8s20Hq",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 217,
+      "seller": "Choice Oficial",
+      "category": "Beleza"
+    },
+    {
+      "id": "22493572369",
+      "title": "Cortina Blackout Para Quarto Sala Cozinha PVC Corta 100% Luz 2,80 Largura X 2,30 Altura Grande",
+      "price": 33.89,
+      "originalPrice": 46.42,
+      "discountPercent": 27,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m84shxe4v8c1d9",
+      "url": "https://s.shopee.com.br/1gJfUhw0pG",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 4557,
+      "seller": "MovicPets",
+      "category": "Casa e organização"
     }
   ]
 }
