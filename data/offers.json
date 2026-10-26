@@ -1,89 +1,6 @@
 {
-  "updatedAt": "2026-10-26T00:47:16.382Z",
+  "updatedAt": "2026-10-26T01:32:22.973Z",
   "offers": [
-    {
-      "id": "22494941454",
-      "title": "Kit Facial Kokeshi Completo 3 Passos Hidratação e Colágeno",
-      "price": 59.9,
-      "originalPrice": 85.57,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mqbygibr40sg7a",
-      "url": "https://s.shopee.com.br/50a7SmkSuy",
-      "rating": 4.9,
-      "salesCount": 11773,
-      "official": true,
-      "seller": "KOKESHI OFICIAL",
-      "category": "Beleza"
-    },
-    {
-      "id": "21678240017",
-      "title": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g",
-      "price": 44.9,
-      "originalPrice": 64.14,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mrvgs50iy8zr1f",
-      "url": "https://s.shopee.com.br/BUrhu2rj9",
-      "rating": 4.9,
-      "salesCount": 7593,
-      "official": true,
-      "seller": "KOKESHI OFICIAL",
-      "category": "Beleza"
-    },
-    {
-      "id": "9319243207",
-      "title": "Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz",
-      "price": 29.9,
-      "originalPrice": 42.71,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mq3n8g0o1ama14",
-      "url": "https://s.shopee.com.br/8V9zdFwfBC",
-      "rating": 4.9,
-      "salesCount": 5810,
-      "official": true,
-      "seller": "KOKESHI OFICIAL",
-      "category": "Beleza"
-    },
-    {
-      "id": "58255360638",
-      "title": "Caderno Scrapbook 15x21cm Preto Capa Dura Com Opção de Canetas de Gel | Álbum DIY Presente Criativo",
-      "price": 27.4,
-      "originalPrice": 68.5,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mo06m1cq90cg1f",
-      "url": "https://s.shopee.com.br/BUrhu7GWk",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1640,
-      "seller": "INKY GRAF",
-      "category": "Presentes e papelaria"
-    },
-    {
-      "id": "58256763000",
-      "title": "Kit Suporte de Notebook+Mouse Sem Fio+Mouse Pad",
-      "price": 34.99,
-      "originalPrice": 99.97,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mq95l752ups2cf",
-      "url": "https://s.shopee.com.br/1qd5h1Cyba",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 734,
-      "seller": "FR-SHOP",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "58206605624",
-      "title": "Peitoral Para Cachorro + Guia Nylon Conjunto Ajustável Passeio",
-      "price": 18.9,
-      "originalPrice": 27,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-molm14xtl9fk0d",
-      "url": "https://s.shopee.com.br/9APgQVK7US",
-      "rating": 4.9,
-      "salesCount": 1136,
-      "seller": "container.pet",
-      "category": "Pet e bebê"
-    },
     {
       "id": "58211381206",
       "title": "Corretivo Líquido Under Eye 10 ML - Ruby Kisses",
@@ -376,6 +293,19 @@
       "salesCount": 1866,
       "seller": "Ploomer Premium",
       "category": "Beleza"
+    },
+    {
+      "id": "45056823760",
+      "title": "Bandeja Espelhada Decorativa Orgânico Couro Ecológico Premium 38x26cm Sala Quarto Banheiro Mesa Hall",
+      "price": 38.9,
+      "originalPrice": 99.74,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mlf5x2xbx4hx2c",
+      "url": "https://s.shopee.com.br/906GEBYMDS",
+      "rating": 4.9,
+      "salesCount": 1577,
+      "seller": "We Mirror Conceito",
+      "category": "Casa e organização"
     },
     {
       "id": "57902938444",
@@ -1178,20 +1108,6 @@
       "rating": 4.9,
       "salesCount": 1542,
       "seller": "Meu Lar - Online Decor",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "45056823760",
-      "title": "Bandeja Espelhada Decorativa Orgânico Couro Ecológico Premium 38x26cm Sala Quarto Banheiro Mesa Hall",
-      "price": 38.9,
-      "originalPrice": 77.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mlf5x2xbx4hx2c",
-      "url": "https://s.shopee.com.br/906GEBYMDS",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1577,
-      "seller": "We Mirror Conceito",
       "category": "Casa e organização"
     },
     {
@@ -2359,19 +2275,6 @@
       "category": "Cozinha"
     },
     {
-      "id": "58219196693",
-      "title": "Paleta de Maquiagem LOVÉ RAIN com Sombras Coloridas, Tons para o Rosto, Espelho e Aplicadores",
-      "price": 44.99,
-      "originalPrice": 80.34,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mtodwvxd3vnm4d",
-      "url": "https://s.shopee.com.br/2VsmmccZgh",
-      "rating": 5,
-      "salesCount": 145,
-      "seller": "Estrelaaaaa",
-      "category": "Beleza"
-    },
-    {
       "id": "25344731578",
       "title": "Comedouro e bebedouro inox Duplo para bicho de estimação cachorro ou gatos C/antiderrapante",
       "price": 23.39,
@@ -2898,19 +2801,6 @@
       "salesCount": 830,
       "seller": "zapshop2",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "25743424811",
-      "title": "Paleta De Sombras De 15 Cores UCANBE-Matte , Shimmer , Glitter-Rosa , Roxo , Vermelho , Azul , Amarelo , Verde , Smokey ",
-      "price": 41.99,
-      "originalPrice": 80.75,
-      "discountPercent": 48,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mqlkaxklu32nd7",
-      "url": "https://s.shopee.com.br/20wWBheThY",
-      "rating": 5,
-      "salesCount": 320,
-      "seller": "UCANBE Official Store BR",
-      "category": "Beleza"
     },
     {
       "id": "22392870690",
@@ -3930,7 +3820,6 @@
       "discountPercent": 38,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mpu001bm74e865",
       "url": "https://s.shopee.com.br/3LRtTmbzol",
-      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 3114,
       "seller": "ToysMart",
@@ -4158,6 +4047,32 @@
       "salesCount": 2768,
       "seller": "ACME CONFECCOES",
       "category": "Moda"
+    },
+    {
+      "id": "58251425003",
+      "title": "Suporte de peito ajustável para telefones celulares e câmeras GoPro para peito de motocicleta e bicicleta Envio rápido",
+      "price": 21.99,
+      "originalPrice": 30.12,
+      "discountPercent": 27,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhtbser5knb685",
+      "url": "https://s.shopee.com.br/5LCxrRmSAu",
+      "rating": 4.9,
+      "salesCount": 3679,
+      "seller": "FENG .",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "23093489477",
+      "title": "Mini Aspirador de Pó Portátil Automotivo Casa Sem Fio 3 em 1 Recarregável Potente 6000Pa",
+      "price": 27.54,
+      "originalPrice": 37.22,
+      "discountPercent": 26,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821gg-mgrz45xmvwgd75",
+      "url": "https://s.shopee.com.br/5LCxrSUNiD",
+      "rating": 4.6,
+      "salesCount": 8553,
+      "seller": "lojamegas",
+      "category": "Ferramentas"
     }
   ]
 }
