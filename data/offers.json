@@ -1,33 +1,17 @@
 {
-  "updatedAt": "2026-10-27T04:49:52.451Z",
+  "updatedAt": "2026-10-27T05:20:39.477Z",
   "offers": [
     {
-      "id": "58216601427",
-      "title": "Porta Temperos Giratório 360 Graus 6, 9 ou 12 Potes de Vidro Organizador Cozinha Tampa Dosadora",
-      "price": 27.99,
-      "originalPrice": 79.97,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-ms4c1u5vebd0fe",
-      "url": "https://s.shopee.com.br/5fpqPzNSYr",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 858,
-      "seller": "@LVSHOP",
-      "category": "Cozinha",
-      "hot": true
-    },
-    {
-      "id": "22393835081",
-      "title": "Kit 5 Rodas Anti Risco Universal 50mm Para Cadeira De Escritório Giratória Móveis Gamer Luvinco",
-      "price": 29.99,
-      "originalPrice": 69.74,
-      "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7grmi1s8n8yd7",
-      "url": "https://s.shopee.com.br/2qVf2n2yVH",
+      "id": "58261766323",
+      "title": "Kit 5 Rodinhas Cadeira Escritório Gamer Rodízio 50mm Pino 11mm Não Risca Piso Silenciosa Nylon PU Universal Cinza",
+      "price": 21.89,
+      "originalPrice": 59.16,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-moyd8kdffgg353",
+      "url": "https://s.shopee.com.br/6Am731uZ3h",
       "rating": 4.9,
-      "salesCount": 149,
-      "official": true,
-      "seller": "LuvinCo",
+      "salesCount": 106,
+      "seller": "BRASIL CHAIRS",
       "category": "Eletrônicos",
       "hot": true
     },
@@ -143,7 +127,8 @@
       "rating": 4.9,
       "salesCount": 2690,
       "seller": "ACME CONFECCOES",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "58251425003",
