@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T21:30:39.831Z",
+  "updatedAt": "2026-10-27T21:51:19.884Z",
   "offers": [
     {
       "id": "20042293295",
@@ -1173,6 +1173,7 @@
       "discountPercent": 58,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mqsk7tk8nbwiae",
       "url": "https://s.shopee.com.br/6fiOLkDTJi",
+      "hasVariantPrices": true,
       "rating": 4.7,
       "salesCount": 3247,
       "seller": "Meu Bebê Kids",
