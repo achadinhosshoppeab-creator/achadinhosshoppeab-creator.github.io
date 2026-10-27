@@ -1,78 +1,6 @@
 {
-  "updatedAt": "2026-10-27T00:53:06.022Z",
+  "updatedAt": "2026-10-27T01:13:59.687Z",
   "offers": [
-    {
-      "id": "18998115361",
-      "title": "12 a 36 Massinha Argila Pula Pula de E.V.A Super Leve + 3 Ferramentas Brinde Brinquedos Educativos",
-      "price": 15.92,
-      "originalPrice": 23.41,
-      "discountPercent": 32,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824gg-mpp6plwhefprbb",
-      "url": "https://s.shopee.com.br/20wVtKh4WN",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3235,
-      "seller": "Jesus é o Caminho",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "18799229666",
-      "title": "Cortina Blackout 2,20m x 1,30m Quarto Sala Blackout PVC corta 100 % a luz Varias Cores",
-      "price": 29.99,
-      "originalPrice": 55.54,
-      "discountPercent": 46,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me0cy7pnc2rm56",
-      "url": "https://s.shopee.com.br/50a7SpjK4E",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1664,
-      "seller": "Moda Casa Sago",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "23393930670",
-      "title": "Comedouro 3 Litros Automatico Cachorro e Gato Prático - Alvorada",
-      "price": 19.88,
-      "originalPrice": 26.86,
-      "discountPercent": 26,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7reo2-m926ynh1suyo8b",
-      "url": "https://s.shopee.com.br/9fLx1QMp3o",
-      "rating": 4.8,
-      "salesCount": 916,
-      "official": true,
-      "seller": "mypetone",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "49912454334",
-      "title": "Maria 5D W M Curl UC/UD Cílios Fácil LU Ventilador Extensões De Atacado Volume Pré-Fabricado Estilo W Natural Macio",
-      "price": 20.54,
-      "originalPrice": 34.23,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpj7tsq5r0gb60",
-      "url": "https://s.shopee.com.br/1BNOtjujB7",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 6041,
-      "seller": "Maria sasha eyelashes",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "4573892116",
-      "title": "Cortina Blackout PVC 1,10m x 1,30m Corta 100% a  Luz",
-      "price": 21.59,
-      "originalPrice": 35.98,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mogwosguphqe53",
-      "url": "https://s.shopee.com.br/5q9ESMg9NT",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1472,
-      "seller": "ELEGANCE  HOUSE",
-      "category": "Casa e organização"
-    },
     {
       "id": "22594721498",
       "title": "Mouse Sem Fio Home Office - Recarregável com Bateria Interna e LED RGB",
@@ -198,7 +126,8 @@
       "rating": 4.6,
       "salesCount": 2784,
       "seller": "Teslastore",
-      "category": "Eletrônicos"
+      "category": "Eletrônicos",
+      "hot": true
     },
     {
       "id": "23893313535",
@@ -325,7 +254,8 @@
       "rating": 4.8,
       "salesCount": 3062,
       "seller": "ToysMart",
-      "category": "Pet e bebê"
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "22898455160",
