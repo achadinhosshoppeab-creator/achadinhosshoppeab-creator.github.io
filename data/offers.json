@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T17:21:25.029Z",
+  "updatedAt": "2026-10-27T17:42:18.235Z",
   "offers": [
     {
       "id": "20042293295",
@@ -189,6 +189,19 @@
       "rating": 4.8,
       "salesCount": 1895,
       "seller": "Ela&Ela"
+    },
+    {
+      "id": "58264906851",
+      "title": "Kits Cuecas Boxer de Microfibra- Conforto e Alta Elasticidade",
+      "price": 18.99,
+      "originalPrice": 49.97,
+      "discountPercent": 62,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259t-mr1js4zzobnp45",
+      "url": "https://s.shopee.com.br/6fiOSrtNyV",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 1670,
+      "seller": "clickmodalingerie"
     },
     {
       "id": "20998020209",
@@ -1690,6 +1703,18 @@
       "seller": "Maybelline - Loja Oficial"
     },
     {
+      "id": "41278843530",
+      "title": "Boné Masculino Five Panel Bordado Malha para Masculino Feminino Praia Corrida Ciclismo Estilo Moda Uso Diário Chapéu",
+      "price": 30.6,
+      "originalPrice": 92.73,
+      "discountPercent": 67,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260i-ml307tm5a5ms48",
+      "url": "https://s.shopee.com.br/8VA2X6XMce",
+      "rating": 4.9,
+      "salesCount": 1240,
+      "seller": "A_crosail.br"
+    },
+    {
       "id": "58212612774",
       "title": "kit ate 10 Calcinhas Canelada Poliamida Premium Importada Fio ou Conforto",
       "price": 24.99,
@@ -1739,6 +1764,19 @@
       "rating": 4.9,
       "salesCount": 2696,
       "seller": "Bela Beleza Oficial"
+    },
+    {
+      "id": "58257376297",
+      "title": "Boné New York NY Bordado, Aba Curva, Unissex, Regulagem Ajustável, Premium, Treino, Blogueira, Beisebol - ENVIO IMEDIATO",
+      "price": 34.8,
+      "originalPrice": 65.66,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-modgya36lcef22",
+      "url": "https://s.shopee.com.br/4VdtlkmakJ",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1238,
+      "seller": "Kron.outfit"
     },
     {
       "id": "22598314126",
@@ -2911,6 +2949,19 @@
       "seller": "LLB COMÉRCIO"
     },
     {
+      "id": "42978496587",
+      "title": "Kit 6 Cuecas Boxer Infantil Polo Cotton 100% Algodão Forro Duplo Confortável",
+      "price": 61.9,
+      "originalPrice": 119.04,
+      "discountPercent": 48,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zuo-ml5ciwtfztomc0",
+      "url": "https://s.shopee.com.br/5LD0sPySg7",
+      "rating": 4.8,
+      "salesCount": 1756,
+      "official": true,
+      "seller": "UP UNDERWEAR"
+    },
+    {
       "id": "23535003648",
       "title": "Brinquedo para Gato Arranhador com Pena e Rampa Poste Sisal",
       "price": 39.89,
@@ -3870,58 +3921,6 @@
       "rating": 4.9,
       "salesCount": 3287,
       "seller": "Capitãozinho"
-    },
-    {
-      "id": "23199140933",
-      "title": "Planta Decorativa: Vasos Trançado Marrom + Pendentes Artificial Folhas De Bambu",
-      "price": 20.89,
-      "originalPrice": 49.74,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgfhxy1flv5z73",
-      "url": "https://s.shopee.com.br/6L5Xx5tcRn",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 993,
-      "seller": "Kardía"
-    },
-    {
-      "id": "18199668940",
-      "title": "Vela aromática artesanal PREMIUM 200/100G Presente Lembrancinha - Vários Aromas - Com especiarias e tampa de madeira",
-      "price": 24.9,
-      "originalPrice": 59.29,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mujyfydumeblc8",
-      "url": "https://s.shopee.com.br/6Am7knG2z5",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 3253,
-      "seller": "Alpha Oriental"
-    },
-    {
-      "id": "58263203459",
-      "title": "Kit Limpa Vidro Magnético Prático Dupla Face Rodo Mágico Janelas",
-      "price": 24.88,
-      "originalPrice": 77.75,
-      "discountPercent": 68,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h1-mpwjvx0pyd4wbd",
-      "url": "https://s.shopee.com.br/qkbOzeonE",
-      "rating": 4.8,
-      "salesCount": 2037,
-      "seller": "JX VERDE"
-    },
-    {
-      "id": "23092951296",
-      "title": "Fones de ouvido Bluetooth 5.3 com cancelamento de ruído à prova d'água IPX5 da BETTDOW com microfone integrado",
-      "price": 40,
-      "originalPrice": 95.24,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lv5t7hdbdzmle6",
-      "url": "https://s.shopee.com.br/5LD0lGo5M2",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2532,
-      "official": true,
-      "seller": "Bettdow"
     }
   ]
 }
