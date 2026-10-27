@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T15:58:31.634Z",
+  "updatedAt": "2026-10-27T16:19:17.733Z",
   "offers": [
     {
       "id": "20042293295",
@@ -1158,6 +1158,19 @@
       "seller": "Na Web Group De Marcas"
     },
     {
+      "id": "23799028065",
+      "title": "Combo Chinelo Feminino Macio Confortável Leve",
+      "price": 15.89,
+      "originalPrice": 49.66,
+      "discountPercent": 68,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhgo8t17318jdc",
+      "url": "https://s.shopee.com.br/80DlxcLFI7",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2199,
+      "seller": "JackStore"
+    },
+    {
       "id": "22392476232",
       "title": "kit com 10 Calcinha infantil Kids",
       "price": 22.9,
@@ -2113,7 +2126,7 @@
       "originalPrice": 85.32,
       "discountPercent": 38,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb9py64wpadf5",
-      "url": "https://s.shopee.com.br/6Am7koouPx",
+      "url": "https://s.shopee.com.br/8AXC8kapcm",
       "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 3567,
@@ -2282,7 +2295,7 @@
       "originalPrice": 29.14,
       "discountPercent": 42,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mje1s2nv7y827b",
-      "url": "https://s.shopee.com.br/7Ky58vgo6B",
+      "url": "https://s.shopee.com.br/3qOCzvXRms",
       "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 2278,
@@ -3287,6 +3300,19 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "23597982563",
+      "title": "Conjunto Potes Vidro Hermético Mantimentos Marmita 640ml",
+      "price": 28.99,
+      "originalPrice": 74.33,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zuc-mky6lkqdrncw9a",
+      "url": "https://s.shopee.com.br/7VHVMf1p0J",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1279,
+      "seller": "Life Hack Homeware"
+    },
+    {
       "id": "58205085045",
       "title": "Lixeira 13 Litros Abertura por Pedal Preta Quadrada",
       "price": 27.9,
@@ -3696,7 +3722,7 @@
       "originalPrice": 497.5,
       "discountPercent": 60,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-msbapxbqmvpi08",
-      "url": "https://s.shopee.com.br/6q1oY2LyMn",
+      "url": "https://s.shopee.com.br/9fLzvUZvNf",
       "rating": 4.9,
       "salesCount": 1092,
       "official": true,
@@ -3746,7 +3772,7 @@
       "originalPrice": 99.75,
       "discountPercent": 60,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvj-lyw40hetm45005",
-      "url": "https://s.shopee.com.br/8fTSjQf7ox",
+      "url": "https://s.shopee.com.br/5AtaZFqFSg",
       "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 716,
@@ -3791,19 +3817,6 @@
       "rating": 4.7,
       "salesCount": 596,
       "seller": "Au&Miau Decorações"
-    },
-    {
-      "id": "20999381894",
-      "title": "Conjunto 2/3/5/10 Potes 370/640/1040ml Vidro Hermético Mantimentos Marmita Fitness",
-      "price": 27.89,
-      "originalPrice": 68.02,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mpavso8ys2yp67",
-      "url": "https://s.shopee.com.br/1BUPRvWcQ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 9075,
-      "seller": "Life Hack Homeware"
     },
     {
       "id": "58263021202",
@@ -3907,19 +3920,6 @@
       "rating": 4.9,
       "salesCount": 3287,
       "seller": "Capitãozinho"
-    },
-    {
-      "id": "23199140933",
-      "title": "Planta Decorativa: Vasos Trançado Marrom + Pendentes Artificial Folhas De Bambu",
-      "price": 20.89,
-      "originalPrice": 49.74,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgfhxy1flv5z73",
-      "url": "https://s.shopee.com.br/6L5Xx5tcRn",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 993,
-      "seller": "Kardía"
     }
   ]
 }
