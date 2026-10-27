@@ -1,4 +1,20 @@
 {
-  "updatedAt": "2026-10-27T13:35:15.532Z",
-  "offers": []
+  "updatedAt": "2026-10-27T14:16:57.990Z",
+  "offers": [
+    {
+      "id": "21297968280",
+      "title": "Smartwatch Original X10 T900 T900 Ultra Série 9 Bússola 45mm Esportivo Fitness Relógio Inteligente Para Android IOS",
+      "price": 43,
+      "originalPrice": 100,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1dy5xatz7ky10",
+      "url": "https://s.shopee.com.br/50a7SpwS8V",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 893,
+      "seller": "PULAIRONG",
+      "category": "Eletrônicos",
+      "hot": true
+    }
+  ]
 }
