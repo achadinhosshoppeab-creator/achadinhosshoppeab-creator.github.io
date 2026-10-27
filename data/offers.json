@@ -1,106 +1,6 @@
 {
-  "updatedAt": "2026-10-27T01:54:45.370Z",
+  "updatedAt": "2026-10-27T02:15:37.180Z",
   "offers": [
-    {
-      "id": "22499513376",
-      "title": "KIT COM 2 BODY SPLASH MASCULINO VIBRATION + BLUNN 200ML - PRIMACIAL CÍTRICO FRESCO",
-      "price": 84.9,
-      "originalPrice": 139.18,
-      "discountPercent": 39,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mukmdt0ebg1u7c",
-      "url": "https://s.shopee.com.br/8V9zdGs47m",
-      "rating": 4.8,
-      "salesCount": 1205,
-      "official": true,
-      "seller": "Primacial",
-      "category": "Beleza"
-    },
-    {
-      "id": "23799188673",
-      "title": "kit 1400 Toalhas Umedecidas Bebê Limpinho",
-      "price": 71.99,
-      "originalPrice": 118.02,
-      "discountPercent": 39,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mspv9fbn4npg06",
-      "url": "https://s.shopee.com.br/7VHSRRQbOw",
-      "rating": 4.9,
-      "salesCount": 4676,
-      "official": true,
-      "seller": "Droga Clara",
-      "category": "Pet e bebê",
-      "hot": true
-    },
-    {
-      "id": "45352758433",
-      "title": "Laptop Infantil Notebook Educativo Computador Português e Inglês Raciocínio Lógico Palavras Números",
-      "price": 49.9,
-      "originalPrice": 80.48,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mpu001bm74e865",
-      "url": "https://s.shopee.com.br/3LRtTmbzol",
-      "rating": 4.8,
-      "salesCount": 3062,
-      "seller": "ToysMart",
-      "category": "Pet e bebê",
-      "hot": true
-    },
-    {
-      "id": "22898455160",
-      "title": "Pijama Estampado Personagens Bady Doll Suede Com Detalhe de Renda Roupa de Dormir Top Doll",
-      "price": 21.9,
-      "originalPrice": 34.76,
-      "discountPercent": 37,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4q-m7vjiwral0fsaa",
-      "url": "https://s.shopee.com.br/8AX9EfArgL",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1555,
-      "seller": "NC Moda Feminina",
-      "category": "Moda",
-      "hot": true
-    },
-    {
-      "id": "58256632141",
-      "title": "2026 Tablet T17 PRO MAX amx  mouse teclado 12GB RAM 512GB ROM Android14 com case 10.1 polegadas câmera 32MP",
-      "price": 688.73,
-      "originalPrice": 998.16,
-      "discountPercent": 31,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mlndfltxhq8487",
-      "url": "https://s.shopee.com.br/9APgQU7SgN",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 901,
-      "seller": "Relógios ULTRA",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "27939346346",
-      "title": "Suporte Para Telefone Principal Alça De Montagem Ajustável Multifuncional Tiro Ao Vivo Primeira Pessoa Com Clipe",
-      "price": 32.24,
-      "originalPrice": 42.99,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7reo9-m8vck44ich0533",
-      "url": "https://s.shopee.com.br/8pmq1pND6d",
-      "rating": 4.9,
-      "salesCount": 17127,
-      "seller": "Value Choice",
-      "category": "Eletrônicos",
-      "hot": true
-    },
-    {
-      "id": "40664949220",
-      "title": "TWS X55 Fones De Ouvido Sono Sem Fio Redução Ruído Alta Fidelidade Microfone Estéreo À Prova Dwaterproof Água Longo Play",
-      "price": 21.04,
-      "originalPrice": 28.05,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7rdxu-mdae0vb9hdbr3f",
-      "url": "https://s.shopee.com.br/1Lgp65JcDa",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 7171,
-      "seller": "Choice Oficial",
-      "category": "Eletrônicos"
-    },
     {
       "id": "41781797063",
       "title": "ESPELHO DE CORAÇÃO PARA BOTTON MAQUINA CHINESA ACHADINHOS DA SHOPEE",
@@ -172,7 +72,8 @@
       "rating": 4.8,
       "salesCount": 2212,
       "seller": "COPACAB Oficial",
-      "category": "Eletrônicos"
+      "category": "Eletrônicos",
+      "hot": true
     },
     {
       "id": "27253671214",
@@ -200,7 +101,8 @@
       "rating": 4.7,
       "salesCount": 4568,
       "seller": "MovicPets",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "20098032388",
@@ -256,7 +158,8 @@
       "rating": 4.6,
       "salesCount": 2584,
       "seller": "Phipé",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "20199862626",
@@ -283,7 +186,8 @@
       "rating": 4.9,
       "salesCount": 3542,
       "seller": "FENG .",
-      "category": "Eletrônicos"
+      "category": "Eletrônicos",
+      "hot": true
     },
     {
       "id": "23093489477",
