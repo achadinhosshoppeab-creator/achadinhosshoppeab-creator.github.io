@@ -32,6 +32,11 @@
     document.getElementById("status").textContent = "Erro retornado: " + params.get("error") + " " + (params.get("error_description") || "");
   } else if (!params.get("code")) {
     document.getElementById("status").textContent = "Nenhum código na URL. Refaça o login a partir do bot.";
+  } else {
+    // Se o bot estiver rodando no computador local, entrega o retorno direto a ele (sem copiar e colar).
+    fetch("http://localhost:8585/callback?" + params.toString(), { mode: "no-cors" })
+      .then(() => { document.getElementById("status").innerHTML = '<span class="ok">Enviado ao bot. Pode voltar ao terminal.</span>'; })
+      .catch(() => {});
   }
   document.getElementById("copy").onclick = async () => {
     box.select();
