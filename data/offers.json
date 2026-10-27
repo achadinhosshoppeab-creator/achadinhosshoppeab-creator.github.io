@@ -1,105 +1,6 @@
 {
-  "updatedAt": "2026-10-27T01:13:59.687Z",
+  "updatedAt": "2026-10-27T01:34:21.319Z",
   "offers": [
-    {
-      "id": "22594721498",
-      "title": "Mouse Sem Fio Home Office - Recarregável com Bateria Interna e LED RGB",
-      "price": 21.9,
-      "originalPrice": 36.5,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi86cl1tjf2a2d",
-      "url": "https://s.shopee.com.br/3qOA4h5MXe",
-      "rating": 4.9,
-      "salesCount": 2569,
-      "seller": "7k2yqrp1dc",
-      "category": "Eletrônicos",
-      "hot": true
-    },
-    {
-      "id": "18598161767",
-      "title": "Coleira Guia Retrátil 3/5 Metros  Pets Cachorro Cães Gatos Resistente Com Trava Até 11.33kg",
-      "price": 16.9,
-      "originalPrice": 28.17,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9qxx0p1ifpe76",
-      "url": "https://s.shopee.com.br/7Aec2pRjY8",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1068,
-      "seller": "Novelty Department Store",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "17162895110",
-      "title": "Cortina 100% Blackout 1,10m x 1,30m Para Sala e Quarto Folha Única",
-      "price": 19.99,
-      "originalPrice": 35.7,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me0epmq6tfy809",
-      "url": "https://s.shopee.com.br/9APgYlosqX",
-      "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 2231,
-      "seller": "Moda Casa Sago",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "23198062865",
-      "title": "GUI ANA Depilador 2em1 Recarregavel Usb Sobrancelha Buço Batom",
-      "price": 16.75,
-      "originalPrice": 29.91,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lk-mqy3req2srgn0c",
-      "url": "https://s.shopee.com.br/2BFw5dG6jB",
-      "rating": 4.8,
-      "salesCount": 1623,
-      "seller": "GUI ANA SHOP",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "27944090972",
-      "title": "2 Pçs Feminino Retângulo Relógio De Quartzo Pulseira Conjunto Strass Moda Jóias Presente Elegante",
-      "price": 22.9,
-      "originalPrice": 34.18,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258l-mrr259mcx2pxca",
-      "url": "https://s.shopee.com.br/4B10TG0yUh",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2048,
-      "seller": "Choice Oficial",
-      "category": "Moda"
-    },
-    {
-      "id": "22798943741",
-      "title": "KIT 100 UN ESPELHO ACRILICO SEM COLA  DECORATIVO REDONDO VÁRIOS TAMANHOS 1CM A 6,9CM ACHADINHOS SHOPEE",
-      "price": 36.98,
-      "originalPrice": 64.88,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2nstsgxzwkaa",
-      "url": "https://s.shopee.com.br/7Aec2oJTXW",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 57,
-      "seller": "YELLOW LASER 3",
-      "category": "Presentes e papelaria"
-    },
-    {
-      "id": "44230742944",
-      "title": "Kit Jogo De Panelas Brasilia 8 Peças Antiaderente Teflon",
-      "price": 124.9,
-      "originalPrice": 219.12,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82592-murykx9evf2f60",
-      "url": "https://s.shopee.com.br/AUv40wFW4g",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 851,
-      "seller": "Global Alumínios",
-      "category": "Cozinha"
-    },
     {
       "id": "18498293522",
       "title": "Mochila Bolsa Reforçada Notebook Impermeavel Colorido Material Premium Elegantes Excecultivo Ref:888",
@@ -198,7 +99,8 @@
       "rating": 4.5,
       "salesCount": 2650,
       "seller": "CLARA BEAUTY LINGERIE",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "23799188632",
@@ -269,7 +171,8 @@
       "rating": 4.9,
       "salesCount": 1555,
       "seller": "NC Moda Feminina",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "58256632141",
@@ -353,7 +256,8 @@
       "salesCount": 3153,
       "official": true,
       "seller": "Primacial",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "22894246754",
