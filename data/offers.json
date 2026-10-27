@@ -1,35 +1,6 @@
 {
-  "updatedAt": "2026-10-27T02:15:37.180Z",
+  "updatedAt": "2026-10-27T02:46:38.257Z",
   "offers": [
-    {
-      "id": "41781797063",
-      "title": "ESPELHO DE CORAÇÃO PARA BOTTON MAQUINA CHINESA ACHADINHOS DA SHOPEE",
-      "price": 23.98,
-      "originalPrice": 36.89,
-      "discountPercent": 35,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820l7-mqx3xvvvg3d1d7",
-      "url": "https://s.shopee.com.br/6q1leCKkDQ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 88,
-      "seller": "YELLOW LASER 3",
-      "category": "Presentes e papelaria"
-    },
-    {
-      "id": "21299607301",
-      "title": "Jogo De Panelas 8 Peças Teflon Antiaderente Frigideira Caçarola Fervedor Talheres Tampa De Vidro",
-      "price": 154.69,
-      "originalPrice": 220.99,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6dwy6oqra5s4d",
-      "url": "https://s.shopee.com.br/9V2Wp6JK6W",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 704,
-      "official": true,
-      "seller": "ARARAS ONLINE",
-      "category": "Cozinha"
-    },
     {
       "id": "52311303643",
       "title": "BODY SPLASH MASCULINO VIBRATION 200ML - PRIMACIAL PERFUME CÍTRICO",
