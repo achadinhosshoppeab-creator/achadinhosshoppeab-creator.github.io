@@ -1,4 +1,20 @@
 {
-  "updatedAt": "2026-10-27T09:26:50.455Z",
-  "offers": []
+  "updatedAt": "2026-10-27T09:57:35.217Z",
+  "offers": [
+    {
+      "id": "20099598241",
+      "title": "Bolinhas Coloridas para Piscina Kit 25 à 100 Unidades - PROMOÇÃO",
+      "price": 15.06,
+      "originalPrice": 30.12,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-ms5m5oqnpgqt68",
+      "url": "https://s.shopee.com.br/1BU0iYUCm",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3356,
+      "seller": "CMB Shop",
+      "category": "Pet e bebê",
+      "hot": true
+    }
+  ]
 }
