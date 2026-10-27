@@ -1,35 +1,4 @@
 {
-  "updatedAt": "2026-10-27T11:51:00.866Z",
-  "offers": [
-    {
-      "id": "22193589524",
-      "title": "Papel de Parede Adesivo Mármore Branco com Detalhes Dourados 5m x 45cm Lavável para Sala, Quarto e Cozinha",
-      "price": 17.99,
-      "originalPrice": 58.03,
-      "discountPercent": 69,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mows9pfly96u98",
-      "url": "https://s.shopee.com.br/AAIGDjVA0Q",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2939,
-      "seller": "Papel de Parede - Shop",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "58205048925",
-      "title": "Tênis Masculino Esportivo Casual Solado Leve Palmilha Confortavel Respiravel Academia Trabalho Treino Passeio Dia a Dia",
-      "price": 39.89,
-      "originalPrice": 69.98,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mtznk6g9xb7n3c",
-      "url": "https://s.shopee.com.br/5q9FM9D4Tc",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1796,
-      "seller": "HJ Shoes",
-      "category": "Moda",
-      "hot": true
-    }
-  ]
+  "updatedAt": "2026-10-27T12:11:53.205Z",
+  "offers": []
 }
