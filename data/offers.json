@@ -1,48 +1,6 @@
 {
-  "updatedAt": "2026-10-27T05:20:39.477Z",
+  "updatedAt": "2026-10-27T05:51:27.970Z",
   "offers": [
-    {
-      "id": "58261766323",
-      "title": "Kit 5 Rodinhas Cadeira Escritório Gamer Rodízio 50mm Pino 11mm Não Risca Piso Silenciosa Nylon PU Universal Cinza",
-      "price": 21.89,
-      "originalPrice": 59.16,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-moyd8kdffgg353",
-      "url": "https://s.shopee.com.br/6Am731uZ3h",
-      "rating": 4.9,
-      "salesCount": 106,
-      "seller": "BRASIL CHAIRS",
-      "category": "Eletrônicos",
-      "hot": true
-    },
-    {
-      "id": "27253671214",
-      "title": "Kit De Maquiagem Profissional Multifuncional-24 Sombras , 3 Blushes , 6 Batons , 2 Pós E 3 Pincéis , Presente Ideal Para",
-      "price": 64.01,
-      "originalPrice": 95.54,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7rdvp-lzrm3gtl4vbx21",
-      "url": "https://s.shopee.com.br/3qOA8s20Hq",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 215,
-      "seller": "Choice Oficial",
-      "category": "Beleza"
-    },
-    {
-      "id": "21797990606",
-      "title": "1 unid Necessaire box personalizada com inicial organizador de maquiagem bolsinhas Necesser",
-      "price": 16.93,
-      "originalPrice": 24.9,
-      "discountPercent": 32,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md2h6cdl0boyeb",
-      "url": "https://s.shopee.com.br/5AtXf9DUCR",
-      "rating": 4.9,
-      "salesCount": 2325,
-      "seller": "Donage Variedades",
-      "category": "Beleza",
-      "hot": true
-    },
     {
       "id": "22493572369",
       "title": "Cortina Blackout Para Quarto Sala Cozinha PVC Corta 100% Luz 2,80 Largura X 2,30 Altura Grande",
@@ -85,7 +43,8 @@
       "salesCount": 3938,
       "official": true,
       "seller": "Dutra Máquinas",
-      "category": "Cozinha"
+      "category": "Cozinha",
+      "hot": true
     },
     {
       "id": "23794531204",
@@ -99,7 +58,8 @@
       "rating": 4.9,
       "salesCount": 1371,
       "seller": "TeamL",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "20398003234",
