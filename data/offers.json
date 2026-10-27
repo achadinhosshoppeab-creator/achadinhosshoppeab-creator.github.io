@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T20:48:55.380Z",
+  "updatedAt": "2026-10-27T21:09:42.568Z",
   "offers": [
     {
       "id": "20042293295",
@@ -840,6 +840,19 @@
       "hot": true
     },
     {
+      "id": "22198679435",
+      "title": "Frigideira Multifuncional Antiaderente 4 Em 1",
+      "price": 37.99,
+      "originalPrice": 118.72,
+      "discountPercent": 68,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb5c3wxqrs3d72",
+      "url": "https://s.shopee.com.br/3B8WBFfXhH",
+      "rating": 4.7,
+      "salesCount": 880,
+      "seller": "Nova Link",
+      "category": "Cozinha"
+    },
+    {
       "id": "18240846440",
       "title": "KIT 10/20/30 Estojo Multiuso Bolsinha Nylon Papelaria Colorido Necessaire 13 X 23CM Estojos de Lápis Equipamento Escolar",
       "price": 24.99,
@@ -1323,7 +1336,7 @@
       "originalPrice": 151,
       "discountPercent": 61,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mmqizemhsxzab5",
-      "url": "https://s.shopee.com.br/9pfQ7YjomG",
+      "url": "https://s.shopee.com.br/9Kj9s0imx5",
       "rating": 4.8,
       "salesCount": 3027,
       "official": true,
@@ -1343,6 +1356,20 @@
       "salesCount": 6945,
       "seller": "Zany.co",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "25745811858",
+      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
+      "price": 309.9,
+      "originalPrice": 516.5,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
+      "url": "https://s.shopee.com.br/80Dj2LP297",
+      "rating": 4.9,
+      "salesCount": 829,
+      "official": true,
+      "seller": "Na Web Group De Marcas",
+      "category": "Cozinha"
     },
     {
       "id": "22093716644",
@@ -1473,7 +1500,7 @@
       "originalPrice": 139.02,
       "discountPercent": 59,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxbe1voatqqae1",
-      "url": "https://s.shopee.com.br/6fiOLjvsCR",
+      "url": "https://s.shopee.com.br/8pmtH5kgxm",
       "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 3940,
@@ -2219,7 +2246,6 @@
       "discountPercent": 38,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb9py64wpadf5",
       "url": "https://s.shopee.com.br/8AXC8kapcm",
-      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 3530,
       "seller": "Atletyca Oficial",
@@ -2613,6 +2639,20 @@
       "salesCount": 1182,
       "seller": "container.pet",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "23198735870",
+      "title": "1 a 10 Metros Fita Mangueira de LED 5050 para Decoração Com Conector 110V ou 220V Branco Frio/Quente",
+      "price": 26.3,
+      "originalPrice": 75.14,
+      "discountPercent": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvx-mch98dk3g6zu79",
+      "url": "https://s.shopee.com.br/8fTSjNkfVI",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 3641,
+      "seller": "BRILLIA",
+      "category": "Casa e organização"
     },
     {
       "id": "22399132687",
@@ -3865,7 +3905,7 @@
       "originalPrice": 199.97,
       "discountPercent": 70,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mrmcbc9uji1068",
-      "url": "https://s.shopee.com.br/8KqcKnpWp7",
+      "url": "https://s.shopee.com.br/7puM5FoUzw",
       "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 2153,
@@ -4009,20 +4049,6 @@
       "category": "Eletrônicos"
     },
     {
-      "id": "21797728567",
-      "title": "Arara 4/5 Andares Multiuso c/ Sapateira, Cabideiro e Suporte p/ Roupas, Tênis e Closet Quarto",
-      "price": 39.49,
-      "originalPrice": 179.5,
-      "discountPercent": 78,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7req6-m8dk5gglfv7k20",
-      "url": "https://s.shopee.com.br/5VWQxZ9qyp",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 3241,
-      "seller": "ZSZ_brasil",
-      "category": "Casa e organização"
-    },
-    {
       "id": "52605012484",
       "title": "Relógio De Quartzo Da Moda Feminina E Conjunto De Joias Com Pulseira De Couro Sem Caixa Pulso Elegante",
       "price": 18.05,
@@ -4104,34 +4130,6 @@
       "official": true,
       "seller": "Bettdow",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "58254155069",
-      "title": "Kit com 3 Máscaras SOS Hidratação: Ultra Cachos + Turbinada + Bio-Reconstrução Salon Line",
-      "price": 58.7,
-      "originalPrice": 87.61,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mqwa2dkewfevd5",
-      "url": "https://s.shopee.com.br/2gCFaNXMmD",
-      "rating": 4.9,
-      "salesCount": 1574,
-      "official": true,
-      "seller": "Salon Line",
-      "category": "Beleza"
-    },
-    {
-      "id": "23699308150",
-      "title": "Kit com 2 Shampoos e 2 Condicionadores Hidra + Máscara SOS Hidratação Bio-Reconstrução Salon Line",
-      "price": 49.25,
-      "originalPrice": 73.51,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjztfyh5h05ded",
-      "url": "https://s.shopee.com.br/1141bJdiA7",
-      "rating": 4.9,
-      "salesCount": 1130,
-      "official": true,
-      "seller": "Salon Line",
-      "category": "Beleza"
     }
   ]
 }
