@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T23:38:56.720Z",
+  "updatedAt": "2026-10-27T23:59:41.042Z",
   "offers": [
     {
       "id": "20042293295",
@@ -1134,6 +1134,7 @@
       "discountPercent": 44,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lg-mqxo1w6fkcna02",
       "url": "https://s.shopee.com.br/1BNRnd7wYV",
+      "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 25820,
       "seller": "PANDA  BOUTIQUE",
@@ -1303,6 +1304,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23398865735",
+      "title": "Ventilador de Teto C/ Iluminação 3 Cores Luz Controle Remoto Luminária Moderna 40w Bulbo E27 6 Pás",
+      "price": 42.99,
+      "originalPrice": 179.13,
+      "discountPercent": 76,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h2-me8qr812fabod5",
+      "url": "https://s.shopee.com.br/20wYn8A7HP",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 608,
+      "seller": "TMR E-commerce",
+      "category": "Casa e organização"
+    },
+    {
       "id": "58213601132",
       "title": "Bolsa de Armazenamento em Feltro para Porta-Malas do Carro, Organizador de Ferramentas e Acessórios Automotivos",
       "price": 24.49,
@@ -1397,6 +1412,20 @@
       "salesCount": 2418,
       "seller": "WM FASHION",
       "category": "Moda"
+    },
+    {
+      "id": "20299550104",
+      "title": "Ventilador de Teto C/ Iluminação 3 Cores Luz Controle Remoto Luminária Moderna 60w Bulbo E27 6 Pás",
+      "price": 44.99,
+      "originalPrice": 179.96,
+      "discountPercent": 75,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhl5tpe8zeh24c",
+      "url": "https://s.shopee.com.br/4qGkAKzKXC",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 494,
+      "seller": "RAPIDAO NET",
+      "category": "Casa e organização"
     },
     {
       "id": "58202329642",
@@ -1697,6 +1726,20 @@
       "salesCount": 777,
       "seller": "LUMIO.OFICIAL",
       "category": "Beleza"
+    },
+    {
+      "id": "19097999326",
+      "title": "Caixa Multifuncional De Armazenamento De Grande Capacidade Para Colchas E Roupas Domésticas 120L/160L/195L",
+      "price": 23.99,
+      "originalPrice": 104.3,
+      "discountPercent": 77,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-msjl6fab8s9241",
+      "url": "https://s.shopee.com.br/7VHVLF6dgm",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 2288,
+      "seller": "Melhores coisas",
+      "category": "Casa e organização"
     },
     {
       "id": "58212715148",
@@ -2931,6 +2974,19 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "22199198026",
+      "title": "Kit Grampos e Presilhas Automotivas com 100 Peças + Estojo Organizador Universal Reforçado",
+      "price": 15.88,
+      "originalPrice": 49.63,
+      "discountPercent": 68,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgz8isbs2yo794",
+      "url": "https://s.shopee.com.br/7favXan7rk",
+      "rating": 4.9,
+      "salesCount": 3506,
+      "seller": "RD ECOM",
+      "category": "Presentes e papelaria"
+    },
+    {
       "id": "41022402072",
       "title": "2026 Smartwatch Original S10 Pro 38mm/45mm Unissex - Chamadas via Bluetooth Esportivo Teste de pressão arterial",
       "price": 43.99,
@@ -2998,19 +3054,6 @@
       "rating": 4.9,
       "salesCount": 292,
       "seller": "B&G Kids",
-      "category": "Presentes e papelaria"
-    },
-    {
-      "id": "22199198026",
-      "title": "Kit Grampos e Presilhas Automotivas com 100 Peças + Estojo Organizador Universal Reforçado",
-      "price": 15.88,
-      "originalPrice": 49.63,
-      "discountPercent": 68,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgz8isbs2yo794",
-      "url": "https://s.shopee.com.br/7favXan7rk",
-      "rating": 4.9,
-      "salesCount": 3506,
-      "seller": "RD ECOM",
       "category": "Presentes e papelaria"
     },
     {
@@ -3232,6 +3275,20 @@
       "rating": 4.7,
       "salesCount": 437,
       "seller": "Loja_MK_Store",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "40632974721",
+      "title": "Luminária de teto de cristal dourado, estilo luxo discreto,ideal para hall de entrada, corredor e varanda E27 Bivolt",
+      "price": 39,
+      "originalPrice": 139.29,
+      "discountPercent": 72,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mr2njntzmsch41",
+      "url": "https://s.shopee.com.br/4B13N71rt8",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 460,
+      "seller": "BD Boutique De Lustres",
       "category": "Casa e organização"
     },
     {
@@ -4035,20 +4092,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "21797401338",
-      "title": "O Saco De Armazenamento NIIMBOT NIBO É Adequado Para De Papel De Etiquetas",
-      "price": 50,
-      "originalPrice": 119.05,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7r98o-llyavcck4kbo9a",
-      "url": "https://s.shopee.com.br/60Si46UEKS",
-      "rating": 5,
-      "salesCount": 1389,
-      "official": true,
-      "seller": "Niimbot Official Store",
-      "category": "Casa e organização"
-    },
-    {
       "id": "18199668940",
       "title": "Vela aromática artesanal PREMIUM 200/100G Presente Lembrancinha - Vários Aromas - Com especiarias e tampa de madeira",
       "price": 24.9,
@@ -4089,48 +4132,6 @@
       "official": true,
       "seller": "Bettdow",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "58254155069",
-      "title": "Kit com 3 Máscaras SOS Hidratação: Ultra Cachos + Turbinada + Bio-Reconstrução Salon Line",
-      "price": 58.7,
-      "originalPrice": 87.61,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mqwa2dkewfevd5",
-      "url": "https://s.shopee.com.br/2gCFaNXMmD",
-      "rating": 4.9,
-      "salesCount": 1574,
-      "official": true,
-      "seller": "Salon Line",
-      "category": "Beleza"
-    },
-    {
-      "id": "23699308150",
-      "title": "Kit com 2 Shampoos e 2 Condicionadores Hidra + Máscara SOS Hidratação Bio-Reconstrução Salon Line",
-      "price": 49.25,
-      "originalPrice": 73.51,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjztfyh5h05ded",
-      "url": "https://s.shopee.com.br/1141bJdiA7",
-      "rating": 4.9,
-      "salesCount": 1130,
-      "official": true,
-      "seller": "Salon Line",
-      "category": "Beleza"
-    },
-    {
-      "id": "22094841996",
-      "title": "Bota Feminina Chelsea/Bag/Militar Promoção Não Perca Oferta",
-      "price": 51.94,
-      "originalPrice": 110.51,
-      "discountPercent": 53,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjnhq3dyoqv729",
-      "url": "https://s.shopee.com.br/W7l0PNbxl",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 467,
-      "seller": "ECShoes",
-      "category": "Moda"
     }
   ]
 }
