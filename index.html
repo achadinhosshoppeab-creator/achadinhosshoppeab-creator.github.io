@@ -69,6 +69,11 @@
   footer { max-width: 960px; margin: 0 auto; padding: 16px; color: var(--muted); font-size: 12px; text-align: center; border-top: 1px solid var(--line); }
   .hot { margin: 0 0 16px; }
   .hot h2 { margin: 0 0 8px; font-size: 16px; display: flex; align-items: center; gap: 6px; }
+  .hot .wrap { position: relative; }
+  .hot .arrow { position: absolute; top: 50%; transform: translateY(-50%); width: 40px; height: 40px; border-radius: 50%; border: 1px solid var(--line); background: var(--card); color: var(--brand); font-size: 24px; font-weight: 800; line-height: 1; cursor: pointer; box-shadow: 0 2px 10px rgba(0,0,0,.18); z-index: 2; display: flex; align-items: center; justify-content: center; padding: 0 0 3px; }
+  .hot .arrow.prev { left: -6px; }
+  .hot .arrow.next { right: -6px; }
+  .hot .arrow[disabled] { opacity: .35; cursor: default; }
   .hot .row { display: flex; gap: 12px; overflow-x: auto; padding-bottom: 6px; scroll-snap-type: x mandatory; scrollbar-width: none; }
   .hot .row::-webkit-scrollbar { display: none; }
   .hot .card { flex: 0 0 150px; scroll-snap-align: start; border-color: var(--brand); box-shadow: 0 0 0 1px var(--brand); }
@@ -103,7 +108,11 @@
 <main>
   <section class="hot" id="hot" hidden>
     <h2>🔥 Pegando fogo</h2>
-    <div class="row" id="hotrow"></div>
+    <div class="wrap">
+      <button class="arrow prev" id="hotprev" type="button" aria-label="Anterior">‹</button>
+      <div class="row" id="hotrow"></div>
+      <button class="arrow next" id="hotnext" type="button" aria-label="Próximo">›</button>
+    </div>
   </section>
   <div class="meta"><span id="count"></span><span id="updated"></span></div>
   <div class="grid skeleton" id="grid"><a class="card"></a><a class="card"></a><a class="card"></a><a class="card"></a></div>
@@ -167,7 +176,17 @@
     if (!show) return;
     const row = $("hotrow"); row.innerHTML = "";
     hot.forEach((o) => { const c = card(o); c.insertAdjacentHTML("beforeend", '<span class="fire">🔥</span>'); row.appendChild(c); });
+    updateArrows();
   }
+  function updateArrows() {
+    const row = $("hotrow");
+    $("hotprev").disabled = row.scrollLeft <= 2;
+    $("hotnext").disabled = row.scrollLeft + row.clientWidth >= row.scrollWidth - 2;
+  }
+  $("hotprev").onclick = () => $("hotrow").scrollBy({ left: -$("hotrow").clientWidth * 0.8, behavior: "smooth" });
+  $("hotnext").onclick = () => $("hotrow").scrollBy({ left: $("hotrow").clientWidth * 0.8, behavior: "smooth" });
+  $("hotrow").addEventListener("scroll", updateArrows, { passive: true });
+  window.addEventListener("resize", updateArrows);
   function render(scroll) {
     renderHot();
     const list = filtered();
