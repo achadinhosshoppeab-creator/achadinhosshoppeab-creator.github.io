@@ -1,35 +1,6 @@
 {
-  "updatedAt": "2026-10-27T06:52:58.254Z",
+  "updatedAt": "2026-10-27T07:23:40.005Z",
   "offers": [
-    {
-      "id": "23794531204",
-      "title": "Porta Maquiagem Organizador de Cosméticos com Espelho e 2 Gavetas Estilo Clean e Funcional",
-      "price": 49.9,
-      "originalPrice": 66.53,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82595-mfzibrhxz026dd",
-      "url": "https://s.shopee.com.br/7Ky2F7EN8W",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1371,
-      "seller": "TeamL",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "20398003234",
-      "title": "Tênis Meia Feminino Slip On Calce Fácil Leve Confortável Ortopédico Caminhada Academia Trabalho",
-      "price": 29.9,
-      "originalPrice": 39.87,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb8t6kj9b7q75",
-      "url": "https://s.shopee.com.br/6VOvFbCoHH",
-      "rating": 4.6,
-      "salesCount": 2584,
-      "seller": "Phipé",
-      "category": "Moda",
-      "hot": true
-    },
     {
       "id": "20199862626",
       "title": "Camiseta Basica Algodão Pima Peruano Tecido Encorpado Malha Super Marcio Importado diadia",
