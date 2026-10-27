@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T21:09:42.568Z",
+  "updatedAt": "2026-10-27T21:30:39.831Z",
   "offers": [
     {
       "id": "20042293295",
@@ -1616,20 +1616,6 @@
       "official": true,
       "seller": "Primacial",
       "category": "Beleza"
-    },
-    {
-      "id": "23098550947",
-      "title": "Tripé Selfie Stick Extensível com Controle Remoto Sem Fio para Grupos de Selfies e Streaming ao Vivo",
-      "price": 24.99,
-      "originalPrice": 59.5,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-macpq7by7y4v34",
-      "url": "https://s.shopee.com.br/9APjKJdxc5",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1760,
-      "seller": "YYYNN",
-      "category": "Eletrônicos"
     },
     {
       "id": "20999494647",
@@ -4130,6 +4116,20 @@
       "official": true,
       "seller": "Bettdow",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "58254155069",
+      "title": "Kit com 3 Máscaras SOS Hidratação: Ultra Cachos + Turbinada + Bio-Reconstrução Salon Line",
+      "price": 58.7,
+      "originalPrice": 87.61,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mqwa2dkewfevd5",
+      "url": "https://s.shopee.com.br/2gCFaNXMmD",
+      "rating": 4.9,
+      "salesCount": 1574,
+      "official": true,
+      "seller": "Salon Line",
+      "category": "Beleza"
     }
   ]
 }
