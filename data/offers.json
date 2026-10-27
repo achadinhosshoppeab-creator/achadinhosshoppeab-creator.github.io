@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T18:23:26.482Z",
+  "updatedAt": "2026-10-27T18:44:16.759Z",
   "offers": [
     {
       "id": "20042293295",
@@ -591,6 +591,21 @@
       "seller": "Mabi Shoes"
     },
     {
+      "id": "8083342653",
+      "title": "MISSHA M Perfect Cover BB Cream SPF42 PA+++ 20ml / 50ml | Embalagem em Renovação",
+      "price": 39,
+      "originalPrice": 81.25,
+      "discountPercent": 52,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-821dl-mgn8wp71aadkdf",
+      "url": "https://s.shopee.com.br/906JJLgX8U",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 4371,
+      "official": true,
+      "seller": "koksara.kbeauty",
+      "category": "Beleza"
+    },
+    {
       "id": "26044322175",
       "title": "Uniwity Mouse Sem Fio Recarregável com Bluetooth, RGB e Design Ergonômico – Conforto e Estilo",
       "price": 74.9,
@@ -681,20 +696,6 @@
       "official": true,
       "seller": "Loja Lopazzi",
       "category": "Casa e organização"
-    },
-    {
-      "id": "18297829933",
-      "title": "Perfume Grace Midnight Feminino Frasco Antigo Hinode 100ml",
-      "price": 84.95,
-      "originalPrice": 169.9,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mspjvyi96xhh07",
-      "url": "https://s.shopee.com.br/30p5yx6iGM",
-      "rating": 4.9,
-      "salesCount": 463,
-      "official": true,
-      "seller": "Hinode ",
-      "category": "Beleza"
     },
     {
       "id": "26734497572",
@@ -1326,6 +1327,20 @@
       "salesCount": 866,
       "seller": "M Flowerr",
       "category": "Cozinha"
+    },
+    {
+      "id": "18297829933",
+      "title": "Perfume Grace Midnight Feminino Frasco Antigo Hinode 100ml",
+      "price": 101.94,
+      "originalPrice": 169.9,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mspjvyi96xhh07",
+      "url": "https://s.shopee.com.br/30p5yx6iGM",
+      "rating": 4.9,
+      "salesCount": 463,
+      "official": true,
+      "seller": "Hinode ",
+      "category": "Beleza"
     },
     {
       "id": "22198582701",
@@ -2924,6 +2939,19 @@
       "seller": "WGECOMM"
     },
     {
+      "id": "58258071799",
+      "title": "Kit Banheiro Acessórios 5 Peças Completo Toalheiro Saboneteira Decoração Preto Branco Cromado Decor",
+      "price": 31.96,
+      "originalPrice": 51.55,
+      "discountPercent": 38,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mmjbbyrviqyscd",
+      "url": "https://s.shopee.com.br/9Kj9WbqvhD",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 827,
+      "seller": "Morada de Paz"
+    },
+    {
       "id": "53053245387",
       "title": "Ventilador Mini Portátil Recarregável USB de Mão Suporte Mesa Silencioso Ideal para Casa Trabalho",
       "price": 25.99,
@@ -2951,8 +2979,8 @@
     {
       "id": "23197416358",
       "title": "Parafusadeira Furadeira de Impacto Sem Fio 21V Bivolt 110/220V Kit Maleta com 2 Baterias 28 Peças",
-      "price": 99.98,
-      "originalPrice": 370.3,
+      "price": 115.99,
+      "originalPrice": 429.59,
       "discountPercent": 73,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mlczxisdlt6sf6",
       "url": "https://s.shopee.com.br/AKbgiULVnX",
@@ -2986,21 +3014,6 @@
       "rating": 4.8,
       "salesCount": 7567,
       "seller": "SKY MALL"
-    },
-    {
-      "id": "21235699753",
-      "title": "Fadvan 5D W Extensões De Cílios Em Forma De 0.07 C/D Faux Mink Natural Lashes Profissionais Suaves",
-      "price": 22.25,
-      "originalPrice": 58.55,
-      "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlr6x8dggpa8d1",
-      "url": "https://s.shopee.com.br/LoHuCxtrs",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 13970,
-      "official": true,
-      "seller": "fadvan.br",
-      "category": "Beleza"
     },
     {
       "id": "22694204664",
@@ -3907,18 +3920,6 @@
       "rating": 4.8,
       "salesCount": 3253,
       "seller": "Alpha Oriental"
-    },
-    {
-      "id": "58263203459",
-      "title": "Kit Limpa Vidro Magnético Prático Dupla Face Rodo Mágico Janelas",
-      "price": 24.88,
-      "originalPrice": 77.75,
-      "discountPercent": 68,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h1-mpwjvx0pyd4wbd",
-      "url": "https://s.shopee.com.br/qkbOzeonE",
-      "rating": 4.8,
-      "salesCount": 2037,
-      "seller": "JX VERDE"
     }
   ]
 }
