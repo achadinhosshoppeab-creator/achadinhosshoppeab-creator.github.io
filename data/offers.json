@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T17:42:18.235Z",
+  "updatedAt": "2026-10-27T18:03:16.362Z",
   "offers": [
     {
       "id": "20042293295",
@@ -40,18 +40,6 @@
       "salesCount": 2047,
       "official": true,
       "seller": "koksara.kbeauty"
-    },
-    {
-      "id": "22296671784",
-      "title": "Placa Pix Display Mesa Balcão - PIX, WI-FI e INSTAGRAM - MODERNO",
-      "price": 18.99,
-      "originalPrice": 59.34,
-      "discountPercent": 68,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lkomlr9h6h7g14",
-      "url": "https://s.shopee.com.br/1qd8arwCbV",
-      "rating": 4.9,
-      "salesCount": 2387,
-      "seller": "Bordados e Corte a Laser"
     },
     {
       "id": "41721001761",
@@ -191,19 +179,6 @@
       "seller": "Ela&Ela"
     },
     {
-      "id": "58264906851",
-      "title": "Kits Cuecas Boxer de Microfibra- Conforto e Alta Elasticidade",
-      "price": 18.99,
-      "originalPrice": 49.97,
-      "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259t-mr1js4zzobnp45",
-      "url": "https://s.shopee.com.br/6fiOSrtNyV",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1670,
-      "seller": "clickmodalingerie"
-    },
-    {
       "id": "20998020209",
       "title": "Kit Calcinhas Feminina Algodao Adulto ou Microfibra Conforto Calcinha Tanga",
       "price": 29.99,
@@ -339,6 +314,20 @@
       "hot": true
     },
     {
+      "id": "22895154190",
+      "title": "Kit Peseira para Cama com 2 Capas de Almofada Tricô Luxo Decorativo Casal Queen Elegante",
+      "price": 69.89,
+      "originalPrice": 170.46,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mrbqr7j15nnrd8",
+      "url": "https://s.shopee.com.br/9pfQG3vBa9",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 913,
+      "seller": "bordamalhas",
+      "category": "Casa e organização"
+    },
+    {
       "id": "21499198919",
       "title": "1/2/5 Pcs Carteiras Fibra De Carbono Porta-Cartões Masculina Marca Preta Mágica Tripla De Couro",
       "price": 16.5,
@@ -457,19 +446,6 @@
       "salesCount": 1750,
       "official": true,
       "seller": "Adora "
-    },
-    {
-      "id": "23898177386",
-      "title": "Planner Quadro Lousa Magnética para Anotações Planejamento Semanal ima + Caneta Apagador",
-      "price": 19,
-      "originalPrice": 42.22,
-      "discountPercent": 55,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5wadxth4tqd8f",
-      "url": "https://s.shopee.com.br/AAIGWBV133",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 343,
-      "seller": "Planner 2026"
     },
     {
       "id": "58211536223",
@@ -748,18 +724,6 @@
       "seller": "Ventura_Imports_"
     },
     {
-      "id": "58210053681",
-      "title": "Planner Magnético Lousa Lembrete Imã Geladeira Porta Recados Anotação Semanal Mensal",
-      "price": 22.9,
-      "originalPrice": 45.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mntikjm5998i6d",
-      "url": "https://s.shopee.com.br/5LD0lInPqm",
-      "rating": 4.9,
-      "salesCount": 635,
-      "seller": "Organizadores "
-    },
-    {
       "id": "22493876691",
       "title": "Jogo 10/15 Brocas Diamantadas Serra Copo furar Vidro Granito Ceramica 6 a 50 mm kit ferramentas",
       "price": 25.59,
@@ -939,19 +903,6 @@
       "salesCount": 2690,
       "seller": "LuoYi Best shop",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "58207572793",
-      "title": "Luminária Retrô de Mesa LED Recarregável com Cúpula Transparente e Controle por Toque Dourada",
-      "price": 54,
-      "originalPrice": 100,
-      "discountPercent": 46,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zm-mm89tcutvnyg28",
-      "url": "https://s.shopee.com.br/20wYn6oS6L",
-      "rating": 4.9,
-      "salesCount": 735,
-      "seller": "DeinShop",
-      "category": "Casa e organização"
     },
     {
       "id": "53616416772",
@@ -1652,18 +1603,6 @@
       "category": "Beleza"
     },
     {
-      "id": "58257345035",
-      "title": "Suporte De Secador Chapinha Babyliss Organizador Multifuncional De Parede Salao e Banheiro",
-      "price": 19.9,
-      "originalPrice": 71.07,
-      "discountPercent": 72,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mogzjplvkq2ued",
-      "url": "https://s.shopee.com.br/W7l0Ok0vY",
-      "rating": 4.7,
-      "salesCount": 779,
-      "seller": "LUMIO.OFICIAL"
-    },
-    {
       "id": "19097999326",
       "title": "Caixa Multifuncional De Armazenamento De Grande Capacidade Para Colchas E Roupas Domésticas 120L/160L/195L",
       "price": 23.99,
@@ -1703,6 +1642,18 @@
       "seller": "Maybelline - Loja Oficial"
     },
     {
+      "id": "58257345035",
+      "title": "Suporte De Secador Chapinha Babyliss Organizador Multifuncional De Parede Salao e Banheiro",
+      "price": 19.9,
+      "originalPrice": 71.07,
+      "discountPercent": 72,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mogzjplvkq2ued",
+      "url": "https://s.shopee.com.br/W7l0Ok0vY",
+      "rating": 4.7,
+      "salesCount": 779,
+      "seller": "LUMIO.OFICIAL"
+    },
+    {
       "id": "41278843530",
       "title": "Boné Masculino Five Panel Bordado Malha para Masculino Feminino Praia Corrida Ciclismo Estilo Moda Uso Diário Chapéu",
       "price": 30.6,
@@ -1739,6 +1690,20 @@
       "rating": 4.7,
       "salesCount": 2043,
       "seller": "Thalinda Lingerie Moda"
+    },
+    {
+      "id": "21034795993",
+      "title": "Tapete de Banheiro Antiderrapante Bolinha Macarrão Várias Cores",
+      "price": 15.89,
+      "originalPrice": 29.98,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22100-yg4ftmeqs8iv0a",
+      "url": "https://s.shopee.com.br/1Lgp65ssjN",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 5346,
+      "seller": "MG Enxovais",
+      "category": "Casa e organização"
     },
     {
       "id": "46806231294",
@@ -1827,7 +1792,8 @@
       "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 2534,
-      "seller": "Newpet - marca"
+      "seller": "Newpet - marca",
+      "category": "Casa e organização"
     },
     {
       "id": "24140416368",
@@ -2069,6 +2035,19 @@
       "category": "Beleza"
     },
     {
+      "id": "21751683068",
+      "title": "Chapinha Modelador Portátil para Cabelo e Barba Masculino com Pente",
+      "price": 20.94,
+      "originalPrice": 65.44,
+      "discountPercent": 68,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22100-emz280gpc9hv54",
+      "url": "https://s.shopee.com.br/9fM03lQpED",
+      "rating": 4.6,
+      "salesCount": 619,
+      "seller": "Isabela Top",
+      "category": "Beleza"
+    },
+    {
       "id": "57951023705",
       "title": "Cicaplast Repair Cream B5 40ml Hidratar Nutrir A Barreira Da Pele Reparação Cuidados Faciais",
       "price": 25.14,
@@ -2131,20 +2110,6 @@
       "rating": 4.8,
       "salesCount": 2200,
       "seller": "magiainfantil"
-    },
-    {
-      "id": "58218792633",
-      "title": "Necessaire Organizador Cosmético Maquiagem Feminino Para Viagem Em Alto Qualidade",
-      "price": 16.98,
-      "originalPrice": 29.79,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mtgho0fm27ep26",
-      "url": "https://s.shopee.com.br/3VlMZsI0Zh",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 972,
-      "seller": "Bem Viver",
-      "category": "Beleza"
     },
     {
       "id": "22294449703",
@@ -2481,7 +2446,7 @@
       "originalPrice": 99.97,
       "discountPercent": 65,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mq95l752ups2cf",
-      "url": "https://s.shopee.com.br/7favXYawNX",
+      "url": "https://s.shopee.com.br/6VOyHyTCgx",
       "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 706,
@@ -2716,6 +2681,19 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "58270017100",
+      "title": "Escova Secadora Alisador Eletrica QuenteCabelo Com 3 Em1,Portátil para Uso Doméstico,protege el cabello",
+      "price": 38.99,
+      "originalPrice": 108.31,
+      "discountPercent": 64,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mu1whi961jpc3a",
+      "url": "https://s.shopee.com.br/3VlMiQoA9p",
+      "rating": 4.9,
+      "salesCount": 268,
+      "seller": "FZZYSTAR.store",
+      "category": "Beleza"
+    },
+    {
       "id": "50160899989",
       "title": "Novo Relógio 10 PRO Max Smartwatch Inteligente Masculino E Feminino Bluetooth Chamado , Papéis De Parede Personalizáveis",
       "price": 49.99,
@@ -2778,20 +2756,6 @@
       "salesCount": 1380,
       "seller": "SENSACIONAL.CO",
       "category": "Cozinha"
-    },
-    {
-      "id": "21558580398",
-      "title": "Kit 4 Capas de Almofadas Decorativas de Sala Quarto e Escritório 45 Cm x 45 Cm Estampas Variadas",
-      "price": 21.9,
-      "originalPrice": 59.19,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcgs7qhqlmped7",
-      "url": "https://s.shopee.com.br/3LRwNYs2SG",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1133,
-      "seller": "LÁ SHOPS STORE ",
-      "category": "Casa e organização"
     },
     {
       "id": "19898262315",
@@ -2886,18 +2850,6 @@
       "seller": "RELVA GROUP"
     },
     {
-      "id": "23394874414",
-      "title": "Planner Semanal Magnético Ima De Geladeira Com Caneta",
-      "price": 22.42,
-      "originalPrice": 60.59,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mle0bc34ml1i32",
-      "url": "https://s.shopee.com.br/1141bL3ueP",
-      "rating": 4.9,
-      "salesCount": 287,
-      "seller": "B&G Kids"
-    },
-    {
       "id": "20098202552",
       "title": "Cadeira Gamer Ergonômica - Escritório, Casa e Universitário com Reclinação e Altura Ajustável-F19",
       "price": 403.95,
@@ -2947,19 +2899,6 @@
       "rating": 4.8,
       "salesCount": 795,
       "seller": "LLB COMÉRCIO"
-    },
-    {
-      "id": "42978496587",
-      "title": "Kit 6 Cuecas Boxer Infantil Polo Cotton 100% Algodão Forro Duplo Confortável",
-      "price": 61.9,
-      "originalPrice": 119.04,
-      "discountPercent": 48,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zuo-ml5ciwtfztomc0",
-      "url": "https://s.shopee.com.br/5LD0sPySg7",
-      "rating": 4.8,
-      "salesCount": 1756,
-      "official": true,
-      "seller": "UP UNDERWEAR"
     },
     {
       "id": "23535003648",
@@ -3338,18 +3277,6 @@
       "salesCount": 4262,
       "official": true,
       "seller": "Salon Line"
-    },
-    {
-      "id": "23893081836",
-      "title": "Óleo Extraordinário - Tratamento Sublime 100ml NEW HAIR | Hidrata, nutre e finaliza",
-      "price": 20.57,
-      "originalPrice": 27.8,
-      "discountPercent": 26,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma4a9lk265xd0c",
-      "url": "https://s.shopee.com.br/BUubmgxAN",
-      "rating": 4.9,
-      "salesCount": 2881,
-      "seller": "Bela Beleza Oficial"
     },
     {
       "id": "23131712327",
@@ -3767,6 +3694,20 @@
       "seller": "M Flowerr"
     },
     {
+      "id": "23693483730",
+      "title": "Kit Manta Peseira Tricot Trança Cama Casal Queen King + 2 Capas Almofadas Decorativa Premium Sofá FI",
+      "price": 142.9,
+      "originalPrice": 348.54,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi3f4pc0vz7nc2",
+      "url": "https://s.shopee.com.br/1qd8jMPdor",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 509,
+      "seller": "tricotstore",
+      "category": "Casa e organização"
+    },
+    {
       "id": "43179929475",
       "title": "Espelho Adnet Com Alça Couro Redondo Decorativo Várias Tamanhos + Suporte",
       "price": 24.24,
@@ -3864,7 +3805,7 @@
       "originalPrice": 151.19,
       "discountPercent": 69,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m2-mqxu3vg4x3ifaa",
-      "url": "https://s.shopee.com.br/1W0ICDyLaU",
+      "url": "https://s.shopee.com.br/9V2ZrUHmbZ",
       "rating": 4.9,
       "salesCount": 550,
       "seller": "NEW SECULO XXI"
@@ -3921,6 +3862,71 @@
       "rating": 4.9,
       "salesCount": 3287,
       "seller": "Capitãozinho"
+    },
+    {
+      "id": "23199140933",
+      "title": "Planta Decorativa: Vasos Trançado Marrom + Pendentes Artificial Folhas De Bambu",
+      "price": 20.89,
+      "originalPrice": 49.74,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgfhxy1flv5z73",
+      "url": "https://s.shopee.com.br/6L5Xx5tcRn",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 993,
+      "seller": "Kardía"
+    },
+    {
+      "id": "18199668940",
+      "title": "Vela aromática artesanal PREMIUM 200/100G Presente Lembrancinha - Vários Aromas - Com especiarias e tampa de madeira",
+      "price": 24.9,
+      "originalPrice": 59.29,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mujyfydumeblc8",
+      "url": "https://s.shopee.com.br/6Am7knG2z5",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 3253,
+      "seller": "Alpha Oriental"
+    },
+    {
+      "id": "58263203459",
+      "title": "Kit Limpa Vidro Magnético Prático Dupla Face Rodo Mágico Janelas",
+      "price": 24.88,
+      "originalPrice": 77.75,
+      "discountPercent": 68,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h1-mpwjvx0pyd4wbd",
+      "url": "https://s.shopee.com.br/qkbOzeonE",
+      "rating": 4.8,
+      "salesCount": 2037,
+      "seller": "JX VERDE"
+    },
+    {
+      "id": "23092951296",
+      "title": "Fones de ouvido Bluetooth 5.3 com cancelamento de ruído à prova d'água IPX5 da BETTDOW com microfone integrado",
+      "price": 40,
+      "originalPrice": 95.24,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lv5t7hdbdzmle6",
+      "url": "https://s.shopee.com.br/5LD0lGo5M2",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2532,
+      "official": true,
+      "seller": "Bettdow"
+    },
+    {
+      "id": "58254155069",
+      "title": "Kit com 3 Máscaras SOS Hidratação: Ultra Cachos + Turbinada + Bio-Reconstrução Salon Line",
+      "price": 58.7,
+      "originalPrice": 87.61,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mqwa2dkewfevd5",
+      "url": "https://s.shopee.com.br/2gCFaNXMmD",
+      "rating": 4.9,
+      "salesCount": 1552,
+      "official": true,
+      "seller": "Salon Line"
     }
   ]
 }
