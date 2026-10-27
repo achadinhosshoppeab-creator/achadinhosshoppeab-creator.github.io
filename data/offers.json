@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T22:57:23.399Z",
+  "updatedAt": "2026-10-27T23:18:09.879Z",
   "offers": [
     {
       "id": "20042293295",
@@ -56,6 +56,19 @@
       "salesCount": 2385,
       "seller": "Bordados e Corte a Laser",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "43676855421",
+      "title": "Kit 2 Pares Chinelo + Sandália Feminina Ortopédica Palmilha Massageadora Casual Leve Macio Confortável Sola de Eva",
+      "price": 65.99,
+      "originalPrice": 199.97,
+      "discountPercent": 67,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mr8ttbi683ye5d",
+      "url": "https://s.shopee.com.br/8fTTDZ3Iik",
+      "rating": 4.8,
+      "salesCount": 1489,
+      "seller": "Ploomer Premium",
+      "category": "Beleza"
     },
     {
       "id": "41721001761",
@@ -130,6 +143,20 @@
       "official": true,
       "seller": "Adora ",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "18598298511",
+      "title": "Mochila Térmica Grande Capacidade Cooler Portátil Piquenique Quente Frio Não colocar gelo ou água",
+      "price": 36.95,
+      "originalPrice": 99.86,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mristuh3mmth64",
+      "url": "https://s.shopee.com.br/AKbhCcjcVx",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1532,
+      "seller": "DeinShop",
+      "category": "Moda"
     },
     {
       "id": "21640099105",
@@ -853,20 +880,6 @@
       "category": "Cozinha"
     },
     {
-      "id": "18240846440",
-      "title": "KIT 10/20/30 Estojo Multiuso Bolsinha Nylon Papelaria Colorido Necessaire 13 X 23CM Estojos de Lápis Equipamento Escolar",
-      "price": 24.99,
-      "originalPrice": 53.17,
-      "discountPercent": 53,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259d-mtai9235voqoda",
-      "url": "https://s.shopee.com.br/3qOCyUGjtn",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1290,
-      "seller": "BIG MO",
-      "category": "Beleza"
-    },
-    {
       "id": "58214695707",
       "title": "T-shirt Masculina Looney Tunes modelo novo Camiseta Versátil Camisa Tendência Blusa Premium Crt Unissex",
       "price": 23.9,
@@ -1208,20 +1221,6 @@
       "category": "Moda"
     },
     {
-      "id": "53462836946",
-      "title": "Camisa de Compressão Poliamida LISA Masculina Camiseta BASICA Rash Guard Jiujitsu Academia Treino",
-      "price": 27.99,
-      "originalPrice": 121.7,
-      "discountPercent": 77,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ir-mpx01diao1lb06",
-      "url": "https://s.shopee.com.br/8pmsviwHpn",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2075,
-      "seller": "EQ Multimarcas🏅",
-      "category": "Moda"
-    },
-    {
       "id": "58258677338",
       "title": "Porta Retrato Decoração Sala Quadro de Fotos Porta Retrato Parede Decorativo Mdf 40x70 Árvore Molduras Foto Família",
       "price": 16,
@@ -1258,6 +1257,20 @@
       "rating": 4.7,
       "salesCount": 4784,
       "seller": "GRISEL MODAS",
+      "category": "Moda"
+    },
+    {
+      "id": "53462836946",
+      "title": "Camisa de Compressão Poliamida LISA Masculina Camiseta BASICA Rash Guard Jiujitsu Academia Treino",
+      "price": 27.99,
+      "originalPrice": 121.7,
+      "discountPercent": 77,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ir-mpx01diao1lb06",
+      "url": "https://s.shopee.com.br/8pmsviwHpn",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2075,
+      "seller": "EQ Multimarcas🏅",
       "category": "Moda"
     },
     {
@@ -1796,6 +1809,20 @@
       "category": "Moda"
     },
     {
+      "id": "21034795993",
+      "title": "Tapete de Banheiro Antiderrapante Bolinha Macarrão Várias Cores",
+      "price": 15.89,
+      "originalPrice": 29.98,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22100-yg4ftmeqs8iv0a",
+      "url": "https://s.shopee.com.br/1Lgp65ssjN",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 5336,
+      "seller": "MG Enxovais",
+      "category": "Casa e organização"
+    },
+    {
       "id": "46806231294",
       "title": "Fone KZ EDX Pro Profissional Intra-auricular Driver Dinâmico Magnético 10mm Original Gamer",
       "price": 48.9,
@@ -1892,18 +1919,18 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "24140416368",
-      "title": "Smartwatch Relógio Inteligente Android iOS watch10,Carregamento Sem Fio Bluetooth Chamada,Papel de parede personalizado",
-      "price": 49.99,
-      "originalPrice": 128.18,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mji9d76c43r5a7",
-      "url": "https://s.shopee.com.br/1BNRnbHTzT",
+      "id": "23697976163",
+      "title": "Top Faixa com Bojo Feminino – Confortável, Não Marca e Ideal para Blusas de Alça Sutiã Tomara que Caia Sem Alça Básico",
+      "price": 18.91,
+      "originalPrice": 42.98,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-msijs6crxo93be",
+      "url": "https://s.shopee.com.br/6VOyda2c6s",
       "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 222,
-      "seller": "FANSHEN",
-      "category": "Casa e organização"
+      "rating": 4.8,
+      "salesCount": 1677,
+      "seller": "Lela Moda Íntima",
+      "category": "Moda"
     },
     {
       "id": "23293962132",
@@ -2250,20 +2277,6 @@
       "salesCount": 2237,
       "seller": "magiainfantil",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "58218792633",
-      "title": "Necessaire Organizador Cosmético Maquiagem Feminino Para Viagem Em Alto Qualidade",
-      "price": 16.98,
-      "originalPrice": 29.79,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mtgho0fm27ep26",
-      "url": "https://s.shopee.com.br/3VlMZsI0Zh",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1003,
-      "seller": "Bem Viver",
-      "category": "Beleza"
     },
     {
       "id": "22294449703",
@@ -2694,20 +2707,6 @@
       "rating": 4.9,
       "salesCount": 5154,
       "seller": "VICTORIA BAZAR EIRELI",
-      "category": "Beleza"
-    },
-    {
-      "id": "8932435494",
-      "title": "Necessaire de Mão em Neoprene Bolsa Feminina Organizadora Presente Mulheres Professora Mãe  - ISOPRENE - Várias Estampas",
-      "price": 20,
-      "originalPrice": 33.33,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/870d5a6b916186f63b7012a121218156",
-      "url": "https://s.shopee.com.br/1qd5h1QAy7",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1531,
-      "seller": "Isoprene Oficial",
       "category": "Beleza"
     },
     {
@@ -3765,19 +3764,6 @@
       "category": "Moda"
     },
     {
-      "id": "23598944493",
-      "title": "Blusa Feminina Gola Polo Básica Premium – Conforto e Estilo Casual",
-      "price": 37.49,
-      "originalPrice": 49.99,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf8xadwk2a6fb8",
-      "url": "https://s.shopee.com.br/9pfQ7YfPzB",
-      "rating": 4.8,
-      "salesCount": 3024,
-      "seller": "M & M Moda",
-      "category": "Moda"
-    },
-    {
       "id": "40579805420",
       "title": "Tapete Infantil de Água Inflável para Bebê Sensorial Coordenação Motora Brinquedo Educativo",
       "price": 19.9,
@@ -3886,6 +3872,19 @@
       "category": "Moda"
     },
     {
+      "id": "23598944493",
+      "title": "Blusa Feminina Gola Polo Básica Premium – Conforto e Estilo Casual",
+      "price": 37.49,
+      "originalPrice": 49.99,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf8xadwk2a6fb8",
+      "url": "https://s.shopee.com.br/9pfQ7YfPzB",
+      "rating": 4.8,
+      "salesCount": 3024,
+      "seller": "M & M Moda",
+      "category": "Moda"
+    },
+    {
       "id": "23298142175",
       "title": "Calça Jeans Feminina Wide Leg Pantalona Grafite Marmorizada Cintura Alta 34 ao 44",
       "price": 59.99,
@@ -3939,19 +3938,6 @@
       "salesCount": 1991,
       "seller": "Outside The Boxx",
       "category": "Casa e organização"
-    },
-    {
-      "id": "58205320938",
-      "title": "Kit 3 T-Shirt Algodão 30.1 Comfort Confortavel Estilosa Baby Look Casual Básica Urbana",
-      "price": 49.99,
-      "originalPrice": 89.27,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zup-mksih9pltgxsed",
-      "url": "https://s.shopee.com.br/7puIq3C45n",
-      "rating": 4.8,
-      "salesCount": 2482,
-      "seller": "Gota de ouro ",
-      "category": "Moda"
     },
     {
       "id": "58200512845",
@@ -4128,6 +4114,20 @@
       "url": "https://s.shopee.com.br/2gCFaNXMmD",
       "rating": 4.9,
       "salesCount": 1574,
+      "official": true,
+      "seller": "Salon Line",
+      "category": "Beleza"
+    },
+    {
+      "id": "23699308150",
+      "title": "Kit com 2 Shampoos e 2 Condicionadores Hidra + Máscara SOS Hidratação Bio-Reconstrução Salon Line",
+      "price": 49.25,
+      "originalPrice": 73.51,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjztfyh5h05ded",
+      "url": "https://s.shopee.com.br/1141bJdiA7",
+      "rating": 4.9,
+      "salesCount": 1130,
       "official": true,
       "seller": "Salon Line",
       "category": "Beleza"
