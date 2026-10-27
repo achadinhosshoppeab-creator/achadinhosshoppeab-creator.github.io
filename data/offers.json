@@ -1,122 +1,6 @@
 {
-  "updatedAt": "2026-10-27T01:34:21.319Z",
+  "updatedAt": "2026-10-27T01:54:45.370Z",
   "offers": [
-    {
-      "id": "18498293522",
-      "title": "Mochila Bolsa Reforçada Notebook Impermeavel Colorido Material Premium Elegantes Excecultivo Ref:888",
-      "price": 39.3,
-      "originalPrice": 63.39,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md6iwjk2awc264",
-      "url": "https://s.shopee.com.br/9Kj6cnxh34",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 3798,
-      "seller": "M Flowerr",
-      "category": "Moda",
-      "hot": true
-    },
-    {
-      "id": "21296971156",
-      "title": "Lampada Musical Caixa Som Bluetooth Led Rgb Com Controle",
-      "price": 19.89,
-      "originalPrice": 31.57,
-      "discountPercent": 37,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rblx-lopj5y7tmcce2d",
-      "url": "https://s.shopee.com.br/7fasdjmMzL",
-      "rating": 4.6,
-      "salesCount": 2784,
-      "seller": "Teslastore",
-      "category": "Eletrônicos",
-      "hot": true
-    },
-    {
-      "id": "23893313535",
-      "title": "Conjunto de Panelas Antiaderente 10 Peças Prime Alumínio Teflon Com Tampa De Vidro Jogo De Panelas Kit De Panelas",
-      "price": 229.9,
-      "originalPrice": 310.68,
-      "discountPercent": 26,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mps9nwzdgd8h5d",
-      "url": "https://s.shopee.com.br/1Lgp65oPfg",
-      "rating": 4.8,
-      "salesCount": 1621,
-      "official": true,
-      "seller": "Essenza Di Chef",
-      "category": "Cozinha"
-    },
-    {
-      "id": "27228426023",
-      "title": "Conjunto De Relógio Feminino Ros ivga 6 Peças De Pulseira De Liga De Quartzo Com Strass Joias Da Moda Presente Para O Na",
-      "price": 20.9,
-      "originalPrice": 29.86,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823ok-mp4mjqghgeto57",
-      "url": "https://s.shopee.com.br/5q9ESMK5FH",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1112,
-      "seller": "Choice Oficial",
-      "category": "Moda"
-    },
-    {
-      "id": "40984178757",
-      "title": "Tênis Masculino Mizon Air RMax 90 Moderno com Tecnologia de Amortecimento",
-      "price": 59.89,
-      "originalPrice": 92.14,
-      "discountPercent": 35,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mst4iw2d5p8k87",
-      "url": "https://s.shopee.com.br/5q9ESNFPvR",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1987,
-      "seller": "Pechincha Livre",
-      "category": "Moda"
-    },
-    {
-      "id": "58205018164",
-      "title": "KIT 2 Camisa Gola Polo Alta Qualidade 100% Algodão Camiseta Básica Masculina  Diversas Cores",
-      "price": 59.8,
-      "originalPrice": 99.67,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zty-mkjyqctdl34035",
-      "url": "https://s.shopee.com.br/3qOA4hRICs",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3243,
-      "seller": "TP Camisetas",
-      "category": "Moda",
-      "hot": true
-    },
-    {
-      "id": "44502184358",
-      "title": "Kit 3 Pijama Verão Baby Doll PLUS SIZEl Short Doll MICRO ESTAMPADO E LISO Feminino Noite Fresquinho",
-      "price": 38.8,
-      "originalPrice": 59.69,
-      "discountPercent": 35,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82271-mhjcc86h9ts36c",
-      "url": "https://s.shopee.com.br/7VHSRRDP21",
-      "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 2650,
-      "seller": "CLARA BEAUTY LINGERIE",
-      "category": "Moda",
-      "hot": true
-    },
-    {
-      "id": "23799188632",
-      "title": "kit 420 Toalhas Umedecidas Bebê Limpinho",
-      "price": 23.99,
-      "originalPrice": 39.98,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mspv9fbmw8as0f",
-      "url": "https://s.shopee.com.br/6L5V3IV2lZ",
-      "rating": 4.9,
-      "salesCount": 5329,
-      "official": true,
-      "seller": "Droga Clara",
-      "category": "Pet e bebê",
-      "hot": true
-    },
     {
       "id": "22499513376",
       "title": "KIT COM 2 BODY SPLASH MASCULINO VIBRATION + BLUNN 200ML - PRIMACIAL CÍTRICO FRESCO",
@@ -143,7 +27,8 @@
       "salesCount": 4676,
       "official": true,
       "seller": "Droga Clara",
-      "category": "Pet e bebê"
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "45352758433",
@@ -199,7 +84,8 @@
       "rating": 4.9,
       "salesCount": 17127,
       "seller": "Value Choice",
-      "category": "Eletrônicos"
+      "category": "Eletrônicos",
+      "hot": true
     },
     {
       "id": "40664949220",
@@ -271,7 +157,8 @@
       "salesCount": 1797,
       "official": true,
       "seller": "Primacial",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "58266638000",
@@ -327,7 +214,8 @@
       "rating": 4.8,
       "salesCount": 6945,
       "seller": "Veryshopi",
-      "category": "Ferramentas"
+      "category": "Ferramentas",
+      "hot": true
     },
     {
       "id": "12237278339",
@@ -408,7 +296,8 @@
       "rating": 4.6,
       "salesCount": 8342,
       "seller": "lojamegas",
-      "category": "Ferramentas"
+      "category": "Ferramentas",
+      "hot": true
     }
   ]
 }
