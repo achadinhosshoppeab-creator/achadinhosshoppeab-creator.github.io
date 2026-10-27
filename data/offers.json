@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-27T17:01:04.252Z",
+  "updatedAt": "2026-10-27T17:21:25.029Z",
   "offers": [
+    {
+      "id": "20042293295",
+      "title": "10 Folhas Artificial Verde Planta, Folhas Artificiais Para Decoração, Folhagens Artificiais Para Decoração",
+      "price": 17.99,
+      "originalPrice": 81.77,
+      "discountPercent": 78,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ba-mqztqvju0qh32e",
+      "url": "https://s.shopee.com.br/20wYn8A7EG",
+      "rating": 4.9,
+      "salesCount": 1207,
+      "seller": "Vida Criativa "
+    },
     {
       "id": "27620799823",
       "title": "Numbuzin No.9 NAD Bio Lifting Essence 2types 30ml/50ml",
@@ -288,6 +300,18 @@
       "category": "Moda"
     },
     {
+      "id": "21198280139",
+      "title": "Soprador Turbo à Jato Portátil 130.000 RPM – Mini Ventilador, Sem Fio e Super Potente",
+      "price": 48.98,
+      "originalPrice": 244.9,
+      "discountPercent": 80,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdosuy9xgp153d",
+      "url": "https://s.shopee.com.br/4fxJy2HUhh",
+      "rating": 4.7,
+      "salesCount": 568,
+      "seller": "Nova Link"
+    },
+    {
       "id": "22894519217",
       "title": "Kit de Calcinhas Fio Duplo Levanta Bumbum Fio Dental Confortável Forro em Algodão Sensual",
       "price": 28.9,
@@ -340,19 +364,6 @@
       "salesCount": 1591,
       "official": true,
       "seller": "Adora "
-    },
-    {
-      "id": "20999087290",
-      "title": "20/30/40 Unidades Estojo Multiuso Bolsinha Nylon Colorido Necessaire Promoção",
-      "price": 39.9,
-      "originalPrice": 92.79,
-      "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259e-mtaj49kw0pad2c",
-      "url": "https://s.shopee.com.br/W7l4iUMG6",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 544,
-      "seller": "NEW WORD MAGAZINE"
     },
     {
       "id": "22697063003",
@@ -486,19 +497,6 @@
       "seller": "1000 Coisas Variedades"
     },
     {
-      "id": "19396926061",
-      "title": "50/60/70 Unidades Estojo Multiuso Bolsinha Nylon Colorido Necessaire Promoção 13 X 23 CM",
-      "price": 79.9,
-      "originalPrice": 194.88,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ah-mspbtayh3q4k01",
-      "url": "https://s.shopee.com.br/3qOD2qHfUw",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 282,
-      "seller": "BIG MO"
-    },
-    {
       "id": "23393737784",
       "title": "Tinta Acrílica Sem Cheiro 18Kg / 5Kg Antimofo Novalatex Economica De Alto Rendimento Diversas Cores",
       "price": 28.38,
@@ -618,6 +616,19 @@
       "rating": 4.8,
       "salesCount": 4807,
       "seller": "HACKBERRY"
+    },
+    {
+      "id": "21449768277",
+      "title": "Mini Umidificador Difusor Aromatizador Egg Portátil Usb Led Aromatizador De Ambiente Purificador De Ar Casa Escritório",
+      "price": 16.99,
+      "originalPrice": 38.61,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825am-mr8dslz05zpd88",
+      "url": "https://s.shopee.com.br/2VspO3U4c5",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2347,
+      "seller": "Vida Criativa "
     },
     {
       "id": "23198988208",
@@ -1022,19 +1033,6 @@
       "hot": true
     },
     {
-      "id": "40872406422",
-      "title": "Smartwatch W10 MINI 38mm 45mm 49mm Pulseira De Silicone E Metal original-Envio Para São Paulo T7CG",
-      "price": 43.99,
-      "originalPrice": 209.48,
-      "discountPercent": 79,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824gl-mf6jxtt1uive33",
-      "url": "https://s.shopee.com.br/LoKsMNKpc",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 489,
-      "seller": "martin001.br"
-    },
-    {
       "id": "58266694509",
       "title": "Principia Sérums Niacinamida + Hialurônico + Peptídeos + Mandélico + Retinóide",
       "price": 26.99,
@@ -1133,6 +1131,19 @@
       "rating": 4.7,
       "salesCount": 3229,
       "seller": "Meu Bebê Kids"
+    },
+    {
+      "id": "21071530577",
+      "title": "Varal De Chão Roupa Calcinha Grade 3 Andares Dobrável Portátil",
+      "price": 79.99,
+      "originalPrice": 170.19,
+      "discountPercent": 53,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7augbm6ixf693",
+      "url": "https://s.shopee.com.br/6q1oY19B4o",
+      "rating": 4.9,
+      "salesCount": 4162,
+      "official": true,
+      "seller": "Na Web Group De Marcas"
     },
     {
       "id": "22392476232",
@@ -1238,16 +1249,17 @@
       "category": "Casa e organização"
     },
     {
-      "id": "20199650486",
-      "title": "Suporte Apoio De Notebook Para Mesa Dobrável Base Laptop Articulado Preto",
-      "price": 19.98,
-      "originalPrice": 68.9,
-      "discountPercent": 71,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mn76gyespq0x43",
-      "url": "https://s.shopee.com.br/4fxK2KBJ2y",
+      "id": "23398865735",
+      "title": "Ventilador de Teto C/ Iluminação 3 Cores Luz Controle Remoto Luminária Moderna 40w Bulbo E27 6 Pás",
+      "price": 42.99,
+      "originalPrice": 179.13,
+      "discountPercent": 76,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h2-me8qr812fabod5",
+      "url": "https://s.shopee.com.br/20wYn8A7HP",
+      "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 336,
-      "seller": "FR-SHOP"
+      "salesCount": 590,
+      "seller": "TMR E-commerce"
     },
     {
       "id": "58213601132",
@@ -1329,6 +1341,19 @@
       "category": "Moda"
     },
     {
+      "id": "20299550104",
+      "title": "Ventilador de Teto C/ Iluminação 3 Cores Luz Controle Remoto Luminária Moderna 60w Bulbo E27 6 Pás",
+      "price": 44.99,
+      "originalPrice": 179.96,
+      "discountPercent": 75,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhl5tpe8zeh24c",
+      "url": "https://s.shopee.com.br/4qGkAKzKXC",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 487,
+      "seller": "RAPIDAO NET"
+    },
+    {
       "id": "58202329642",
       "title": "Popozuda Creme Corporal Termoativo para Estrias e Celulite 200g | Efeito Aquecimento",
       "price": 79.9,
@@ -1341,6 +1366,18 @@
       "salesCount": 5164,
       "official": true,
       "seller": "Popozuda Oficial"
+    },
+    {
+      "id": "22194675243",
+      "title": "Suporte Câmera Babá Eletrônica Universal Para Berço",
+      "price": 17.9,
+      "originalPrice": 29.83,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mtyo4j6tavpc3f",
+      "url": "https://s.shopee.com.br/3LRwNdCQA5",
+      "rating": 4.9,
+      "salesCount": 1318,
+      "seller": "LY STORE OFICIAL"
     },
     {
       "id": "23598844056",
@@ -1405,18 +1442,16 @@
       "seller": "ElisJeans"
     },
     {
-      "id": "26682882775",
-      "title": "BETTDOW kriki Ai modelo GPS + smartwatch Alexa com mais de 100 modos desportivos, à prova de água 3ATM",
-      "price": 221,
-      "originalPrice": 690.63,
+      "id": "58202615709",
+      "title": "MINI Refrigerador De Ar Ventilador Umidificador Dupla Giratório+rgb Camada Ventilador Climatizador Ar C/ Reservatório",
+      "price": 59.88,
+      "originalPrice": 187.13,
       "discountPercent": 68,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-msnhvmn82yo6f4",
-      "url": "https://s.shopee.com.br/1BNRrtKA8r",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 341,
-      "official": true,
-      "seller": "Bettdow"
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zue-mizz3df604cj39",
+      "url": "https://s.shopee.com.br/1141bIZmee",
+      "rating": 4.6,
+      "salesCount": 3431,
+      "seller": "JX VERDE"
     },
     {
       "id": "19046617590",
@@ -1616,6 +1651,32 @@
       "seller": "LUMIO.OFICIAL"
     },
     {
+      "id": "19097999326",
+      "title": "Caixa Multifuncional De Armazenamento De Grande Capacidade Para Colchas E Roupas Domésticas 120L/160L/195L",
+      "price": 23.99,
+      "originalPrice": 104.3,
+      "discountPercent": 77,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-msjl6fab8s9241",
+      "url": "https://s.shopee.com.br/7VHVLF6dgm",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 2311,
+      "seller": "Melhores coisas"
+    },
+    {
+      "id": "23293962132",
+      "title": "Mop Flat Esfregão Com Balde Rodo Mágico Lava Seca Tira Pó + 4 Refil",
+      "price": 43.88,
+      "originalPrice": 69.65,
+      "discountPercent": 37,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9ej4jfobfi18f",
+      "url": "https://s.shopee.com.br/1qd8apb0lW",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 1679,
+      "seller": "casaluna utilidades"
+    },
+    {
       "id": "58212715148",
       "title": "Máscara de Cílios À Prova d'Água Longa Duração 9x Mais Volume Cor Preto, The Colossal Volum' Express Maybelline NY, 8ml",
       "price": 42.9,
@@ -1627,18 +1688,6 @@
       "salesCount": 785,
       "official": true,
       "seller": "Maybelline - Loja Oficial"
-    },
-    {
-      "id": "41278843530",
-      "title": "Boné Masculino Five Panel Bordado Malha para Masculino Feminino Praia Corrida Ciclismo Estilo Moda Uso Diário Chapéu",
-      "price": 30.6,
-      "originalPrice": 92.73,
-      "discountPercent": 67,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260i-ml307tm5a5ms48",
-      "url": "https://s.shopee.com.br/8VA2X6XMce",
-      "rating": 4.9,
-      "salesCount": 1240,
-      "seller": "A_crosail.br"
     },
     {
       "id": "58212612774",
@@ -1692,19 +1741,6 @@
       "seller": "Bela Beleza Oficial"
     },
     {
-      "id": "58257376297",
-      "title": "Boné New York NY Bordado, Aba Curva, Unissex, Regulagem Ajustável, Premium, Treino, Blogueira, Beisebol - ENVIO IMEDIATO",
-      "price": 34.8,
-      "originalPrice": 65.66,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-modgya36lcef22",
-      "url": "https://s.shopee.com.br/4VdtlkmakJ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1238,
-      "seller": "Kron.outfit"
-    },
-    {
       "id": "22598314126",
       "title": "Bota Botina Feminina Texana Macia Country Cowboy Bico Quadrado Confortável Zíper E Rebites",
       "price": 79.89,
@@ -1754,6 +1790,19 @@
       "rating": 4.9,
       "salesCount": 2534,
       "seller": "Newpet - marca"
+    },
+    {
+      "id": "24140416368",
+      "title": "Smartwatch Relógio Inteligente Android iOS watch10,Carregamento Sem Fio Bluetooth Chamada,Papel de parede personalizado",
+      "price": 49.99,
+      "originalPrice": 128.18,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mji9d76c43r5a7",
+      "url": "https://s.shopee.com.br/1BNRnbHTzT",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 222,
+      "seller": "FANSHEN"
     },
     {
       "id": "20899597911",
@@ -1823,6 +1872,19 @@
       "category": "Moda"
     },
     {
+      "id": "21499491641",
+      "title": "Mop C/ cabo de 140 cm + 2 Refis - Rodinhas e Cesto Em Inox - Balde Centrífuga - CH",
+      "price": 59.9,
+      "originalPrice": 119.8,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mqm69hmdu3uo02",
+      "url": "https://s.shopee.com.br/2gCFaMcJ6Y",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 3815,
+      "seller": "Chaicommerce"
+    },
+    {
       "id": "56462123347",
       "title": "À Prova D'água , De Longa Duração , Hidratante-Bastão Corretivo De Cabeça De Esponja-Para Olheiras , Manchas , Espinhas-",
       "price": 15.89,
@@ -1847,20 +1909,6 @@
       "salesCount": 2374,
       "official": true,
       "seller": "Brossard_BR"
-    },
-    {
-      "id": "41077586230",
-      "title": "Maleta de Pintura Infantil Estojo Escolar 150 Peças Lápis de Cor Canetinhas",
-      "price": 20.9,
-      "originalPrice": 69.67,
-      "discountPercent": 70,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-miq7vyt7083q32",
-      "url": "https://s.shopee.com.br/2qVfr0LTWm",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 193,
-      "official": true,
-      "seller": "Atacarejo Kids"
     },
     {
       "id": "49456762765",
@@ -1916,17 +1964,17 @@
       "seller": "conftudo"
     },
     {
-      "id": "27470665108",
-      "title": "2026 Smartwatch S10 Pro Mini 38mm unissex com chamadas Bluetooth calculadora e compatível com Android e iOS",
-      "price": 43.98,
-      "originalPrice": 141.87,
-      "discountPercent": 69,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-musvowmax6a1b8",
-      "url": "https://s.shopee.com.br/1BUTkObVa",
+      "id": "44515668088",
+      "title": "Meias Malucas 25 ao 40 Dos Desenhos Animados Longas Das Crianças Adulto De Meia Panturrilha",
+      "price": 17.99,
+      "originalPrice": 43.88,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-msk5jtlk8zye92",
+      "url": "https://s.shopee.com.br/W7l0P1c73",
       "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 458,
-      "seller": "SHENGSI-SMART"
+      "rating": 4.9,
+      "salesCount": 10881,
+      "seller": "GR MARKET EXPRESS"
     },
     {
       "id": "58250382369",
@@ -2166,6 +2214,19 @@
       "seller": "KOKESHI OFICIAL"
     },
     {
+      "id": "58250465689",
+      "title": "Suporte TV Monitor Articulado Giratório Metálico LED LCD 10-26 Polegadas Reforçado e Ajustável",
+      "price": 32.9,
+      "originalPrice": 99.7,
+      "discountPercent": 67,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mqlynneadfya90",
+      "url": "https://s.shopee.com.br/1LgrzxK2Dt",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 558,
+      "seller": "LojaZini"
+    },
+    {
       "id": "23098851500",
       "title": "Kit Body Splash Dolce + Florata Red 200ml Feminino.",
       "price": 42.9,
@@ -2204,6 +2265,18 @@
       "seller": "GRUPO HH BABY Loja 1"
     },
     {
+      "id": "56455915321",
+      "title": "Almofada de Assento Automotiva para Motorista Carro e Cadeira de Escritório Cor Preta",
+      "price": 34.9,
+      "originalPrice": 60.17,
+      "discountPercent": 42,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke6aqr3ypdvbf",
+      "url": "https://s.shopee.com.br/6q1oY3uhHs",
+      "rating": 4.5,
+      "salesCount": 305,
+      "seller": "M.A Acessórios e Variedades"
+    },
+    {
       "id": "22894932514",
       "title": "Maleta de Viagem Masculina Grande Capacidade, Necessaire Dobrável para Barbear, Organizador Portátil",
       "price": 21.95,
@@ -2228,8 +2301,7 @@
       "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 1646,
-      "seller": "Descubra Tesouro",
-      "category": "Casa e organização"
+      "seller": "Descubra Tesouro"
     },
     {
       "id": "22393096204",
@@ -2244,6 +2316,18 @@
       "salesCount": 1879,
       "seller": "Lily Space",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "58266335604",
+      "title": "Kit com 2 Vasos de Gesso Decorativos com Plantas Artificiais – Elegância e Charme para sua Decoração",
+      "price": 16.9,
+      "originalPrice": 49.71,
+      "discountPercent": 66,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-ms01muaxn5dz7e",
+      "url": "https://s.shopee.com.br/70LEkJr55r",
+      "rating": 4.7,
+      "salesCount": 1217,
+      "seller": "BENTO’S DECOR"
     },
     {
       "id": "28758577108",
@@ -2377,6 +2461,19 @@
       "salesCount": 1148,
       "seller": "container.pet",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "23198735870",
+      "title": "1 a 10 Metros Fita Mangueira de LED 5050 para Decoração Com Conector 110V ou 220V Branco Frio/Quente",
+      "price": 26.3,
+      "originalPrice": 75.14,
+      "discountPercent": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvx-mch98dk3g6zu79",
+      "url": "https://s.shopee.com.br/8fTSjNkfVI",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 3763,
+      "seller": "BRILLIA"
     },
     {
       "id": "22399132687",
@@ -2581,6 +2678,19 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "50160899989",
+      "title": "Novo Relógio 10 PRO Max Smartwatch Inteligente Masculino E Feminino Bluetooth Chamado , Papéis De Parede Personalizáveis",
+      "price": 49.99,
+      "originalPrice": 108.67,
+      "discountPercent": 54,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpdfudc8w9ho85",
+      "url": "https://s.shopee.com.br/30p5yyAVGU",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 344,
+      "seller": "paico006.br"
+    },
+    {
       "id": "58212716558",
       "title": "Óleo Finalizador Óleo Extraordinário, Anti Frizz, Protetor Térmico, L'Oréal Paris Elseve 100ml",
       "price": 36.99,
@@ -2673,6 +2783,18 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "22199198026",
+      "title": "Kit Grampos e Presilhas Automotivas com 100 Peças + Estojo Organizador Universal Reforçado",
+      "price": 15.88,
+      "originalPrice": 49.63,
+      "discountPercent": 68,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgz8isbs2yo794",
+      "url": "https://s.shopee.com.br/7favXan7rk",
+      "rating": 4.9,
+      "salesCount": 3457,
+      "seller": "RD ECOM"
+    },
+    {
       "id": "41022402072",
       "title": "2026 Smartwatch Original S10 Pro 38mm/45mm Unissex - Chamadas via Bluetooth Esportivo Teste de pressão arterial",
       "price": 43.99,
@@ -2763,6 +2885,19 @@
       "seller": "WGECOMM"
     },
     {
+      "id": "58258071799",
+      "title": "Kit Banheiro Acessórios 5 Peças Completo Toalheiro Saboneteira Decoração Preto Branco Cromado Decor",
+      "price": 31.96,
+      "originalPrice": 51.55,
+      "discountPercent": 38,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mmjbbyrviqyscd",
+      "url": "https://s.shopee.com.br/9Kj9WbqvhD",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 827,
+      "seller": "Morada de Paz"
+    },
+    {
       "id": "53053245387",
       "title": "Ventilador Mini Portátil Recarregável USB de Mão Suporte Mesa Silencioso Ideal para Casa Trabalho",
       "price": 25.99,
@@ -2824,8 +2959,7 @@
       "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 7567,
-      "seller": "SKY MALL",
-      "category": "Casa e organização"
+      "seller": "SKY MALL"
     },
     {
       "id": "21235699753",
@@ -2926,6 +3060,31 @@
       "seller": "CasaLauraEnxovais"
     },
     {
+      "id": "22998560882",
+      "title": "Pendente Luminária De Teto Lustre De Madeira Vintage Bivolt Cor Natural - 1 Bc / Sf",
+      "price": 18.9,
+      "originalPrice": 49.74,
+      "discountPercent": 62,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lp-mqxzntvh9p1g3e",
+      "url": "https://s.shopee.com.br/7Ky58wOsB3",
+      "rating": 4.7,
+      "salesCount": 429,
+      "seller": "Loja_MK_Store"
+    },
+    {
+      "id": "40632974721",
+      "title": "Luminária de teto de cristal dourado, estilo luxo discreto,ideal para hall de entrada, corredor e varanda E27 Bivolt",
+      "price": 39,
+      "originalPrice": 139.29,
+      "discountPercent": 72,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mr2njntzmsch41",
+      "url": "https://s.shopee.com.br/4B13N71rt8",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 436,
+      "seller": "BD Boutique De Lustres"
+    },
+    {
       "id": "58202608279",
       "title": "Cera Vegetal De Coco Em Escamas Pronta Para Uso Para Velas Decorativas Desmoldes Aromáticas Perfumadas",
       "price": 23.99,
@@ -2939,16 +3098,28 @@
       "seller": "DJMORCHLTDA"
     },
     {
-      "id": "22998560882",
-      "title": "Pendente Luminária De Teto Lustre De Madeira Vintage Bivolt Cor Natural - 1 Bc / Sf",
-      "price": 18.9,
-      "originalPrice": 49.74,
+      "id": "23493930815",
+      "title": "Escova De Limpeza 9 Em 1  Elétrica Giratória Com Cabo Alongador",
+      "price": 68.9,
+      "originalPrice": 181.32,
       "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lp-mqxzntvh9p1g3e",
-      "url": "https://s.shopee.com.br/7Ky58wOsB3",
-      "rating": 4.7,
-      "salesCount": 429,
-      "seller": "Loja_MK_Store"
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj5cubo7uz29de",
+      "url": "https://s.shopee.com.br/2gCFaMcEqU",
+      "rating": 4.8,
+      "salesCount": 5176,
+      "seller": "KOBAC SHOP"
+    },
+    {
+      "id": "18698147487",
+      "title": "Escova Elétrica Giratória 9 em 1 Recarregável com Cabo Alongador ，Limpeza Multiuso",
+      "price": 68.9,
+      "originalPrice": 181.32,
+      "discountPercent": 62,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mmireijlz4sg78",
+      "url": "https://s.shopee.com.br/6L5Xx6OHPM",
+      "rating": 4.8,
+      "salesCount": 3050,
+      "seller": "Samuel Shop"
     },
     {
       "id": "23199035279",
@@ -3090,19 +3261,6 @@
       "rating": 4.7,
       "salesCount": 2381,
       "seller": "7X SALES ECOMMERCE"
-    },
-    {
-      "id": "44328404708",
-      "title": "2026 Smartwatch S10 MINI 10Series 38MM/45MM-Relógio Esportivo Calculadora Resistente À Água 1PXL",
-      "price": 41.88,
-      "originalPrice": 107.38,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mk0se90i3ockb9",
-      "url": "https://s.shopee.com.br/9pfQBonAYa",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 280,
-      "seller": "Cc conveniência"
     },
     {
       "id": "19253571158",
@@ -3457,6 +3615,19 @@
       "seller": "Toalhas DKX"
     },
     {
+      "id": "23693686267",
+      "title": "Kit 5 Organizadores Lápis 3D Lúdico Coloridos Plasútil",
+      "price": 31.9,
+      "originalPrice": 79.75,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ak-muana8e0cq9u42",
+      "url": "https://s.shopee.com.br/9pfQ7XFHpV",
+      "rating": 5,
+      "salesCount": 1668,
+      "official": true,
+      "seller": "LOJA PLASÚTIL"
+    },
+    {
       "id": "42524620494",
       "title": "smartwatch GPS BETTDOW Com Aplicativos AI Integrados , Resistência À Água De 3 ATM E display AMOLED",
       "price": 317,
@@ -3598,6 +3769,31 @@
       "seller": "Life Hack Homeware"
     },
     {
+      "id": "58263021202",
+      "title": "BRILHO NOVO Escova Sanitária com Cabeça Substituível e Refis Descartáveis | Base + 6, 12, 18, 24 ou 36 Refis",
+      "price": 55,
+      "originalPrice": 134.15,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-msdw742h9vd1fe",
+      "url": "https://s.shopee.com.br/6fiOLiN0jO",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 5014,
+      "seller": "BRILHO NOVO BR"
+    },
+    {
+      "id": "20699887898",
+      "title": "Escova de limpeza elétrica multifuncional 9 em 1, retrátil - com cabo estendido para banheiro, cozinha e quarto",
+      "price": 73.9,
+      "originalPrice": 180.24,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj6q8n2hewap3c",
+      "url": "https://s.shopee.com.br/20wYn8emCv",
+      "rating": 4.8,
+      "salesCount": 1809,
+      "seller": "MOZA SHOP"
+    },
+    {
       "id": "46757037054",
       "title": "Fones De Ouvido D6 2pcs HD Chamadas Ear-Plugs Sem Fio Bluetooth Fone Empresarial À Prova D'água Com Microfone De Longa E",
       "price": 15.98,
@@ -3611,6 +3807,18 @@
       "seller": "Choice Oficial"
     },
     {
+      "id": "58258453576",
+      "title": "Suporte Notebook Ergonômico com Cooler – Refrigeração 5V 1000RPM (DELTA-B1122M)",
+      "price": 46.87,
+      "originalPrice": 151.19,
+      "discountPercent": 69,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m2-mqxu3vg4x3ifaa",
+      "url": "https://s.shopee.com.br/1W0ICDyLaU",
+      "rating": 4.9,
+      "salesCount": 550,
+      "seller": "NEW SECULO XXI"
+    },
+    {
       "id": "21797728567",
       "title": "Arara 4/5 Andares Multiuso c/ Sapateira, Cabideiro e Suporte p/ Roupas, Tênis e Closet Quarto",
       "price": 39.49,
@@ -3621,8 +3829,7 @@
       "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 3236,
-      "seller": "ZSZ_brasil",
-      "category": "Casa e organização"
+      "seller": "ZSZ_brasil"
     },
     {
       "id": "52605012484",
@@ -3665,6 +3872,19 @@
       "seller": "Capitãozinho"
     },
     {
+      "id": "23199140933",
+      "title": "Planta Decorativa: Vasos Trançado Marrom + Pendentes Artificial Folhas De Bambu",
+      "price": 20.89,
+      "originalPrice": 49.74,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgfhxy1flv5z73",
+      "url": "https://s.shopee.com.br/6L5Xx5tcRn",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 993,
+      "seller": "Kardía"
+    },
+    {
       "id": "18199668940",
       "title": "Vela aromática artesanal PREMIUM 200/100G Presente Lembrancinha - Vários Aromas - Com especiarias e tampa de madeira",
       "price": 24.9,
@@ -3676,6 +3896,18 @@
       "rating": 4.8,
       "salesCount": 3253,
       "seller": "Alpha Oriental"
+    },
+    {
+      "id": "58263203459",
+      "title": "Kit Limpa Vidro Magnético Prático Dupla Face Rodo Mágico Janelas",
+      "price": 24.88,
+      "originalPrice": 77.75,
+      "discountPercent": 68,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h1-mpwjvx0pyd4wbd",
+      "url": "https://s.shopee.com.br/qkbOzeonE",
+      "rating": 4.8,
+      "salesCount": 2037,
+      "seller": "JX VERDE"
     },
     {
       "id": "23092951296",
@@ -3690,254 +3922,6 @@
       "salesCount": 2532,
       "official": true,
       "seller": "Bettdow"
-    },
-    {
-      "id": "58254155069",
-      "title": "Kit com 3 Máscaras SOS Hidratação: Ultra Cachos + Turbinada + Bio-Reconstrução Salon Line",
-      "price": 58.7,
-      "originalPrice": 87.61,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mqwa2dkewfevd5",
-      "url": "https://s.shopee.com.br/2gCFaNXMmD",
-      "rating": 4.9,
-      "salesCount": 1552,
-      "official": true,
-      "seller": "Salon Line"
-    },
-    {
-      "id": "23699308150",
-      "title": "Kit com 2 Shampoos e 2 Condicionadores Hidra + Máscara SOS Hidratação Bio-Reconstrução Salon Line",
-      "price": 49.25,
-      "originalPrice": 73.51,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjztfyh5h05ded",
-      "url": "https://s.shopee.com.br/1141bJdiA7",
-      "rating": 4.9,
-      "salesCount": 1132,
-      "official": true,
-      "seller": "Salon Line"
-    },
-    {
-      "id": "22094841996",
-      "title": "Bota Feminina Chelsea/Bag/Militar Promoção Não Perca Oferta",
-      "price": 51.94,
-      "originalPrice": 110.51,
-      "discountPercent": 53,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjnhq3dyoqv729",
-      "url": "https://s.shopee.com.br/W7l0PNbxl",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 460,
-      "seller": "ECShoes"
-    },
-    {
-      "id": "23793879757",
-      "title": "Daily T-shirt Insider",
-      "price": 59,
-      "originalPrice": 140.48,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zto-mimqzrbp86is9a",
-      "url": "https://s.shopee.com.br/7Aeewf2dCz",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 10796,
-      "official": true,
-      "seller": "INSIDER"
-    },
-    {
-      "id": "23193518683",
-      "title": "Bermuda Modeladora Anágua Cinta Short Feminino Modelador Alta Compressão Reduz Medidas pos parto",
-      "price": 20.96,
-      "originalPrice": 40.31,
-      "discountPercent": 48,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m29x89by72l25f",
-      "url": "https://s.shopee.com.br/4fxJy4CHp0",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 9641,
-      "seller": "NM LINGERIE"
-    },
-    {
-      "id": "23398956218",
-      "title": "Kit 10 Calcinha Sem Costura Fio Dental Tanga Conforto Corte a Laser Não Marca",
-      "price": 36.9,
-      "originalPrice": 59.52,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824jj-mfk130f3jd3f76",
-      "url": "https://s.shopee.com.br/8pmsvj0gdG",
-      "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 2817,
-      "seller": "Toque Suave Lingerie"
-    },
-    {
-      "id": "21899851088",
-      "title": "Kit 10 Unidades Bebedouros Automáticos Para Aves Galinhas Codornas",
-      "price": 21.1,
-      "originalPrice": 65.94,
-      "discountPercent": 68,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mmccxdwb6dc635",
-      "url": "https://s.shopee.com.br/9zyqJsE3B9",
-      "rating": 4.9,
-      "salesCount": 2950,
-      "seller": "WGECOMM"
-    },
-    {
-      "id": "58214452769",
-      "title": "Suporte Magnético para Facas  33cm Ferramentas Utensílios Porta Facas Organizador de Parede Cozinha Oficina",
-      "price": 16.9,
-      "originalPrice": 40.24,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mqr0h8mg2xvld5",
-      "url": "https://s.shopee.com.br/7Ky58ybKhT",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 395,
-      "seller": "Fortetools LTDA"
-    },
-    {
-      "id": "41365763294",
-      "title": "Teclado Mecânico Gamer Titorion 60% Teclado Preto Computador ABNT2 Hot Swap RGB Switch Red Brown USB LED Titorion",
-      "price": 144.8,
-      "originalPrice": 301.67,
-      "discountPercent": 52,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mt6ul6vosop203",
-      "url": "https://s.shopee.com.br/4Vdtli0nRo",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 285,
-      "seller": "Shop Borges",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "23694454936",
-      "title": "Blusa academia suplex poliamida dia a dia básica manguinha",
-      "price": 28.9,
-      "originalPrice": 60.21,
-      "discountPercent": 52,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfe5rlvyc8hwb1",
-      "url": "https://s.shopee.com.br/1gJiOVXeKg",
-      "rating": 4.8,
-      "salesCount": 1805,
-      "seller": "Fábrica de Moda Básica",
-      "category": "Moda"
-    },
-    {
-      "id": "58258580689",
-      "title": "Kit 4 Capas de Almofadas para Sofá Premiun Suede Decorativo Casa Sala Quarto Slim",
-      "price": 29.91,
-      "originalPrice": 69.56,
-      "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-msiz72mua32f15",
-      "url": "https://s.shopee.com.br/AUv40wOFPA",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1207,
-      "seller": "lojadecoreasy",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "22693741525",
-      "title": "Smartwatch Ultra 3 Max Carregamento sem fio relógio inteligente 2.18 inches Bluetooth AI Inteligente Esportivo",
-      "price": 45.88,
-      "originalPrice": 120.74,
-      "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd74-m6rybucp45yh0b",
-      "url": "https://s.shopee.com.br/4B10TIzcpE",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 1114,
-      "seller": "TRADENO ECOMERCE"
-    },
-    {
-      "id": "22593793702",
-      "title": "Kit Teclado e Mouse Sem Fio Bluetooth  Colorido Compatível com Android iOS e Windows",
-      "price": 42.9,
-      "originalPrice": 99.77,
-      "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8zgieqwb22h93",
-      "url": "https://s.shopee.com.br/1W0ICC7ol4",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 441,
-      "seller": "LojaZini",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "23694347564",
-      "title": "GOKOCO Escova Secadora 5 Em 1 Conjunto De Secador De Cabelo Multifuncional De Alta Velocidade Dupla voltagem 110V-240V",
-      "price": 425,
-      "originalPrice": 988.37,
-      "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-msbapxbqpouead",
-      "url": "https://s.shopee.com.br/2qVfmgbCTd",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2017,
-      "official": true,
-      "seller": "GOKOCO Offical Shop.BR"
-    },
-    {
-      "id": "21299367155",
-      "title": "Conjunto 2/3/5/10 Potes 370/640/640ml Vidro Hermético Mantimentos Marmita Fitness",
-      "price": 27.89,
-      "originalPrice": 64.86,
-      "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mucaft9u86bmd5",
-      "url": "https://s.shopee.com.br/1qd8aooXtt",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2535,
-      "seller": "Larsul"
-    },
-    {
-      "id": "18999784319",
-      "title": "Pincel de Maquiagem Ultrafino para Sobrancelhas Chanfrado de Precisão para Delineador Sombra e Olhos",
-      "price": 16.6,
-      "originalPrice": 24.41,
-      "discountPercent": 32,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk3ewqaxttkz0b",
-      "url": "https://s.shopee.com.br/5fpr9t8oa4",
-      "rating": 4.8,
-      "salesCount": 1342,
-      "seller": "StarlinkX"
-    },
-    {
-      "id": "23898813796",
-      "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
-      "price": 52.97,
-      "originalPrice": 77.9,
-      "discountPercent": 32,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mq228ungk5c142",
-      "url": "https://s.shopee.com.br/80DlwBUrr9",
-      "rating": 4.8,
-      "salesCount": 1535,
-      "official": true,
-      "seller": "Barbour's Beauty"
-    },
-    {
-      "id": "58262744158",
-      "title": "Kit Beleza Infantil Maleta Portátil Com Espelho, Maquiagem E Manicure Não Tóxico Presente Aniversário Criança",
-      "price": 76.66,
-      "originalPrice": 178.28,
-      "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mplyh232hi4g00",
-      "url": "https://s.shopee.com.br/1W0ICEtTWb",
-      "rating": 4.8,
-      "salesCount": 2104,
-      "seller": "LOUREN_VARIEDADES"
-    },
-    {
-      "id": "58266741003",
-      "title": "Óculos de Sol Conceito Bico de Pato UV400 Unissex com Narigueira RemovívelÓculos de Sol Conceito Bico de Pato UV400 Unis",
-      "price": 21.99,
-      "originalPrice": 66.64,
-      "discountPercent": 67,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-ms76a0fhlddzb1",
-      "url": "https://s.shopee.com.br/3LRwNbqpIE",
-      "rating": 4.9,
-      "salesCount": 2559,
-      "seller": "óculos  "
     }
   ]
 }
