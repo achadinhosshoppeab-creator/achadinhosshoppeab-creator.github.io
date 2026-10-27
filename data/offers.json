@@ -1,38 +1,6 @@
 {
-  "updatedAt": "2026-10-27T03:48:14.893Z",
+  "updatedAt": "2026-10-27T04:19:04.018Z",
   "offers": [
-    {
-      "id": "22998326555",
-      "title": "Organizador de Cintos Gravata Relógios Perfumes 34 x10 x 8 Com 6 Divisórias em Acrílico Para Gavetas e Armário",
-      "price": 32.89,
-      "originalPrice": 73.09,
-      "discountPercent": 55,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-ms5mxz8lcyrp5d",
-      "url": "https://s.shopee.com.br/3LRtcjl81f",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2045,
-      "official": true,
-      "seller": "Âncora Shopp",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "23297997133",
-      "title": "6 Cores Caneta Carimbo Roller Colorido Papelaria/Papelaria Fofa",
-      "price": 17.66,
-      "originalPrice": 46.47,
-      "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mscw5vs0xjbabc",
-      "url": "https://s.shopee.com.br/70LBqShFee",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 844,
-      "official": true,
-      "seller": "SPLORO Papelaria",
-      "category": "Presentes e papelaria",
-      "hot": true
-    },
     {
       "id": "58206109943",
       "title": "T-shirt Básica Baby Look Feminina Básica Dia a Dia Uniforme 100% Algodão Confortável",
@@ -160,7 +128,8 @@
       "rating": 4.6,
       "salesCount": 2584,
       "seller": "Phipé",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "20199862626",
@@ -187,7 +156,8 @@
       "rating": 4.9,
       "salesCount": 3542,
       "seller": "FENG .",
-      "category": "Eletrônicos"
+      "category": "Eletrônicos",
+      "hot": true
     },
     {
       "id": "23093489477",
