@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T16:07:08.442Z",
+  "updatedAt": "2026-10-28T16:27:53.701Z",
   "offers": [
     {
       "id": "20042293295",
@@ -2047,20 +2047,6 @@
       "category": "Beleza"
     },
     {
-      "id": "12782096688",
-      "title": "Kit S.O.S Hidratação Óleo de Rícino Shampoo e Condicionador Litrão Salon Line",
-      "price": 47.99,
-      "originalPrice": 73.83,
-      "discountPercent": 35,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mq80n6l4qkub32",
-      "url": "https://s.shopee.com.br/1W0ICEbsSV",
-      "rating": 4.9,
-      "salesCount": 4369,
-      "official": true,
-      "seller": "Salon Line",
-      "category": "Beleza"
-    },
-    {
       "id": "14463127889",
       "title": "Kit S.O.S Hidratação Azeite de Oliva Shampoo e Condicionador Litrão Salon Line",
       "price": 47.99,
@@ -2229,6 +2215,20 @@
       "rating": 4.8,
       "salesCount": 1070,
       "seller": "Choice Oficial",
+      "category": "Beleza"
+    },
+    {
+      "id": "12782096688",
+      "title": "Kit S.O.S Hidratação Óleo de Rícino Shampoo e Condicionador Litrão Salon Line",
+      "price": 49.25,
+      "originalPrice": 73.51,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mq80n6l4qkub32",
+      "url": "https://s.shopee.com.br/1W0ICEbsSV",
+      "rating": 4.9,
+      "salesCount": 4369,
+      "official": true,
+      "seller": "Salon Line",
       "category": "Beleza"
     },
     {
@@ -2692,6 +2692,20 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "22094984499",
+      "title": "Livro Educativo Bilíngue Interativo Com Som e Lousa Mágica 2 em 1 Brinquedo Infantil",
+      "price": 35.01,
+      "originalPrice": 100.03,
+      "discountPercent": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mtq42r43vev75d",
+      "url": "https://s.shopee.com.br/2BG0JnRvJ7",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2978,
+      "seller": "Super mantimentos comprar",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "58206605624",
       "title": "Peitoral Para Cachorro + Guia Nylon Conjunto Ajustável Passeio",
       "price": 18.9,
@@ -2741,6 +2755,20 @@
       "url": "https://s.shopee.com.br/1BUPTYido",
       "rating": 4.9,
       "salesCount": 2218,
+      "official": true,
+      "seller": "KOKESHI OFICIAL",
+      "category": "Beleza"
+    },
+    {
+      "id": "22598903793",
+      "title": "Kit Rotina Skin Care Sérum Tudo em 1 Multifunção Sabonete e creme hidratante facial",
+      "price": 117.9,
+      "originalPrice": 168.43,
+      "discountPercent": 30,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mqm8j2nwk26b75",
+      "url": "https://s.shopee.com.br/1gJk1RvvVM",
+      "rating": 4.9,
+      "salesCount": 230,
       "official": true,
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza"
@@ -2869,19 +2897,6 @@
       "salesCount": 2001,
       "seller": "Use_Pipo",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "45403255215",
-      "title": "Sapateira com Cabideiro 5 Prateleiras Organizador para Roupas e Sapatos",
-      "price": 49.99,
-      "originalPrice": 99.98,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mq4y8em542rmd7",
-      "url": "https://s.shopee.com.br/2qVh722z32",
-      "rating": 4.8,
-      "salesCount": 1574,
-      "seller": "Global Shop21",
-      "category": "Casa e organização"
     },
     {
       "id": "23394200396",
@@ -3347,20 +3362,6 @@
       "salesCount": 872,
       "seller": "TRADENO ECOMERCE",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "22094984499",
-      "title": "Livro Educativo Bilíngue Interativo Com Som e Lousa Mágica 2 em 1 Brinquedo Infantil",
-      "price": 37.98,
-      "originalPrice": 99.95,
-      "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mtq42r43vev75d",
-      "url": "https://s.shopee.com.br/2BG0JnRvJ7",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2978,
-      "seller": "Super mantimentos comprar",
-      "category": "Pet e bebê"
     },
     {
       "id": "45254771953",
