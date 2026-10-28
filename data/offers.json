@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T22:22:05.416Z",
+  "updatedAt": "2026-10-28T22:42:51.099Z",
   "offers": [
     {
       "id": "20042293295",
@@ -86,6 +86,19 @@
       "official": true,
       "seller": "Adora ",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "23298321304",
+      "title": "Kit Combo Cachos Perfeitos Shampoo Condicionador e Máscara Hidratante Ativador de cachos 3x300g",
+      "price": 24.99,
+      "originalPrice": 104.13,
+      "discountPercent": 76,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7fxnbiqdmq2d5",
+      "url": "https://s.shopee.com.br/4B15PnEez2",
+      "rating": 4.8,
+      "salesCount": 638,
+      "seller": "lindaleycosmeticos",
+      "category": "Beleza"
     },
     {
       "id": "23693001909",
@@ -299,6 +312,20 @@
       "official": true,
       "seller": "Adora ",
       "category": "Casa e organização"
+    },
+    {
+      "id": "22494274076",
+      "title": "Conjunto Pijama Brilha no Escuro Personagens Menino Infantil Mickey Homem Aranha Malha Levinha",
+      "price": 27.9,
+      "originalPrice": 69.75,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyf-mcrvs9be51s0a1",
+      "url": "https://s.shopee.com.br/1W0K6FywGc",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2741,
+      "seller": "Bombollê Kids",
+      "category": "Moda"
     },
     {
       "id": "21198280139",
@@ -2012,6 +2039,19 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "58267033396",
+      "title": "Baby Doll Short Doll Adulto Alcinha Pijama Capivara",
+      "price": 21,
+      "originalPrice": 70,
+      "discountPercent": 70,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257z-msdhhlw7kf0pfa",
+      "url": "https://s.shopee.com.br/80DnqCaC50",
+      "rating": 4.9,
+      "salesCount": 1772,
+      "seller": "Dream Magic",
+      "category": "Moda"
+    },
+    {
       "id": "21499491641",
       "title": "Mop C/ cabo de 140 cm + 2 Refis - Rodinhas e Cesto Em Inox - Balde Centrífuga - CH",
       "price": 59.9,
@@ -3015,6 +3055,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "22894626960",
+      "title": "Porta Escova de Dentes UV com Dispenser de Pasta Dental Suporte Banheiro Sem Furar",
+      "price": 16.98,
+      "originalPrice": 47.17,
+      "discountPercent": 64,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mpf6l5epyrcx75",
+      "url": "https://s.shopee.com.br/BUweQCtln",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 429,
+      "seller": "GL.COMERCIO",
+      "category": "Casa e organização"
+    },
+    {
       "id": "58212716558",
       "title": "Óleo Finalizador Óleo Extraordinário, Anti Frizz, Protetor Térmico, L'Oréal Paris Elseve 100ml",
       "price": 36.99,
@@ -3058,8 +3112,8 @@
     {
       "id": "22691297138",
       "title": "[OFFICIAL] SKIN1004 madagascar centella ampoule 30ml,55ml,100ml,120ml",
-      "price": 44.97,
-      "originalPrice": 62.46,
+      "price": 44.98,
+      "originalPrice": 62.47,
       "discountPercent": 28,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-823qv-mp97g79bqk8w0d",
       "url": "https://s.shopee.com.br/5AtaYyF39f",
@@ -3353,6 +3407,20 @@
       "rating": 4.8,
       "salesCount": 466,
       "seller": "BD Boutique De Lustres",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58204962298",
+      "title": "Heemli Organizador de Guarda-Roupa Branco com Gaveta Multiuso Grande Capacidade Resistente e Durável",
+      "price": 53.99,
+      "originalPrice": 142.08,
+      "discountPercent": 62,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82631-mkjbeeyo59mw05",
+      "url": "https://s.shopee.com.br/gRDFLAii2",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 351,
+      "seller": "Heemli Casa & Banho",
       "category": "Casa e organização"
     },
     {
@@ -3820,19 +3888,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "58265034822",
-      "title": "Kit 16 Organizadores Modulares para Geladeira Gavetas em  Cristal, Multiuso e Empilháveis -R3",
-      "price": 59.99,
-      "originalPrice": 199.97,
-      "discountPercent": 70,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mr5npt1v3yfbd6",
-      "url": "https://s.shopee.com.br/8AXE9gNCNe",
-      "rating": 4.8,
-      "salesCount": 418,
-      "seller": "JONALISSA SHOP",
-      "category": "Casa e organização"
-    },
-    {
       "id": "23493485994",
       "title": "Conjunto Potes Vidro Hermético 640ml Mantimentos Fitness Marmita Alimentos",
       "price": 29.89,
@@ -4077,58 +4132,6 @@
       "salesCount": 2287,
       "seller": "Choice Oficial",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "58262744158",
-      "title": "Kit Beleza Infantil Maleta Portátil Com Espelho, Maquiagem E Manicure Não Tóxico Presente Aniversário Criança",
-      "price": 72.99,
-      "originalPrice": 178.02,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mplyh232hi4g00",
-      "url": "https://s.shopee.com.br/1W0ICEtTWb",
-      "rating": 4.8,
-      "salesCount": 2130,
-      "seller": "LOUREN_VARIEDADES",
-      "category": "Presentes e papelaria"
-    },
-    {
-      "id": "44052128846",
-      "title": "Pijama Manga Curta infantil menino aranha Promoção",
-      "price": 27.9,
-      "originalPrice": 54.71,
-      "discountPercent": 49,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-7rat7-ma75jh4a7jk005",
-      "url": "https://s.shopee.com.br/9V2bk7vqkK",
-      "rating": 4.9,
-      "salesCount": 180,
-      "seller": "Ka e Jú Infantil",
-      "category": "Moda"
-    },
-    {
-      "id": "58258453576",
-      "title": "Suporte Notebook Ergonômico com Cooler – Refrigeração 5V 1000RPM (DELTA-B1122M)",
-      "price": 46.87,
-      "originalPrice": 151.19,
-      "discountPercent": 69,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m2-mqxu3vg4x3ifaa",
-      "url": "https://s.shopee.com.br/9V2ZrUHmbZ",
-      "rating": 4.9,
-      "salesCount": 561,
-      "seller": "NEW SECULO XXI",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "41733456705",
-      "title": "Squishy Halloween Caixa Surpresa Fantasma e Abóbora, Brinquedo Antiestresse Fidget, Presente Criativo",
-      "price": 59.99,
-      "originalPrice": 142.83,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258j-mrqs3p0uf760f5",
-      "url": "https://s.shopee.com.br/7VHXFGY26E",
-      "rating": 4.5,
-      "salesCount": 447,
-      "seller": "XY Casa & Auto🏡",
-      "category": "Presentes e papelaria"
     }
   ]
 }
