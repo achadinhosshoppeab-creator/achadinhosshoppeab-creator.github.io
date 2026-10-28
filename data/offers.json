@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T03:35:38.449Z",
+  "updatedAt": "2026-10-28T04:06:01.828Z",
   "offers": [
     {
       "id": "20042293295",
@@ -1272,20 +1272,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "23998316312",
-      "title": "155L/180L/195L Caixa Multifuncional De Armazenamento De Grande Capacidade Para Colchas E Roupas Domésticas",
-      "price": 23.99,
-      "originalPrice": 104.3,
-      "discountPercent": 77,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mskyp8zm718k5a",
-      "url": "https://s.shopee.com.br/7VHW77qqSC",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1527,
-      "seller": "Jonny Home",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58263519901",
       "title": "Kit Capilar Óleo Extraordinário NEW HAIR Profissional 1L Salão + Óleo Extraordinário 100ml NEW HAIR",
       "price": 67.9,
@@ -2538,20 +2524,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "22994538814",
-      "title": "KIT 10/6 Porta Joias Portátil Mini Porta Joia com Divisões Brincos Colares caixa de armazenamento Q1",
-      "price": 44.99,
-      "originalPrice": 187.46,
-      "discountPercent": 76,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfxjj82dbo5gab",
-      "url": "https://s.shopee.com.br/5LD1X8z5qr",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1839,
-      "seller": "DG Store1",
-      "category": "Casa e organização"
-    },
-    {
       "id": "28758577108",
       "title": "QKZ Fone de ouvido com fio AK6 intra-auricular microfone alta qualidade som e cancelamento de ruído",
       "price": 16.18,
@@ -3064,8 +3036,8 @@
     {
       "id": "23197416358",
       "title": "Parafusadeira Furadeira de Impacto Sem Fio 21V Bivolt 110/220V Kit Maleta com 2 Baterias 28 Peças",
-      "price": 114,
-      "originalPrice": 438.46,
+      "price": 99.98,
+      "originalPrice": 384.54,
       "discountPercent": 74,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mlczxisdlt6sf6",
       "url": "https://s.shopee.com.br/AKbgiULVnX",
@@ -3143,6 +3115,19 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "22199198026",
+      "title": "Kit Grampos e Presilhas Automotivas com 100 Peças + Estojo Organizador Universal Reforçado",
+      "price": 15.88,
+      "originalPrice": 49.63,
+      "discountPercent": 68,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgz8isbs2yo794",
+      "url": "https://s.shopee.com.br/7favXan7rk",
+      "rating": 4.9,
+      "salesCount": 3506,
+      "seller": "RD ECOM",
+      "category": "Presentes e papelaria"
+    },
+    {
       "id": "41022402072",
       "title": "2026 Smartwatch Original S10 Pro 38mm/45mm Unissex - Chamadas via Bluetooth Esportivo Teste de pressão arterial",
       "price": 39.99,
@@ -3210,19 +3195,6 @@
       "rating": 4.9,
       "salesCount": 292,
       "seller": "B&G Kids",
-      "category": "Presentes e papelaria"
-    },
-    {
-      "id": "22199198026",
-      "title": "Kit Grampos e Presilhas Automotivas com 100 Peças + Estojo Organizador Universal Reforçado",
-      "price": 15.88,
-      "originalPrice": 49.63,
-      "discountPercent": 68,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgz8isbs2yo794",
-      "url": "https://s.shopee.com.br/7favXan7rk",
-      "rating": 4.9,
-      "salesCount": 3506,
-      "seller": "RD ECOM",
       "category": "Presentes e papelaria"
     },
     {
@@ -4125,6 +4097,33 @@
       "salesCount": 2118,
       "seller": "LOUREN_VARIEDADES",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "58258453576",
+      "title": "Suporte Notebook Ergonômico com Cooler – Refrigeração 5V 1000RPM (DELTA-B1122M)",
+      "price": 46.87,
+      "originalPrice": 151.19,
+      "discountPercent": 69,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m2-mqxu3vg4x3ifaa",
+      "url": "https://s.shopee.com.br/9V2ZrUHmbZ",
+      "rating": 4.9,
+      "salesCount": 560,
+      "seller": "NEW SECULO XXI",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "21797728567",
+      "title": "Arara 4/5 Andares Multiuso c/ Sapateira, Cabideiro e Suporte p/ Roupas, Tênis e Closet Quarto",
+      "price": 39.49,
+      "originalPrice": 179.5,
+      "discountPercent": 78,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7req6-m8dk5gglfv7k20",
+      "url": "https://s.shopee.com.br/9APjzrkO5O",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 3241,
+      "seller": "ZSZ_brasil",
+      "category": "Casa e organização"
     }
   ]
 }
