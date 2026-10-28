@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T02:04:05.567Z",
+  "updatedAt": "2026-10-28T02:34:39.910Z",
   "offers": [
     {
       "id": "20042293295",
@@ -2685,6 +2685,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "22399132687",
+      "title": "Kit Skin Care Geleia facial Colágeno e Niacinamida Kokeshi",
+      "price": 59.9,
+      "originalPrice": 85.57,
+      "discountPercent": 30,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mge5tyc09rlwd9",
+      "url": "https://s.shopee.com.br/9Kj9WcurCk",
+      "rating": 4.9,
+      "salesCount": 1157,
+      "official": true,
+      "seller": "KOKESHI OFICIAL",
+      "category": "Beleza"
+    },
+    {
       "id": "58209766348",
       "title": "Kit Skincare Kokeshi Cosméticos Completo 6 Itens Hidratação e Tratamento Facial",
       "price": 129.9,
@@ -4117,19 +4131,6 @@
       "rating": 4.8,
       "salesCount": 3272,
       "seller": "Alpha Oriental",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58263203459",
-      "title": "Kit Limpa Vidro Magnético Prático Dupla Face Rodo Mágico Janelas",
-      "price": 24.88,
-      "originalPrice": 77.75,
-      "discountPercent": 68,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h1-mpwjvx0pyd4wbd",
-      "url": "https://s.shopee.com.br/qkbOzeonE",
-      "rating": 4.8,
-      "salesCount": 2019,
-      "seller": "JX VERDE",
       "category": "Casa e organização"
     }
   ]
