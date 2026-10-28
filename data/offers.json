@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T10:45:42.690Z",
+  "updatedAt": "2026-10-28T11:16:25.281Z",
   "offers": [
     {
       "id": "20042293295",
@@ -577,20 +577,6 @@
       "category": "Eletrônicos"
     },
     {
-      "id": "20699675999",
-      "title": "MousePad DeskPad 90x40cm Couro Sintético Borda Costurada Tapete Mesa Mousepad Grande Escritório Home Office Gigante",
-      "price": 25.9,
-      "originalPrice": 55.11,
-      "discountPercent": 53,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mitstk5ts7428f",
-      "url": "https://s.shopee.com.br/4LKUoqStHT",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 265,
-      "seller": "Hamburgo Oficial",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "27893329314",
       "title": "Lançamento De Smartwatch Relógio Inteligente Com Tela Infinita E Duas Alças , Estilo Tecnologia Para Homens Mulheres",
       "price": 41.99,
@@ -689,6 +675,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23198988208",
+      "title": "Mouse Pad Desk Pad Couro Borda Costurada Gigante Antiderrapante Tapete Mesa Gamer Setup Trabalho Estudo Protetor Mesa",
+      "price": 15.89,
+      "originalPrice": 36.11,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mlfcjdzl6ryf41",
+      "url": "https://s.shopee.com.br/2LZPBkvFBz",
+      "hasVariantPrices": true,
+      "rating": 4.5,
+      "salesCount": 3320,
+      "seller": "OmniStore",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "21499198935",
       "title": "Carteiras Fibra De Carbono Porta-Cartões Masculina Marca Preta Mágica Tripla De Couro",
       "price": 16.5,
@@ -753,32 +753,6 @@
       "rating": 4.8,
       "salesCount": 1523,
       "seller": "Next Road",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "15994331416",
-      "title": "Mouse Pad Grande Couro Rosa Clarinho Feltro Costurado Básico",
-      "price": 19.9,
-      "originalPrice": 39.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mpjpxnca8web94",
-      "url": "https://s.shopee.com.br/W7mFnhU3a",
-      "rating": 4.9,
-      "salesCount": 320,
-      "seller": "Next Road",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "23897368408",
-      "title": "Mouse Pad de Couro Sintético Grande Bege Claro Feltro Básico",
-      "price": 19.9,
-      "originalPrice": 39.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rceg-lsd8swz826mq4d",
-      "url": "https://s.shopee.com.br/4B14cXTWcO",
-      "rating": 4.9,
-      "salesCount": 287,
-      "seller": "nextroadfabrica",
       "category": "Eletrônicos"
     },
     {
@@ -3566,6 +3540,20 @@
       "category": "Cozinha"
     },
     {
+      "id": "19253571158",
+      "title": "Mini Controle Teclado Air Mouse Wireless 2.4 Ghz -pc,game",
+      "price": 34.1,
+      "originalPrice": 87.44,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xl-mia55nrh39j52f",
+      "url": "https://s.shopee.com.br/1gJiOWxmXv",
+      "rating": 4.8,
+      "salesCount": 1963,
+      "official": true,
+      "seller": "Keedi Eletrônicos",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "16324454755",
       "title": "Kit SOS Cachos Coco Profundo Shampoo e Condicionador Litrão Salon Line",
       "price": 49,
@@ -4123,6 +4111,19 @@
       "salesCount": 3241,
       "seller": "ZSZ_brasil",
       "category": "Casa e organização"
+    },
+    {
+      "id": "41733456705",
+      "title": "Squishy Halloween Caixa Surpresa Fantasma e Abóbora, Brinquedo Antiestresse Fidget, Presente Criativo",
+      "price": 59.99,
+      "originalPrice": 142.83,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258j-mrqs3p0uf760f5",
+      "url": "https://s.shopee.com.br/1LgsfTVo5i",
+      "rating": 4.5,
+      "salesCount": 423,
+      "seller": "XY Casa & Auto🏡",
+      "category": "Presentes e papelaria"
     }
   ]
 }
