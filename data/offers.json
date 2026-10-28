@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T13:20:28.634Z",
+  "updatedAt": "2026-10-28T13:41:22.304Z",
   "offers": [
     {
       "id": "20042293295",
@@ -383,6 +383,19 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "22796235063",
+      "title": "Aspirador De Pó Usb Portátil Completo Linha Premium Carro E Casa 6000PA",
+      "price": 30.99,
+      "originalPrice": 72.07,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lj2o7nkirngf4a",
+      "url": "https://s.shopee.com.br/4B14oZwEAF",
+      "rating": 4.6,
+      "salesCount": 542,
+      "seller": "P&H  Oficial",
+      "category": "Ferramentas"
+    },
+    {
       "id": "21499198919",
       "title": "1/2/5 Pcs Carteiras Fibra De Carbono Porta-Cartões Masculina Marca Preta Mágica Tripla De Couro",
       "price": 16.5,
@@ -423,20 +436,6 @@
       "salesCount": 730,
       "seller": "StarlinkX",
       "category": "Beleza"
-    },
-    {
-      "id": "19099590678",
-      "title": "Almofada para Pescoço Bebe Conforto fofinha Apoio de Cabeça 100% Algodão",
-      "price": 22,
-      "originalPrice": 56.41,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2jacf0qwox2f",
-      "url": "https://s.shopee.com.br/3B8WBJQnQP",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2392,
-      "seller": "Varietah Kids",
-      "category": "Pet e bebê"
     },
     {
       "id": "57906653359",
@@ -480,6 +479,19 @@
       "salesCount": 340,
       "seller": "Planner 2026",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "22895594528",
+      "title": "1 Amplificador De Imagem Tela Telefone Celular Amplificador De Imagem Tela Ultra Clara Luz Anti-Azul",
+      "price": 17.99,
+      "originalPrice": 43.88,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mr9vkb01htdxca",
+      "url": "https://s.shopee.com.br/8KqdmDByH4",
+      "rating": 4.6,
+      "salesCount": 889,
+      "seller": "REAL MO",
+      "category": "Eletrônicos"
     },
     {
       "id": "58211536223",
@@ -647,19 +659,6 @@
       "category": "Moda"
     },
     {
-      "id": "18599250844",
-      "title": "Kit 03 Cuecas Samba Canção Cueca Masculina Kallore Cós",
-      "price": 29,
-      "originalPrice": 78.38,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwz2gunvp66qda",
-      "url": "https://s.shopee.com.br/6q1py5L9Pt",
-      "rating": 4.7,
-      "salesCount": 74,
-      "seller": "Amazile Store",
-      "category": "Moda"
-    },
-    {
       "id": "58207087479",
       "title": "Camiseta Feminina Lisa 100% Algodão Premium Conforto Streetwear Fashion Urbano Casual Moda Diário Crt Unissex",
       "price": 17.06,
@@ -779,6 +778,20 @@
       "rating": 4.9,
       "salesCount": 1272,
       "seller": "A_crosail.br",
+      "category": "Moda"
+    },
+    {
+      "id": "22997628869",
+      "title": "Kit Cuecas Boxer Ciclista Adulto Microfibra Modelo Longo",
+      "price": 39.99,
+      "originalPrice": 79.98,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdx7bv2paadd74",
+      "url": "https://s.shopee.com.br/8AXC8UytUy",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1943,
+      "seller": "Ventura_Imports_",
       "category": "Moda"
     },
     {
@@ -1176,19 +1189,6 @@
       "category": "Presentes e papelaria"
     },
     {
-      "id": "23091546001",
-      "title": "Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM Promoção",
-      "price": 16.98,
-      "originalPrice": 29.79,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259l-mskzqxceqnm23c",
-      "url": "https://s.shopee.com.br/AUv7aJjuvt",
-      "rating": 4.6,
-      "salesCount": 7600,
-      "seller": "P&H  Oficial",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "58214519187",
       "title": "Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão",
       "price": 45.9,
@@ -1227,6 +1227,20 @@
       "salesCount": 2873,
       "seller": "Dejuule Modas",
       "category": "Moda"
+    },
+    {
+      "id": "23998316312",
+      "title": "155L/180L/195L Caixa Multifuncional De Armazenamento De Grande Capacidade Para Colchas E Roupas Domésticas",
+      "price": 23.99,
+      "originalPrice": 104.3,
+      "discountPercent": 77,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mskyp8zm718k5a",
+      "url": "https://s.shopee.com.br/AUv8MBur3T",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 1527,
+      "seller": "Jonny Home",
+      "category": "Casa e organização"
     },
     {
       "id": "22099191110",
@@ -1309,6 +1323,19 @@
       "official": true,
       "seller": "Naraka",
       "category": "Moda"
+    },
+    {
+      "id": "19099590678",
+      "title": "Almofada para Pescoço Bebe Conforto fofinha Apoio de Cabeça 100% Algodão",
+      "price": 29.9,
+      "originalPrice": 56.42,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2jacf0qwox2f",
+      "url": "https://s.shopee.com.br/3B8WBJQnQP",
+      "rating": 4.9,
+      "salesCount": 2392,
+      "seller": "Varietah Kids",
+      "category": "Pet e bebê"
     },
     {
       "id": "23492415109",
@@ -1541,19 +1568,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "19046617590",
-      "title": "Ampliadora Lente De Aumento Tela 3d Suporte Tablet Zoom Celular",
-      "price": 16.99,
-      "originalPrice": 29.81,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257u-msgod13asrggd3",
-      "url": "https://s.shopee.com.br/9zyqzOlowo",
-      "rating": 4.6,
-      "salesCount": 8888,
-      "seller": "Vida Criativa ",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "13494334390",
       "title": "Cílios Fadvan W 4D Extensão De Cílios Alongamento W Novidade Volume Híbrido Maquiagem",
       "price": 19,
@@ -1594,6 +1608,19 @@
       "salesCount": 1838,
       "seller": "Casa Encanto - Lar Completo",
       "category": "Casa e organização"
+    },
+    {
+      "id": "19046617590",
+      "title": "Ampliadora Lente De Aumento Tela 3d Suporte Tablet Zoom Celular",
+      "price": 16.99,
+      "originalPrice": 29.81,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257u-msgod13asrggd3",
+      "url": "https://s.shopee.com.br/9zyqzOlowo",
+      "rating": 4.6,
+      "salesCount": 8888,
+      "seller": "Vida Criativa ",
+      "category": "Eletrônicos"
     },
     {
       "id": "22499056874",
@@ -1719,6 +1746,20 @@
       "hot": true
     },
     {
+      "id": "19097999326",
+      "title": "Caixa Multifuncional De Armazenamento De Grande Capacidade Para Colchas E Roupas Domésticas 120L/160L/195L",
+      "price": 23.99,
+      "originalPrice": 104.3,
+      "discountPercent": 77,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-msjl6fab8s9241",
+      "url": "https://s.shopee.com.br/6q1pzS8oUX",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 2288,
+      "seller": "Melhores coisas",
+      "category": "Casa e organização"
+    },
+    {
       "id": "19199866082",
       "title": "Suporte de peito ajustável para telefones celulares e câmeras GoPro para peito de motocicleta e bicicleta",
       "price": 23.9,
@@ -1730,19 +1771,6 @@
       "rating": 4.9,
       "salesCount": 3152,
       "seller": "JUNGE TECH LTDA",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "20999580796",
-      "title": "Carregador de carro retrátil com luz LED, carregador de carro rápido 4 em 1 de 120 W para iPhone e Android",
-      "price": 45.17,
-      "originalPrice": 196.39,
-      "discountPercent": 77,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdmsrbntex15d7",
-      "url": "https://s.shopee.com.br/5VWSHubdYP",
-      "rating": 4.9,
-      "salesCount": 2042,
-      "seller": "TRADENO ECOMERCE",
       "category": "Eletrônicos"
     },
     {
@@ -1770,20 +1798,6 @@
       "salesCount": 777,
       "seller": "LUMIO.OFICIAL",
       "category": "Beleza"
-    },
-    {
-      "id": "19097999326",
-      "title": "Caixa Multifuncional De Armazenamento De Grande Capacidade Para Colchas E Roupas Domésticas 120L/160L/195L",
-      "price": 23.99,
-      "originalPrice": 104.3,
-      "discountPercent": 77,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-msjl6fab8s9241",
-      "url": "https://s.shopee.com.br/7VHVLF6dgm",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 2288,
-      "seller": "Melhores coisas",
-      "category": "Casa e organização"
     },
     {
       "id": "23293962132",
@@ -1938,20 +1952,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "20899597911",
-      "title": "Blusa Academia feminina Oval ) Regata Veste Legging Camisão Tapa Bumbum Camiseta Tule Roupas de Academia Dry Fit Treino",
-      "price": 22.38,
-      "originalPrice": 34.97,
-      "discountPercent": 36,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mpntwianxqmb13",
-      "url": "https://s.shopee.com.br/AKbi2q4tTF",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1756,
-      "seller": "ATITUDE ÚNICA MODA FEMININA",
-      "category": "Moda"
-    },
-    {
       "id": "22693482091",
       "title": "KIT 12 Peças de Utensílios Para Cozinha em Silicone e Bambu",
       "price": 29.99,
@@ -1977,6 +1977,19 @@
       "salesCount": 1944,
       "official": true,
       "seller": "Keedi Eletrônicos",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "20999580796",
+      "title": "Carregador de carro retrátil com luz LED, carregador de carro rápido 4 em 1 de 120 W para iPhone e Android",
+      "price": 49.88,
+      "originalPrice": 199.52,
+      "discountPercent": 75,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdmsrbntex15d7",
+      "url": "https://s.shopee.com.br/5VWSHubdYP",
+      "rating": 4.9,
+      "salesCount": 2042,
+      "seller": "TRADENO ECOMERCE",
       "category": "Eletrônicos"
     },
     {
@@ -2076,19 +2089,6 @@
       "category": "Moda"
     },
     {
-      "id": "58264964287",
-      "title": "Kit 6 Peças Menina Bebê Infantil Peças de Roupas Verão Infantil Fashion Short Blusa Algodão",
-      "price": 47.9,
-      "originalPrice": 95.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mr24mhxckqo418",
-      "url": "https://s.shopee.com.br/3LRxnecwb5",
-      "rating": 4.8,
-      "salesCount": 1872,
-      "seller": "Meu Bebê Kids",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "49456762765",
       "title": "Cadeira de Escritório Presidente Ultra Ergonômica LARUNO Alto Padrão Luxo Espuma Certificada Homologada NR17 Cinza",
       "price": 355.9,
@@ -2138,6 +2138,7 @@
       "discountPercent": 69,
       "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlr6x8dggpa8d1",
       "url": "https://s.shopee.com.br/LoHuCxtrs",
+      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 14174,
       "official": true,
@@ -2241,6 +2242,19 @@
       "salesCount": 3530,
       "seller": "Atletyca Oficial",
       "category": "Moda"
+    },
+    {
+      "id": "22898838787",
+      "title": "Kit 5 Camisetas Regata Bebê Menino Menina",
+      "price": 29.99,
+      "originalPrice": 81.05,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mnk8vy4obx1gb6",
+      "url": "https://s.shopee.com.br/3qOCyXOG4b",
+      "rating": 4.8,
+      "salesCount": 2237,
+      "seller": "magiainfantil",
+      "category": "Pet e bebê"
     },
     {
       "id": "58218792633",
@@ -2370,6 +2384,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "19132144851",
+      "title": "Kit 3 Lençol Berço Americano Percal 400 Fios Macio com Elástico 130x70cm Menina e Menino",
+      "price": 26.2,
+      "originalPrice": 54.58,
+      "discountPercent": 52,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkgr3wef5fcx7c",
+      "url": "https://s.shopee.com.br/5VWQxbHugd",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2910,
+      "seller": "GRUPO HH BABY Loja 1",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "56455915321",
       "title": "Almofada de Assento Automotiva para Motorista Carro e Cadeira de Escritório Cor Preta",
       "price": 34.9,
@@ -2383,17 +2411,17 @@
       "category": "Casa e organização"
     },
     {
-      "id": "19697980846",
-      "title": "Ventilador Luminária Led 6 Pás Lâmpada Soquete Bocal E27 Teto 3 Cores Luz Branco Amarelo Bivolt",
-      "price": 39.89,
-      "originalPrice": 90.66,
+      "id": "58265871339",
+      "title": "Wardrobe Caixa Organizadora 94L para Roupas com Tampa Anti-Poeira/Umidade/Insetos | Ideal para Cobertores e Casacos",
+      "price": 22.47,
+      "originalPrice": 51.07,
       "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqkzkrt4w03ba",
-      "url": "https://s.shopee.com.br/qkc4YKeIK",
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mrpbsfx1y58k23",
+      "url": "https://s.shopee.com.br/906KZR0Z62",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 7664,
-      "seller": "SKY MALL",
+      "salesCount": 1719,
+      "seller": "Descubra Tesouro",
       "category": "Casa e organização"
     },
     {
@@ -2409,20 +2437,6 @@
       "salesCount": 1268,
       "seller": "Damien Shop_Brasil",
       "category": "Beleza"
-    },
-    {
-      "id": "58265871339",
-      "title": "Wardrobe Caixa Organizadora 94L para Roupas com Tampa Anti-Poeira/Umidade/Insetos | Ideal para Cobertores e Casacos",
-      "price": 22.47,
-      "originalPrice": 51.07,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mrpbsfx1y58k23",
-      "url": "https://s.shopee.com.br/6fiOLi9oNh",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1719,
-      "seller": "Descubra Tesouro",
-      "category": "Casa e organização"
     },
     {
       "id": "18399566099",
@@ -2481,6 +2495,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "19697980846",
+      "title": "Ventilador Luminária Led 6 Pás Lâmpada Soquete Bocal E27 Teto 3 Cores Luz Branco Amarelo Bivolt",
+      "price": 39.89,
+      "originalPrice": 90.66,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqkzkrt4w03ba",
+      "url": "https://s.shopee.com.br/qkc4YKeIK",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 7664,
+      "seller": "SKY MALL",
+      "category": "Casa e organização"
+    },
+    {
       "id": "28758577108",
       "title": "QKZ Fone de ouvido com fio AK6 intra-auricular microfone alta qualidade som e cancelamento de ruído",
       "price": 16.18,
@@ -2507,6 +2535,48 @@
       "salesCount": 1226,
       "seller": "KALU OFICIAL",
       "category": "Beleza"
+    },
+    {
+      "id": "23131712327",
+      "title": "Kit 5 Cuecas Polo Star Boxer Microfibra Confortável Adulto Sortido",
+      "price": 63.9,
+      "originalPrice": 99.84,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mboal9oylp5z08",
+      "url": "https://s.shopee.com.br/7puLjt0AAU",
+      "rating": 4.9,
+      "salesCount": 3595,
+      "official": true,
+      "seller": "UP UNDERWEAR",
+      "category": "Moda"
+    },
+    {
+      "id": "19274006007",
+      "title": "Kit 5 Cuecas Box Microfibra Lisa Sem Costura Polo Wear",
+      "price": 58.99,
+      "originalPrice": 92.17,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-23020-g46s4cjwjtnv79",
+      "url": "https://s.shopee.com.br/AUv6umq0lG",
+      "rating": 4.8,
+      "salesCount": 2456,
+      "official": true,
+      "seller": "UP UNDERWEAR",
+      "category": "Moda"
+    },
+    {
+      "id": "22292949724",
+      "title": "Papel de Parede Mármore Branco com Dourado Para Sala Quarto | Autocolante Lavável | Adesivo Vinílico De Fácil Aplicação",
+      "price": 21.98,
+      "originalPrice": 62.8,
+      "discountPercent": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke79xgy03k1e2",
+      "url": "https://s.shopee.com.br/1gJjpxSU38",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1045,
+      "seller": "imperial_adesivos",
+      "category": "Casa e organização"
     },
     {
       "id": "22494941454",
@@ -2646,20 +2716,6 @@
       "salesCount": 1182,
       "seller": "container.pet",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "23198735870",
-      "title": "1 a 10 Metros Fita Mangueira de LED 5050 para Decoração Com Conector 110V ou 220V Branco Frio/Quente",
-      "price": 26.3,
-      "originalPrice": 75.14,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvx-mch98dk3g6zu79",
-      "url": "https://s.shopee.com.br/8fTSjNkfVI",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 3641,
-      "seller": "BRILLIA",
-      "category": "Casa e organização"
     },
     {
       "id": "18698147487",
@@ -2869,6 +2925,20 @@
       "category": "Beleza"
     },
     {
+      "id": "23499011933",
+      "title": "Suporte Magnético 360° Dobrável p/ Celular com Sucção a Vácuo Forte – Carro Mesa Parede",
+      "price": 15.86,
+      "originalPrice": 44.06,
+      "discountPercent": 64,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824gc-mfprp3yzdrm497",
+      "url": "https://s.shopee.com.br/5VWQxbzlzk",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 3821,
+      "seller": "COCONUT SHOP",
+      "category": "Casa e organização"
+    },
+    {
       "id": "23994387054",
       "title": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
       "price": 39.9,
@@ -2908,20 +2978,6 @@
       "salesCount": 2227,
       "seller": "Stephany Top",
       "category": "Cozinha"
-    },
-    {
-      "id": "23499011933",
-      "title": "Suporte Magnético 360° Dobrável p/ Celular com Sucção a Vácuo Forte – Carro Mesa Parede",
-      "price": 15.86,
-      "originalPrice": 44.06,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824gc-mfprp3yzdrm497",
-      "url": "https://s.shopee.com.br/5VWQxbzlzk",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 3821,
-      "seller": "COCONUT SHOP",
-      "category": "Casa e organização"
     },
     {
       "id": "22497982173",
@@ -3015,20 +3071,6 @@
       "rating": 4.8,
       "salesCount": 871,
       "seller": "ENCAST CONTRY GIRL",
-      "category": "Moda"
-    },
-    {
-      "id": "58200790435",
-      "title": "[ Sutia Adesivo Manga Invisivel Levanta ] Peitos Seio Push Up Silicone Ajustável",
-      "price": 19.89,
-      "originalPrice": 35.52,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhaf8nsypn9c11",
-      "url": "https://s.shopee.com.br/8fTU9SIdkb",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 196,
-      "seller": "FLUVI",
       "category": "Moda"
     },
     {
@@ -3445,6 +3487,19 @@
       "category": "Beleza"
     },
     {
+      "id": "22695017676",
+      "title": "Kit 5 Top Infantil Juvenil Teen Menina Algodão Sutia Sem Bojo Alça Ajustavel Básico Usar Uniforme",
+      "price": 34.45,
+      "originalPrice": 65,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mpik1107egw0c2",
+      "url": "https://s.shopee.com.br/4fxJy4GcMB",
+      "rating": 4.9,
+      "salesCount": 2464,
+      "seller": "DBL LINGERIE",
+      "category": "Moda"
+    },
+    {
       "id": "21898108143",
       "title": "Jogo De Mesa Astronauta Equilíbrio 50 Peças Infantil Puzzle Tabuleiro",
       "price": 29.99,
@@ -3487,8 +3542,8 @@
     {
       "id": "19999598253",
       "title": "Tapete Higiênico para Caixa de Areia de Gatos Anti Sujeira Coletor De Areia EVA 70x100 cm - Petliz",
-      "price": 18.9,
-      "originalPrice": 48.46,
+      "price": 19.99,
+      "originalPrice": 51.26,
       "discountPercent": 61,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgf5deizhcefd3",
       "url": "https://s.shopee.com.br/1LgrzwgRDk",
@@ -3567,17 +3622,30 @@
       "category": "Beleza"
     },
     {
-      "id": "23893081836",
-      "title": "Óleo Extraordinário - Tratamento Sublime 100ml NEW HAIR | Hidrata, nutre e finaliza",
-      "price": 20.57,
-      "originalPrice": 27.8,
+      "id": "20899597911",
+      "title": "Blusa Academia feminina Oval ) Regata Veste Legging Camisão Tapa Bumbum Camiseta Tule Roupas de Academia Dry Fit Treino",
+      "price": 25.98,
+      "originalPrice": 35.11,
       "discountPercent": 26,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma4a9lk265xd0c",
-      "url": "https://s.shopee.com.br/BUubmgxAN",
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mpntwianxqmb13",
+      "url": "https://s.shopee.com.br/AKbi2q4tTF",
       "rating": 4.9,
-      "salesCount": 2894,
-      "seller": "Bela Beleza Oficial",
-      "category": "Beleza"
+      "salesCount": 1756,
+      "seller": "ATITUDE ÚNICA MODA FEMININA",
+      "category": "Moda"
+    },
+    {
+      "id": "22599507223",
+      "title": "Kit 3 Sutia Infantil Juvenil Algodão Cotton Liso Alta Qualidade Conforto Top Dia a Dia Menina Moça",
+      "price": 25.85,
+      "originalPrice": 47.87,
+      "discountPercent": 46,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mpi6r5uin20x2b",
+      "url": "https://s.shopee.com.br/9fLzvFxaDa",
+      "rating": 4.9,
+      "salesCount": 431,
+      "seller": "DBL LINGERIE",
+      "category": "Moda"
     },
     {
       "id": "48861519149",
@@ -4054,74 +4122,6 @@
       "rating": 4.9,
       "salesCount": 8847,
       "seller": "Life Hack Homeware",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58263021202",
-      "title": "BRILHO NOVO Escova Sanitária com Cabeça Substituível e Refis Descartáveis | Base + 6, 12, 18, 24 ou 36 Refis",
-      "price": 59.8,
-      "originalPrice": 145.85,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-msdw742h9vd1fe",
-      "url": "https://s.shopee.com.br/6fiOLiN0jO",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 5048,
-      "seller": "BRILHO NOVO BR",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "46757037054",
-      "title": "Fones De Ouvido D6 2pcs HD Chamadas Ear-Plugs Sem Fio Bluetooth Fone Empresarial À Prova D'água Com Microfone De Longa E",
-      "price": 15.98,
-      "originalPrice": 76.1,
-      "discountPercent": 79,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259q-mthtf3jdc8p62b",
-      "url": "https://s.shopee.com.br/5VWQxZnS15",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2318,
-      "seller": "Choice Oficial",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "58262744158",
-      "title": "Kit Beleza Infantil Maleta Portátil Com Espelho, Maquiagem E Manicure Não Tóxico Presente Aniversário Criança",
-      "price": 72.99,
-      "originalPrice": 178.02,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mplyh232hi4g00",
-      "url": "https://s.shopee.com.br/1W0ICEtTWb",
-      "rating": 4.8,
-      "salesCount": 2118,
-      "seller": "LOUREN_VARIEDADES",
-      "category": "Presentes e papelaria"
-    },
-    {
-      "id": "58258453576",
-      "title": "Suporte Notebook Ergonômico com Cooler – Refrigeração 5V 1000RPM (DELTA-B1122M)",
-      "price": 46.87,
-      "originalPrice": 151.19,
-      "discountPercent": 69,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m2-mqxu3vg4x3ifaa",
-      "url": "https://s.shopee.com.br/9V2ZrUHmbZ",
-      "rating": 4.9,
-      "salesCount": 560,
-      "seller": "NEW SECULO XXI",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "21797728567",
-      "title": "Arara 4/5 Andares Multiuso c/ Sapateira, Cabideiro e Suporte p/ Roupas, Tênis e Closet Quarto",
-      "price": 39.49,
-      "originalPrice": 179.5,
-      "discountPercent": 78,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7req6-m8dk5gglfv7k20",
-      "url": "https://s.shopee.com.br/8pmuG3g8rk",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 3241,
-      "seller": "ZSZ_brasil",
       "category": "Casa e organização"
     }
   ]
