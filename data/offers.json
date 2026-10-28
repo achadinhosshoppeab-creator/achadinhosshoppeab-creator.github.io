@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T05:37:49.229Z",
+  "updatedAt": "2026-10-28T06:08:39.902Z",
   "offers": [
     {
       "id": "20042293295",
@@ -413,20 +413,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "23892379352",
-      "title": "1/2/4 PCS Luminária Parede Solar  100 Leds Com Sensor de Movimento Jardim Externa Prova D'água Casa",
-      "price": 16.83,
-      "originalPrice": 38.25,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b9-msuv9j38rl6t71",
-      "url": "https://s.shopee.com.br/6Am8QM0LTs",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1931,
-      "seller": "NEW WORD MAGAZINE",
-      "category": "Casa e organização"
-    },
-    {
       "id": "18599096400",
       "title": "2 Pincéis Ultrafinos para Sobrancelha com Design Aprimorado, perfeitos para delineador em lâmina, maquiagem",
       "price": 21.9,
@@ -550,6 +536,20 @@
       "salesCount": 3848,
       "seller": "leandro_tintas",
       "category": "Ferramentas"
+    },
+    {
+      "id": "23892379352",
+      "title": "1/2/4 PCS Luminária Parede Solar  100 Leds Com Sensor de Movimento Jardim Externa Prova D'água Casa",
+      "price": 20.88,
+      "originalPrice": 44.43,
+      "discountPercent": 53,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b9-msuv9j38rl6t71",
+      "url": "https://s.shopee.com.br/6Am8QM0LTs",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1931,
+      "seller": "NEW WORD MAGAZINE",
+      "category": "Casa e organização"
     },
     {
       "id": "20452224775",
