@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T06:08:39.902Z",
+  "updatedAt": "2026-10-28T06:39:33.580Z",
   "offers": [
     {
       "id": "20042293295",
@@ -377,7 +377,6 @@
       "discountPercent": 67,
       "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlbqolciatxcb6",
       "url": "https://s.shopee.com.br/8fTSQzN87S",
-      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 440,
       "seller": "ToolMaster0.br",
@@ -2050,6 +2049,21 @@
       "category": "Beleza"
     },
     {
+      "id": "58210657340",
+      "title": "Camisa Social Masculina Manga Longa Não amassa Algodão Slim Estilosas BROSSARD Casual e Dia a Dia",
+      "price": 76,
+      "originalPrice": 168.89,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mo7zrh0zcwshf3",
+      "url": "https://s.shopee.com.br/8AXC8UypBb",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2367,
+      "official": true,
+      "seller": "Brossard_BR",
+      "category": "Moda"
+    },
+    {
       "id": "49456762765",
       "title": "Cadeira de Escritório Presidente Ultra Ergonômica LARUNO Alto Padrão Luxo Espuma Certificada Homologada NR17 Cinza",
       "price": 355.9,
@@ -2215,20 +2229,6 @@
       "rating": 4.8,
       "salesCount": 3530,
       "seller": "Atletyca Oficial",
-      "category": "Moda"
-    },
-    {
-      "id": "58210657340",
-      "title": "Camisa Social Masculina Manga Longa Não amassa Algodão Slim Estilosas BROSSARD Casual e Dia a Dia",
-      "price": 79.8,
-      "originalPrice": 169.79,
-      "discountPercent": 53,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mo7zrh0zcwshf3",
-      "url": "https://s.shopee.com.br/8AXC8UypBb",
-      "rating": 4.9,
-      "salesCount": 2367,
-      "official": true,
-      "seller": "Brossard_BR",
       "category": "Moda"
     },
     {
@@ -2666,8 +2666,8 @@
     {
       "id": "19099597031",
       "title": "Belifou Kit 24 Peças Jogo De Talheres Inox Faqueiro Completo Colher Garfo Faca Para Jantar Cozinha Luxo",
-      "price": 36.99,
-      "originalPrice": 105.69,
+      "price": 37.4,
+      "originalPrice": 106.86,
       "discountPercent": 65,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m8bovalmy7tdb1",
       "url": "https://s.shopee.com.br/5VWO3kYcUC",
