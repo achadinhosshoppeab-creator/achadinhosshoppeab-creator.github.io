@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T17:51:05.898Z",
+  "updatedAt": "2026-10-28T18:11:57.789Z",
   "offers": [
     {
       "id": "20042293295",
@@ -187,7 +187,8 @@
       "rating": 4.8,
       "salesCount": 13005,
       "seller": "RISESHOP_brasil",
-      "category": "Ferramentas"
+      "category": "Ferramentas",
+      "hot": true
     },
     {
       "id": "19651910894",
@@ -285,20 +286,6 @@
       "salesCount": 1249,
       "seller": "BIG MO",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "47810770730",
-      "title": "Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza linhas - Kaziva",
-      "price": 19.9,
-      "originalPrice": 49.75,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moe991hva9z909",
-      "url": "https://s.shopee.com.br/6Am4qyIoVB",
-      "rating": 4.8,
-      "salesCount": 1327,
-      "official": true,
-      "seller": "Adora ",
-      "category": "Casa e organização"
     },
     {
       "id": "22494274076",
@@ -548,7 +535,8 @@
       "rating": 4.8,
       "salesCount": 3848,
       "seller": "leandro_tintas",
-      "category": "Ferramentas"
+      "category": "Ferramentas",
+      "hot": true
     },
     {
       "id": "20452224775",
@@ -768,20 +756,6 @@
       "rating": 4.9,
       "salesCount": 1272,
       "seller": "A_crosail.br",
-      "category": "Moda"
-    },
-    {
-      "id": "23694320879",
-      "title": "Chinelo Asuna Super Confortável Nuvem Masculino Antiderrapante Nova Moda 2025",
-      "price": 34.9,
-      "originalPrice": 69.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhd3gtgx6o322",
-      "url": "https://s.shopee.com.br/70LGSyQDGk",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1946,
-      "seller": "ENCAST 04",
       "category": "Moda"
     },
     {
@@ -1124,20 +1098,6 @@
       "salesCount": 828,
       "seller": "Valorosa Beauty Hair",
       "category": "Beleza"
-    },
-    {
-      "id": "22392992790",
-      "title": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1",
-      "price": 18.69,
-      "originalPrice": 89,
-      "discountPercent": 79,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd48-lupf3z3a40mxf1",
-      "url": "https://s.shopee.com.br/4qGhGWWpLD",
-      "rating": 4.8,
-      "salesCount": 16596,
-      "seller": "Isabela Top",
-      "category": "Cozinha",
-      "hot": true
     },
     {
       "id": "58266694509",
@@ -1506,20 +1466,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "23598844056",
-      "title": "Organizador de Maquiagem Giratório – Suporte Multiuso 2/3 Andares p/ Cosméticos e Perfumes",
-      "price": 49,
-      "originalPrice": 80.33,
-      "discountPercent": 39,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfv92cecwnpg7d",
-      "url": "https://s.shopee.com.br/3LRwNYRmHz",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1114,
-      "seller": "DeinShop",
-      "category": "Casa e organização"
-    },
-    {
       "id": "44378324294",
       "title": "Painel Decoração Porta Foto Quadro Decorativo Nossa Família Nosso Tesouro em MDF Moldura de Fotos 10x15",
       "price": 18.5,
@@ -1874,6 +1820,20 @@
       "category": "Moda"
     },
     {
+      "id": "21034795993",
+      "title": "Tapete de Banheiro Antiderrapante Bolinha Macarrão Várias Cores",
+      "price": 15.89,
+      "originalPrice": 29.98,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22100-yg4ftmeqs8iv0a",
+      "url": "https://s.shopee.com.br/1Lgp65ssjN",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 5336,
+      "seller": "MG Enxovais",
+      "category": "Casa e organização"
+    },
+    {
       "id": "46806231294",
       "title": "Fone KZ EDX Pro Profissional Intra-auricular Driver Dinâmico Magnético 10mm Original Gamer",
       "price": 48.9,
@@ -1996,20 +1956,6 @@
       "salesCount": 1756,
       "seller": "ATITUDE ÚNICA MODA FEMININA",
       "category": "Moda"
-    },
-    {
-      "id": "22693482091",
-      "title": "KIT 12 Peças de Utensílios Para Cozinha em Silicone e Bambu",
-      "price": 29.99,
-      "originalPrice": 99.97,
-      "discountPercent": 70,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx1-m1egwx31u1x61f",
-      "url": "https://s.shopee.com.br/3VlMZreH0C",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 4373,
-      "seller": "Isabela Top",
-      "category": "Cozinha"
     },
     {
       "id": "58267033396",
@@ -2417,34 +2363,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "22894932514",
-      "title": "Maleta de Viagem Masculina Grande Capacidade, Necessaire Dobrável para Barbear, Organizador Portátil",
-      "price": 21.95,
-      "originalPrice": 91.46,
-      "discountPercent": 76,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82592-mq69wbtrozdae9",
-      "url": "https://s.shopee.com.br/3B8WBFSPcy",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1268,
-      "seller": "Damien Shop_Brasil",
-      "category": "Beleza"
-    },
-    {
-      "id": "58265871339",
-      "title": "Wardrobe Caixa Organizadora 94L para Roupas com Tampa Anti-Poeira/Umidade/Insetos | Ideal para Cobertores e Casacos",
-      "price": 22.47,
-      "originalPrice": 51.07,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mrpbsfx1y58k23",
-      "url": "https://s.shopee.com.br/906KZR0Z62",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1719,
-      "seller": "Descubra Tesouro",
-      "category": "Casa e organização"
-    },
-    {
       "id": "18399566099",
       "title": "Kit Conjunto 19 Pçs De Utensílios Facas Silicone e Plástico Cozinha",
       "price": 49.58,
@@ -2488,6 +2406,20 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "22894932514",
+      "title": "Maleta de Viagem Masculina Grande Capacidade, Necessaire Dobrável para Barbear, Organizador Portátil",
+      "price": 21.95,
+      "originalPrice": 91.46,
+      "discountPercent": 76,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82592-mq69wbtrozdae9",
+      "url": "https://s.shopee.com.br/3B8WBFSPcy",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1268,
+      "seller": "Damien Shop_Brasil",
+      "category": "Beleza"
+    },
+    {
       "id": "58266335604",
       "title": "Kit com 2 Vasos de Gesso Decorativos com Plantas Artificiais – Elegância e Charme para sua Decoração",
       "price": 16.9,
@@ -2498,6 +2430,20 @@
       "rating": 4.7,
       "salesCount": 1190,
       "seller": "BENTO’S DECOR",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58265871339",
+      "title": "Wardrobe Caixa Organizadora 94L para Roupas com Tampa Anti-Poeira/Umidade/Insetos | Ideal para Cobertores e Casacos",
+      "price": 22.47,
+      "originalPrice": 51.07,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mrpbsfx1y58k23",
+      "url": "https://s.shopee.com.br/906KZR0Z62",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1719,
+      "seller": "Descubra Tesouro",
       "category": "Casa e organização"
     },
     {
@@ -2933,15 +2879,16 @@
       "category": "Beleza"
     },
     {
-      "id": "23032999814",
-      "title": "3 Saco Organizador Multiuso Embalagem Transparente Edredom Coberta Toalhas de Pvc e Ziper Preto Enxoval Guarda Roupa",
+      "id": "13614461290",
+      "title": "Kit 3 Saco Organizador Closet Edredon Cobertor C/ Ziper",
       "price": 19.99,
       "originalPrice": 28.15,
       "discountPercent": 29,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lusgv3w44b51bc",
-      "url": "https://s.shopee.com.br/1gJjirYhSY",
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23030-mlscpix8imov93",
+      "url": "https://s.shopee.com.br/7AeggemRQx",
+      "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 1494,
+      "salesCount": 1367,
       "seller": "Isaplastic",
       "category": "Casa e organização"
     },
@@ -3082,21 +3029,6 @@
       "category": "Ferramentas"
     },
     {
-      "id": "22691297138",
-      "title": "[OFFICIAL] SKIN1004 madagascar centella ampoule 30ml,55ml,100ml,120ml",
-      "price": 44.97,
-      "originalPrice": 62.46,
-      "discountPercent": 28,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-823qv-mp97g79bqk8w0d",
-      "url": "https://s.shopee.com.br/5AtaYyF39f",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 4219,
-      "official": true,
-      "seller": "koksara.kbeauty",
-      "category": "Beleza"
-    },
-    {
       "id": "23494419761",
       "title": "uporte Universal de Alumínio De Base Com Rodinha Para Geladeira Fogão E Máquina De Lavar Lousa Base Carrinho até 200kg",
       "price": 36.98,
@@ -3175,6 +3107,21 @@
       "salesCount": 684,
       "seller": "YUANYUE",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "22691297138",
+      "title": "[OFFICIAL] SKIN1004 madagascar centella ampoule 30ml,55ml,100ml,120ml",
+      "price": 44.97,
+      "originalPrice": 62.46,
+      "discountPercent": 28,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-823qv-mp97g79bqk8w0d",
+      "url": "https://s.shopee.com.br/5AtaYyF39f",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 4219,
+      "official": true,
+      "seller": "koksara.kbeauty",
+      "category": "Beleza"
     },
     {
       "id": "23994140705",
@@ -3297,20 +3244,6 @@
       "salesCount": 1460,
       "seller": "PoliPlast",
       "category": "Casa e organização"
-    },
-    {
-      "id": "22694204664",
-      "title": "Cozedor De Ovos Portátil Elétrico Cozinha A Vapor 110v/220v",
-      "price": 28.3,
-      "originalPrice": 101.07,
-      "discountPercent": 72,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbxi2wd1amvtfc",
-      "url": "https://s.shopee.com.br/3LRw5BPyKl",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 7288,
-      "seller": "PENGFA TECH LTDA",
-      "category": "Cozinha"
     },
     {
       "id": "58204197533",
@@ -3475,7 +3408,7 @@
       "rating": 4.8,
       "salesCount": 1865,
       "seller": "Ploomer Premium",
-      "category": "Moda"
+      "category": "Beleza"
     },
     {
       "id": "46360468172",
@@ -3627,6 +3560,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "23397733888",
+      "title": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1 -M2",
+      "price": 15.99,
+      "originalPrice": 55.14,
+      "discountPercent": 71,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-muhimf83lv5v05",
+      "url": "https://s.shopee.com.br/906Ks1fSZq",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 352,
+      "seller": "ALIANIA SHOP",
+      "category": "Cozinha"
+    },
+    {
       "id": "16478390649",
       "title": "Suporte Base Para Notebook Mesa Apoio Tablet Portatil com Regulagem Dobravel",
       "price": 19.98,
@@ -3722,19 +3669,17 @@
       "category": "Presentes e papelaria"
     },
     {
-      "id": "23199020709",
-      "title": "Cozedor de Ovos Elétrico Portátil Cozinha à Vapor 110V/220V Cores disponíveis （Branco Azul Rosa Amarelo）",
-      "price": 29.98,
-      "originalPrice": 99.93,
-      "discountPercent": 70,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfytb2po8gzk07",
-      "url": "https://s.shopee.com.br/3qOCg6O4Jo",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 11248,
-      "seller": "PENGFA TECH LTDA",
-      "category": "Cozinha",
-      "hot": true
+      "id": "23497647914",
+      "title": "Chaleira elétrica Chaleira elétrica de alta tecnologia em aço inoxidável 110v--R1280",
+      "price": 35.99,
+      "originalPrice": 89.98,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdy7-ly2h7wbe7l8cb0",
+      "url": "https://s.shopee.com.br/8AXDsUidGb",
+      "rating": 4.7,
+      "salesCount": 404,
+      "seller": "mari s flores artificiais ltda",
+      "category": "Cozinha"
     },
     {
       "id": "58216601427",
@@ -3982,20 +3927,6 @@
       "category": "Moda"
     },
     {
-      "id": "23598701883",
-      "title": "Sandália Feminina Tamanco casual Salto médio Tamanco salto grosso Sandália Salto Bloco Ref 201",
-      "price": 39.9,
-      "originalPrice": 79.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbvp7niu4tk7c6",
-      "url": "https://s.shopee.com.br/6Am9TRTNxl",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1553,
-      "seller": "use.lavit",
-      "category": "Moda"
-    },
-    {
       "id": "23298481880",
       "title": "Kit 6 Calcinhas Feminina Conforto Tanga Biquíni Confortável Com Forro Algodão Básica Dia a Dia",
       "price": 19,
@@ -4132,6 +4063,73 @@
       "salesCount": 2318,
       "seller": "Choice Oficial",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "58262744158",
+      "title": "Kit Beleza Infantil Maleta Portátil Com Espelho, Maquiagem E Manicure Não Tóxico Presente Aniversário Criança",
+      "price": 72.99,
+      "originalPrice": 178.02,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mplyh232hi4g00",
+      "url": "https://s.shopee.com.br/1W0ICEtTWb",
+      "rating": 4.8,
+      "salesCount": 2118,
+      "seller": "LOUREN_VARIEDADES",
+      "category": "Presentes e papelaria"
+    },
+    {
+      "id": "58258453576",
+      "title": "Suporte Notebook Ergonômico com Cooler – Refrigeração 5V 1000RPM (DELTA-B1122M)",
+      "price": 46.87,
+      "originalPrice": 151.19,
+      "discountPercent": 69,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m2-mqxu3vg4x3ifaa",
+      "url": "https://s.shopee.com.br/9V2ZrUHmbZ",
+      "rating": 4.9,
+      "salesCount": 560,
+      "seller": "NEW SECULO XXI",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "21797728567",
+      "title": "Arara 4/5 Andares Multiuso c/ Sapateira, Cabideiro e Suporte p/ Roupas, Tênis e Closet Quarto",
+      "price": 39.49,
+      "originalPrice": 179.5,
+      "discountPercent": 78,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7req6-m8dk5gglfv7k20",
+      "url": "https://s.shopee.com.br/8pmuG3g8rk",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 3241,
+      "seller": "ZSZ_brasil",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "41733456705",
+      "title": "Squishy Halloween Caixa Surpresa Fantasma e Abóbora, Brinquedo Antiestresse Fidget, Presente Criativo",
+      "price": 59.99,
+      "originalPrice": 142.83,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258j-mrqs3p0uf760f5",
+      "url": "https://s.shopee.com.br/1LgsfTVo5i",
+      "rating": 4.5,
+      "salesCount": 423,
+      "seller": "XY Casa & Auto🏡",
+      "category": "Presentes e papelaria"
+    },
+    {
+      "id": "52605012484",
+      "title": "Relógio De Quartzo Da Moda Feminina E Conjunto De Joias Com Pulseira De Couro Sem Caixa Pulso Elegante",
+      "price": 18.05,
+      "originalPrice": 82.05,
+      "discountPercent": 78,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82590-mrlbd6atm51k71",
+      "url": "https://s.shopee.com.br/4LKTZOSIlS",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 869,
+      "seller": "Choice Oficial",
+      "category": "Moda"
     }
   ]
 }
