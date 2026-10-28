@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T16:48:45.541Z",
+  "updatedAt": "2026-10-28T17:09:31.017Z",
   "offers": [
     {
       "id": "20042293295",
@@ -153,6 +153,7 @@
       "discountPercent": 69,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mlmulmuv7z0m11",
       "url": "https://s.shopee.com.br/5LD0lHwY7S",
+      "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 3578,
       "official": true,
@@ -557,6 +558,7 @@
       "discountPercent": 53,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260p-mkcfopp4p5hc85",
       "url": "https://s.shopee.com.br/4qGhGWjorU",
+      "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 1285,
       "seller": "Haute Decor",
@@ -753,20 +755,6 @@
       "salesCount": 1523,
       "seller": "Next Road",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "41278843530",
-      "title": "Boné Masculino Five Panel Bordado Malha para Masculino Feminino Praia Corrida Ciclismo Estilo Moda Uso Diário Chapéu",
-      "price": 19,
-      "originalPrice": 95,
-      "discountPercent": 80,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260i-ml307tm5a5ms48",
-      "url": "https://s.shopee.com.br/8VA2X6XMce",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1272,
-      "seller": "A_crosail.br",
-      "category": "Moda"
     },
     {
       "id": "22997628869",
@@ -1011,20 +999,6 @@
       "salesCount": 3794,
       "seller": "Fonte Boa Casa",
       "category": "Casa e organização"
-    },
-    {
-      "id": "58268028843",
-      "title": "Kit 2 Bonés New York NY Bordado | Feminino Masculino | Premium | Aba Curva | Ajustável | Várias Cores - ENVIO IMEDIATO",
-      "price": 64.7,
-      "originalPrice": 119.81,
-      "discountPercent": 46,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mt1tm30f2nt039",
-      "url": "https://s.shopee.com.br/6L5Xx7fc1R",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1329,
-      "seller": "SHARK OUTFIT",
-      "category": "Moda"
     },
     {
       "id": "19071764317",
@@ -1897,20 +1871,6 @@
       "category": "Beleza"
     },
     {
-      "id": "58257376297",
-      "title": "Boné New York NY Bordado, Aba Curva, Unissex, Regulagem Ajustável, Premium, Treino, Blogueira, Beisebol - ENVIO IMEDIATO",
-      "price": 34.8,
-      "originalPrice": 65.66,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-modgya36lcef22",
-      "url": "https://s.shopee.com.br/4VdtlkmakJ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1253,
-      "seller": "Kron.outfit",
-      "category": "Moda"
-    },
-    {
       "id": "22598314126",
       "title": "Bota Botina Feminina Texana Macia Country Cowboy Bico Quadrado Confortável Zíper E Rebites",
       "price": 79.89,
@@ -2221,8 +2181,8 @@
     {
       "id": "12782096688",
       "title": "Kit S.O.S Hidratação Óleo de Rícino Shampoo e Condicionador Litrão Salon Line",
-      "price": 49.25,
-      "originalPrice": 73.51,
+      "price": 49.35,
+      "originalPrice": 73.66,
       "discountPercent": 33,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mq80n6l4qkub32",
       "url": "https://s.shopee.com.br/1W0ICEbsSV",
@@ -3255,6 +3215,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "53053245387",
+      "title": "Ventilador Mini Portátil Recarregável USB de Mão Suporte Mesa Silencioso Ideal para Casa Trabalho",
+      "price": 25.99,
+      "originalPrice": 49.98,
+      "discountPercent": 48,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zud-midfo8h8c3d36b",
+      "url": "https://s.shopee.com.br/40hdAoK23V",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 808,
+      "seller": "LLB COMÉRCIO",
+      "category": "Casa e organização"
+    },
+    {
       "id": "23535003648",
       "title": "Brinquedo para Gato Arranhador com Pena e Rampa Poste Sisal",
       "price": 39.89,
@@ -3421,6 +3395,20 @@
       "category": "Beleza"
     },
     {
+      "id": "58204385293",
+      "title": "Boné New York NY Bordado Aba Curva Blogueira Academia Corrida - ENVIO IMEDIATO",
+      "price": 37.7,
+      "originalPrice": 99.21,
+      "discountPercent": 62,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mn4zyybzwrupb1",
+      "url": "https://s.shopee.com.br/2LZQrXNq6o",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 486,
+      "seller": "SHARK OUTFIT",
+      "category": "Moda"
+    },
+    {
       "id": "22695017676",
       "title": "Kit 5 Top Infantil Juvenil Teen Menina Algodão Sutia Sem Bojo Alça Ajustavel Básico Usar Uniforme",
       "price": 34.45,
@@ -3498,6 +3486,20 @@
       "salesCount": 727,
       "seller": "Global Shop21",
       "category": "Casa e organização"
+    },
+    {
+      "id": "22398906461",
+      "title": "Kit Pancake Branco + Batom  Preto Halloween Maquiagem Artística Bruxa Festa Fantasia Colormake",
+      "price": 15.3,
+      "originalPrice": 45,
+      "discountPercent": 66,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mshcold93shxfc",
+      "url": "https://s.shopee.com.br/2VsmUFEq3H",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1171,
+      "seller": "Loja do Abençoado F",
+      "category": "Beleza"
     },
     {
       "id": "57902938444",
