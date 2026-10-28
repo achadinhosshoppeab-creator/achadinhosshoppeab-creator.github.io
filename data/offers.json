@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T18:53:46.071Z",
+  "updatedAt": "2026-10-28T19:14:32.734Z",
   "offers": [
     {
       "id": "20042293295",
@@ -53,7 +53,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lkomlr9h6h7g14",
       "url": "https://s.shopee.com.br/1qd8arwCbV",
       "rating": 4.9,
-      "salesCount": 2385,
+      "salesCount": 2397,
       "seller": "Bordados e Corte a Laser",
       "category": "Presentes e papelaria"
     },
@@ -140,7 +140,7 @@
       "url": "https://s.shopee.com.br/80DlwCHGS7",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 3264,
+      "salesCount": 3290,
       "official": true,
       "seller": "Adora ",
       "category": "Pet e bebê"
@@ -155,7 +155,7 @@
       "url": "https://s.shopee.com.br/5LD0lHwY7S",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 3578,
+      "salesCount": 3608,
       "official": true,
       "seller": "Clea Oficial",
       "category": "Moda"
@@ -225,7 +225,7 @@
       "url": "https://s.shopee.com.br/6L5Xx8AChV",
       "hasVariantPrices": true,
       "rating": 4.7,
-      "salesCount": 3350,
+      "salesCount": 3342,
       "seller": "Ventura_Imports_",
       "category": "Moda"
     },
@@ -282,7 +282,7 @@
       "url": "https://s.shopee.com.br/1141bKqdwd",
       "hasVariantPrices": true,
       "rating": 4.5,
-      "salesCount": 1249,
+      "salesCount": 1243,
       "seller": "BIG MO",
       "category": "Pet e bebê"
     },
@@ -295,7 +295,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moe991hva9z909",
       "url": "https://s.shopee.com.br/6Am4qyIoVB",
       "rating": 4.8,
-      "salesCount": 1327,
+      "salesCount": 1500,
       "official": true,
       "seller": "Adora ",
       "category": "Casa e organização"
@@ -408,7 +408,7 @@
       "url": "https://s.shopee.com.br/gRBsFLHdJ",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 5834,
+      "salesCount": 5854,
       "seller": "INFINITY COMERCIO DE VARIEDADES",
       "category": "Casa e organização"
     },
@@ -505,7 +505,7 @@
       "url": "https://s.shopee.com.br/80Dmbj6UoB",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 2374,
+      "salesCount": 2403,
       "seller": "Watersy Oficial",
       "category": "Cozinha"
     },
@@ -643,7 +643,7 @@
       "url": "https://s.shopee.com.br/5LD0lI5DBE",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 3388,
+      "salesCount": 3486,
       "seller": "Mabi Shoes",
       "category": "Moda"
     },
@@ -671,7 +671,7 @@
       "url": "https://s.shopee.com.br/2VspO3U4c5",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 2407,
+      "salesCount": 2461,
       "seller": "Vida Criativa ",
       "category": "Casa e organização"
     },
@@ -685,7 +685,7 @@
       "url": "https://s.shopee.com.br/2LZPBkvFBz",
       "hasVariantPrices": true,
       "rating": 4.5,
-      "salesCount": 3320,
+      "salesCount": 3317,
       "seller": "OmniStore",
       "category": "Eletrônicos"
     },
@@ -698,7 +698,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259m-mu4940kjo7phc5",
       "url": "https://s.shopee.com.br/qkbP14oUs",
       "rating": 4.6,
-      "salesCount": 1123,
+      "salesCount": 1112,
       "seller": "INFINITY COMERCIO DE VARIEDADES",
       "category": "Moda"
     },
@@ -738,7 +738,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mtgx7f7kk0le5a",
       "url": "https://s.shopee.com.br/50aAMdlMLC",
       "rating": 4.9,
-      "salesCount": 1573,
+      "salesCount": 1570,
       "official": true,
       "seller": "Dark Lab Oficial",
       "category": "Cozinha"
@@ -969,7 +969,7 @@
       "url": "https://s.shopee.com.br/8pmq1pVwQU",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 5425,
+      "salesCount": 5322,
       "seller": "Bem Viver",
       "category": "Beleza"
     },
@@ -1008,7 +1008,6 @@
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-ms5l9in9msqt7f",
       "url": "https://s.shopee.com.br/gRBCg6OMy",
-      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 3794,
       "seller": "Fonte Boa Casa",
@@ -1052,7 +1051,7 @@
       "url": "https://s.shopee.com.br/40hdAqWHo0",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 2615,
+      "salesCount": 2698,
       "seller": "Newpet - marca",
       "category": "Pet e bebê"
     },
@@ -1107,7 +1106,7 @@
       "url": "https://s.shopee.com.br/60ShYVGHC3",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 828,
+      "salesCount": 840,
       "seller": "Valorosa Beauty Hair",
       "category": "Beleza"
     },
@@ -1134,7 +1133,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82587-ms5zredgjn5zb1",
       "url": "https://s.shopee.com.br/4VdtlkHaVb",
       "rating": 4.8,
-      "salesCount": 2129,
+      "salesCount": 2271,
       "seller": "COCOKA",
       "category": "Beleza"
     },
@@ -1188,7 +1187,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh29sd72kb9ja1",
       "url": "https://s.shopee.com.br/BUubo2XzL",
       "rating": 4.9,
-      "salesCount": 1865,
+      "salesCount": 1878,
       "seller": "3XZ STORE",
       "category": "Presentes e papelaria"
     },
@@ -1214,7 +1213,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mqsk7tk8nbwiae",
       "url": "https://s.shopee.com.br/6fiOLkDTJi",
       "rating": 4.7,
-      "salesCount": 3247,
+      "salesCount": 3285,
       "seller": "Meu Bebê Kids",
       "category": "Pet e bebê"
     },
@@ -1281,7 +1280,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mq5h5h1rfkeaf1",
       "url": "https://s.shopee.com.br/8pmsvi9xaC",
       "rating": 4.9,
-      "salesCount": 2288,
+      "salesCount": 2294,
       "seller": "Bela Beleza Oficial",
       "category": "Beleza"
     },
@@ -1487,7 +1486,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mtyo4j6tavpc3f",
       "url": "https://s.shopee.com.br/3LRwNdCQA5",
       "rating": 4.9,
-      "salesCount": 1361,
+      "salesCount": 1394,
       "seller": "LY STORE OFICIAL",
       "category": "Casa e organização"
     },
@@ -1527,7 +1526,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-moa3sgm6molj9c",
       "url": "https://s.shopee.com.br/8VA2X5kpSy",
       "rating": 4.9,
-      "salesCount": 805,
+      "salesCount": 809,
       "seller": "Super Vida_BR",
       "category": "Eletrônicos"
     },
@@ -1607,7 +1606,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825ai-mr9pynhmd43k22",
       "url": "https://s.shopee.com.br/4VdqrrmMvp",
       "rating": 5,
-      "salesCount": 16539,
+      "salesCount": 16762,
       "official": true,
       "seller": "koksara.kbeauty",
       "category": "Beleza"
@@ -1622,7 +1621,7 @@
       "url": "https://s.shopee.com.br/3qOA4gaUoR",
       "hasVariantPrices": true,
       "rating": 4.6,
-      "salesCount": 1838,
+      "salesCount": 1949,
       "seller": "Casa Encanto - Lar Completo",
       "category": "Casa e organização"
     },
@@ -1759,7 +1758,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdmsrbntex15d7",
       "url": "https://s.shopee.com.br/5VWSHubdYP",
       "rating": 4.9,
-      "salesCount": 2042,
+      "salesCount": 2094,
       "seller": "TRADENO ECOMERCE",
       "category": "Eletrônicos"
     },
@@ -1841,7 +1840,7 @@
       "url": "https://s.shopee.com.br/7Ky58y6Ofb",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 3661,
+      "salesCount": 3753,
       "seller": "Femme Lamour",
       "category": "Moda"
     },
@@ -1855,7 +1854,7 @@
       "url": "https://s.shopee.com.br/8fTSjQ1JyF",
       "hasVariantPrices": true,
       "rating": 4.7,
-      "salesCount": 2094,
+      "salesCount": 2138,
       "seller": "Thalinda Lingerie Moda",
       "category": "Moda"
     },
@@ -1896,7 +1895,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mlm9f6twpjph48",
       "url": "https://s.shopee.com.br/1W0ICEXTes",
       "rating": 4.9,
-      "salesCount": 2715,
+      "salesCount": 2752,
       "seller": "Bela Beleza Oficial",
       "category": "Beleza"
     },
@@ -1937,7 +1936,7 @@
       "url": "https://s.shopee.com.br/5AtaYwkj0F",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1608,
+      "salesCount": 1586,
       "seller": "Nemesis Shop",
       "category": "Cozinha"
     },
@@ -2048,7 +2047,7 @@
       "url": "https://s.shopee.com.br/2gCFaMcJ6Y",
       "hasVariantPrices": true,
       "rating": 4.7,
-      "salesCount": 3794,
+      "salesCount": 3836,
       "seller": "Chaicommerce",
       "category": "Casa e organização"
     },
@@ -2074,7 +2073,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258o-msbwr4svgah18a",
       "url": "https://s.shopee.com.br/1qd8aqWHIV",
       "rating": 4.9,
-      "salesCount": 1702,
+      "salesCount": 1707,
       "official": true,
       "seller": "Salon Line",
       "category": "Beleza"
@@ -2204,7 +2203,7 @@
       "url": "https://s.shopee.com.br/4fxLKiVfEo",
       "hasVariantPrices": true,
       "rating": 4.7,
-      "salesCount": 685,
+      "salesCount": 714,
       "seller": "LARUNO",
       "category": "Casa e organização"
     },
@@ -2245,7 +2244,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mq80n6l4qkub32",
       "url": "https://s.shopee.com.br/1W0ICEbsSV",
       "rating": 4.9,
-      "salesCount": 4369,
+      "salesCount": 4452,
       "official": true,
       "seller": "Salon Line",
       "category": "Beleza"
@@ -2259,7 +2258,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb9py64wpadf5",
       "url": "https://s.shopee.com.br/8AXC8kapcm",
       "rating": 4.8,
-      "salesCount": 3530,
+      "salesCount": 3523,
       "seller": "Atletyca Oficial",
       "category": "Moda"
     },
@@ -2286,7 +2285,7 @@
       "url": "https://s.shopee.com.br/3VlMZsI0Zh",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1003,
+      "salesCount": 1041,
       "seller": "Bem Viver",
       "category": "Beleza"
     },
@@ -2312,7 +2311,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me8wwjjliw3m30",
       "url": "https://s.shopee.com.br/6q1psPIDZO",
       "rating": 4.9,
-      "salesCount": 2150,
+      "salesCount": 2138,
       "official": true,
       "seller": "PINK URBAN",
       "category": "Moda"
@@ -2327,7 +2326,7 @@
       "url": "https://s.shopee.com.br/906GEAulAN",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 4830,
+      "salesCount": 4925,
       "official": true,
       "seller": "Hidrabene ",
       "category": "Beleza"
@@ -2356,7 +2355,7 @@
       "url": "https://s.shopee.com.br/2VsqiQDKK1",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 266,
+      "salesCount": 271,
       "seller": "SEA & LAR",
       "category": "Casa e organização"
     },
@@ -2385,7 +2384,7 @@
       "url": "https://s.shopee.com.br/1LgrzxK2Dt",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 581,
+      "salesCount": 596,
       "seller": "LojaZini",
       "category": "Casa e organização"
     },
@@ -2399,7 +2398,7 @@
       "url": "https://s.shopee.com.br/5VWQxbHugd",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 2910,
+      "salesCount": 2913,
       "seller": "GRUPO HH BABY Loja 1",
       "category": "Pet e bebê"
     },
@@ -2468,7 +2467,7 @@
       "url": "https://s.shopee.com.br/2VsmWPzplp",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 1936,
+      "salesCount": 1978,
       "seller": "Inovar Top",
       "category": "Cozinha"
     },
@@ -2496,7 +2495,7 @@
       "url": "https://s.shopee.com.br/qkbOyAM70",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 391,
+      "salesCount": 390,
       "official": true,
       "seller": "Bettdow",
       "category": "Eletrônicos"
@@ -2551,7 +2550,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mboal9oylp5z08",
       "url": "https://s.shopee.com.br/7puLjt0AAU",
       "rating": 4.9,
-      "salesCount": 3595,
+      "salesCount": 3569,
       "official": true,
       "seller": "UP UNDERWEAR",
       "category": "Moda"
@@ -2565,7 +2564,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-23020-g46s4cjwjtnv79",
       "url": "https://s.shopee.com.br/AUv6umq0lG",
       "rating": 4.8,
-      "salesCount": 2456,
+      "salesCount": 2474,
       "official": true,
       "seller": "UP UNDERWEAR",
       "category": "Moda"
@@ -2593,7 +2592,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mrvgs50iy8zr1f",
       "url": "https://s.shopee.com.br/BUrhu2rj9",
       "rating": 4.9,
-      "salesCount": 7287,
+      "salesCount": 7177,
       "official": true,
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza"
@@ -2607,7 +2606,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mq3n8g0o1ama14",
       "url": "https://s.shopee.com.br/70LEkLPsNp",
       "rating": 4.9,
-      "salesCount": 5716,
+      "salesCount": 5684,
       "official": true,
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza"
@@ -2636,7 +2635,7 @@
       "url": "https://s.shopee.com.br/50aB2DHutt",
       "hasVariantPrices": true,
       "rating": 4.7,
-      "salesCount": 1160,
+      "salesCount": 1194,
       "seller": "Lucky1 shop",
       "category": "Cozinha"
     },
@@ -2663,7 +2662,7 @@
       "url": "https://s.shopee.com.br/30p5z0wIVu",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1648,
+      "salesCount": 1668,
       "seller": "INKY GRAF",
       "category": "Presentes e papelaria"
     },
@@ -2692,7 +2691,7 @@
       "url": "https://s.shopee.com.br/1W0JWacvRW",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 686,
+      "salesCount": 666,
       "seller": "FR-SHOP",
       "category": "Eletrônicos"
     },
@@ -2899,7 +2898,7 @@
       "url": "https://s.shopee.com.br/2BFyzSM8kA",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 1802,
+      "salesCount": 1748,
       "seller": "Vitrine360",
       "category": "Beleza"
     },
@@ -3024,21 +3023,8 @@
       "url": "https://s.shopee.com.br/30p5yyAVGU",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 343,
+      "salesCount": 351,
       "seller": "paico006.br",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23493930815",
-      "title": "Escova De Limpeza 9 Em 1  Elétrica Giratória Com Cabo Alongador",
-      "price": 65.08,
-      "originalPrice": 180.78,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj5cubo7uz29de",
-      "url": "https://s.shopee.com.br/2gCFaMcEqU",
-      "rating": 4.8,
-      "salesCount": 5359,
-      "seller": "KOBAC SHOP",
       "category": "Casa e organização"
     },
     {
@@ -3091,7 +3077,7 @@
       "url": "https://s.shopee.com.br/AKbgiULVnX",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 1716,
+      "salesCount": 1749,
       "seller": "Terra Celestial",
       "category": "Ferramentas"
     },
@@ -3177,6 +3163,19 @@
       "category": "Presentes e papelaria"
     },
     {
+      "id": "23493930815",
+      "title": "Escova De Limpeza 9 Em 1  Elétrica Giratória Com Cabo Alongador",
+      "price": 65.99,
+      "originalPrice": 178.35,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj5cubo7uz29de",
+      "url": "https://s.shopee.com.br/2gCFaMcEqU",
+      "rating": 4.8,
+      "salesCount": 5510,
+      "seller": "KOBAC SHOP",
+      "category": "Casa e organização"
+    },
+    {
       "id": "41022402072",
       "title": "2026 Smartwatch Original S10 Pro 38mm/45mm Unissex - Chamadas via Bluetooth Esportivo Teste de pressão arterial",
       "price": 39.99,
@@ -3214,7 +3213,7 @@
       "url": "https://s.shopee.com.br/5LD0lIRD68",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 3659,
+      "salesCount": 3756,
       "seller": "RELVA GROUP",
       "category": "Pet e bebê"
     },
@@ -3254,7 +3253,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82615-mjn9nvrtnlzb2e",
       "url": "https://s.shopee.com.br/1141bI0eeI",
       "rating": 5,
-      "salesCount": 1286,
+      "salesCount": 1310,
       "seller": "WGECOMM",
       "category": "Cozinha"
     },
@@ -3336,7 +3335,7 @@
       "url": "https://s.shopee.com.br/9pfQ7VG5vs",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 779,
+      "salesCount": 783,
       "seller": "Pague Pouco $",
       "category": "Cozinha"
     },
@@ -3448,7 +3447,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mlnjovwekr2dd2",
       "url": "https://s.shopee.com.br/8AXC8UUEWA",
       "rating": 4.7,
-      "salesCount": 1666,
+      "salesCount": 1697,
       "seller": "HÍTOR COSMÉTICOS",
       "category": "Beleza"
     },
@@ -3610,7 +3609,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma4a9lk265xd0c",
       "url": "https://s.shopee.com.br/BUubmgxAN",
       "rating": 4.9,
-      "salesCount": 2894,
+      "salesCount": 2968,
       "seller": "Bela Beleza Oficial",
       "category": "Beleza"
     },
@@ -3718,7 +3717,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me5qca5qgmip9a",
       "url": "https://s.shopee.com.br/2BFzf0fpjm",
       "rating": 4.7,
-      "salesCount": 294,
+      "salesCount": 301,
       "seller": "Ecolume ",
       "category": "Presentes e papelaria"
     },
@@ -3787,7 +3786,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mt9opk529wqoce",
       "url": "https://s.shopee.com.br/AUv40wSeAd",
       "rating": 4.9,
-      "salesCount": 1549,
+      "salesCount": 1593,
       "seller": "Mirano Comércio",
       "category": "Casa e organização"
     },
@@ -3854,7 +3853,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf8xadwk2a6fb8",
       "url": "https://s.shopee.com.br/9pfQ7YfPzB",
       "rating": 4.8,
-      "salesCount": 3024,
+      "salesCount": 3091,
       "seller": "M & M Moda",
       "category": "Moda"
     },
@@ -3937,7 +3936,7 @@
       "url": "https://s.shopee.com.br/60ShYUyg5l",
       "hasVariantPrices": true,
       "rating": 4.7,
-      "salesCount": 1474,
+      "salesCount": 1514,
       "seller": "Rosa Tropical",
       "category": "Beleza"
     },
@@ -3964,7 +3963,7 @@
       "url": "https://s.shopee.com.br/9APkeh9Kq8",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1291,
+      "salesCount": 1304,
       "seller": "Live Again",
       "category": "Moda"
     },
@@ -3977,7 +3976,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-man68bkisdfd5a",
       "url": "https://s.shopee.com.br/W7mKlgKQm",
       "rating": 4.9,
-      "salesCount": 2207,
+      "salesCount": 2247,
       "seller": "Mig Rouparia",
       "category": "Moda"
     },
@@ -4032,7 +4031,7 @@
       "url": "https://s.shopee.com.br/9zynQ18YFA",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 2820,
+      "salesCount": 2780,
       "seller": "Amy.Store",
       "category": "Moda"
     },
@@ -4046,7 +4045,7 @@
       "url": "https://s.shopee.com.br/8KqZQxatZO",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 1991,
+      "salesCount": 1895,
       "seller": "Outside The Boxx",
       "category": "Casa e organização"
     },
