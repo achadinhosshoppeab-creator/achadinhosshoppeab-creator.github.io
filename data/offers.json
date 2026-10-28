@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T00:20:29.960Z",
+  "updatedAt": "2026-10-28T00:41:19.400Z",
   "offers": [
     {
       "id": "20042293295",
@@ -88,19 +88,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "23298321304",
-      "title": "Kit Combo Cachos Perfeitos Shampoo Condicionador e Máscara Hidratante Ativador de cachos 3x300g",
-      "price": 24.99,
-      "originalPrice": 104.13,
-      "discountPercent": 76,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7fxnbiqdmq2d5",
-      "url": "https://s.shopee.com.br/1W0IkhfSC0",
-      "rating": 4.8,
-      "salesCount": 639,
-      "seller": "lindaleycosmeticos",
-      "category": "Beleza"
-    },
-    {
       "id": "23693001909",
       "title": "Perfume Masculino Feelin Impulse For Him Deo Colônia Hinode 100ml",
       "price": 62.97,
@@ -143,6 +130,20 @@
       "official": true,
       "seller": "Adora ",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "21640099105",
+      "title": "10/24/48 KIT Mini Lanterna Led Tática Portátil Para Uso Ao Ar Livre Trilha Camping Lazer, Mini Lanterna Infantil",
+      "price": 18.99,
+      "originalPrice": 51.32,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mleasjzimlfpb2",
+      "url": "https://s.shopee.com.br/7Ky2F8R6BB",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 2231,
+      "seller": "P&H  Oficial",
+      "category": "Ferramentas"
     },
     {
       "id": "23524387565",
@@ -717,6 +718,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23793002206",
+      "title": "Perfume Masculino Spot Sunset Hinode Deo Colônia HINODE 75ml",
+      "price": 79.95,
+      "originalPrice": 159.9,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mspk5rklqrrbf5",
+      "url": "https://s.shopee.com.br/5q9Hw3gsOb",
+      "rating": 4.9,
+      "salesCount": 592,
+      "official": true,
+      "seller": "Hinode ",
+      "category": "Beleza"
+    },
+    {
       "id": "26734497572",
       "title": "Coqueteleira Fuse com Rede 700ml Preta - Dark Lab",
       "price": 19.9,
@@ -850,20 +865,6 @@
       "salesCount": 880,
       "seller": "Nova Link",
       "category": "Cozinha"
-    },
-    {
-      "id": "18240846440",
-      "title": "KIT 10/20/30 Estojo Multiuso Bolsinha Nylon Papelaria Colorido Necessaire 13 X 23CM Estojos de Lápis Equipamento Escolar",
-      "price": 24.99,
-      "originalPrice": 53.17,
-      "discountPercent": 53,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259d-mtai9235voqoda",
-      "url": "https://s.shopee.com.br/3qOCyUGjtn",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1290,
-      "seller": "BIG MO",
-      "category": "Beleza"
     },
     {
       "id": "58214695707",
@@ -1331,20 +1332,6 @@
       "category": "Ferramentas"
     },
     {
-      "id": "58258307172",
-      "title": "Calça Jeans Feminina Capri Tecido Leve Cintura Alta",
-      "price": 58.89,
-      "originalPrice": 151,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mmqizemhsxzab5",
-      "url": "https://s.shopee.com.br/9Kj9s0imx5",
-      "rating": 4.8,
-      "salesCount": 3027,
-      "official": true,
-      "seller": "Naraka",
-      "category": "Moda"
-    },
-    {
       "id": "58268341942",
       "title": "Brinquedo Squishy Dumpling Bolinho Fidget Sensorial Antiestresse - Modelos Clássico, Glitter, Bolinhas e Led, de Gel",
       "price": 27.9,
@@ -1427,6 +1414,21 @@
       "category": "Casa e organização"
     },
     {
+      "id": "58202329642",
+      "title": "Popozuda Creme Corporal Termoativo para Estrias e Celulite 200g | Efeito Aquecimento",
+      "price": 79.9,
+      "originalPrice": 159.8,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mu2f856jdx4y80",
+      "url": "https://s.shopee.com.br/6q1oY2QVio",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 5243,
+      "official": true,
+      "seller": "Popozuda Oficial",
+      "category": "Beleza"
+    },
+    {
       "id": "22194675243",
       "title": "Suporte Câmera Babá Eletrônica Universal Para Berço",
       "price": 17.9,
@@ -1478,34 +1480,6 @@
       "salesCount": 1059,
       "seller": "VICTORIA BAZAR EIRELI",
       "category": "Beleza"
-    },
-    {
-      "id": "25248011033",
-      "title": "Bota Feminina Cano Longo Enrugado Salto Bloco Bico Fino Confortável Original",
-      "price": 128,
-      "originalPrice": 209.84,
-      "discountPercent": 39,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mlgfi3ahmsqs7a",
-      "url": "https://s.shopee.com.br/2VspwYO769",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 382,
-      "seller": "MADUDA CALÇADOS",
-      "category": "Moda"
-    },
-    {
-      "id": "21999323729",
-      "title": "Calça Jeans Feminina Cintura Alta Capri Tecido Leve",
-      "price": 57,
-      "originalPrice": 139.02,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxbe1voatqqae1",
-      "url": "https://s.shopee.com.br/8pmtH5kgxm",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 3940,
-      "seller": "ElisJeans",
-      "category": "Moda"
     },
     {
       "id": "58202615709",
@@ -1615,6 +1589,19 @@
       "salesCount": 5221,
       "official": true,
       "seller": "Primacial",
+      "category": "Beleza"
+    },
+    {
+      "id": "23297675010",
+      "title": "Chapinha Modelador Portátil para Cabelo e Barba Masculino com Pente",
+      "price": 19,
+      "originalPrice": 70.37,
+      "discountPercent": 73,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyd2s9jsj7j98f",
+      "url": "https://s.shopee.com.br/9KjA6UcUQn",
+      "rating": 4.6,
+      "salesCount": 419,
+      "seller": "HappyShop_",
       "category": "Beleza"
     },
     {
@@ -1781,20 +1768,6 @@
       "category": "Moda"
     },
     {
-      "id": "50717936391",
-      "title": "Kit Calcinhas Pala Dupla Cintura Alta Segura Barriga July Conforto Premium",
-      "price": 27.95,
-      "originalPrice": 99.82,
-      "discountPercent": 72,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259z-mt7fhx4x7jlyda",
-      "url": "https://s.shopee.com.br/8fTSjQ1JyF",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 2094,
-      "seller": "Thalinda Lingerie Moda",
-      "category": "Moda"
-    },
-    {
       "id": "21034795993",
       "title": "Tapete de Banheiro Antiderrapante Bolinha Macarrão Várias Cores",
       "price": 15.89,
@@ -1945,6 +1918,20 @@
       "salesCount": 1756,
       "seller": "ATITUDE ÚNICA MODA FEMININA",
       "category": "Moda"
+    },
+    {
+      "id": "23499196234",
+      "title": "Parafusadeira Furadeira 21V Sem Escovas Leve e Potente - Kit com 2 Baterias",
+      "price": 115.98,
+      "originalPrice": 399.93,
+      "discountPercent": 71,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-muloto12zlz739",
+      "url": "https://s.shopee.com.br/7puMJnOz76",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 474,
+      "seller": "ECOSEN Pro",
+      "category": "Ferramentas"
     },
     {
       "id": "46860175552",
@@ -2123,6 +2110,20 @@
       "rating": 4.9,
       "salesCount": 10766,
       "seller": "GR MARKET EXPRESS",
+      "category": "Moda"
+    },
+    {
+      "id": "23993394269",
+      "title": "Kit Calcinhas Tanga Algodão Conforto Tanga Básica Cotton Feminina",
+      "price": 29,
+      "originalPrice": 70.73,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk12vp5bubcy10",
+      "url": "https://s.shopee.com.br/8KqcuhsLtw",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 1982,
+      "seller": "Essencial-Lingerie",
       "category": "Moda"
     },
     {
@@ -2361,6 +2362,20 @@
       "salesCount": 3452,
       "official": true,
       "seller": "Hidrabene ",
+      "category": "Beleza"
+    },
+    {
+      "id": "9350390417",
+      "title": "Hidratante Renovador Para Área dos Olhos  Kokeshi Olhos de Gueixa 15g",
+      "price": 25.09,
+      "originalPrice": 36.9,
+      "discountPercent": 32,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mn60bp00ov7kac",
+      "url": "https://s.shopee.com.br/9APjKKHczY",
+      "rating": 4.9,
+      "salesCount": 2404,
+      "official": true,
+      "seller": "KOKESHI OFICIAL",
       "category": "Beleza"
     },
     {
@@ -2710,20 +2725,6 @@
       "category": "Beleza"
     },
     {
-      "id": "58208872077",
-      "title": "mochila grande unissex resistente impermeável notebook alta capacidade com compartimentos ideal trabalho faculdade",
-      "price": 59.9,
-      "originalPrice": 199.67,
-      "discountPercent": 70,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-ms4ydyx58xdy23",
-      "url": "https://s.shopee.com.br/9pfNDivn29",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3795,
-      "seller": "Loja Oficial N&M 1",
-      "category": "Moda"
-    },
-    {
       "id": "57356208902",
       "title": "Palmilha Ortopédica  4D Anatômica Alto Conforto Tênis Sapatos",
       "price": 29.99,
@@ -2765,18 +2766,19 @@
       "category": "Beleza"
     },
     {
-      "id": "19228482092",
-      "title": "Camisa Proteção Solar Uv+50 Camiseta Segunda Pele Térmica Promoção Premium Várias Cores",
-      "price": 19.9,
-      "originalPrice": 39.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/f159bd68cf833fceb1987a12498f06be",
-      "url": "https://s.shopee.com.br/W7lYsZv5F",
+      "id": "23799494458",
+      "title": "Popozuda Clarinha Sérum Clareador Corporal com Niacinamida e Ácido Tranexâmico",
+      "price": 59.9,
+      "originalPrice": 99.83,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mu2i2k24ydc25f",
+      "url": "https://s.shopee.com.br/9pfQ7YF5dc",
       "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1625,
-      "seller": "78 STORE",
-      "category": "Moda"
+      "rating": 4.9,
+      "salesCount": 2626,
+      "official": true,
+      "seller": "Popozuda Oficial",
+      "category": "Beleza"
     },
     {
       "id": "23032999814",
@@ -2877,18 +2879,31 @@
       "category": "Beleza"
     },
     {
-      "id": "22494024377",
-      "title": "Kit Shampoo Pelos Escuros + Condicionador Desembaraçador de Pelos Cães E Gatos - Kit Banho e Tosa",
-      "price": 16.15,
-      "originalPrice": 44.86,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rffj-ma057hl1la5e62",
-      "url": "https://s.shopee.com.br/3VlN8OtVGV",
+      "id": "58253347883",
+      "title": "Bota Feminina Cano Curto Preta Salto Grosso Tratorada Confortável Moda Inverno",
+      "price": 49.9,
+      "originalPrice": 89.11,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjis59nbonib20",
+      "url": "https://s.shopee.com.br/7VHVLGwxkh",
+      "rating": 4.8,
+      "salesCount": 871,
+      "seller": "ENCAST CONTRY GIRL",
+      "category": "Moda"
+    },
+    {
+      "id": "58200790435",
+      "title": "[ Sutia Adesivo Manga Invisivel Levanta ] Peitos Seio Push Up Silicone Ajustável",
+      "price": 19.89,
+      "originalPrice": 35.52,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhaf8nsypn9c11",
+      "url": "https://s.shopee.com.br/3VlN9pAcGG",
       "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 269,
-      "seller": "Mimora Casa & Pets",
-      "category": "Pet e bebê"
+      "rating": 4.8,
+      "salesCount": 196,
+      "seller": "FLUVI",
+      "category": "Moda"
     },
     {
       "id": "23494419761",
@@ -3094,20 +3109,6 @@
       "salesCount": 808,
       "seller": "LLB COMÉRCIO",
       "category": "Casa e organização"
-    },
-    {
-      "id": "4158008477",
-      "title": "Bota Feminina Lumiss Coturno Tratorado Cano Curto Plataforma Retro Blogueira Confort",
-      "price": 99.9,
-      "originalPrice": 161.13,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lt730lv8158400",
-      "url": "https://s.shopee.com.br/1gJix1RHn2",
-      "rating": 4.9,
-      "salesCount": 352,
-      "official": true,
-      "seller": "Lumiss",
-      "category": "Moda"
     },
     {
       "id": "23535003648",
@@ -3450,20 +3451,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "57902938444",
-      "title": "Kit De Varinha Mágica De Bolha De Fumaça LED Com Luvas | Conjunto De Brinquedos Coloridos Luz E Efeito Visual",
-      "price": 38.9,
-      "originalPrice": 99.74,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mivgl21mmq6d10",
-      "url": "https://s.shopee.com.br/60SeegWJRX",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 5561,
-      "seller": "Vida Colorida",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "58205085045",
       "title": "Lixeira 13 Litros Abertura por Pedal Preta Quadrada",
       "price": 27.9,
@@ -3545,6 +3532,19 @@
       "salesCount": 431,
       "seller": "DBL LINGERIE",
       "category": "Moda"
+    },
+    {
+      "id": "48861519149",
+      "title": "Kit 2 Frascos Shampoo e Condicionador 500ml PET Âmbar com Válvula Pump | Dispenser para Banheiro",
+      "price": 22.9,
+      "originalPrice": 58.72,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ao-mr2fw46k7j0sa1",
+      "url": "https://s.shopee.com.br/2gCFaOftqs",
+      "rating": 4.9,
+      "salesCount": 455,
+      "seller": "Dona Belezza",
+      "category": "Pet e bebê"
     },
     {
       "id": "16478390649",
@@ -3738,19 +3738,6 @@
       "category": "Eletrônicos"
     },
     {
-      "id": "58262746825",
-      "title": "Guarda-Chuva Automático Anti-Vento com Lanterna Proteção UV Blackout Compacto para Bolsa e Mochila",
-      "price": 34,
-      "originalPrice": 85,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mqo88pve6q6bd7",
-      "url": "https://s.shopee.com.br/2BFyzQN15B",
-      "rating": 4.9,
-      "salesCount": 1756,
-      "seller": "Baby Import Shop Br",
-      "category": "Moda"
-    },
-    {
       "id": "23599241533",
       "title": "Tênis Masculino Running Academia Esportivo Corrida Caminhada Anti Impacto Respirável Macio Ultra Leve",
       "price": 39.9,
@@ -3886,33 +3873,6 @@
       "category": "Moda"
     },
     {
-      "id": "23298142175",
-      "title": "Calça Jeans Feminina Wide Leg Pantalona Grafite Marmorizada Cintura Alta 34 ao 44",
-      "price": 59.99,
-      "originalPrice": 199.97,
-      "discountPercent": 70,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mrmcbc9uji1068",
-      "url": "https://s.shopee.com.br/7puM5FoUzw",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2153,
-      "seller": "AfonteSP - Moda Em Marketplaces",
-      "category": "Moda"
-    },
-    {
-      "id": "22593964805",
-      "title": "Camisa Social Tecnológica Slim Fit Anti-Transpirante Ante Odor E Não Amassa - Não é Poliéster",
-      "price": 69.95,
-      "originalPrice": 139.9,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfgb-m9d995lpwowl15",
-      "url": "https://s.shopee.com.br/11429nY14O",
-      "rating": 4.8,
-      "salesCount": 2176,
-      "seller": "ALAN.FONTE.888",
-      "category": "Moda"
-    },
-    {
       "id": "23298481880",
       "title": "Kit 6 Calcinhas Feminina Conforto Tanga Biquíni Confortável Com Forro Algodão Básica Dia a Dia",
       "price": 19,
@@ -3924,20 +3884,6 @@
       "salesCount": 3482,
       "seller": "Mit Lingerie",
       "category": "Moda"
-    },
-    {
-      "id": "23299132057",
-      "title": "Arranhador Parede Gato Sisal Poste Brinquedo Pet PetZando",
-      "price": 29.99,
-      "originalPrice": 54.53,
-      "discountPercent": 45,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821fv-mgpf4akmawb0b0",
-      "url": "https://s.shopee.com.br/qkbxUz386",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 543,
-      "seller": "PETZANDO",
-      "category": "Pet e bebê"
     },
     {
       "id": "18597787721",
@@ -4129,6 +4075,63 @@
       "salesCount": 2019,
       "seller": "JX VERDE",
       "category": "Casa e organização"
+    },
+    {
+      "id": "23092951296",
+      "title": "Fones de ouvido Bluetooth 5.3 com cancelamento de ruído à prova d'água IPX5 da BETTDOW com microfone integrado",
+      "price": 40,
+      "originalPrice": 95.24,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lv5t7hdbdzmle6",
+      "url": "https://s.shopee.com.br/5LD0lGo5M2",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2524,
+      "official": true,
+      "seller": "Bettdow",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "58254155069",
+      "title": "Kit com 3 Máscaras SOS Hidratação: Ultra Cachos + Turbinada + Bio-Reconstrução Salon Line",
+      "price": 58.7,
+      "originalPrice": 87.61,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mqwa2dkewfevd5",
+      "url": "https://s.shopee.com.br/2gCFaNXMmD",
+      "rating": 4.9,
+      "salesCount": 1574,
+      "official": true,
+      "seller": "Salon Line",
+      "category": "Beleza"
+    },
+    {
+      "id": "23699308150",
+      "title": "Kit com 2 Shampoos e 2 Condicionadores Hidra + Máscara SOS Hidratação Bio-Reconstrução Salon Line",
+      "price": 49.25,
+      "originalPrice": 73.51,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjztfyh5h05ded",
+      "url": "https://s.shopee.com.br/1141bJdiA7",
+      "rating": 4.9,
+      "salesCount": 1130,
+      "official": true,
+      "seller": "Salon Line",
+      "category": "Beleza"
+    },
+    {
+      "id": "22094841996",
+      "title": "Bota Feminina Chelsea/Bag/Militar Promoção Não Perca Oferta",
+      "price": 51.94,
+      "originalPrice": 110.51,
+      "discountPercent": 53,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjnhq3dyoqv729",
+      "url": "https://s.shopee.com.br/W7l0PNbxl",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 467,
+      "seller": "ECShoes",
+      "category": "Moda"
     }
   ]
 }
