@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T20:37:30.799Z",
+  "updatedAt": "2026-10-28T20:58:25.854Z",
   "offers": [
     {
       "id": "20042293295",
@@ -1008,6 +1008,7 @@
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-ms5l9in9msqt7f",
       "url": "https://s.shopee.com.br/gRBCg6OMy",
+      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 4184,
       "seller": "Fonte Boa Casa",
@@ -1626,20 +1627,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "22499056874",
-      "title": "Smartwatch MINI 38MM PRO Com monitor De Frequência Cardíaca Do Computador São Paulo pronta entrega",
-      "price": 53.99,
-      "originalPrice": 199.96,
-      "discountPercent": 73,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg4sqr0e5nggcd",
-      "url": "https://s.shopee.com.br/5LD2fIFkqC",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1776,
-      "seller": "Os produtos preferidos",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "18799900509",
       "title": "T900 Ultra Smartwatch Relógio Inteligente Prova Bluetooth Monitoramento De Saúde Exercício Contagem NFC",
       "price": 39.9,
@@ -1679,6 +1666,20 @@
       "official": true,
       "seller": "Primacial",
       "category": "Beleza"
+    },
+    {
+      "id": "22499056874",
+      "title": "Smartwatch MINI 38MM PRO Com monitor De Frequência Cardíaca Do Computador São Paulo pronta entrega",
+      "price": 53.99,
+      "originalPrice": 199.96,
+      "discountPercent": 73,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg4sqr0e5nggcd",
+      "url": "https://s.shopee.com.br/5LD2fIFkqC",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1776,
+      "seller": "Os produtos preferidos",
+      "category": "Eletrônicos"
     },
     {
       "id": "23098550947",
@@ -3218,6 +3219,20 @@
       "category": "Presentes e papelaria"
     },
     {
+      "id": "23399193375",
+      "title": "2026 T800 Ultra 3 MAX Mais Recente Smartwatch Relógio Inteligente NFC Série 10 2.19Polegadas Sem Fio",
+      "price": 39.8,
+      "originalPrice": 147.41,
+      "discountPercent": 73,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhq4f2lhz40397",
+      "url": "https://s.shopee.com.br/qkdKSRja0",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 950,
+      "seller": "LUNANA Shop",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "20098202552",
       "title": "Cadeira Gamer Ergonômica - Escritório, Casa e Universitário com Reclinação e Altura Ajustável-F19",
       "price": 403.95,
@@ -3789,20 +3804,6 @@
       "salesCount": 880,
       "seller": "Mirano Comércio",
       "category": "Casa e organização"
-    },
-    {
-      "id": "22694681619",
-      "title": "Electro Nest Adaptador Conversor OTG Cabo Tipo-C Para Lightning ZHQ-25 ZHQ-26",
-      "price": 15.98,
-      "originalPrice": 39.95,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgvxm22rpgqtf1",
-      "url": "https://s.shopee.com.br/2VsrI5QGVN",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 1640,
-      "seller": "Electro Nest",
-      "category": "Eletrônicos"
     },
     {
       "id": "58262746825",
