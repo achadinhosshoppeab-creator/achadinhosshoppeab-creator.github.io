@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T19:56:04.620Z",
+  "updatedAt": "2026-10-28T20:16:51.124Z",
   "offers": [
     {
       "id": "20042293295",
@@ -158,20 +158,6 @@
       "salesCount": 3608,
       "official": true,
       "seller": "Clea Oficial",
-      "category": "Moda"
-    },
-    {
-      "id": "18598298511",
-      "title": "Mochila Térmica Grande Capacidade Cooler Portátil Piquenique Quente Frio Não colocar gelo ou água",
-      "price": 36.95,
-      "originalPrice": 99.86,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mristuh3mmth64",
-      "url": "https://s.shopee.com.br/7faxOjhAit",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1545,
-      "seller": "DeinShop",
       "category": "Moda"
     },
     {
@@ -342,6 +328,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "22894519217",
+      "title": "Kit de Calcinhas Fio Duplo Levanta Bumbum Fio Dental Confortável Forro em Algodão Sensual",
+      "price": 29.3,
+      "originalPrice": 117.2,
+      "discountPercent": 75,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h7-mfo5xv07vitmdc",
+      "url": "https://s.shopee.com.br/2qVfmhNWnf",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 5451,
+      "seller": "Lumen Lingerie",
+      "category": "Moda"
+    },
+    {
       "id": "58252737415",
       "title": "Sacola Organizadora A4/A5/A6 Kit 3/5/10 Para Peças Lego Quebra-Cabeça Papéis e Maquiagem - Armazene Tudo",
       "price": 17.99,
@@ -424,20 +424,6 @@
       "salesCount": 1976,
       "seller": "NEW WORD MAGAZINE",
       "category": "Casa e organização"
-    },
-    {
-      "id": "23998874515",
-      "title": "Perfume Masculino Miniatura Empire Deo Colônia 25ml",
-      "price": 32.96,
-      "originalPrice": 74.91,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mspkcyvxbmkkae",
-      "url": "https://s.shopee.com.br/5LD2cRceQJ",
-      "rating": 4.9,
-      "salesCount": 608,
-      "official": true,
-      "seller": "Hinode ",
-      "category": "Beleza"
     },
     {
       "id": "18599096400",
@@ -974,20 +960,6 @@
       "category": "Moda"
     },
     {
-      "id": "4893739569",
-      "title": "Kit 10 Calcinhas de Algodão Feminina Adulto Tanga Lisas Cos Largo",
-      "price": 42.13,
-      "originalPrice": 79.49,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mn9e150092bo66",
-      "url": "https://s.shopee.com.br/6fiQCwoAOW",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2017,
-      "seller": "AMD Comércio",
-      "category": "Moda"
-    },
-    {
       "id": "58201617917",
       "title": "Kit 50/100 Peças Grampos De Cabelo Estrela Dopamina Cor Doce Para Mulheres，ModaPresilhas Laterais",
       "price": 15.99,
@@ -1036,6 +1008,7 @@
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-ms5l9in9msqt7f",
       "url": "https://s.shopee.com.br/gRBCg6OMy",
+      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 4184,
       "seller": "Fonte Boa Casa",
@@ -1068,20 +1041,6 @@
       "official": true,
       "seller": "Lumiss",
       "category": "Moda"
-    },
-    {
-      "id": "58212573737",
-      "title": "Tapete Higiênico Cães Carvão Bambu Ativado Aroma Lavanda 30 Unidades Absorvente Anti Odor Tamanho 60x60cm / 80x60cm",
-      "price": 47.41,
-      "originalPrice": 135.46,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mrjuw7udmqdj44",
-      "url": "https://s.shopee.com.br/40hdAqWHo0",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2698,
-      "seller": "Newpet - marca",
-      "category": "Pet e bebê"
     },
     {
       "id": "53465088216",
@@ -1122,6 +1081,20 @@
       "rating": 4.9,
       "salesCount": 1460,
       "seller": "REAL MO",
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "58212573737",
+      "title": "Tapete Higiênico Cães Carvão Bambu Ativado Aroma Lavanda 30 Unidades Absorvente Anti Odor Tamanho 60x60cm / 80x60cm",
+      "price": 47.41,
+      "originalPrice": 135.46,
+      "discountPercent": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mrjuw7udmqdj44",
+      "url": "https://s.shopee.com.br/40hdAqWHo0",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2698,
+      "seller": "Newpet - marca",
       "category": "Pet e bebê"
     },
     {
@@ -1233,6 +1206,19 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "58214519187",
+      "title": "Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão",
+      "price": 45.9,
+      "originalPrice": 109.29,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mqsk7tk8nbwiae",
+      "url": "https://s.shopee.com.br/6fiOLkDTJi",
+      "rating": 4.7,
+      "salesCount": 3285,
+      "seller": "Meu Bebê Kids",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "21071530577",
       "title": "Varal De Chão Roupa Calcinha Grade 3 Andares Dobrável Portátil",
       "price": 79.99,
@@ -1258,19 +1244,6 @@
       "salesCount": 2887,
       "seller": "Dejuule Modas",
       "category": "Moda"
-    },
-    {
-      "id": "58214519187",
-      "title": "Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão",
-      "price": 45.9,
-      "originalPrice": 109.29,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mqsk7tk8nbwiae",
-      "url": "https://s.shopee.com.br/6fiOLkDTJi",
-      "rating": 4.7,
-      "salesCount": 3285,
-      "seller": "Meu Bebê Kids",
-      "category": "Pet e bebê"
     },
     {
       "id": "53462836946",
@@ -1424,19 +1397,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "22093716644",
-      "title": "Kit de Conjunto Facas Coloridas/Pretos Tesoura Descascador Cozinha Gourmet 6 Peças",
-      "price": 23.9,
-      "originalPrice": 79.67,
-      "discountPercent": 70,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcel-m65hf8tzwkwu8a",
-      "url": "https://s.shopee.com.br/4LKQhmsr3U",
-      "rating": 4.7,
-      "salesCount": 883,
-      "seller": "M Flowerr",
-      "category": "Cozinha"
-    },
-    {
       "id": "18297829933",
       "title": "Perfume Grace Midnight Feminino Frasco Antigo Hinode 100ml",
       "price": 101.94,
@@ -1475,6 +1435,20 @@
       "salesCount": 2370,
       "seller": "WM FASHION",
       "category": "Moda"
+    },
+    {
+      "id": "21699552487",
+      "title": "05 Potes de Vidro Hermético Transparente Tampa Bambu Porta Alimentos",
+      "price": 79.9,
+      "originalPrice": 199.75,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mo9xlkk1v092b8",
+      "url": "https://s.shopee.com.br/20wafl1zUN",
+      "rating": 4.9,
+      "salesCount": 1422,
+      "official": true,
+      "seller": "Na Web Group De Marcas",
+      "category": "Casa e organização"
     },
     {
       "id": "20299550104",
@@ -1789,6 +1763,19 @@
       "salesCount": 2094,
       "seller": "TRADENO ECOMERCE",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "43603374213",
+      "title": "Le Parfum AUDACITY masculino 75ml",
+      "price": 33.9,
+      "originalPrice": 70.63,
+      "discountPercent": 52,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mang7plvys9b61",
+      "url": "https://s.shopee.com.br/5LD25bqV8R",
+      "rating": 4.8,
+      "salesCount": 1154,
+      "seller": "Star Parfum",
+      "category": "Beleza"
     },
     {
       "id": "58257345035",
@@ -2195,20 +2182,6 @@
       "category": "Moda"
     },
     {
-      "id": "23993394269",
-      "title": "Kit Calcinhas Tanga Algodão Conforto Tanga Básica Cotton Feminina",
-      "price": 29,
-      "originalPrice": 70.73,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk12vp5bubcy10",
-      "url": "https://s.shopee.com.br/30p7kV43eN",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 2019,
-      "seller": "Essencial-Lingerie",
-      "category": "Moda"
-    },
-    {
       "id": "58250382369",
       "title": "Bolsa De Armazenamento De Ferramentas De Carro Em Feltro Para O Porta-Malas Do Carro",
       "price": 30.9,
@@ -2487,20 +2460,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "18399566099",
-      "title": "Kit Conjunto 19 Pçs De Utensílios Facas Silicone e Plástico Cozinha",
-      "price": 49.58,
-      "originalPrice": 206.58,
-      "discountPercent": 76,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mt9jkg3luqrlad",
-      "url": "https://s.shopee.com.br/2VsmWPzplp",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1978,
-      "seller": "Inovar Top",
-      "category": "Cozinha"
-    },
-    {
       "id": "22393096204",
       "title": "Carregador Super Rápido Turbo 50w / 68w / 125w e 168w Entrada e Saída de Carga Tipo C",
       "price": 19.99,
@@ -2680,21 +2639,6 @@
       "salesCount": 1668,
       "seller": "INKY GRAF",
       "category": "Presentes e papelaria"
-    },
-    {
-      "id": "19099597031",
-      "title": "Belifou Kit 24 Peças Jogo De Talheres Inox Faqueiro Completo Colher Garfo Faca Para Jantar Cozinha Luxo",
-      "price": 37.4,
-      "originalPrice": 106.86,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m8bovalmy7tdb1",
-      "url": "https://s.shopee.com.br/5VWO3kYcUC",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 749,
-      "official": true,
-      "seller": "Belifou Talheres",
-      "category": "Cozinha"
     },
     {
       "id": "58256763000",
@@ -2988,20 +2932,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "22198011069",
-      "title": "Kit Conjunto 19 Pçs De Utensílios Facas Silicone e Plástico Cozinha Jogo Completo Batedeira Colher Pegador",
-      "price": 53.17,
-      "originalPrice": 204.5,
-      "discountPercent": 74,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7renk-m1xc44ie67goa3",
-      "url": "https://s.shopee.com.br/20wVw7Q7jh",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 2241,
-      "seller": "Stephany Top",
-      "category": "Cozinha"
-    },
-    {
       "id": "23499011933",
       "title": "Suporte Magnético 360° Dobrável p/ Celular com Sucção a Vácuo Forte – Carro Mesa Parede",
       "price": 15.86,
@@ -3177,6 +3107,19 @@
       "salesCount": 121,
       "seller": "BRASIL CHAIRS",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "43273031895",
+      "title": "Jogo com 6 Potes Hermético 1,1 Litro Armazenar Alimento Organizar",
+      "price": 57.64,
+      "originalPrice": 80.06,
+      "discountPercent": 28,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfijgskrvkef8e",
+      "url": "https://s.shopee.com.br/2BG0s41M9O",
+      "rating": 4.9,
+      "salesCount": 1419,
+      "seller": "eKing commerce",
+      "category": "Casa e organização"
     },
     {
       "id": "22199198026",
@@ -3355,20 +3298,6 @@
       "category": "Cozinha"
     },
     {
-      "id": "58204197533",
-      "title": "Kit Ate 100 Unidades Garfo Faca Sal Guardanapo Descartavel Embalados Restaurante Delivery Festa",
-      "price": 28.98,
-      "originalPrice": 46,
-      "discountPercent": 37,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820la-mqynwoz58c1x0f",
-      "url": "https://s.shopee.com.br/9pfQ7VG5vs",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 783,
-      "seller": "Pague Pouco $",
-      "category": "Cozinha"
-    },
-    {
       "id": "22194732923",
       "title": "【Sete pulseiras】 Smartwatch S20 PRO MAX Watch Pro Série 10 Bluetooth Relógio inteligente Cardíaca Monitoramento NFC GPS",
       "price": 55.5,
@@ -3507,19 +3436,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "22799040705",
-      "title": "Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna com Palmilha Massageadora",
-      "price": 39.9,
-      "originalPrice": 90.68,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgxpzsodtg5g5e",
-      "url": "https://s.shopee.com.br/7VHX3tOJFt",
-      "rating": 4.8,
-      "salesCount": 1878,
-      "seller": "Ploomer Premium",
-      "category": "Beleza"
-    },
-    {
       "id": "46360468172",
       "title": "Kit 4 Potes Herméticos Tampa Bambu Organizador Mantimentos Cozinha",
       "price": 38.99,
@@ -3572,6 +3488,34 @@
       "salesCount": 1239,
       "seller": "Loja do Abençoado F",
       "category": "Beleza"
+    },
+    {
+      "id": "57902938444",
+      "title": "Kit De Varinha Mágica De Bolha De Fumaça LED Com Luvas | Conjunto De Brinquedos Coloridos Luz E Efeito Visual",
+      "price": 38.9,
+      "originalPrice": 99.74,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mivgl21mmq6d10",
+      "url": "https://s.shopee.com.br/60SeegWJRX",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 5561,
+      "seller": "Vida Colorida",
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "29788820859",
+      "title": "Kit Potes Hermético 200ml De Mantimentos Redondo Com Tampa Bambu",
+      "price": 35.89,
+      "originalPrice": 149.54,
+      "discountPercent": 76,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcc5qkdodujva4",
+      "url": "https://s.shopee.com.br/70LGcwixLl",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 606,
+      "seller": "Gira Casa",
+      "category": "Casa e organização"
     },
     {
       "id": "58205085045",
@@ -3779,20 +3723,6 @@
       "category": "Cozinha"
     },
     {
-      "id": "19999598253",
-      "title": "Tapete Higiênico para Caixa de Areia de Gatos Anti Sujeira Coletor De Areia EVA 70x100 cm - Petliz",
-      "price": 18.9,
-      "originalPrice": 47.25,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgf5deizhcefd3",
-      "url": "https://s.shopee.com.br/1LgrzwgRDk",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2012,
-      "seller": "Loja Leme",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "58259058219",
       "title": "Espelho Mirano Paris 100x40cm Bisotê Grande Moderno Banheiro Lavabo Quarto Parede Decorativo Luxo",
       "price": 99.91,
@@ -3887,17 +3817,16 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "23493485994",
-      "title": "Conjunto Potes Vidro Hermético 640ml Mantimentos Fitness Marmita Alimentos",
-      "price": 29.89,
-      "originalPrice": 74.72,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu1-mky6bhubuzup79",
-      "url": "https://s.shopee.com.br/9zyqJpJSKg",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1830,
-      "seller": "Life Hack Homeware",
+      "id": "58265034822",
+      "title": "Kit 16 Organizadores Modulares para Geladeira Gavetas em  Cristal, Multiuso e Empilháveis -R3",
+      "price": 59.99,
+      "originalPrice": 199.97,
+      "discountPercent": 70,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mr5npt1v3yfbd6",
+      "url": "https://s.shopee.com.br/7puNcTfmey",
+      "rating": 4.8,
+      "salesCount": 418,
+      "seller": "JONALISSA SHOP",
       "category": "Casa e organização"
     },
     {
@@ -4010,6 +3939,33 @@
       "category": "Moda"
     },
     {
+      "id": "23298481880",
+      "title": "Kit 6 Calcinhas Feminina Conforto Tanga Biquíni Confortável Com Forro Algodão Básica Dia a Dia",
+      "price": 19,
+      "originalPrice": 34.55,
+      "discountPercent": 45,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-muamdye9tiioe5",
+      "url": "https://s.shopee.com.br/6Am7kpAq2U",
+      "rating": 4.9,
+      "salesCount": 3414,
+      "seller": "Mit Lingerie",
+      "category": "Moda"
+    },
+    {
+      "id": "19999598253",
+      "title": "Tapete Higiênico para Caixa de Areia de Gatos Anti Sujeira Coletor De Areia EVA 70x100 cm - Petliz",
+      "price": 18.9,
+      "originalPrice": 47.25,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgf5deizhcefd3",
+      "url": "https://s.shopee.com.br/1LgrzwgRDk",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2012,
+      "seller": "Loja Leme",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "18597787721",
       "title": "Mochila Escolar Reforçada Nylon Impermeável Viagem Esportiva",
       "price": 39.9,
@@ -4052,20 +4008,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "22997647570",
-      "title": "Escova secador Modeladora Taiff Oval Easy Pink Original",
-      "price": 164.99,
-      "originalPrice": 458.31,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
-      "url": "https://s.shopee.com.br/9zyqYW7yZy",
-      "rating": 4.9,
-      "salesCount": 674,
-      "official": true,
-      "seller": "Beleza Renovada Oficial",
-      "category": "Beleza"
-    },
-    {
       "id": "58205320938",
       "title": "Kit 3 T-Shirt Algodão 30.1 Comfort Confortavel Estilosa Baby Look Casual Básica Urbana",
       "price": 49.99,
@@ -4091,20 +4033,6 @@
       "salesCount": 617,
       "seller": "Au&Miau Decorações",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "20999381894",
-      "title": "Conjunto 2/3/5/10 Potes 370/640/1040ml Vidro Hermético Mantimentos Marmita Fitness",
-      "price": 27.89,
-      "originalPrice": 68.02,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mpavso8ys2yp67",
-      "url": "https://s.shopee.com.br/1BUPRvWcQ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 8656,
-      "seller": "Life Hack Homeware",
-      "category": "Casa e organização"
     },
     {
       "id": "58263021202",
@@ -4133,6 +4061,74 @@
       "salesCount": 2287,
       "seller": "Choice Oficial",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "58262744158",
+      "title": "Kit Beleza Infantil Maleta Portátil Com Espelho, Maquiagem E Manicure Não Tóxico Presente Aniversário Criança",
+      "price": 72.99,
+      "originalPrice": 178.02,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mplyh232hi4g00",
+      "url": "https://s.shopee.com.br/1W0ICEtTWb",
+      "rating": 4.8,
+      "salesCount": 2130,
+      "seller": "LOUREN_VARIEDADES",
+      "category": "Presentes e papelaria"
+    },
+    {
+      "id": "58258453576",
+      "title": "Suporte Notebook Ergonômico com Cooler – Refrigeração 5V 1000RPM (DELTA-B1122M)",
+      "price": 46.87,
+      "originalPrice": 151.19,
+      "discountPercent": 69,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m2-mqxu3vg4x3ifaa",
+      "url": "https://s.shopee.com.br/9V2ZrUHmbZ",
+      "rating": 4.9,
+      "salesCount": 561,
+      "seller": "NEW SECULO XXI",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "41733456705",
+      "title": "Squishy Halloween Caixa Surpresa Fantasma e Abóbora, Brinquedo Antiestresse Fidget, Presente Criativo",
+      "price": 59.99,
+      "originalPrice": 142.83,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258j-mrqs3p0uf760f5",
+      "url": "https://s.shopee.com.br/1LgsfTVo5i",
+      "rating": 4.5,
+      "salesCount": 447,
+      "seller": "XY Casa & Auto🏡",
+      "category": "Presentes e papelaria"
+    },
+    {
+      "id": "52605012484",
+      "title": "Relógio De Quartzo Da Moda Feminina E Conjunto De Joias Com Pulseira De Couro Sem Caixa Pulso Elegante",
+      "price": 18.05,
+      "originalPrice": 82.05,
+      "discountPercent": 78,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82590-mrlbd6atm51k71",
+      "url": "https://s.shopee.com.br/4LKTZOSIlS",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 850,
+      "seller": "Choice Oficial",
+      "category": "Moda"
+    },
+    {
+      "id": "23593332489",
+      "title": "Espelho Lopazzi Base Reta Corpo Inteiro 170x70 Com Suporte de Chão Moldura Alumínio Quarto Sala Decorativo",
+      "price": 539,
+      "originalPrice": 804.48,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7taq0e5d7ys2c",
+      "url": "https://s.shopee.com.br/2BFw5cyN5G",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 551,
+      "official": true,
+      "seller": "Loja Lopazzi",
+      "category": "Casa e organização"
     }
   ]
 }
