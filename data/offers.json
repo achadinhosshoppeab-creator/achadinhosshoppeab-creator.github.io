@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T18:32:57.177Z",
+  "updatedAt": "2026-10-28T18:53:46.071Z",
   "offers": [
     {
       "id": "20042293295",
@@ -56,20 +56,6 @@
       "salesCount": 2385,
       "seller": "Bordados e Corte a Laser",
       "category": "Presentes e papelaria"
-    },
-    {
-      "id": "52053505547",
-      "title": "Base Em Bastão Que Muda De Cor – Tecnologia Inteligente De Adaptação De Pele , Tudo Um Com Pincel , Cobertura Edificável",
-      "price": 25.47,
-      "originalPrice": 74.91,
-      "discountPercent": 66,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-82263-mhfxxzv2spvsa1",
-      "url": "https://s.shopee.com.br/8VA4IaWOOe",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 425,
-      "seller": "Choice Oficial",
-      "category": "Beleza"
     },
     {
       "id": "41721001761",
@@ -920,20 +906,6 @@
       "category": "Moda"
     },
     {
-      "id": "20999576871",
-      "title": "Kit Calcinha cós alto segura barriga Cinta Modeladora Feminina calcinha cintura alta",
-      "price": 18.9,
-      "originalPrice": 59.06,
-      "discountPercent": 68,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me77g5emtcsg89",
-      "url": "https://s.shopee.com.br/40hewL0Fcf",
-      "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 1784,
-      "seller": "Daffine.Oficial",
-      "category": "Moda"
-    },
-    {
       "id": "29424706558",
       "title": "Bebê Reborn Boneca Realista Bailarina em Vinil Siliconado em Promoção",
       "price": 99.9,
@@ -1026,6 +998,20 @@
       "rating": 4.9,
       "salesCount": 734,
       "seller": "DeinShop",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "53616416772",
+      "title": "Toalha Banhão Gigante E Rosto 100% Algodão Alta Absorção Toque Macio Aveludada Enxuga Bem Wave Habitat",
+      "price": 19.9,
+      "originalPrice": 45.23,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-ms5l9in9msqt7f",
+      "url": "https://s.shopee.com.br/gRBCg6OMy",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 3794,
+      "seller": "Fonte Boa Casa",
       "category": "Casa e organização"
     },
     {
@@ -1245,6 +1231,19 @@
       "official": true,
       "seller": "Na Web Group De Marcas",
       "category": "Casa e organização"
+    },
+    {
+      "id": "22392476232",
+      "title": "kit com 10 Calcinha infantil Kids",
+      "price": 22.9,
+      "originalPrice": 40.18,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyv86epysgb9de",
+      "url": "https://s.shopee.com.br/5q9HMDC6iS",
+      "rating": 4.7,
+      "salesCount": 2873,
+      "seller": "Dejuule Modas",
+      "category": "Moda"
     },
     {
       "id": "53462836946",
@@ -1889,6 +1888,19 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "22199398955",
+      "title": "Kit Profissional 2 Itens Capilar Liso Obrigatório 1 Litro | Kit Profissional Para Cabelos Lisos",
+      "price": 39.9,
+      "originalPrice": 68.79,
+      "discountPercent": 42,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mlm9f6twpjph48",
+      "url": "https://s.shopee.com.br/1W0ICEXTes",
+      "rating": 4.9,
+      "salesCount": 2715,
+      "seller": "Bela Beleza Oficial",
+      "category": "Beleza"
+    },
+    {
       "id": "58257376297",
       "title": "Boné New York NY Bordado, Aba Curva, Unissex, Regulagem Ajustável, Premium, Treino, Blogueira, Beisebol - ENVIO IMEDIATO",
       "price": 34.8,
@@ -1913,20 +1925,6 @@
       "rating": 4.9,
       "salesCount": 553,
       "seller": "F_MIX",
-      "category": "Moda"
-    },
-    {
-      "id": "58253786518",
-      "title": "Kit Calcinhas Cinta Modeladora Compressão Cós Alto Redutora De Medidas Confortável",
-      "price": 25.99,
-      "originalPrice": 60.44,
-      "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-ms5spnagkves65",
-      "url": "https://s.shopee.com.br/3g4oXj1WIZ",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 1983,
-      "seller": "Daffine.Oficial",
       "category": "Moda"
     },
     {
@@ -2180,20 +2178,6 @@
       "rating": 4.9,
       "salesCount": 10766,
       "seller": "GR MARKET EXPRESS",
-      "category": "Moda"
-    },
-    {
-      "id": "23993394269",
-      "title": "Kit Calcinhas Tanga Algodão Conforto Tanga Básica Cotton Feminina",
-      "price": 29,
-      "originalPrice": 70.73,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk12vp5bubcy10",
-      "url": "https://s.shopee.com.br/30p7kV43eN",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1982,
-      "seller": "Essencial-Lingerie",
       "category": "Moda"
     },
     {
@@ -2458,7 +2442,7 @@
       "rating": 4.9,
       "salesCount": 1268,
       "seller": "Damien Shop_Brasil",
-      "category": "Casa e organização"
+      "category": "Beleza"
     },
     {
       "id": "58265871339",
@@ -3112,6 +3096,21 @@
       "category": "Ferramentas"
     },
     {
+      "id": "22691297138",
+      "title": "[OFFICIAL] SKIN1004 madagascar centella ampoule 30ml,55ml,100ml,120ml",
+      "price": 44.97,
+      "originalPrice": 62.46,
+      "discountPercent": 28,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-823qv-mp97g79bqk8w0d",
+      "url": "https://s.shopee.com.br/5AtaYyF39f",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 4219,
+      "official": true,
+      "seller": "koksara.kbeauty",
+      "category": "Beleza"
+    },
+    {
       "id": "23494419761",
       "title": "uporte Universal de Alumínio De Base Com Rodinha Para Geladeira Fogão E Máquina De Lavar Lousa Base Carrinho até 200kg",
       "price": 36.98,
@@ -3190,21 +3189,6 @@
       "salesCount": 684,
       "seller": "YUANYUE",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "22691297138",
-      "title": "[OFFICIAL] SKIN1004 madagascar centella ampoule 30ml,55ml,100ml,120ml",
-      "price": 44.97,
-      "originalPrice": 62.46,
-      "discountPercent": 28,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-823qv-mp97g79bqk8w0d",
-      "url": "https://s.shopee.com.br/5AtaYyF39f",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 4219,
-      "official": true,
-      "seller": "koksara.kbeauty",
-      "category": "Beleza"
     },
     {
       "id": "23994140705",
@@ -3469,6 +3453,19 @@
       "category": "Beleza"
     },
     {
+      "id": "22695017676",
+      "title": "Kit 5 Top Infantil Juvenil Teen Menina Algodão Sutia Sem Bojo Alça Ajustavel Básico Usar Uniforme",
+      "price": 34.45,
+      "originalPrice": 65,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mpik1107egw0c2",
+      "url": "https://s.shopee.com.br/4fxJy4GcMB",
+      "rating": 4.9,
+      "salesCount": 2464,
+      "seller": "DBL LINGERIE",
+      "category": "Moda"
+    },
+    {
       "id": "21898108143",
       "title": "Jogo De Mesa Astronauta Equilíbrio 50 Peças Infantil Puzzle Tabuleiro",
       "price": 29.99,
@@ -3616,6 +3613,19 @@
       "salesCount": 2894,
       "seller": "Bela Beleza Oficial",
       "category": "Beleza"
+    },
+    {
+      "id": "22599507223",
+      "title": "Kit 3 Sutia Infantil Juvenil Algodão Cotton Liso Alta Qualidade Conforto Top Dia a Dia Menina Moça",
+      "price": 25.85,
+      "originalPrice": 47.87,
+      "discountPercent": 46,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mpi6r5uin20x2b",
+      "url": "https://s.shopee.com.br/9fLzvFxaDa",
+      "rating": 4.9,
+      "salesCount": 431,
+      "seller": "DBL LINGERIE",
+      "category": "Moda"
     },
     {
       "id": "48861519149",
@@ -4122,19 +4132,6 @@
       "salesCount": 2318,
       "seller": "Choice Oficial",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "58262744158",
-      "title": "Kit Beleza Infantil Maleta Portátil Com Espelho, Maquiagem E Manicure Não Tóxico Presente Aniversário Criança",
-      "price": 72.99,
-      "originalPrice": 178.02,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mplyh232hi4g00",
-      "url": "https://s.shopee.com.br/1W0ICEtTWb",
-      "rating": 4.8,
-      "salesCount": 2118,
-      "seller": "LOUREN_VARIEDADES",
-      "category": "Presentes e papelaria"
     }
   ]
 }
