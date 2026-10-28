@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T15:04:38.324Z",
+  "updatedAt": "2026-10-28T15:25:20.923Z",
   "offers": [
     {
       "id": "20042293295",
@@ -1421,6 +1421,19 @@
       "category": "Beleza"
     },
     {
+      "id": "20198263323",
+      "title": "Tênis casual modelo estiloso e confortável",
+      "price": 26.9,
+      "originalPrice": 59.78,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2id7i44lxj3e",
+      "url": "https://s.shopee.com.br/6L5V3IDVuS",
+      "rating": 4.5,
+      "salesCount": 2448,
+      "seller": "ENCAST 08",
+      "category": "Moda"
+    },
+    {
       "id": "22198582701",
       "title": "Blusa Feminina Manga Longa Cacharrel Confortável Básico Gola Alta",
       "price": 19.96,
@@ -1662,19 +1675,6 @@
       "salesCount": 5221,
       "official": true,
       "seller": "Primacial",
-      "category": "Beleza"
-    },
-    {
-      "id": "23297675010",
-      "title": "Chapinha Modelador Portátil para Cabelo e Barba Masculino com Pente",
-      "price": 19,
-      "originalPrice": 70.37,
-      "discountPercent": 73,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyd2s9jsj7j98f",
-      "url": "https://s.shopee.com.br/6q1q5By1yn",
-      "rating": 4.6,
-      "salesCount": 419,
-      "seller": "HappyShop_",
       "category": "Beleza"
     },
     {
@@ -2005,19 +2005,6 @@
       "salesCount": 4373,
       "seller": "Isabela Top",
       "category": "Cozinha"
-    },
-    {
-      "id": "20198263323",
-      "title": "Tênis casual modelo estiloso e confortável",
-      "price": 29.9,
-      "originalPrice": 59.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2id7i44lxj3e",
-      "url": "https://s.shopee.com.br/6L5V3IDVuS",
-      "rating": 4.5,
-      "salesCount": 2448,
-      "seller": "ENCAST 08",
-      "category": "Moda"
     },
     {
       "id": "58267033396",
@@ -4124,6 +4111,20 @@
       "salesCount": 604,
       "seller": "Au&Miau Decorações",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "20999381894",
+      "title": "Conjunto 2/3/5/10 Potes 370/640/1040ml Vidro Hermético Mantimentos Marmita Fitness",
+      "price": 27.89,
+      "originalPrice": 68.02,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mpavso8ys2yp67",
+      "url": "https://s.shopee.com.br/1BUPRvWcQ",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 8847,
+      "seller": "Life Hack Homeware",
+      "category": "Casa e organização"
     }
   ]
 }
