@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T16:27:53.701Z",
+  "updatedAt": "2026-10-28T16:48:45.541Z",
   "offers": [
     {
       "id": "20042293295",
@@ -762,6 +762,7 @@
       "discountPercent": 80,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260i-ml307tm5a5ms48",
       "url": "https://s.shopee.com.br/8VA2X6XMce",
+      "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 1272,
       "seller": "A_crosail.br",
@@ -2371,20 +2372,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "18499246242",
-      "title": "Jogo de Lençol Premium Com Elástico 400 fios Percal 3 Peças Ponto Palito",
-      "price": 16.9,
-      "originalPrice": 29.14,
-      "discountPercent": 42,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mje1s2nv7y827b",
-      "url": "https://s.shopee.com.br/40hduazPpT",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2291,
-      "seller": "Enxovais.Store",
-      "category": "Casa e organização"
-    },
-    {
       "id": "19132144851",
       "title": "Kit 3 Lençol Berço Americano Percal 400 Fios Macio com Elástico 130x70cm Menina e Menino",
       "price": 26.2,
@@ -2755,20 +2742,6 @@
       "url": "https://s.shopee.com.br/1BUPTYido",
       "rating": 4.9,
       "salesCount": 2218,
-      "official": true,
-      "seller": "KOKESHI OFICIAL",
-      "category": "Beleza"
-    },
-    {
-      "id": "22598903793",
-      "title": "Kit Rotina Skin Care Sérum Tudo em 1 Multifunção Sabonete e creme hidratante facial",
-      "price": 117.9,
-      "originalPrice": 168.43,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mqm8j2nwk26b75",
-      "url": "https://s.shopee.com.br/1gJk1RvvVM",
-      "rating": 4.9,
-      "salesCount": 230,
       "official": true,
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza"
@@ -3279,20 +3252,6 @@
       "rating": 4.8,
       "salesCount": 845,
       "seller": "Morada de Paz",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "53053245387",
-      "title": "Ventilador Mini Portátil Recarregável USB de Mão Suporte Mesa Silencioso Ideal para Casa Trabalho",
-      "price": 25.99,
-      "originalPrice": 49.98,
-      "discountPercent": 48,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zud-midfo8h8c3d36b",
-      "url": "https://s.shopee.com.br/40hdAoK23V",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 808,
-      "seller": "LLB COMÉRCIO",
       "category": "Casa e organização"
     },
     {
@@ -4127,6 +4086,46 @@
       "salesCount": 2318,
       "seller": "Choice Oficial",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "58262744158",
+      "title": "Kit Beleza Infantil Maleta Portátil Com Espelho, Maquiagem E Manicure Não Tóxico Presente Aniversário Criança",
+      "price": 72.99,
+      "originalPrice": 178.02,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mplyh232hi4g00",
+      "url": "https://s.shopee.com.br/1W0ICEtTWb",
+      "rating": 4.8,
+      "salesCount": 2118,
+      "seller": "LOUREN_VARIEDADES",
+      "category": "Presentes e papelaria"
+    },
+    {
+      "id": "58258453576",
+      "title": "Suporte Notebook Ergonômico com Cooler – Refrigeração 5V 1000RPM (DELTA-B1122M)",
+      "price": 46.87,
+      "originalPrice": 151.19,
+      "discountPercent": 69,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m2-mqxu3vg4x3ifaa",
+      "url": "https://s.shopee.com.br/9V2ZrUHmbZ",
+      "rating": 4.9,
+      "salesCount": 560,
+      "seller": "NEW SECULO XXI",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "21797728567",
+      "title": "Arara 4/5 Andares Multiuso c/ Sapateira, Cabideiro e Suporte p/ Roupas, Tênis e Closet Quarto",
+      "price": 39.49,
+      "originalPrice": 179.5,
+      "discountPercent": 78,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7req6-m8dk5gglfv7k20",
+      "url": "https://s.shopee.com.br/8pmuG3g8rk",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 3241,
+      "seller": "ZSZ_brasil",
+      "category": "Casa e organização"
     }
   ]
 }
