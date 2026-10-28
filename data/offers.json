@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T14:02:26.703Z",
+  "updatedAt": "2026-10-28T14:22:43.053Z",
   "offers": [
     {
       "id": "20042293295",
@@ -547,8 +547,7 @@
       "rating": 4.8,
       "salesCount": 3848,
       "seller": "leandro_tintas",
-      "category": "Ferramentas",
-      "hot": true
+      "category": "Ferramentas"
     },
     {
       "id": "20452224775",
@@ -645,21 +644,6 @@
       "salesCount": 3388,
       "seller": "Mabi Shoes",
       "category": "Moda"
-    },
-    {
-      "id": "8083342653",
-      "title": "MISSHA M Perfect Cover BB Cream SPF42 PA+++ 20ml / 50ml | Embalagem em Renovação",
-      "price": 38.99,
-      "originalPrice": 81.23,
-      "discountPercent": 52,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-821dl-mgn8wp71aadkdf",
-      "url": "https://s.shopee.com.br/8pmuOYnJeh",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 4462,
-      "official": true,
-      "seller": "koksara.kbeauty",
-      "category": "Beleza"
     },
     {
       "id": "58207087479",
@@ -1584,6 +1568,20 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "13494334390",
+      "title": "Cílios Fadvan W 4D Extensão De Cílios Alongamento W Novidade Volume Híbrido Maquiagem",
+      "price": 19,
+      "originalPrice": 70.37,
+      "discountPercent": 73,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md41zddja3uz7d",
+      "url": "https://s.shopee.com.br/6fiOLg1oyO",
+      "rating": 4.8,
+      "salesCount": 2881,
+      "official": true,
+      "seller": "fadvan.br",
+      "category": "Beleza"
+    },
+    {
       "id": "25293647491",
       "title": "Celimax The Vita A Retinal Shot Tightening Booster 15ml",
       "price": 135.99,
@@ -1637,6 +1635,19 @@
       "rating": 4.7,
       "salesCount": 929,
       "seller": "Relógios ULTRA",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "58214913448",
+      "title": "Teclado Mecânico Gamer Compacto 60% 63 Teclas Switch Blue Rainbow RGB Anti-Ghosting USB",
+      "price": 99.9,
+      "originalPrice": 370,
+      "discountPercent": 73,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mr1pu215296u72",
+      "url": "https://s.shopee.com.br/4LKTZP1Qmn",
+      "rating": 4.9,
+      "salesCount": 239,
+      "seller": "Nova Link",
       "category": "Eletrônicos"
     },
     {
@@ -1720,6 +1731,20 @@
       "seller": "G&F LINDA",
       "category": "Presentes e papelaria",
       "hot": true
+    },
+    {
+      "id": "19199866082",
+      "title": "Suporte de peito ajustável para telefones celulares e câmeras GoPro para peito de motocicleta e bicicleta",
+      "price": 23.9,
+      "originalPrice": 85.36,
+      "discountPercent": 72,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me8dbv27szy8f0",
+      "url": "https://s.shopee.com.br/7VHSRQeCmP",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3152,
+      "seller": "JUNGE TECH LTDA",
+      "category": "Eletrônicos"
     },
     {
       "id": "20999580796",
@@ -2105,6 +2130,22 @@
       "official": true,
       "seller": "Primacial",
       "category": "Beleza"
+    },
+    {
+      "id": "21235699753",
+      "title": "Fadvan 5D W Extensões De Cílios Em Forma De 0.07 C/D Faux Mink Natural Lashes Profissionais Suaves",
+      "price": 19,
+      "originalPrice": 61.29,
+      "discountPercent": 69,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlr6x8dggpa8d1",
+      "url": "https://s.shopee.com.br/LoHuCxtrs",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 14174,
+      "official": true,
+      "seller": "fadvan.br",
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "58259403968",
@@ -2872,20 +2913,6 @@
       "category": "Beleza"
     },
     {
-      "id": "19228482092",
-      "title": "Camisa Proteção Solar Uv+50 Camiseta Segunda Pele Térmica Promoção Premium Várias Cores",
-      "price": 19.9,
-      "originalPrice": 39.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/f159bd68cf833fceb1987a12498f06be",
-      "url": "https://s.shopee.com.br/1BNTGYA0vJ",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1625,
-      "seller": "78 STORE",
-      "category": "Moda"
-    },
-    {
       "id": "20699892486",
       "title": "Sapateira 4/5 Andares Organizador de Sapatos Tênis 8/10 Pares Desmontável Multiuso para Sapatos, Livros e Brinquedos",
       "price": 18.33,
@@ -2955,6 +2982,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "22497982173",
+      "title": "Suporte Porta Celular Moto Bike Á Prova Dágua 360° Articulado 6.5 POLEGADAS",
+      "price": 27.79,
+      "originalPrice": 60.41,
+      "discountPercent": 54,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-7r98o-m1ioorbbsm3532",
+      "url": "https://s.shopee.com.br/7fasdjdZRS",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 2684,
+      "seller": "YYYNN",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "23098851500",
       "title": "Kit Body Splash Dolce + Florata Red 200ml Feminino.",
       "price": 45.9,
@@ -3020,6 +3061,19 @@
       "official": true,
       "seller": "L'Oréal Paris - Loja Oficial",
       "category": "Beleza"
+    },
+    {
+      "id": "58253347883",
+      "title": "Bota Feminina Cano Curto Preta Salto Grosso Tratorada Confortável Moda Inverno",
+      "price": 49.9,
+      "originalPrice": 89.11,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjis59nbonib20",
+      "url": "https://s.shopee.com.br/7VHVLGwxkh",
+      "rating": 4.8,
+      "salesCount": 871,
+      "seller": "ENCAST CONTRY GIRL",
+      "category": "Moda"
     },
     {
       "id": "23197416358",
@@ -3254,6 +3308,19 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "23194055670",
+      "title": "Kit 12 Marmitas Potes 800ml com Travas Laterais BPA FREE - Alimentos organizadores de congelador PLASTICOS",
+      "price": 38,
+      "originalPrice": 100,
+      "discountPercent": 62,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mrzweol0dfk5ee",
+      "url": "https://s.shopee.com.br/1LgrzsDOQl",
+      "rating": 4.8,
+      "salesCount": 1460,
+      "seller": "PoliPlast",
+      "category": "Casa e organização"
+    },
+    {
       "id": "22694204664",
       "title": "Cozedor De Ovos Portátil Elétrico Cozinha A Vapor 110v/220v",
       "price": 28.3,
@@ -3422,20 +3489,6 @@
       "category": "Beleza"
     },
     {
-      "id": "22593964805",
-      "title": "Camisa Social Tecnológica Slim Fit Anti-Transpirante Ante Odor E Não Amassa - Não é Poliéster",
-      "price": 66.49,
-      "originalPrice": 138.52,
-      "discountPercent": 52,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfgb-m9d995lpwowl15",
-      "url": "https://s.shopee.com.br/W7mTKCYHF",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2176,
-      "seller": "ALAN.FONTE.888",
-      "category": "Moda"
-    },
-    {
       "id": "22695017676",
       "title": "Kit 5 Top Infantil Juvenil Teen Menina Algodão Sutia Sem Bojo Alça Ajustavel Básico Usar Uniforme",
       "price": 34.45,
@@ -3512,20 +3565,6 @@
       "rating": 4.9,
       "salesCount": 727,
       "seller": "Global Shop21",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23597982563",
-      "title": "Conjunto Potes Vidro Hermético Mantimentos Marmita 640ml",
-      "price": 28.99,
-      "originalPrice": 74.33,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zuc-mky6lkqdrncw9a",
-      "url": "https://s.shopee.com.br/4qGldF765S",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1291,
-      "seller": "Life Hack Homeware",
       "category": "Casa e organização"
     },
     {
@@ -3610,6 +3649,19 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "16478390649",
+      "title": "Suporte Base Para Notebook Mesa Apoio Tablet Portatil com Regulagem Dobravel",
+      "price": 19.98,
+      "originalPrice": 68.9,
+      "discountPercent": 71,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mncxnab1mfb64f",
+      "url": "https://s.shopee.com.br/4fxJy52wgm",
+      "rating": 4.8,
+      "salesCount": 1623,
+      "seller": "GH-SHOP",
+      "category": "Casa e organização"
+    },
+    {
       "id": "19599891325",
       "title": "Quebra-Cabeça de Dino 3D em Madeira - Brinquedo Educativo Montessori para Bebês e Crianças Pequenas",
       "price": 21.37,
@@ -3650,19 +3702,6 @@
       "salesCount": 825,
       "seller": "Choice Oficial",
       "category": "Presentes e papelaria"
-    },
-    {
-      "id": "16478390649",
-      "title": "Suporte Base Para Notebook Mesa Apoio Tablet Portatil com Regulagem Dobravel",
-      "price": 19.98,
-      "originalPrice": 68.9,
-      "discountPercent": 71,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mncxnab1mfb64f",
-      "url": "https://s.shopee.com.br/4fxJy52wgm",
-      "rating": 4.8,
-      "salesCount": 1623,
-      "seller": "GH-SHOP",
-      "category": "Casa e organização"
     },
     {
       "id": "25046330542",
@@ -3991,18 +4030,18 @@
       "category": "Moda"
     },
     {
-      "id": "23299132057",
-      "title": "Arranhador Parede Gato Sisal Poste Brinquedo Pet PetZando",
-      "price": 29.99,
-      "originalPrice": 54.53,
-      "discountPercent": 45,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821fv-mgpf4akmawb0b0",
-      "url": "https://s.shopee.com.br/qkbxUz386",
+      "id": "18597787721",
+      "title": "Mochila Escolar Reforçada Nylon Impermeável Viagem Esportiva",
+      "price": 39.9,
+      "originalPrice": 99.75,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvj-lyw40hetm45005",
+      "url": "https://s.shopee.com.br/5AtaZFqFSg",
       "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 543,
-      "seller": "PETZANDO",
-      "category": "Pet e bebê"
+      "rating": 4.8,
+      "salesCount": 719,
+      "seller": "M Flowerr",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "22899036423",
@@ -4086,47 +4125,6 @@
       "salesCount": 8847,
       "seller": "Life Hack Homeware",
       "category": "Casa e organização"
-    },
-    {
-      "id": "58263021202",
-      "title": "BRILHO NOVO Escova Sanitária com Cabeça Substituível e Refis Descartáveis | Base + 6, 12, 18, 24 ou 36 Refis",
-      "price": 59.8,
-      "originalPrice": 145.85,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-msdw742h9vd1fe",
-      "url": "https://s.shopee.com.br/6fiOLiN0jO",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 5048,
-      "seller": "BRILHO NOVO BR",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "46757037054",
-      "title": "Fones De Ouvido D6 2pcs HD Chamadas Ear-Plugs Sem Fio Bluetooth Fone Empresarial À Prova D'água Com Microfone De Longa E",
-      "price": 15.98,
-      "originalPrice": 76.1,
-      "discountPercent": 79,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259q-mthtf3jdc8p62b",
-      "url": "https://s.shopee.com.br/5VWQxZnS15",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2318,
-      "seller": "Choice Oficial",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "58262744158",
-      "title": "Kit Beleza Infantil Maleta Portátil Com Espelho, Maquiagem E Manicure Não Tóxico Presente Aniversário Criança",
-      "price": 72.99,
-      "originalPrice": 178.02,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mplyh232hi4g00",
-      "url": "https://s.shopee.com.br/1W0ICEtTWb",
-      "rating": 4.8,
-      "salesCount": 2118,
-      "seller": "LOUREN_VARIEDADES",
-      "category": "Presentes e papelaria"
     }
   ]
 }
