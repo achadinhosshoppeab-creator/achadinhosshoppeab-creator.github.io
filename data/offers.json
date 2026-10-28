@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T11:57:48.781Z",
+  "updatedAt": "2026-10-28T12:18:30.542Z",
   "offers": [
     {
       "id": "20042293295",
@@ -2734,8 +2734,8 @@
     {
       "id": "22399132687",
       "title": "Kit Skin Care Geleia facial Colágeno e Niacinamida Kokeshi",
-      "price": 59.9,
-      "originalPrice": 85.57,
+      "price": 54.9,
+      "originalPrice": 78.43,
       "discountPercent": 30,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mge5tyc09rlwd9",
       "url": "https://s.shopee.com.br/9Kj9WcurCk",
@@ -2910,19 +2910,6 @@
       "official": true,
       "seller": "Popozuda Oficial",
       "category": "Beleza"
-    },
-    {
-      "id": "23032999814",
-      "title": "3 Saco Organizador Multiuso Embalagem Transparente Edredom Coberta Toalhas de Pvc e Ziper Preto Enxoval Guarda Roupa",
-      "price": 19.99,
-      "originalPrice": 28.15,
-      "discountPercent": 29,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lusgv3w44b51bc",
-      "url": "https://s.shopee.com.br/1gJjirYhSY",
-      "rating": 4.8,
-      "salesCount": 1494,
-      "seller": "Isaplastic",
-      "category": "Casa e organização"
     },
     {
       "id": "22198011069",
@@ -4124,6 +4111,19 @@
       "salesCount": 3241,
       "seller": "ZSZ_brasil",
       "category": "Casa e organização"
+    },
+    {
+      "id": "41733456705",
+      "title": "Squishy Halloween Caixa Surpresa Fantasma e Abóbora, Brinquedo Antiestresse Fidget, Presente Criativo",
+      "price": 59.99,
+      "originalPrice": 142.83,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258j-mrqs3p0uf760f5",
+      "url": "https://s.shopee.com.br/1LgsfTVo5i",
+      "rating": 4.5,
+      "salesCount": 423,
+      "seller": "XY Casa & Auto🏡",
+      "category": "Presentes e papelaria"
     }
   ]
 }
