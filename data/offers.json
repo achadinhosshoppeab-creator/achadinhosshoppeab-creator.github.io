@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T01:02:09.287Z",
+  "updatedAt": "2026-10-28T01:22:49.881Z",
   "offers": [
     {
       "id": "20042293295",
@@ -228,6 +228,20 @@
       "official": true,
       "seller": "koksara.kbeauty",
       "category": "Beleza"
+    },
+    {
+      "id": "23798128210",
+      "title": "Torneira Inox  Prata/Preto Com Chuveiro Com Rotação De 360° Cozinha Luxo Parede Promoção",
+      "price": 25.88,
+      "originalPrice": 66.36,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825au-mt4uxbsl5jpid1",
+      "url": "https://s.shopee.com.br/4Vdqrrzhqp",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 9511,
+      "seller": "INFINITY COMERCIO DE VARIEDADES",
+      "category": "Ferramentas"
     },
     {
       "id": "22999371257",
@@ -508,6 +522,21 @@
       "salesCount": 2381,
       "seller": "1000 Coisas Variedades",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "23393737784",
+      "title": "Tinta Acrílica Sem Cheiro 18Kg / 5Kg Antimofo Novalatex Economica De Alto Rendimento Diversas Cores",
+      "price": 28.38,
+      "originalPrice": 129,
+      "discountPercent": 78,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-msorusvjl0ck05",
+      "url": "https://s.shopee.com.br/7Ky2F7IuUt",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 3848,
+      "seller": "leandro_tintas",
+      "category": "Ferramentas",
+      "hot": true
     },
     {
       "id": "20452224775",
@@ -1041,20 +1070,6 @@
       "seller": "Isabela Top",
       "category": "Cozinha",
       "hot": true
-    },
-    {
-      "id": "23399163578",
-      "title": "78 x 62cm Tapete Higiênico EVA Coletor de Areia Para Gato Lavável Dupla Camada Compatível com Caixa de Areia",
-      "price": 34.99,
-      "originalPrice": 97.19,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgw1jgqq8sg092",
-      "url": "https://s.shopee.com.br/AUv7W3c6BF",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1611,
-      "seller": "Vidabonitafeliz",
-      "category": "Casa e organização"
     },
     {
       "id": "58266694509",
@@ -3112,8 +3127,8 @@
     {
       "id": "23197416358",
       "title": "Parafusadeira Furadeira de Impacto Sem Fio 21V Bivolt 110/220V Kit Maleta com 2 Baterias 28 Peças",
-      "price": 99.98,
-      "originalPrice": 370.3,
+      "price": 115.99,
+      "originalPrice": 429.59,
       "discountPercent": 73,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mlczxisdlt6sf6",
       "url": "https://s.shopee.com.br/AKbgiULVnX",
@@ -3177,8 +3192,7 @@
       "rating": 4.9,
       "salesCount": 7288,
       "seller": "PENGFA TECH LTDA",
-      "category": "Cozinha",
-      "hot": true
+      "category": "Cozinha"
     },
     {
       "id": "18399566099",
@@ -3248,20 +3262,6 @@
       "rating": 4.7,
       "salesCount": 3440,
       "seller": "CasaLauraEnxovais",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58216485879",
-      "title": "Planta Decorativa: Vaso Trançado Marrom com Pendente ou 1/2 Pendente Artificial Folhas De Samambaias",
-      "price": 18.99,
-      "originalPrice": 49.97,
-      "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-ms1zyj9c71ms1b",
-      "url": "https://s.shopee.com.br/BUvD5x1rN",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 699,
-      "seller": "koala's.shop",
       "category": "Casa e organização"
     },
     {
