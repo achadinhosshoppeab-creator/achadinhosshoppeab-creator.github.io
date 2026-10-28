@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T20:58:25.854Z",
+  "updatedAt": "2026-10-28T21:19:23.054Z",
   "offers": [
     {
       "id": "20042293295",
@@ -1008,7 +1008,6 @@
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-ms5l9in9msqt7f",
       "url": "https://s.shopee.com.br/gRBCg6OMy",
-      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 4184,
       "seller": "Fonte Boa Casa",
@@ -1213,6 +1212,7 @@
       "discountPercent": 58,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mqsk7tk8nbwiae",
       "url": "https://s.shopee.com.br/9zysDsbJMS",
+      "hasVariantPrices": true,
       "rating": 4.7,
       "salesCount": 3285,
       "seller": "Meu Bebê Kids",
@@ -1627,6 +1627,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "22499056874",
+      "title": "Smartwatch MINI 38MM PRO Com monitor De Frequência Cardíaca Do Computador São Paulo pronta entrega",
+      "price": 53.99,
+      "originalPrice": 199.96,
+      "discountPercent": 73,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg4sqr0e5nggcd",
+      "url": "https://s.shopee.com.br/5LD2fIFkqC",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1776,
+      "seller": "Os produtos preferidos",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "18799900509",
       "title": "T900 Ultra Smartwatch Relógio Inteligente Prova Bluetooth Monitoramento De Saúde Exercício Contagem NFC",
       "price": 39.9,
@@ -1666,20 +1680,6 @@
       "official": true,
       "seller": "Primacial",
       "category": "Beleza"
-    },
-    {
-      "id": "22499056874",
-      "title": "Smartwatch MINI 38MM PRO Com monitor De Frequência Cardíaca Do Computador São Paulo pronta entrega",
-      "price": 53.99,
-      "originalPrice": 199.96,
-      "discountPercent": 73,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg4sqr0e5nggcd",
-      "url": "https://s.shopee.com.br/5LD2fIFkqC",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1776,
-      "seller": "Os produtos preferidos",
-      "category": "Eletrônicos"
     },
     {
       "id": "23098550947",
@@ -3070,6 +3070,21 @@
       "category": "Ferramentas"
     },
     {
+      "id": "22691297138",
+      "title": "[OFFICIAL] SKIN1004 madagascar centella ampoule 30ml,55ml,100ml,120ml",
+      "price": 44.97,
+      "originalPrice": 62.46,
+      "discountPercent": 28,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-823qv-mp97g79bqk8w0d",
+      "url": "https://s.shopee.com.br/5AtaYyF39f",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 4287,
+      "official": true,
+      "seller": "koksara.kbeauty",
+      "category": "Beleza"
+    },
+    {
       "id": "23494419761",
       "title": "uporte Universal de Alumínio De Base Com Rodinha Para Geladeira Fogão E Máquina De Lavar Lousa Base Carrinho até 200kg",
       "price": 36.98,
@@ -3136,19 +3151,6 @@
       "category": "Presentes e papelaria"
     },
     {
-      "id": "23493930815",
-      "title": "Escova De Limpeza 9 Em 1  Elétrica Giratória Com Cabo Alongador",
-      "price": 65.99,
-      "originalPrice": 178.35,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj5cubo7uz29de",
-      "url": "https://s.shopee.com.br/2gCFaMcEqU",
-      "rating": 4.8,
-      "salesCount": 5510,
-      "seller": "KOBAC SHOP",
-      "category": "Casa e organização"
-    },
-    {
       "id": "41022402072",
       "title": "2026 Smartwatch Original S10 Pro 38mm/45mm Unissex - Chamadas via Bluetooth Esportivo Teste de pressão arterial",
       "price": 39.99,
@@ -3161,21 +3163,6 @@
       "salesCount": 681,
       "seller": "YUANYUE",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "22691297138",
-      "title": "[OFFICIAL] SKIN1004 madagascar centella ampoule 30ml,55ml,100ml,120ml",
-      "price": 44.97,
-      "originalPrice": 62.46,
-      "discountPercent": 28,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-823qv-mp97g79bqk8w0d",
-      "url": "https://s.shopee.com.br/5AtaYyF39f",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 4287,
-      "official": true,
-      "seller": "koksara.kbeauty",
-      "category": "Beleza"
     },
     {
       "id": "23994140705",
@@ -3217,20 +3204,6 @@
       "salesCount": 294,
       "seller": "B&G Kids",
       "category": "Presentes e papelaria"
-    },
-    {
-      "id": "23399193375",
-      "title": "2026 T800 Ultra 3 MAX Mais Recente Smartwatch Relógio Inteligente NFC Série 10 2.19Polegadas Sem Fio",
-      "price": 39.8,
-      "originalPrice": 147.41,
-      "discountPercent": 73,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhq4f2lhz40397",
-      "url": "https://s.shopee.com.br/qkdKSRja0",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 950,
-      "seller": "LUNANA Shop",
-      "category": "Eletrônicos"
     },
     {
       "id": "20098202552",
@@ -3408,6 +3381,19 @@
       "rating": 4.9,
       "salesCount": 331,
       "seller": "DJMORCHLTDA",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "23493930815",
+      "title": "Escova De Limpeza 9 Em 1  Elétrica Giratória Com Cabo Alongador",
+      "price": 68.9,
+      "originalPrice": 181.32,
+      "discountPercent": 62,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj5cubo7uz29de",
+      "url": "https://s.shopee.com.br/2gCFaMcEqU",
+      "rating": 4.8,
+      "salesCount": 5510,
+      "seller": "KOBAC SHOP",
       "category": "Casa e organização"
     },
     {
@@ -3806,6 +3792,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "22694681619",
+      "title": "Electro Nest Adaptador Conversor OTG Cabo Tipo-C Para Lightning ZHQ-25 ZHQ-26",
+      "price": 15.98,
+      "originalPrice": 39.95,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgvxm22rpgqtf1",
+      "url": "https://s.shopee.com.br/2VsrI5QGVN",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 1640,
+      "seller": "Electro Nest",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "58262746825",
       "title": "Guarda-Chuva Automático Anti-Vento com Lanterna Proteção UV Blackout Compacto para Bolsa e Mochila",
       "price": 34,
@@ -3913,20 +3913,6 @@
       "salesCount": 580,
       "seller": "Bettdow mall.br",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "58262243898",
-      "title": "Corretivo Líquido Rosa Tropical Efeito Natural Alta Cobertura Hidratante",
-      "price": 28.9,
-      "originalPrice": 57.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823px-mpazxildi9714c",
-      "url": "https://s.shopee.com.br/60ShYUyg5l",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1514,
-      "seller": "Rosa Tropical",
-      "category": "Beleza"
     },
     {
       "id": "58217483353",
@@ -4131,6 +4117,19 @@
       "salesCount": 2130,
       "seller": "LOUREN_VARIEDADES",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "58258453576",
+      "title": "Suporte Notebook Ergonômico com Cooler – Refrigeração 5V 1000RPM (DELTA-B1122M)",
+      "price": 46.87,
+      "originalPrice": 151.19,
+      "discountPercent": 69,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m2-mqxu3vg4x3ifaa",
+      "url": "https://s.shopee.com.br/9V2ZrUHmbZ",
+      "rating": 4.9,
+      "salesCount": 561,
+      "seller": "NEW SECULO XXI",
+      "category": "Eletrônicos"
     }
   ]
 }
