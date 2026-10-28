@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T07:10:30.298Z",
+  "updatedAt": "2026-10-28T07:40:52.673Z",
   "offers": [
     {
       "id": "20042293295",
@@ -2121,20 +2121,6 @@
       "hot": true
     },
     {
-      "id": "58267057460",
-      "title": "Capa de Almofada 40x40 Kit 2 Unidades Linho Textura Quadriculada Decorativa Sofá Sala Quarto",
-      "price": 21.91,
-      "originalPrice": 70.68,
-      "discountPercent": 69,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mse694rwpeyvee",
-      "url": "https://s.shopee.com.br/1W0JCq0vGB",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 431,
-      "seller": "Sofá & Sala",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58259403968",
       "title": "Pendente Dourado Borboleta De Luz LED de 3 cores em 1 luminária de teto do quarto Bivolt",
       "price": 45.98,
@@ -3101,6 +3087,20 @@
       "salesCount": 1411,
       "seller": "SENSACIONAL.CO",
       "category": "Cozinha"
+    },
+    {
+      "id": "21558580398",
+      "title": "Kit 4 Capas de Almofadas Decorativas de Sala Quarto e Escritório 45 Cm x 45 Cm Estampas Variadas",
+      "price": 21.9,
+      "originalPrice": 59.19,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcgs7qhqlmped7",
+      "url": "https://s.shopee.com.br/3LRwNYs2SG",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 1136,
+      "seller": "LÁ SHOPS STORE ",
+      "category": "Casa e organização"
     },
     {
       "id": "19898262315",
