@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T11:43:28.075Z",
+  "updatedAt": "2026-10-29T12:04:14.396Z",
   "offers": [
     {
       "id": "20042293295",
@@ -343,6 +343,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "23898177386",
+      "title": "Planner Quadro Lousa Magnética para Anotações Planejamento Semanal ima + Caneta Apagador",
+      "price": 19.9,
+      "originalPrice": 44.22,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5wadxth4tqd8f",
+      "url": "https://s.shopee.com.br/8fTV4UL9b4",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 333,
+      "seller": "Planner 2026",
+      "category": "Presentes e papelaria"
+    },
+    {
       "id": "20898865543",
       "title": "4 PcsToalha De Cabelo Banho, Toalha Grossa Mágica Para Secar Cabelo De Microfibra Grossa Touca Pós",
       "price": 23.99,
@@ -465,7 +479,8 @@
       "rating": 4.8,
       "salesCount": 4863,
       "seller": "HACKBERRY",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "29424706558",
@@ -565,6 +580,19 @@
       "category": "Moda"
     },
     {
+      "id": "58210053681",
+      "title": "Planner Magnético Lousa Lembrete Imã Geladeira Porta Recados Anotação Semanal Mensal",
+      "price": 22.9,
+      "originalPrice": 45.8,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mntikjm5998i6d",
+      "url": "https://s.shopee.com.br/5q9JhHVwLB",
+      "rating": 4.9,
+      "salesCount": 643,
+      "seller": "Organizadores ",
+      "category": "Presentes e papelaria"
+    },
+    {
       "id": "22493876691",
       "title": "Jogo 10/15 Brocas Diamantadas Serra Copo furar Vidro Granito Ceramica 6 a 50 mm kit ferramentas",
       "price": 25.59,
@@ -617,6 +645,20 @@
       "salesCount": 850,
       "seller": "Nova Link",
       "category": "Cozinha"
+    },
+    {
+      "id": "18240846440",
+      "title": "KIT 10/20/30 Estojo Multiuso Bolsinha Nylon Papelaria Colorido Necessaire 13 X 23CM Estojos de Lápis Equipamento Escolar",
+      "price": 24.99,
+      "originalPrice": 53.17,
+      "discountPercent": 53,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259d-mtai9235voqoda",
+      "url": "https://s.shopee.com.br/9zysetHHxp",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1285,
+      "seller": "BIG MO",
+      "category": "Beleza"
     },
     {
       "id": "58214695707",
@@ -679,7 +721,6 @@
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-ms5l9in9msqt7f",
       "url": "https://s.shopee.com.br/70LH5O19XI",
-      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 4184,
       "seller": "Fonte Boa Casa",
@@ -877,6 +918,19 @@
       "category": "Moda"
     },
     {
+      "id": "58258677338",
+      "title": "Porta Retrato Decoração Sala Quadro de Fotos Porta Retrato Parede Decorativo Mdf 40x70 Árvore Molduras Foto Família",
+      "price": 16,
+      "originalPrice": 69.57,
+      "discountPercent": 77,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mshelelgveo51e",
+      "url": "https://s.shopee.com.br/AKbj3VtcJ7",
+      "rating": 4.8,
+      "salesCount": 491,
+      "seller": "Au&Miau Decorações",
+      "category": "Casa e organização"
+    },
+    {
       "id": "58263519901",
       "title": "Kit Capilar Óleo Extraordinário NEW HAIR Profissional 1L Salão + Óleo Extraordinário 100ml NEW HAIR",
       "price": 67.9,
@@ -917,17 +971,17 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58213601132",
+      "id": "22399549197",
       "title": "Bolsa de Armazenamento em Feltro para Porta-Malas do Carro, Organizador de Ferramentas e Acessórios Automotivos",
-      "price": 24.49,
-      "originalPrice": 102.04,
+      "price": 23.99,
+      "originalPrice": 99.96,
       "discountPercent": 76,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mq6p6evfbpc3c4",
-      "url": "https://s.shopee.com.br/1gJlGVb4Hg",
+      "url": "https://s.shopee.com.br/W7nw6vrDt",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 301,
-      "seller": "RunFu",
+      "salesCount": 204,
+      "seller": "RunFeng",
       "category": "Ferramentas"
     },
     {
@@ -1029,6 +1083,19 @@
       "category": "Casa e organização"
     },
     {
+      "id": "44378324294",
+      "title": "Painel Decoração Porta Foto Quadro Decorativo Nossa Família Nosso Tesouro em MDF Moldura de Fotos 10x15",
+      "price": 18.5,
+      "originalPrice": 71.15,
+      "discountPercent": 74,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mshelelgzmdh85",
+      "url": "https://s.shopee.com.br/5fptUwALrD",
+      "rating": 4.7,
+      "salesCount": 656,
+      "seller": "Docce Morada ",
+      "category": "Casa e organização"
+    },
+    {
       "id": "58203263616",
       "title": "Headset Gamer 7.1 Surround Rgb Delta-f7140 Com Microfone Para Pc E Console",
       "price": 54.78,
@@ -1079,21 +1146,6 @@
       "salesCount": 3591,
       "seller": "JX VERDE",
       "category": "Casa e organização"
-    },
-    {
-      "id": "22199054925",
-      "title": "Kit Conjunto 19 Pçs De Utensílios Facas Silicone Cozinha",
-      "price": 59.88,
-      "originalPrice": 221.78,
-      "discountPercent": 73,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mt9k8chjrabldd",
-      "url": "https://s.shopee.com.br/3g4pgRUAPU",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 262,
-      "official": true,
-      "seller": "BuddyShopping",
-      "category": "Cozinha"
     },
     {
       "id": "58214913448",
@@ -1270,6 +1322,19 @@
       "salesCount": 2138,
       "seller": "Thalinda Lingerie Moda",
       "category": "Moda"
+    },
+    {
+      "id": "18499738293",
+      "title": "MALETA COM  BANDEJA PLÁSTICA REFORÇADA CAIXA ORGANIZADORA /FERRAMENTA/JARDINAGEM/PESCA",
+      "price": 18.89,
+      "originalPrice": 29.98,
+      "discountPercent": 37,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mpb0thffdkhv05",
+      "url": "https://s.shopee.com.br/2BG1vApVqB",
+      "rating": 4.8,
+      "salesCount": 200,
+      "seller": "JLF Utilidades Do Lar",
+      "category": "Ferramentas"
     },
     {
       "id": "46806231294",
@@ -1480,20 +1545,6 @@
       "category": "Moda"
     },
     {
-      "id": "58213666788",
-      "title": "KIT Caderno Kraft Artesanal A5 14x20cm 100 Páginas Bullet Journal Planner Sketchbook",
-      "price": 25.9,
-      "originalPrice": 74,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mq7xrogqjvgj10",
-      "url": "https://s.shopee.com.br/8fTVdh57Js",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 136,
-      "seller": "AUE PAPEL CRIATIVO",
-      "category": "Presentes e papelaria"
-    },
-    {
       "id": "49456762765",
       "title": "Cadeira de Escritório Presidente Ultra Ergonômica LARUNO Alto Padrão Luxo Espuma Certificada Homologada NR17 Cinza",
       "price": 355.9,
@@ -1506,6 +1557,20 @@
       "salesCount": 485,
       "seller": "LARUNO",
       "category": "Casa e organização"
+    },
+    {
+      "id": "21499647005",
+      "title": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Escudo Antiporosidade",
+      "price": 17.9,
+      "originalPrice": 32.55,
+      "discountPercent": 45,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820mg-mp9hltr9i96o08",
+      "url": "https://s.shopee.com.br/80DoHFEXRM",
+      "rating": 4.9,
+      "salesCount": 1533,
+      "official": true,
+      "seller": "Salon Line",
+      "category": "Beleza"
     },
     {
       "id": "58259403968",
@@ -1593,20 +1658,6 @@
       "category": "Beleza"
     },
     {
-      "id": "18997667165",
-      "title": "Kit facas de cozinha/Churrasco Profissional Antiaderente 6 Peças Preto/colorido",
-      "price": 18.99,
-      "originalPrice": 86.32,
-      "discountPercent": 78,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4r-lu5esjrs5ib9b0",
-      "url": "https://s.shopee.com.br/gRE6vfaUg",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 491,
-      "seller": "ZSZ_SHOP",
-      "category": "Cozinha"
-    },
-    {
       "id": "23098550947",
       "title": "Tripé Selfie Stick Extensível com Controle Remoto Sem Fio para Grupos de Selfies e Streaming ao Vivo",
       "price": 27.99,
@@ -1664,6 +1715,20 @@
       "category": "Beleza"
     },
     {
+      "id": "14463127889",
+      "title": "Kit S.O.S Hidratação Azeite de Oliva Shampoo e Condicionador Litrão Salon Line",
+      "price": 49.25,
+      "originalPrice": 73.51,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258o-msbwr4svgah18a",
+      "url": "https://s.shopee.com.br/9V2c408pOn",
+      "rating": 4.9,
+      "salesCount": 1707,
+      "official": true,
+      "seller": "Salon Line",
+      "category": "Beleza"
+    },
+    {
       "id": "23998938097",
       "title": "Calça Legging Feminina com Bolsos Laterais Cintura Alta Zero Transparência Academia Fitness Atletyca",
       "price": 52.9,
@@ -1689,6 +1754,20 @@
       "salesCount": 2253,
       "seller": "magiainfantil",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "58218792633",
+      "title": "Necessaire Organizador Cosmético Maquiagem Feminino Para Viagem Em Alto Qualidade",
+      "price": 16.98,
+      "originalPrice": 29.79,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mtgho0fm27ep26",
+      "url": "https://s.shopee.com.br/8KqefpNdLT",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1041,
+      "seller": "Bem Viver",
+      "category": "Beleza"
     },
     {
       "id": "22294449703",
@@ -1746,19 +1825,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "18698147487",
-      "title": "Escova Elétrica Giratória 9 em 1 Recarregável com Cabo Alongador ，Limpeza Multiuso",
-      "price": 59.99,
-      "originalPrice": 181.79,
-      "discountPercent": 67,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mmireijlz4sg78",
-      "url": "https://s.shopee.com.br/5VWTIdg3lS",
-      "rating": 4.8,
-      "salesCount": 3498,
-      "seller": "Samuel Shop",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58250465689",
       "title": "Suporte TV Monitor Articulado Giratório Metálico LED LCD 10-26 Polegadas Reforçado e Ajustável",
       "price": 32.9,
@@ -1798,20 +1864,6 @@
       "salesCount": 878,
       "seller": "ENCAST CONTRY GIRL",
       "category": "Moda"
-    },
-    {
-      "id": "58250584378",
-      "title": "Caderno A5 Extra Grosso 360 Folhas Couro Colorido com Fecho com Ímã Planner 2026 Bloco de notas Agenda",
-      "price": 37.99,
-      "originalPrice": 65.5,
-      "discountPercent": 42,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgzxqv9k5y4lee",
-      "url": "https://s.shopee.com.br/7fayRr8vLa",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 156,
-      "seller": "huanglw738",
-      "category": "Presentes e papelaria"
     },
     {
       "id": "56455915321",
@@ -1979,20 +2031,6 @@
       "category": "Moda"
     },
     {
-      "id": "21498030960",
-      "title": "KITs DE 3 OU 2  FACAS DE CARNE LEGUMES PEIXEIRA DE INOX 6 '' CABO MADEIRA",
-      "price": 19.98,
-      "originalPrice": 39.96,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mosyfdf39rszf7",
-      "url": "https://s.shopee.com.br/1144VXeJoi",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 473,
-      "seller": "KZA_BELA",
-      "category": "Cozinha"
-    },
-    {
       "id": "23394200396",
       "title": "Kit Sabonete + Hidratante + Esfoliante Rhenuks 200ml Corpo e Rosto 10 fragrâncias",
       "price": 29.99,
@@ -2020,19 +2058,6 @@
       "official": true,
       "seller": "Popozuda Oficial",
       "category": "Beleza"
-    },
-    {
-      "id": "23032999814",
-      "title": "3 Saco Organizador Multiuso Embalagem Transparente Edredom Coberta Toalhas de Pvc e Ziper Preto Enxoval Guarda Roupa",
-      "price": 19.99,
-      "originalPrice": 28.15,
-      "discountPercent": 29,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lusgv3w44b51bc",
-      "url": "https://s.shopee.com.br/80DoHCu6TV",
-      "rating": 4.8,
-      "salesCount": 1524,
-      "seller": "Isaplastic",
-      "category": "Casa e organização"
     },
     {
       "id": "22992653456",
@@ -2215,6 +2240,19 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "23394874414",
+      "title": "Planner Semanal Magnético Ima De Geladeira Com Caneta",
+      "price": 22.42,
+      "originalPrice": 60.59,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mle0bc34ml1i32",
+      "url": "https://s.shopee.com.br/9zysewG4tS",
+      "rating": 4.9,
+      "salesCount": 294,
+      "seller": "B&G Kids",
+      "category": "Presentes e papelaria"
+    },
+    {
       "id": "58253554533",
       "title": "Forma Silicone Sabonete Artesanal Massageador Grande 4 Cavidades",
       "price": 18.98,
@@ -2226,20 +2264,6 @@
       "salesCount": 1310,
       "seller": "WGECOMM",
       "category": "Cozinha"
-    },
-    {
-      "id": "58258071799",
-      "title": "Kit Banheiro Acessórios 5 Peças Completo Toalheiro Saboneteira Decoração Preto Branco Cromado Decor",
-      "price": 31.96,
-      "originalPrice": 51.55,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mmjbbyrviqyscd",
-      "url": "https://s.shopee.com.br/1W0KXHZ5FW",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 848,
-      "seller": "Morada de Paz",
-      "category": "Casa e organização"
     },
     {
       "id": "53053245387",
@@ -2280,6 +2304,20 @@
       "salesCount": 1531,
       "seller": "PoliPlast",
       "category": "Casa e organização"
+    },
+    {
+      "id": "58204197533",
+      "title": "Kit Ate 100 Unidades Garfo Faca Sal Guardanapo Descartavel Embalados Restaurante Delivery Festa",
+      "price": 28.98,
+      "originalPrice": 46,
+      "discountPercent": 37,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820la-mqynwoz58c1x0f",
+      "url": "https://s.shopee.com.br/3B8YWKGu6a",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 783,
+      "seller": "Pague Pouco $",
+      "category": "Cozinha"
     },
     {
       "id": "22194732923",
@@ -2365,6 +2403,19 @@
       "category": "Casa e organização"
     },
     {
+      "id": "18698147487",
+      "title": "Escova Elétrica Giratória 9 em 1 Recarregável com Cabo Alongador ，Limpeza Multiuso",
+      "price": 68.9,
+      "originalPrice": 181.32,
+      "discountPercent": 62,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mmireijlz4sg78",
+      "url": "https://s.shopee.com.br/5VWTIdg3lS",
+      "rating": 4.8,
+      "salesCount": 3498,
+      "seller": "Samuel Shop",
+      "category": "Casa e organização"
+    },
+    {
       "id": "23199035279",
       "title": "GOKOCO Secador de Cabelo de Alta Velocidade Secador de Cabelo Profissional 1500W Alta Velocida de 2Minutos Secagem Rápid",
       "price": 189.05,
@@ -2432,6 +2483,19 @@
       "salesCount": 1749,
       "seller": "Terra Celestial",
       "category": "Ferramentas"
+    },
+    {
+      "id": "22999662127",
+      "title": "Tênis Masculino Encast conforto e estilo",
+      "price": 34.9,
+      "originalPrice": 79.32,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mrrmd5x0fw1z0d",
+      "url": "https://s.shopee.com.br/9fM2qttZza",
+      "rating": 4.6,
+      "salesCount": 731,
+      "seller": "ENCAST 04",
+      "category": "Moda"
     },
     {
       "id": "55108506021",
@@ -2784,7 +2848,8 @@
       "rating": 4.9,
       "salesCount": 2287,
       "seller": "Choice Oficial",
-      "category": "Eletrônicos"
+      "category": "Eletrônicos",
+      "hot": true
     },
     {
       "id": "18299268001",
@@ -2870,6 +2935,34 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "58254155069",
+      "title": "Kit com 3 Máscaras SOS Hidratação: Ultra Cachos + Turbinada + Bio-Reconstrução Salon Line",
+      "price": 58.7,
+      "originalPrice": 87.61,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mqwa2dkewfevd5",
+      "url": "https://s.shopee.com.br/8KqefrCzjj",
+      "rating": 4.9,
+      "salesCount": 1603,
+      "official": true,
+      "seller": "Salon Line",
+      "category": "Beleza"
+    },
+    {
+      "id": "23699308150",
+      "title": "Kit com 2 Shampoos e 2 Condicionadores Hidra + Máscara SOS Hidratação Bio-Reconstrução Salon Line",
+      "price": 49.25,
+      "originalPrice": 73.51,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjztfyh5h05ded",
+      "url": "https://s.shopee.com.br/1BWkXiieL",
+      "rating": 4.9,
+      "salesCount": 1150,
+      "official": true,
+      "seller": "Salon Line",
+      "category": "Beleza"
+    },
+    {
       "id": "23793879757",
       "title": "Daily T-shirt Insider",
       "price": 59,
@@ -2926,20 +3019,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "58214452769",
-      "title": "Suporte Magnético para Facas  33cm Ferramentas Utensílios Porta Facas Organizador de Parede Cozinha Oficina",
-      "price": 16.9,
-      "originalPrice": 40.24,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mqr0h8mg2xvld5",
-      "url": "https://s.shopee.com.br/9APmCI8W45",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 409,
-      "seller": "Fortetools LTDA",
-      "category": "Ferramentas"
-    },
-    {
       "id": "41365763294",
       "title": "Teclado Mecânico Gamer Titorion 60% Teclado Preto Computador ABNT2 Hot Swap RGB Switch Red Brown USB LED Titorion",
       "price": 144.8,
@@ -2964,19 +3043,6 @@
       "salesCount": 1860,
       "seller": "Fábrica de Moda Básica",
       "category": "Moda"
-    },
-    {
-      "id": "10588006940",
-      "title": "Planner  Financeiro - Minhas Contas Organizadas",
-      "price": 23.88,
-      "originalPrice": 49.75,
-      "discountPercent": 52,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8du61cdq4tt7f",
-      "url": "https://s.shopee.com.br/9V2cdE1wd7",
-      "rating": 4.9,
-      "salesCount": 97,
-      "seller": "Nisti Print Papelaria Criativa",
-      "category": "Presentes e papelaria"
     },
     {
       "id": "52605012484",
@@ -3141,18 +3207,18 @@
       "category": "Beleza"
     },
     {
-      "id": "23692960598",
-      "title": "facas de cozinha/Churrasco Profissional  Antiaderente 6 Peças Preto/colorido",
-      "price": 19.99,
-      "originalPrice": 83.29,
-      "discountPercent": 76,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4k-lu5etfkbmlecf4",
-      "url": "https://s.shopee.com.br/1BXJhi7qU",
+      "id": "49766317145",
+      "title": "Quadro Decorativo Trio Flores Minamislista Clean Douradas Deus é Bom o Tempo Todo Para Sala Quarto 4K",
+      "price": 34.9,
+      "originalPrice": 79.32,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-ms32z8f1n7rb12",
+      "url": "https://s.shopee.com.br/60SjtY95BB",
       "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 549,
-      "seller": "ZSZ_brasil",
-      "category": "Cozinha"
+      "rating": 4.7,
+      "salesCount": 866,
+      "seller": "ITopDecor",
+      "category": "Casa e organização"
     },
     {
       "id": "49608965059",
@@ -3263,20 +3329,6 @@
       "salesCount": 2821,
       "seller": "Mimi Kids",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "23492807406",
-      "title": "Planner Lista Enxoval de Casa Nova Personalizado Completo Controle Financeiro Casamento Noiva Noivos",
-      "price": 24.24,
-      "originalPrice": 37.88,
-      "discountPercent": 36,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-ms619b9fdvk45d",
-      "url": "https://s.shopee.com.br/7AehqwApMR",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 167,
-      "seller": "Q Festança",
-      "category": "Presentes e papelaria"
     },
     {
       "id": "58203212212",
@@ -3391,20 +3443,6 @@
       "category": "Cozinha"
     },
     {
-      "id": "41368657771",
-      "title": "Astgn X Basike Caixa de Som Bluetooth Estéreo  80W Potente IPX6 TWS RGB",
-      "price": 354.34,
-      "originalPrice": 1012.4,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mejq3arh54ow9f",
-      "url": "https://s.shopee.com.br/30p8K1Thwg",
-      "rating": 4.9,
-      "salesCount": 636,
-      "official": true,
-      "seller": "Astgn X Basike",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "58202085853",
       "title": "Porta Escovas e Creme Dental com Tampa e Organizador para Banheiro Higiênico",
       "price": 15.8,
@@ -3489,19 +3527,6 @@
       "hot": true
     },
     {
-      "id": "22394903015",
-      "title": "Planner Mensal de Mesa A4 - 52 folhas - Organize seu mês com Foco e Intenção",
-      "price": 16.99,
-      "originalPrice": 26.14,
-      "discountPercent": 35,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260z-mlpje40b0gsi9e",
-      "url": "https://s.shopee.com.br/7Ky83FAC1U",
-      "rating": 5,
-      "salesCount": 168,
-      "seller": "elyvescomercial",
-      "category": "Presentes e papelaria"
-    },
-    {
       "id": "22597338672",
       "title": "Mini Guarda-Chuva Portátil Dobravel UPF50+ Cápsula Ultra Leve com Estojo – Proteção UV",
       "price": 23.99,
@@ -3528,6 +3553,19 @@
       "salesCount": 1093,
       "seller": "Loja Oficial N&M 1",
       "category": "Cozinha"
+    },
+    {
+      "id": "22599177316",
+      "title": "Quadro Decorativo Placa Decorativa 1 Peça 90x60Cm Personalizado Com Sua Foto Qualquer Imagem Painel",
+      "price": 49.97,
+      "originalPrice": 70.38,
+      "discountPercent": 29,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-msbfdxtip0cl68",
+      "url": "https://s.shopee.com.br/8fTV4Ryvlx",
+      "rating": 4.8,
+      "salesCount": 880,
+      "seller": "ArtWall",
+      "category": "Casa e organização"
     },
     {
       "id": "26430312109",
@@ -3597,6 +3635,20 @@
       "salesCount": 537,
       "seller": "Tudo Bom ",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "58204153704",
+      "title": "Kit Shampoo + Condicionador + Creme para Pentear 300ml SOS Cachos Kids Hidratação Salon Line",
+      "price": 46.1,
+      "originalPrice": 64.93,
+      "discountPercent": 29,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-msr3shcqrz0n32",
+      "url": "https://s.shopee.com.br/7VHXgKGRSb",
+      "rating": 4.9,
+      "salesCount": 1205,
+      "official": true,
+      "seller": "Salon Line",
+      "category": "Beleza"
     },
     {
       "id": "58207914273",
@@ -3834,6 +3886,19 @@
       "category": "Ferramentas"
     },
     {
+      "id": "20197669054",
+      "title": "Tenis Masculino Escolar Academia Original FREEDOM Corrida Caminhada Lançamento PRETO e DOURADO",
+      "price": 46.99,
+      "originalPrice": 70.13,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltwnifcpjwpx8a",
+      "url": "https://s.shopee.com.br/5VWTtF9RRt",
+      "rating": 4.8,
+      "salesCount": 678,
+      "seller": "Cirandinha Shoes",
+      "category": "Moda"
+    },
+    {
       "id": "22992868060",
       "title": "Umidificador De Ar Com Grande Capacidade Para Casa/Escritório Com Atmosfera Led Luz Noturna Lâmpada Casa Para Quarto",
       "price": 16.99,
@@ -3872,6 +3937,20 @@
       "salesCount": 1482,
       "seller": "Capitãozinho",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "22394651285",
+      "title": "Carrinho Organizador Multiuso Laterais Aço - 3 Prateleiras Carrinho de armazenamento S9",
+      "price": 79.99,
+      "originalPrice": 216.19,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgrljce3neh1e2",
+      "url": "https://s.shopee.com.br/1BXLBxlEo",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 105,
+      "seller": "Miudezas Felizes",
+      "category": "Ferramentas"
     },
     {
       "id": "22198393127",
@@ -4048,91 +4127,6 @@
       "salesCount": 319,
       "seller": "PJ DECORAÇÕES ",
       "category": "Casa e organização"
-    },
-    {
-      "id": "58207708258",
-      "title": "Kit 4 Short Bermuda Infantil Juvenil Tactel Menino Praia Com Bolso Elastano Premium 2 a 16 Anos",
-      "price": 38.88,
-      "originalPrice": 99.69,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mt4bdbzoonb9a1",
-      "url": "https://s.shopee.com.br/3B8YWNAXH6",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 4383,
-      "seller": "EDYBOY",
-      "category": "Moda"
-    },
-    {
-      "id": "44162911290",
-      "title": "Areia 4Kg Biodegradável Kadi Grãos Finos para Gatos",
-      "price": 29.99,
-      "originalPrice": 50.83,
-      "discountPercent": 41,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxl-mdet8ey488yyfe",
-      "url": "https://s.shopee.com.br/1BNU8hW6Yv",
-      "rating": 4.8,
-      "salesCount": 6073,
-      "official": true,
-      "seller": "mypetone",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "21998277686",
-      "title": "Kit 20 Unidades Bebedouros Automáticos Aves Galinhas Codornas",
-      "price": 34.89,
-      "originalPrice": 89.46,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mmccxdwf9uyo8e",
-      "url": "https://s.shopee.com.br/6VP0UVFAa4",
-      "rating": 4.9,
-      "salesCount": 1093,
-      "seller": "WGECOMM",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "22297158685",
-      "title": "Umidificador Atomizador De Ar Doméstico Portátil Umidificador 200ml ANJGG",
-      "price": 15.99,
-      "originalPrice": 79.95,
-      "discountPercent": 80,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259g-mfziriko5yxb36",
-      "url": "https://s.shopee.com.br/5q9JhFaBQM",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 3072,
-      "seller": "ANJ.GG store",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "23897143938",
-      "title": "Umidificador Hm-20 Ultrassônico  0,22 L 1,5 W USB Incluso Branco",
-      "price": 15.99,
-      "originalPrice": 79.95,
-      "discountPercent": 80,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lz-mqxgvw7kebye22",
-      "url": "https://s.shopee.com.br/40hfVshA96",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 2308,
-      "seller": "ANJ.GG store",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "58202075375",
-      "title": "KIT 3 Ou 5 Capas Silicone Cor SortIdas Compatível Com Todos iPhone 17 16 15 14 13 12 11 Pro Max Plus X XR XS Max",
-      "price": 24.89,
-      "originalPrice": 49.78,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj3n22tz6qrled",
-      "url": "https://s.shopee.com.br/4B15i9yrq8",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1740,
-      "seller": "KASPRIME.STORE",
-      "category": "Eletrônicos"
     }
   ]
 }
