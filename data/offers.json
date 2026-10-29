@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T22:09:34.712Z",
+  "updatedAt": "2026-10-29T22:30:22.955Z",
   "offers": [
     {
       "id": "20042293295",
@@ -200,20 +200,6 @@
       "salesCount": 4577,
       "official": true,
       "seller": "Adora ",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "18857098349",
-      "title": "Kit 10 Removedor De Pêlos Pet Máquina De Lavar Roupa",
-      "price": 16.99,
-      "originalPrice": 49.97,
-      "discountPercent": 66,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825au-mt6a42tv5ds15c",
-      "url": "https://s.shopee.com.br/AUv9FqzwZf",
-      "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 1225,
-      "seller": "BIG MO",
       "category": "Pet e bebê"
     },
     {
@@ -797,18 +783,17 @@
       "category": "Eletrônicos"
     },
     {
-      "id": "22591222586",
-      "title": "KIT 2 Baralho Conjunto Cartão de Jogo Dourado 24k Prova D'água Promoção",
-      "price": 23.99,
-      "originalPrice": 47.98,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lgsqbykc2hor1b",
-      "url": "https://s.shopee.com.br/2LZRWqNGWl",
-      "hasVariantPrices": true,
+      "id": "56358522828",
+      "title": "Fita Isolante Preta Kit 20 Rolos Antichama 750V 5m Alta Resistência Instalação Elétrica Profissional",
+      "price": 27.98,
+      "originalPrice": 62.18,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mqqrntem2bcy89",
+      "url": "https://s.shopee.com.br/4B16zqWfUi",
       "rating": 4.9,
-      "salesCount": 1435,
-      "seller": "REAL MO",
-      "category": "Pet e bebê"
+      "salesCount": 168,
+      "seller": "rgprimeprime",
+      "category": "Ferramentas"
     },
     {
       "id": "58266694509",
@@ -1043,19 +1028,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58202615709",
-      "title": "MINI Refrigerador De Ar Ventilador Umidificador Dupla Giratório+rgb Camada Ventilador Climatizador Ar C/ Reservatório",
-      "price": 56.04,
-      "originalPrice": 186.8,
-      "discountPercent": 70,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zue-mizz3df604cj39",
-      "url": "https://s.shopee.com.br/6VP0UTXe4Q",
-      "rating": 4.6,
-      "salesCount": 3672,
-      "seller": "JX VERDE",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58202329642",
       "title": "Popozuda Creme Corporal Termoativo para Estrias e Celulite 200g | Efeito Aquecimento",
       "price": 79.9,
@@ -1069,6 +1041,20 @@
       "official": true,
       "seller": "Popozuda Oficial",
       "category": "Beleza"
+    },
+    {
+      "id": "23598766403",
+      "title": "Remendo 100x140 Adesivo De Couro Ecológico Autoadesivo Reparo Sofá Banco Carro Bolsa Cadeira Escritório Restauração",
+      "price": 30.4,
+      "originalPrice": 152,
+      "discountPercent": 80,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mnerq4mgz9qa7f",
+      "url": "https://s.shopee.com.br/6VP1m8oBOx",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 326,
+      "seller": "Hamburgo Oficial",
+      "category": "Casa e organização"
     },
     {
       "id": "22194675243",
@@ -1148,6 +1134,32 @@
       "salesCount": 3978,
       "seller": "ElisJeans",
       "category": "Moda"
+    },
+    {
+      "id": "52009780106",
+      "title": "Cadeira Presidente Ergonômica Reclinável para Escritório e Home Office com Apoio para Pés NR17 até 150 kg LARUNO",
+      "price": 489.9,
+      "originalPrice": 1194.88,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mtjiexh5btoi47",
+      "url": "https://s.shopee.com.br/8VA69ogZLX",
+      "rating": 4.8,
+      "salesCount": 244,
+      "seller": "LARUNO",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58202615709",
+      "title": "MINI Refrigerador De Ar Ventilador Umidificador Dupla Giratório+rgb Camada Ventilador Climatizador Ar C/ Reservatório",
+      "price": 59.88,
+      "originalPrice": 187.13,
+      "discountPercent": 68,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zue-mizz3df604cj39",
+      "url": "https://s.shopee.com.br/6VP0UTXe4Q",
+      "rating": 4.6,
+      "salesCount": 3672,
+      "seller": "JX VERDE",
+      "category": "Casa e organização"
     },
     {
       "id": "20999494647",
@@ -1563,6 +1575,20 @@
       "category": "Moda"
     },
     {
+      "id": "22594060425",
+      "title": "Copo Para Bebê - Anti-Vazamento - Bico Silicone Macio - Alça Removivel - 330 ML - Mamadeira",
+      "price": 21.99,
+      "originalPrice": 53.63,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-ml70oaljthc7fa",
+      "url": "https://s.shopee.com.br/qkf1i0KVR",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 647,
+      "seller": "Delícia de Bebê",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "58250382369",
       "title": "Bolsa De Armazenamento De Ferramentas De Carro Em Feltro Para O Porta-Malas Do Carro",
       "price": 30.9,
@@ -1711,7 +1737,7 @@
       "originalPrice": 85.32,
       "discountPercent": 38,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb9py64wpadf5",
-      "url": "https://s.shopee.com.br/1BNU8h0HCz",
+      "url": "https://s.shopee.com.br/60SlBCUUaV",
       "rating": 4.8,
       "salesCount": 3493,
       "seller": "Atletyca Oficial",
@@ -1786,20 +1812,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "22894923594",
-      "title": "VELA AROMÁTICA 150G ARTESANAL PREMIUM PERFUMADA CERA COCO 100% NATURAL",
-      "price": 23,
-      "originalPrice": 69.7,
-      "discountPercent": 67,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mmf90m1c21hjc8",
-      "url": "https://s.shopee.com.br/3B8YWLkGdz",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 276,
-      "seller": "SEA & LAR",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58250465689",
       "title": "Suporte TV Monitor Articulado Giratório Metálico LED LCD 10-26 Polegadas Reforçado e Ajustável",
       "price": 32.9,
@@ -1811,19 +1823,6 @@
       "rating": 4.8,
       "salesCount": 610,
       "seller": "LojaZini",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "56455915321",
-      "title": "Almofada de Assento Automotiva para Motorista Carro e Cadeira de Escritório Cor Preta",
-      "price": 34.9,
-      "originalPrice": 60.17,
-      "discountPercent": 42,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke6aqr3ypdvbf",
-      "url": "https://s.shopee.com.br/30p8Ue5UNe",
-      "rating": 4.5,
-      "salesCount": 374,
-      "seller": "M.A Acessórios e Variedades",
       "category": "Casa e organização"
     },
     {
@@ -2007,6 +2006,19 @@
       "official": true,
       "seller": "Popozuda Oficial",
       "category": "Beleza"
+    },
+    {
+      "id": "58258185784",
+      "title": "Kit Com 2 Bermudas Tactel Elastano Masculina Bolso Com Zíper Academia, Treino e Praia",
+      "price": 59.9,
+      "originalPrice": 119.8,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mo5kvty6xkhw4e",
+      "url": "https://s.shopee.com.br/30p9bgfug6",
+      "rating": 4.7,
+      "salesCount": 2571,
+      "seller": "Mess Fitness",
+      "category": "Moda"
     },
     {
       "id": "22992653456",
@@ -2435,6 +2447,20 @@
       "category": "Beleza"
     },
     {
+      "id": "21198316548",
+      "title": "Shorts Saia Jeans Cintura Alta Modelador 100% Algodão Jorts Feminino Tendência Moda Gringa",
+      "price": 78.99,
+      "originalPrice": 149.04,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfahmhaufpc6e2",
+      "url": "https://s.shopee.com.br/6L5bZoTDuX",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 3009,
+      "seller": "Olhares Store",
+      "category": "Moda"
+    },
+    {
       "id": "22695017676",
       "title": "Kit 5 Top Infantil Juvenil Teen Menina Algodão Sutia Sem Bojo Alça Ajustavel Básico Usar Uniforme",
       "price": 34.45,
@@ -2468,7 +2494,7 @@
       "originalPrice": 90.88,
       "discountPercent": 67,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8p3j4v55nkh48",
-      "url": "https://s.shopee.com.br/2Vsrj9LfTA",
+      "url": "https://s.shopee.com.br/2Vst0m7Fg2",
       "rating": 4.8,
       "salesCount": 821,
       "seller": "shopwithus",
@@ -2485,6 +2511,19 @@
       "rating": 4.9,
       "salesCount": 744,
       "seller": "Global Shop21",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "22894923594",
+      "title": "VELA AROMÁTICA 150G ARTESANAL PREMIUM PERFUMADA CERA COCO 100% NATURAL",
+      "price": 27.5,
+      "originalPrice": 70.51,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mmf90m1c21hjc8",
+      "url": "https://s.shopee.com.br/3B8YWLkGdz",
+      "rating": 4.8,
+      "salesCount": 276,
+      "seller": "SEA & LAR",
       "category": "Casa e organização"
     },
     {
@@ -2787,6 +2826,20 @@
       "category": "Moda"
     },
     {
+      "id": "22998322431",
+      "title": "Kit 4/12 Rolos Fita De Estilo Japonês Enxerto Para Cílios Respirável Lindo Isolante Inferiores Postiços S-16",
+      "price": 18.2,
+      "originalPrice": 60.67,
+      "discountPercent": 70,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd6y-m7h953uqtiar6e",
+      "url": "https://s.shopee.com.br/40hgnXXIph",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 162,
+      "seller": "Lótusbranca",
+      "category": "Ferramentas"
+    },
+    {
       "id": "18597787721",
       "title": "Mochila Escolar Reforçada Nylon Impermeável Viagem Esportiva",
       "price": 39.9,
@@ -2944,27 +2997,13 @@
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zte-mimqypxh1jwm67",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zto-mimqzrbp86is9a",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 9783,
       "official": true,
       "seller": "INSIDER",
-      "category": "Moda"
-    },
-    {
-      "id": "23193518683",
-      "title": "Bermuda Modeladora Anágua Cinta Short Feminino Modelador Alta Compressão Reduz Medidas pos parto",
-      "price": 20.96,
-      "originalPrice": 40.31,
-      "discountPercent": 48,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m29x89by72l25f",
-      "url": "https://s.shopee.com.br/7faxsdtP8e",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 9754,
-      "seller": "NM LINGERIE",
       "category": "Moda"
     },
     {
@@ -3361,6 +3400,19 @@
       "rating": 4.9,
       "salesCount": 1380,
       "seller": "KL330",
+      "category": "Moda"
+    },
+    {
+      "id": "52467968041",
+      "title": "Sutia Premium Top Poliamida com Elastano Tecido Texturizado Barra Canelada com Bojo",
+      "price": 22.5,
+      "originalPrice": 50,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mt8egctrc7iab3",
+      "url": "https://s.shopee.com.br/AKbkLAMnH6",
+      "rating": 4.6,
+      "salesCount": 215,
+      "seller": " Casa da Lingerie",
       "category": "Moda"
     },
     {
@@ -3836,21 +3888,6 @@
       "category": "Ferramentas"
     },
     {
-      "id": "21099836557",
-      "title": "Processador Triturador De Alimentos New Oggi Mallory Cor Preto",
-      "price": 66.99,
-      "originalPrice": 117.53,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwm-mc2jv1qmrooz0e",
-      "url": "https://s.shopee.com.br/1LguN2wjqx",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3670,
-      "official": true,
-      "seller": "Tudão Tech  Ltda",
-      "category": "Cozinha"
-    },
-    {
       "id": "20398185214",
       "title": "Sapateira Organizadora com 9 Prateleiras para Organizar Sapatos Calçados Chinelos Roupas Objetos 24 Pares - Black",
       "price": 54.99,
@@ -4029,6 +4066,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "58267928931",
+      "title": "Jogo de Xadrez Magnético com Esferas e Ímã, Tabuleiro Educacional Infantil Lógica e Estratégia, Brinquedo de Família",
+      "price": 25.66,
+      "originalPrice": 53.46,
+      "discountPercent": 52,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mtkqnr9utf5t0a",
+      "url": "https://s.shopee.com.br/2BG1sK9AtK",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 808,
+      "seller": "Mercado Elite",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "23297548342",
       "title": "Haste Eixo Suporte Adaptador Universal Disco De Corte Desbaste Rebolo Lixa Furadeira Parafusadeira Furo 16 - 20 - 22mm",
       "price": 28.97,
@@ -4082,59 +4133,6 @@
       "salesCount": 2793,
       "seller": "LUZORA",
       "category": "Casa e organização"
-    },
-    {
-      "id": "25946709329",
-      "title": "ULTRA HIDRATAÇÃO EFEITO TEIA COM ÓLEOS MARROQUINOS - OURO MARROQUINO - FINA MARIA PROFISSIONAL",
-      "price": 38.9,
-      "originalPrice": 79.39,
-      "discountPercent": 51,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258h-mr1ynaykoao016",
-      "url": "https://s.shopee.com.br/9fM2GJCao4",
-      "rating": 4.9,
-      "salesCount": 31200,
-      "seller": "Distribuidora Oficial Fina Maria",
-      "category": "Beleza"
-    },
-    {
-      "id": "18698826077",
-      "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
-      "price": 149,
-      "originalPrice": 338.64,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
-      "url": "https://s.shopee.com.br/8fTVbN1grU",
-      "rating": 4.9,
-      "salesCount": 1216,
-      "official": true,
-      "seller": "Eletricario Loja Oficial",
-      "category": "Ferramentas"
-    },
-    {
-      "id": "46007151632",
-      "title": "Pendente Triplo Lustre Luminária Aramado Tulipa Cabo Cristal 1 Metro",
-      "price": 59.2,
-      "originalPrice": 80,
-      "discountPercent": 26,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mlqzwskv8d8ke3",
-      "url": "https://s.shopee.com.br/1143wN1adf",
-      "rating": 4.8,
-      "salesCount": 318,
-      "seller": "PJ DECORAÇÕES ",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "21998277686",
-      "title": "Kit 20 Unidades Bebedouros Automáticos Aves Galinhas Codornas",
-      "price": 34.89,
-      "originalPrice": 89.46,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mmccxdwf9uyo8e",
-      "url": "https://s.shopee.com.br/6VP0UVFAa4",
-      "rating": 4.9,
-      "salesCount": 1116,
-      "seller": "WGECOMM",
-      "category": "Pet e bebê"
     }
   ]
 }
