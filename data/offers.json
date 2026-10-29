@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T10:21:38.383Z",
+  "updatedAt": "2026-10-29T10:52:13.361Z",
   "offers": [
     {
       "id": "20042293295",
@@ -245,20 +245,6 @@
       "hot": true
     },
     {
-      "id": "21499198919",
-      "title": "1/2/5 Pcs Carteiras Fibra De Carbono Porta-Cartões Masculina Marca Preta Mágica Tripla De Couro",
-      "price": 16.5,
-      "originalPrice": 45.83,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztg-mkly7lthkmir9e",
-      "url": "https://s.shopee.com.br/5fptUxkB28",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 1471,
-      "seller": "Vida Criativa ",
-      "category": "Moda"
-    },
-    {
       "id": "58252737415",
       "title": "Sacola Organizadora A4/A5/A6 Kit 3/5/10 Para Peças Lego Quebra-Cabeça Papéis e Maquiagem - Armazene Tudo",
       "price": 17.99,
@@ -479,8 +465,7 @@
       "rating": 4.8,
       "salesCount": 4863,
       "seller": "HACKBERRY",
-      "category": "Moda",
-      "hot": true
+      "category": "Moda"
     },
     {
       "id": "29424706558",
@@ -524,19 +509,6 @@
       "salesCount": 3317,
       "seller": "OmniStore",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "21499198935",
-      "title": "Carteiras Fibra De Carbono Porta-Cartões Masculina Marca Preta Mágica Tripla De Couro",
-      "price": 16.5,
-      "originalPrice": 33.67,
-      "discountPercent": 51,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259m-mu4940kjo7phc5",
-      "url": "https://s.shopee.com.br/6q1qt6fjfX",
-      "rating": 4.6,
-      "salesCount": 1112,
-      "seller": "INFINITY COMERCIO DE VARIEDADES",
-      "category": "Moda"
     },
     {
       "id": "26734497572",
@@ -1435,20 +1407,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "20899597911",
-      "title": "Blusa Academia feminina Oval ) Regata Veste Legging Camisão Tapa Bumbum Camiseta Tule Roupas de Academia Dry Fit Treino",
-      "price": 22.38,
-      "originalPrice": 34.97,
-      "discountPercent": 36,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mpntwianxqmb13",
-      "url": "https://s.shopee.com.br/3qOFJaunc2",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1741,
-      "seller": "ATITUDE ÚNICA MODA FEMININA",
-      "category": "Moda"
-    },
-    {
       "id": "22693482091",
       "title": "KIT 12 Peças de Utensílios Para Cozinha em Silicone e Bambu",
       "price": 29.99,
@@ -1769,20 +1727,6 @@
       "salesCount": 664,
       "seller": "Lua Nova - Criações Aromáticas",
       "category": "Casa e organização"
-    },
-    {
-      "id": "44467503760",
-      "title": "Regata Alça Fina Fitness Blusa Feminino Liso Poliamida Tank Top Slim Camiseta Academia Verão",
-      "price": 39.9,
-      "originalPrice": 70,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me8wwjjliw3m30",
-      "url": "https://s.shopee.com.br/LoN9A87iB",
-      "rating": 4.9,
-      "salesCount": 2138,
-      "official": true,
-      "seller": "PINK URBAN",
-      "category": "Moda"
     },
     {
       "id": "18199668940",
@@ -2251,6 +2195,20 @@
       "salesCount": 1310,
       "seller": "WGECOMM",
       "category": "Cozinha"
+    },
+    {
+      "id": "58258071799",
+      "title": "Kit Banheiro Acessórios 5 Peças Completo Toalheiro Saboneteira Decoração Preto Branco Cromado Decor",
+      "price": 31.96,
+      "originalPrice": 51.55,
+      "discountPercent": 38,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mmjbbyrviqyscd",
+      "url": "https://s.shopee.com.br/1W0KXHZ5FW",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 848,
+      "seller": "Morada de Paz",
+      "category": "Casa e organização"
     },
     {
       "id": "53053245387",
@@ -2743,19 +2701,6 @@
       "category": "Beleza"
     },
     {
-      "id": "22898567954",
-      "title": "Vestido Básico de  Alçinha COM BOLSO Para o Verão Vestido Curto Confortavel Plus Size Com Elasticidade Soltinho",
-      "price": 29.99,
-      "originalPrice": 49.98,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-man68bkisdfd5a",
-      "url": "https://s.shopee.com.br/8VA4sAd27Q",
-      "rating": 4.9,
-      "salesCount": 2247,
-      "seller": "Mig Rouparia",
-      "category": "Moda"
-    },
-    {
       "id": "23298142175",
       "title": "Calça Jeans Feminina Wide Leg Pantalona Grafite Marmorizada Cintura Alta 34 ao 44",
       "price": 59.99,
@@ -2849,8 +2794,7 @@
       "rating": 4.9,
       "salesCount": 2287,
       "seller": "Choice Oficial",
-      "category": "Eletrônicos",
-      "hot": true
+      "category": "Eletrônicos"
     },
     {
       "id": "58258453576",
@@ -3513,6 +3457,19 @@
       "category": "Moda"
     },
     {
+      "id": "22494530391",
+      "title": "Kit 2 Top Costas Nua Fitness Alcinha Feminino Academia",
+      "price": 23.89,
+      "originalPrice": 39.82,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfvu3l33cuf451",
+      "url": "https://s.shopee.com.br/4fxMooPQ7e",
+      "rating": 4.8,
+      "salesCount": 626,
+      "seller": "Louve Store",
+      "category": "Moda"
+    },
+    {
       "id": "8333126075",
       "title": "Bota Feminina Coturno Tratorado Blogueira Confortavel PROMOÇÃO PREÇO DE FABRICA",
       "price": 59.8,
@@ -3705,20 +3662,6 @@
       "rating": 4.8,
       "salesCount": 2607,
       "seller": "Casa90",
-      "category": "Moda"
-    },
-    {
-      "id": "23998943440",
-      "title": "Vestido Feminino Curto Estampado Com Alça De Regulagem e Elastex",
-      "price": 38.99,
-      "originalPrice": 69.63,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mttxy5gumlflba",
-      "url": "https://s.shopee.com.br/9V2c40ZE5W",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2708,
-      "seller": "Damaviê",
       "category": "Moda"
     },
     {
@@ -4128,6 +4071,63 @@
       "salesCount": 4383,
       "seller": "EDYBOY",
       "category": "Moda"
+    },
+    {
+      "id": "44162911290",
+      "title": "Areia 4Kg Biodegradável Kadi Grãos Finos para Gatos",
+      "price": 29.99,
+      "originalPrice": 50.83,
+      "discountPercent": 41,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxl-mdet8ey488yyfe",
+      "url": "https://s.shopee.com.br/1BNU8hW6Yv",
+      "rating": 4.8,
+      "salesCount": 6073,
+      "official": true,
+      "seller": "mypetone",
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "21998277686",
+      "title": "Kit 20 Unidades Bebedouros Automáticos Aves Galinhas Codornas",
+      "price": 34.89,
+      "originalPrice": 89.46,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mmccxdwf9uyo8e",
+      "url": "https://s.shopee.com.br/6VP0UVFAa4",
+      "rating": 4.9,
+      "salesCount": 1093,
+      "seller": "WGECOMM",
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "22297158685",
+      "title": "Umidificador Atomizador De Ar Doméstico Portátil Umidificador 200ml ANJGG",
+      "price": 15.99,
+      "originalPrice": 79.95,
+      "discountPercent": 80,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259g-mfziriko5yxb36",
+      "url": "https://s.shopee.com.br/5q9JhFaBQM",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 3072,
+      "seller": "ANJ.GG store",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "23897143938",
+      "title": "Umidificador Hm-20 Ultrassônico  0,22 L 1,5 W USB Incluso Branco",
+      "price": 15.99,
+      "originalPrice": 79.95,
+      "discountPercent": 80,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lz-mqxgvw7kebye22",
+      "url": "https://s.shopee.com.br/40hfVshA96",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 2308,
+      "seller": "ANJ.GG store",
+      "category": "Casa e organização",
+      "hot": true
     }
   ]
 }
