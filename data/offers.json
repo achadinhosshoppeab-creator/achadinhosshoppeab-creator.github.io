@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T08:18:56.900Z",
+  "updatedAt": "2026-10-29T08:49:48.818Z",
   "offers": [
     {
       "id": "20042293295",
@@ -721,6 +721,7 @@
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-ms5l9in9msqt7f",
       "url": "https://s.shopee.com.br/70LH5O19XI",
+      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 4184,
       "seller": "Fonte Boa Casa",
@@ -1866,20 +1867,6 @@
       "category": "Moda"
     },
     {
-      "id": "19132144851",
-      "title": "Kit 3 Lençol Berço Americano Percal 400 Fios Macio com Elástico 130x70cm Menina e Menino",
-      "price": 26.2,
-      "originalPrice": 54.58,
-      "discountPercent": 52,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkgr3wef5fcx7c",
-      "url": "https://s.shopee.com.br/7AehHizQut",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2913,
-      "seller": "GRUPO HH BABY Loja 1",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "56455915321",
       "title": "Almofada de Assento Automotiva para Motorista Carro e Cadeira de Escritório Cor Preta",
       "price": 34.9,
@@ -1961,6 +1948,20 @@
       "category": "Beleza"
     },
     {
+      "id": "22292949724",
+      "title": "Papel de Parede Mármore Branco com Dourado Para Sala Quarto | Autocolante Lavável | Adesivo Vinílico De Fácil Aplicação",
+      "price": 21.98,
+      "originalPrice": 62.8,
+      "discountPercent": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke79xgy03k1e2",
+      "url": "https://s.shopee.com.br/1LguiEpW3H",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1040,
+      "seller": "imperial_adesivos",
+      "category": "Casa e organização"
+    },
+    {
       "id": "58264295508",
       "title": "Copo garrafa Térmica Inox 1200ml Parede Dupla tampa Canudo Premium",
       "price": 34.99,
@@ -2029,6 +2030,20 @@
       "salesCount": 5984,
       "seller": "romeromodasltda",
       "category": "Moda"
+    },
+    {
+      "id": "58252046695",
+      "title": "Papel Adesivo Parede 5/10/15m Mármore Dourado c/ Preto Cozinha Quarto Lavável Sala Banheiro Antimofo",
+      "price": 26.9,
+      "originalPrice": 59.78,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mibrs911eayu73",
+      "url": "https://s.shopee.com.br/BUxK5txQA",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 816,
+      "seller": "HG Variedades Oficial",
+      "category": "Casa e organização"
     },
     {
       "id": "23394200396",
@@ -2456,6 +2471,20 @@
       "salesCount": 2447,
       "seller": "DBL LINGERIE",
       "category": "Moda"
+    },
+    {
+      "id": "19132144851",
+      "title": "Kit 3 Lençol Berço Americano Percal 400 Fios Macio com Elástico 130x70cm Menina e Menino",
+      "price": 28.99,
+      "originalPrice": 54.7,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkgr3wef5fcx7c",
+      "url": "https://s.shopee.com.br/7AehHizQut",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2913,
+      "seller": "GRUPO HH BABY Loja 1",
+      "category": "Pet e bebê"
     },
     {
       "id": "21898108143",
@@ -4100,33 +4129,6 @@
       "salesCount": 30756,
       "seller": "Distribuidora Oficial Fina Maria",
       "category": "Beleza"
-    },
-    {
-      "id": "18698826077",
-      "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
-      "price": 149,
-      "originalPrice": 338.64,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
-      "url": "https://s.shopee.com.br/50aChkPLhn",
-      "rating": 4.9,
-      "salesCount": 1251,
-      "official": true,
-      "seller": "Eletricario Loja Oficial",
-      "category": "Ferramentas"
-    },
-    {
-      "id": "46007151632",
-      "title": "Pendente Triplo Lustre Luminária Aramado Tulipa Cabo Cristal 1 Metro",
-      "price": 59.2,
-      "originalPrice": 80,
-      "discountPercent": 26,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mlqzwskv8d8ke3",
-      "url": "https://s.shopee.com.br/1143wN1adf",
-      "rating": 4.8,
-      "salesCount": 319,
-      "seller": "PJ DECORAÇÕES ",
-      "category": "Casa e organização"
     }
   ]
 }
