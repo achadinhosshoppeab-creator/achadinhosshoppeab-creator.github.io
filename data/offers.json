@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T17:18:53.180Z",
+  "updatedAt": "2026-10-29T17:39:41.242Z",
   "offers": [
     {
       "id": "20042293295",
@@ -1162,6 +1162,20 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "41759312237",
+      "title": "Caixa de armazenamento de algodão de roupas grande cremalheira  tecido cesta dobrável quarto",
+      "price": 31.9,
+      "originalPrice": 118.15,
+      "discountPercent": 73,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-msfe2pr3cbgm4c",
+      "url": "https://s.shopee.com.br/2gCIt5g6WJ",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 875,
+      "seller": "Melhores coisas",
+      "category": "Casa e organização"
+    },
+    {
       "id": "20999494647",
       "title": "Difusor de Cachos Ar Universal para Secador de Cabelo",
       "price": 23.99,
@@ -2021,6 +2035,19 @@
       "category": "Beleza"
     },
     {
+      "id": "23493838626",
+      "title": "Tapete de Pedra Diatomita Para Banheiro Secagem Rápida 60cm x 39cm Antiderrapante Impermeável",
+      "price": 74.9,
+      "originalPrice": 208.06,
+      "discountPercent": 64,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg2966xfuakk18",
+      "url": "https://s.shopee.com.br/6fiRePmeSZ",
+      "rating": 4.9,
+      "salesCount": 832,
+      "seller": "Hannover Home",
+      "category": "Casa e organização"
+    },
+    {
       "id": "22992653456",
       "title": "Bettdow Teclado Mágico para ipad A16 2025 Pro 11 Air 4 5 6 10th Gen  Caso Teclado Bluetooth Sem Fio iPad não incluíd",
       "price": 375,
@@ -2146,19 +2173,6 @@
       "category": "Eletrônicos"
     },
     {
-      "id": "22199198026",
-      "title": "Kit Grampos e Presilhas Automotivas com 100 Peças + Estojo Organizador Universal Reforçado",
-      "price": 15.88,
-      "originalPrice": 49.63,
-      "discountPercent": 68,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgz8isbs2yo794",
-      "url": "https://s.shopee.com.br/8pmvGnOA7U",
-      "rating": 4.9,
-      "salesCount": 3542,
-      "seller": "RD ECOM",
-      "category": "Presentes e papelaria"
-    },
-    {
       "id": "41022402072",
       "title": "2026 Smartwatch Original S10 Pro 38mm/45mm Unissex - Chamadas via Bluetooth Esportivo Teste de pressão arterial",
       "price": 39.99,
@@ -2225,6 +2239,19 @@
       "rating": 4.9,
       "salesCount": 294,
       "seller": "B&G Kids",
+      "category": "Presentes e papelaria"
+    },
+    {
+      "id": "22199198026",
+      "title": "Kit Grampos e Presilhas Automotivas com 100 Peças + Estojo Organizador Universal Reforçado",
+      "price": 15.88,
+      "originalPrice": 49.63,
+      "discountPercent": 68,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgz8isbs2yo794",
+      "url": "https://s.shopee.com.br/8pmvGnOA7U",
+      "rating": 4.9,
+      "salesCount": 3542,
+      "seller": "RD ECOM",
       "category": "Presentes e papelaria"
     },
     {
@@ -2623,20 +2650,6 @@
       "category": "Cozinha"
     },
     {
-      "id": "19999598253",
-      "title": "Tapete Higiênico para Caixa de Areia de Gatos Anti Sujeira Coletor De Areia EVA 70x100 cm - Petliz",
-      "price": 18.9,
-      "originalPrice": 47.25,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgf5deizhcefd3",
-      "url": "https://s.shopee.com.br/5LD36MGF7D",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2012,
-      "seller": "Loja Leme",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "22694681619",
       "title": "Electro Nest Adaptador Conversor OTG Cabo Tipo-C Para Lightning ZHQ-25 ZHQ-26",
       "price": 16.99,
@@ -2769,6 +2782,20 @@
       "salesCount": 3414,
       "seller": "Mit Lingerie",
       "category": "Moda"
+    },
+    {
+      "id": "19999598253",
+      "title": "Tapete Higiênico para Caixa de Areia de Gatos Anti Sujeira Coletor De Areia EVA 70x100 cm - Petliz",
+      "price": 18.9,
+      "originalPrice": 47.25,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgf5deizhcefd3",
+      "url": "https://s.shopee.com.br/5LD36MGF7D",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2012,
+      "seller": "Loja Leme",
+      "category": "Pet e bebê"
     },
     {
       "id": "18597787721",
@@ -2910,19 +2937,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "23396886154",
-      "title": "Fita Led Rgb 3528 Colorida 5m + Controle 300 Led  Decoração Casa Loja Gesso Teto Sanca Vitrine",
-      "price": 20.99,
-      "originalPrice": 49.98,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-llnkmg0141r71f",
-      "url": "https://s.shopee.com.br/LoO5N2BPB",
-      "rating": 4.6,
-      "salesCount": 984,
-      "seller": "ZSZ_Official Store",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58263203459",
       "title": "Kit Limpa Vidro Magnético Prático Dupla Face Rodo Mágico Janelas",
       "price": 24.88,
@@ -2984,7 +2998,7 @@
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261y-ml5jgzzl0av47c",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zwq-mimqz2ch6pkz1d",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -3047,19 +3061,6 @@
       "salesCount": 409,
       "seller": "Fortetools LTDA",
       "category": "Ferramentas"
-    },
-    {
-      "id": "41365763294",
-      "title": "Teclado Mecânico Gamer Titorion 60% Teclado Preto Computador ABNT2 Hot Swap RGB Switch Red Brown USB LED Titorion",
-      "price": 144.8,
-      "originalPrice": 301.67,
-      "discountPercent": 52,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mt6ul6vosop203",
-      "url": "https://s.shopee.com.br/3LRyidXrt1",
-      "rating": 4.9,
-      "salesCount": 301,
-      "seller": "Shop Borges",
-      "category": "Eletrônicos"
     },
     {
       "id": "23694454936",
@@ -3223,6 +3224,20 @@
       "category": "Beleza"
     },
     {
+      "id": "58204970292",
+      "title": "Kit 10 ou 05 Tapetes Para Banheiro GIGANTES Atoalhado Premium Pousada Saída Box",
+      "price": 34.9,
+      "originalPrice": 79.32,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262k-mkjkin9uvjswfe",
+      "url": "https://s.shopee.com.br/6q1rqim17a",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 1013,
+      "seller": "StoffHaus Cama Mesa e Banho",
+      "category": "Casa e organização"
+    },
+    {
       "id": "49766317145",
       "title": "Quadro Decorativo Trio Flores Minamislista Clean Douradas Deus é Bom o Tempo Todo Para Sala Quarto 4K",
       "price": 34.9,
@@ -3248,6 +3263,34 @@
       "rating": 4.7,
       "salesCount": 271,
       "seller": "FANSHEN",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58260371147",
+      "title": "Organizador Para Calçados 9 Andar Para 27 Pares De Sapatos Desmontável Sapateira",
+      "price": 59.99,
+      "originalPrice": 136.34,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mo04ll0moqv4af",
+      "url": "https://s.shopee.com.br/6q1rqkPD80",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 990,
+      "seller": "Loop.tec_br",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "23594042964",
+      "title": "Saco Organizador para Cobertor 60x50x28cm Impermeável Zíper Duplo，Bolsa com zíper para cobertores",
+      "price": 21.98,
+      "originalPrice": 49.95,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma5fta3ti8ljad",
+      "url": "https://s.shopee.com.br/6VP1S8RVjr",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1278,
+      "seller": "*Ponto de Luz",
       "category": "Casa e organização"
     },
     {
@@ -3711,6 +3754,20 @@
       "category": "Beleza"
     },
     {
+      "id": "41919952056",
+      "title": "Hoygi Retinal Eye Cream Suave Nutritivo Firmador Hidratante Cuidados Com Os Olhos",
+      "price": 16.63,
+      "originalPrice": 46.19,
+      "discountPercent": 64,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82619-mjl7s667d7uq27",
+      "url": "https://s.shopee.com.br/5VWTdoinTQ",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1498,
+      "seller": "Choice Oficial",
+      "category": "Beleza"
+    },
+    {
       "id": "41631210271",
       "title": "Kit 3 Top Fitness Feminino Academia Treino Roupas Esportivas Femininas Nadador",
       "price": 33.14,
@@ -4077,60 +4134,6 @@
       "official": true,
       "seller": "Beleza Renovada Oficial",
       "category": "Beleza"
-    },
-    {
-      "id": "22094263350",
-      "title": "1 a 10 Metros Fita Mangueira de LED 5050 para Decoração 110V ou 220V Branco Frio/Quente Com Conector",
-      "price": 18.77,
-      "originalPrice": 34.76,
-      "discountPercent": 46,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyf-mch8o56lezpwc6",
-      "url": "https://s.shopee.com.br/3B8YWLOKzG",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2886,
-      "seller": "LUZORA",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "25946709329",
-      "title": "ULTRA HIDRATAÇÃO EFEITO TEIA COM ÓLEOS MARROQUINOS - OURO MARROQUINO - FINA MARIA PROFISSIONAL",
-      "price": 38.9,
-      "originalPrice": 79.39,
-      "discountPercent": 51,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258h-mr1ynaykoao016",
-      "url": "https://s.shopee.com.br/9fM2GJCao4",
-      "rating": 4.9,
-      "salesCount": 30756,
-      "seller": "Distribuidora Oficial Fina Maria",
-      "category": "Beleza"
-    },
-    {
-      "id": "18698826077",
-      "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
-      "price": 149,
-      "originalPrice": 338.64,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
-      "url": "https://s.shopee.com.br/8fTVbN1grU",
-      "rating": 4.9,
-      "salesCount": 1251,
-      "official": true,
-      "seller": "Eletricario Loja Oficial",
-      "category": "Ferramentas"
-    },
-    {
-      "id": "46007151632",
-      "title": "Pendente Triplo Lustre Luminária Aramado Tulipa Cabo Cristal 1 Metro",
-      "price": 59.2,
-      "originalPrice": 80,
-      "discountPercent": 26,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mlqzwskv8d8ke3",
-      "url": "https://s.shopee.com.br/1143wN1adf",
-      "rating": 4.8,
-      "salesCount": 319,
-      "seller": "PJ DECORAÇÕES ",
-      "category": "Casa e organização"
     }
   ]
 }
