@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T01:28:30.050Z",
+  "updatedAt": "2026-10-29T01:49:06.001Z",
   "offers": [
     {
       "id": "20042293295",
@@ -1204,6 +1204,19 @@
       "category": "Beleza"
     },
     {
+      "id": "23394239273",
+      "title": "Kit Jogo Broca Escariadora 8 Peças Madeira Piloto Chanfro para Madeira Aço HSS 3 a 10mm",
+      "price": 25.9,
+      "originalPrice": 95.93,
+      "discountPercent": 73,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvx-mchapvnkvmbb21",
+      "url": "https://s.shopee.com.br/2qVgxsuR6J",
+      "rating": 4.8,
+      "salesCount": 538,
+      "seller": "ManufaturaPrecisa",
+      "category": "Ferramentas"
+    },
+    {
       "id": "58252774772",
       "title": "Carrinho Organizador Multiuso 3 Prateleiras e Alça Auxiliar Em Aço Com Rodinha",
       "price": 124.88,
@@ -1269,20 +1282,6 @@
       "rating": 4.7,
       "salesCount": 2272,
       "seller": "Melhores coisas",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23293962132",
-      "title": "Mop Flat Esfregão Com Balde Rodo Mágico Lava Seca Tira Pó + 4 Refil",
-      "price": 43.88,
-      "originalPrice": 69.65,
-      "discountPercent": 37,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9ej4jfobfi18f",
-      "url": "https://s.shopee.com.br/8Kqdf8vJTg",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 1692,
-      "seller": "casaluna utilidades",
       "category": "Casa e organização"
     },
     {
@@ -1448,6 +1447,20 @@
       "rating": 4.9,
       "salesCount": 225,
       "seller": "FANSHEN",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "23293962132",
+      "title": "Mop Flat Esfregão Com Balde Rodo Mágico Lava Seca Tira Pó + 4 Refil",
+      "price": 44.88,
+      "originalPrice": 70.13,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9ej4jfobfi18f",
+      "url": "https://s.shopee.com.br/8Kqdf8vJTg",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 1692,
+      "seller": "casaluna utilidades",
       "category": "Casa e organização"
     },
     {
@@ -2448,6 +2461,19 @@
       "category": "Moda"
     },
     {
+      "id": "21898108143",
+      "title": "Jogo De Mesa Astronauta Equilíbrio 50 Peças Infantil Puzzle Tabuleiro",
+      "price": 29.99,
+      "originalPrice": 90.88,
+      "discountPercent": 67,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8p3j4v55nkh48",
+      "url": "https://s.shopee.com.br/9zyqJs575b",
+      "rating": 4.8,
+      "salesCount": 826,
+      "seller": "shopwithus",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "55108506021",
       "title": "Espelho Decorativo Orgânico Nuvem 70x50cm Instalação Rápida",
       "price": 57.98,
@@ -2463,8 +2489,8 @@
     {
       "id": "58205085045",
       "title": "Lixeira 13 Litros Abertura por Pedal Preta Quadrada",
-      "price": 27.9,
-      "originalPrice": 51.67,
+      "price": 27.91,
+      "originalPrice": 51.69,
       "discountPercent": 46,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mslczqwpyarq2e",
       "url": "https://s.shopee.com.br/40hdAnkpnu",
@@ -3000,7 +3026,7 @@
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zto-mimqzrbp86is9a",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zte-mimqypxh1jwm67",
       "url": "https://s.shopee.com.br/7Aeewf2dCz",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -3432,20 +3458,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "23594541990",
-      "title": "Selfie Stick Tripé 1.8M/2M/1.7M, 4 Eixos 360° Rotação Anti-tremor+ Controle Bluetooth Sem Fio para Vlog",
-      "price": 49.98,
-      "originalPrice": 111.07,
-      "discountPercent": 55,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk1x0wpsptz69d",
-      "url": "https://s.shopee.com.br/8pmsvhjYoB",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1407,
-      "seller": "ENDLESS",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "23498776025",
       "title": "KL5018 Óculos de sol de metal da moda",
       "price": 15,
@@ -3725,8 +3737,8 @@
     {
       "id": "58204153704",
       "title": "Kit Shampoo + Condicionador + Creme para Pentear 300ml SOS Cachos Kids Hidratação Salon Line",
-      "price": 46.1,
-      "originalPrice": 64.93,
+      "price": 46.2,
+      "originalPrice": 65.07,
       "discountPercent": 29,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-msr3shcqrz0n32",
       "url": "https://s.shopee.com.br/8VA4ZkyA9A",
@@ -4121,19 +4133,6 @@
       "salesCount": 2886,
       "seller": "LUZORA",
       "category": "Casa e organização"
-    },
-    {
-      "id": "25946709329",
-      "title": "ULTRA HIDRATAÇÃO EFEITO TEIA COM ÓLEOS MARROQUINOS - OURO MARROQUINO - FINA MARIA PROFISSIONAL",
-      "price": 38.9,
-      "originalPrice": 79.39,
-      "discountPercent": 51,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258h-mr1ynaykoao016",
-      "url": "https://s.shopee.com.br/20wYn9ZyRW",
-      "rating": 4.9,
-      "salesCount": 30756,
-      "seller": "Distribuidora Oficial Fina Maria",
-      "category": "Beleza"
     }
   ]
 }
