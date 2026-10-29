@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T03:10:48.407Z",
+  "updatedAt": "2026-10-29T03:41:12.036Z",
   "offers": [
     {
       "id": "20042293295",
@@ -64,7 +64,7 @@
       "originalPrice": 143.82,
       "discountPercent": 66,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh9inl3qdlhg90",
-      "url": "https://s.shopee.com.br/4LKVuVx5bs",
+      "url": "https://s.shopee.com.br/9APlfOegpI",
       "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 2780,
@@ -459,7 +459,7 @@
       "originalPrice": 90.45,
       "discountPercent": 78,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-msv9x4r1nax20d",
-      "url": "https://s.shopee.com.br/2BG1KX5L0J",
+      "url": "https://s.shopee.com.br/6fiQgnoCtf",
       "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 3486,
@@ -1962,21 +1962,6 @@
       "category": "Cozinha"
     },
     {
-      "id": "19099597031",
-      "title": "Belifou Kit 24 Peças Jogo De Talheres Inox Faqueiro Completo Colher Garfo Faca Para Jantar Cozinha Luxo",
-      "price": 37.4,
-      "originalPrice": 106.86,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m8bovalmy7tdb1",
-      "url": "https://s.shopee.com.br/4qGmVOAYis",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 749,
-      "official": true,
-      "seller": "Belifou Talheres",
-      "category": "Cozinha"
-    },
-    {
       "id": "22399132687",
       "title": "Kit Skin Care Geleia facial Colágeno e Niacinamida Kokeshi",
       "price": 54.9,
@@ -2965,26 +2950,12 @@
       "category": "Beleza"
     },
     {
-      "id": "22094841996",
-      "title": "Bota Feminina Chelsea/Bag/Militar Promoção Não Perca Oferta",
-      "price": 51.94,
-      "originalPrice": 110.51,
-      "discountPercent": 53,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjnhq3dyoqv729",
-      "url": "https://s.shopee.com.br/9pfSScgTwl",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 466,
-      "seller": "ECShoes",
-      "category": "Moda"
-    },
-    {
       "id": "23793879757",
       "title": "Daily T-shirt Insider",
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvv-mimqxyvho0zled",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zw6-mimqzuhq8m4g75",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -3101,20 +3072,6 @@
       "salesCount": 447,
       "seller": "LojaZini",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "23694347564",
-      "title": "GOKOCO Escova Secadora 5 Em 1 Conjunto De Secador De Cabelo Multifuncional De Alta Velocidade Dupla voltagem 110V-240V",
-      "price": 429,
-      "originalPrice": 997.67,
-      "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-msbapxbqpouead",
-      "url": "https://s.shopee.com.br/5fptUxSZoD",
-      "rating": 4.9,
-      "salesCount": 1884,
-      "official": true,
-      "seller": "GOKOCO Offical Shop.BR",
-      "category": "Beleza"
     },
     {
       "id": "18999784319",
@@ -3478,7 +3435,7 @@
       "originalPrice": 118.18,
       "discountPercent": 45,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwm-mc2jv1qmrooz0e",
-      "url": "https://s.shopee.com.br/1LguKxIS8i",
+      "url": "https://s.shopee.com.br/1LguN2wjqx",
       "rating": 4.9,
       "salesCount": 3637,
       "official": true,
@@ -3776,6 +3733,20 @@
       "rating": 4.8,
       "salesCount": 4008,
       "seller": "rlshoes2025",
+      "category": "Moda"
+    },
+    {
+      "id": "22094841996",
+      "title": "Bota Feminina Chelsea/Bag/Militar Promoção Não Perca Oferta",
+      "price": 55.9,
+      "originalPrice": 109.61,
+      "discountPercent": 49,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjnhq3dyoqv729",
+      "url": "https://s.shopee.com.br/9pfSScgTwl",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 466,
+      "seller": "ECShoes",
       "category": "Moda"
     },
     {
@@ -4129,6 +4100,34 @@
       "salesCount": 319,
       "seller": "PJ DECORAÇÕES ",
       "category": "Casa e organização"
+    },
+    {
+      "id": "58207708258",
+      "title": "Kit 4 Short Bermuda Infantil Juvenil Tactel Menino Praia Com Bolso Elastano Premium 2 a 16 Anos",
+      "price": 38.88,
+      "originalPrice": 99.69,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mt4bdbzoonb9a1",
+      "url": "https://s.shopee.com.br/3B8YWNAXH6",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 4383,
+      "seller": "EDYBOY",
+      "category": "Moda"
+    },
+    {
+      "id": "44162911290",
+      "title": "Areia 4Kg Biodegradável Kadi Grãos Finos para Gatos",
+      "price": 29.99,
+      "originalPrice": 50.83,
+      "discountPercent": 41,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxl-mdet8ey488yyfe",
+      "url": "https://s.shopee.com.br/1BNU8hW6Yv",
+      "rating": 4.8,
+      "salesCount": 6073,
+      "official": true,
+      "seller": "mypetone",
+      "category": "Pet e bebê"
     }
   ]
 }
