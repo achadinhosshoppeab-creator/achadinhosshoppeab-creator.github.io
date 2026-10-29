@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T18:00:30.599Z",
+  "updatedAt": "2026-10-29T18:21:24.510Z",
   "offers": [
     {
       "id": "20042293295",
@@ -58,17 +58,18 @@
       "category": "Presentes e papelaria"
     },
     {
-      "id": "20999662219",
-      "title": "Camiseta Masculina Rabbit Graffiti Camisa Manfinity 100% Algodão Street Wear",
-      "price": 27.35,
-      "originalPrice": 82.88,
-      "discountPercent": 67,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m729kxccj9s7a5",
-      "url": "https://s.shopee.com.br/5LD45RLzmq",
+      "id": "41721001761",
+      "title": "Sandália Feminina Lumiss Rasteira Fisherman Confortável Bico Redondo Fivela",
+      "price": 48.9,
+      "originalPrice": 143.82,
+      "discountPercent": 66,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh9inl3qdlhg90",
+      "url": "https://s.shopee.com.br/9APlfOegpI",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 98,
-      "seller": "FEITO URBAN",
+      "salesCount": 2780,
+      "official": true,
+      "seller": "Lumiss",
       "category": "Moda"
     },
     {
@@ -85,34 +86,6 @@
       "official": true,
       "seller": "Adora ",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "22097919343",
-      "title": "Camiseta Masculina Los Angeles Street Manga Detalhe Diverse Camisa 100% Algodão",
-      "price": 27.61,
-      "originalPrice": 78.89,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfsqwaz76ex0e0",
-      "url": "https://s.shopee.com.br/W7oKYeOaR",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 385,
-      "seller": "FEITO URBAN",
-      "category": "Moda"
-    },
-    {
-      "id": "19399242259",
-      "title": "Camiseta Masculina Plus Size Jesus Vive Diverse Camisa 100% Algodão",
-      "price": 27.61,
-      "originalPrice": 78.89,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mlgu2ew3r1mscb",
-      "url": "https://s.shopee.com.br/8pmwFs8fgL",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 115,
-      "seller": "FEITO URBAN",
-      "category": "Moda"
     },
     {
       "id": "19499073421",
@@ -145,19 +118,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "18699910348",
-      "title": "Camiseta Masculina Feminina Socorrista Ambulância 100% algodão leve confortavel casual trabalho várias cores lançamento",
-      "price": 32.36,
-      "originalPrice": 89.89,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820le-mtgm57y0onb7fc",
-      "url": "https://s.shopee.com.br/1qdBv0ZJsp",
-      "rating": 4.7,
-      "salesCount": 211,
-      "seller": "RastroWear",
-      "category": "Moda"
-    },
-    {
       "id": "23524387565",
       "title": "[OFFICIAL] SKIN1004 madagascar tone brightening capsule ampoule 30ml,50ml,100ml",
       "price": 46.97,
@@ -186,30 +146,17 @@
       "category": "Beleza"
     },
     {
-      "id": "19098318804",
-      "title": "CAMISETA UNISSEX CASUAL POLÍCIA CIVIL 100% ALGODÃO  CAIMENTO PERFEITO VÁRIAS CORES LANÇAMENTO",
-      "price": 34,
-      "originalPrice": 89.47,
+      "id": "20998020209",
+      "title": "Kit Calcinhas Feminina Algodao Adulto ou Microfibra Conforto Calcinha Tanga",
+      "price": 29.99,
+      "originalPrice": 78.92,
       "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820me-mu2u1s8ri4u9dd",
-      "url": "https://s.shopee.com.br/AKbk2d2xdm",
-      "rating": 4.9,
-      "salesCount": 59,
-      "seller": "RastroWear",
-      "category": "Moda"
-    },
-    {
-      "id": "58264906851",
-      "title": "Kits Cuecas Boxer de Microfibra- Conforto e Alta Elasticidade",
-      "price": 18.99,
-      "originalPrice": 49.97,
-      "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259t-mr1js4zzobnp45",
-      "url": "https://s.shopee.com.br/1BNV7mgG7N",
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lf-mqxdik4ahfrbe4",
+      "url": "https://s.shopee.com.br/1qdAvvFPH9",
       "hasVariantPrices": true,
       "rating": 4.7,
-      "salesCount": 1566,
-      "seller": "clickmodalingerie",
+      "salesCount": 3342,
+      "seller": "Ventura_Imports_",
       "category": "Moda"
     },
     {
@@ -226,6 +173,20 @@
       "official": true,
       "seller": "koksara.kbeauty",
       "category": "Beleza"
+    },
+    {
+      "id": "22999371257",
+      "title": "Kit 3 T-Shirts Oversized Classic Algodão Cléa Store",
+      "price": 131.66,
+      "originalPrice": 387.24,
+      "discountPercent": 66,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mlmulmuv7z0m11",
+      "url": "https://s.shopee.com.br/9APmCHQaXt",
+      "rating": 4.9,
+      "salesCount": 3608,
+      "official": true,
+      "seller": "Clea Oficial",
+      "category": "Moda"
     },
     {
       "id": "57707127537",
@@ -256,16 +217,45 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "22094301510",
-      "title": "Camiseta Masculina e Feminina Streetwear  100% Algodão Fio 30.1 Estampada Blessed Angels",
-      "price": 27.87,
-      "originalPrice": 89.9,
-      "discountPercent": 69,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyv-mctxalcgvj2804",
-      "url": "https://s.shopee.com.br/8AXFSeBD29",
-      "rating": 4.8,
-      "salesCount": 140,
-      "seller": "Kams Oficial",
+      "id": "21198280139",
+      "title": "Soprador Turbo à Jato Portátil 130.000 RPM – Mini Ventilador, Sem Fio e Super Potente",
+      "price": 48.98,
+      "originalPrice": 244.9,
+      "discountPercent": 80,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdosuy9xgp153d",
+      "url": "https://s.shopee.com.br/8pmvGlKMY0",
+      "rating": 4.7,
+      "salesCount": 612,
+      "seller": "Nova Link",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "22894519217",
+      "title": "Kit de Calcinhas Fio Duplo Levanta Bumbum Fio Dental Confortável Forro em Algodão Sensual",
+      "price": 28.9,
+      "originalPrice": 115.6,
+      "discountPercent": 75,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h7-mfo5xv07vitmdc",
+      "url": "https://s.shopee.com.br/8Kqefrqf5F",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 5451,
+      "seller": "Lumen Lingerie",
+      "category": "Moda",
+      "hot": true
+    },
+    {
+      "id": "21499198919",
+      "title": "1/2/5 Pcs Carteiras Fibra De Carbono Porta-Cartões Masculina Marca Preta Mágica Tripla De Couro",
+      "price": 16.5,
+      "originalPrice": 45.83,
+      "discountPercent": 64,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztg-mkly7lthkmir9e",
+      "url": "https://s.shopee.com.br/5fptUxkB28",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 1471,
+      "seller": "Vida Criativa ",
       "category": "Moda"
     },
     {
@@ -309,6 +299,19 @@
       "salesCount": 742,
       "seller": "StarlinkX",
       "category": "Beleza"
+    },
+    {
+      "id": "19099590678",
+      "title": "Almofada para Pescoço Bebe Conforto fofinha Apoio de Cabeça 100% Algodão",
+      "price": 22,
+      "originalPrice": 56.41,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2jacf0qwox2f",
+      "url": "https://s.shopee.com.br/9V2c40qYBZ",
+      "rating": 4.9,
+      "salesCount": 2426,
+      "seller": "Varietah Kids",
+      "category": "Pet e bebê"
     },
     {
       "id": "57906653359",
@@ -368,6 +371,19 @@
       "category": "Casa e organização"
     },
     {
+      "id": "20999195430",
+      "title": "300 Pcs Refil Cata Coco Sacolas Saquinhos Biodegradável Prático Para Pet",
+      "price": 22.99,
+      "originalPrice": 49.98,
+      "discountPercent": 54,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258u-mtxc6jxy2ih48f",
+      "url": "https://s.shopee.com.br/5fptUyEyRF",
+      "rating": 5,
+      "salesCount": 2391,
+      "seller": "1000 Coisas Variedades",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "23892379352",
       "title": "1/2/4 PCS Luminária Parede Solar  100 Leds Com Sensor de Movimento Jardim Externa Prova D'água Casa",
       "price": 20.88,
@@ -423,6 +439,20 @@
       "category": "Moda"
     },
     {
+      "id": "22697383155",
+      "title": "Calça Pantalona Feminina Cintura Alta  Com Bolso Tecido Duna",
+      "price": 29.9,
+      "originalPrice": 110.74,
+      "discountPercent": 73,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg76rg2cd98ndb",
+      "url": "https://s.shopee.com.br/6VP0UUfyNa",
+      "rating": 4.7,
+      "salesCount": 7517,
+      "seller": "ElisJeans",
+      "category": "Moda",
+      "hot": true
+    },
+    {
       "id": "23197685907",
       "title": "Chinelo Adulto Masculino Confortável Leve e Antiderrapante",
       "price": 19.9,
@@ -434,6 +464,21 @@
       "rating": 4.8,
       "salesCount": 3486,
       "seller": "Mabi Shoes",
+      "category": "Moda",
+      "hot": true
+    },
+    {
+      "id": "58207087479",
+      "title": "Camiseta Feminina Lisa 100% Algodão Premium Conforto Streetwear Fashion Urbano Casual Moda Diário Crt Unissex",
+      "price": 17.06,
+      "originalPrice": 60.93,
+      "discountPercent": 72,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mlxvxbp0xssk8f",
+      "url": "https://s.shopee.com.br/1qdAvvBy53",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 4863,
+      "seller": "HACKBERRY",
       "category": "Moda",
       "hot": true
     },
@@ -479,6 +524,19 @@
       "salesCount": 3317,
       "seller": "OmniStore",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "21499198935",
+      "title": "Carteiras Fibra De Carbono Porta-Cartões Masculina Marca Preta Mágica Tripla De Couro",
+      "price": 16.5,
+      "originalPrice": 33.67,
+      "discountPercent": 51,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259m-mu4940kjo7phc5",
+      "url": "https://s.shopee.com.br/6q1qt6fjfX",
+      "rating": 4.6,
+      "salesCount": 1112,
+      "seller": "INFINITY COMERCIO DE VARIEDADES",
+      "category": "Moda"
     },
     {
       "id": "26734497572",
@@ -562,6 +620,19 @@
       "category": "Beleza"
     },
     {
+      "id": "55155732894",
+      "title": "KIT 3 Regata Blusinha Feminina Suplex Duplo Básica Elegante Moda Blogueira Tendencia",
+      "price": 45.9,
+      "originalPrice": 148.06,
+      "discountPercent": 69,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261p-mk8jzrdkq7et9c",
+      "url": "https://s.shopee.com.br/2BG2L0p4qb",
+      "rating": 4.8,
+      "salesCount": 379,
+      "seller": "WM FASHION",
+      "category": "Moda"
+    },
+    {
       "id": "22594653048",
       "title": "Kit 10 Cubo Mágico 5x5cm – Quebra-Cabeça Educativo Antiestresse para Crianças e Adultos",
       "price": 15.8,
@@ -603,17 +674,43 @@
       "category": "Beleza"
     },
     {
-      "id": "58252712719",
-      "title": "Kit 3 Camisetas Masculinas Premium Polo Wear Sortido",
-      "price": 95.99,
-      "originalPrice": 181.11,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zs-mj4ktvrg6arp98",
-      "url": "https://s.shopee.com.br/LoO8Ff1vO",
+      "id": "58214695707",
+      "title": "T-shirt Masculina Looney Tunes modelo novo Camiseta Versátil Camisa Tendência Blusa Premium Crt Unissex",
+      "price": 23.9,
+      "originalPrice": 88.52,
+      "discountPercent": 73,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mqxgrhjzl2px4a",
+      "url": "https://s.shopee.com.br/2LZRWqA44C",
       "rating": 4.9,
-      "salesCount": 414,
-      "official": true,
-      "seller": "Polo Wear",
+      "salesCount": 4742,
+      "seller": "HACKBERRY",
+      "category": "Moda",
+      "hot": true
+    },
+    {
+      "id": "58254977142",
+      "title": "Camiseta Feminina Algodão 30.1 Premium Moda Gringa Blusinha Street Fashion Slim Fit Casual",
+      "price": 19.99,
+      "originalPrice": 60.58,
+      "discountPercent": 67,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztj-mkjrao3naps256",
+      "url": "https://s.shopee.com.br/8fTVbMSUYo",
+      "rating": 4.7,
+      "salesCount": 3285,
+      "seller": "Gota de ouro ",
+      "category": "Moda"
+    },
+    {
+      "id": "20899551729",
+      "title": "Camiseta 100% Canelada Masculina",
+      "price": 34.16,
+      "originalPrice": 89.89,
+      "discountPercent": 62,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m29y4rf86lhi89",
+      "url": "https://s.shopee.com.br/3LRyig6G2o",
+      "rating": 4.8,
+      "salesCount": 1924,
+      "seller": "eradino",
       "category": "Moda"
     },
     {
@@ -628,6 +725,20 @@
       "salesCount": 726,
       "seller": "DeinShop",
       "category": "Casa e organização"
+    },
+    {
+      "id": "23993623768",
+      "title": "Camiseta Masculina Básica Canelada Slim Fit Confortável Premium Envio Imediato",
+      "price": 25.99,
+      "originalPrice": 89.62,
+      "discountPercent": 71,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mli7lq03k0sk15",
+      "url": "https://s.shopee.com.br/5VWUJ8cO4s",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 756,
+      "seller": "Moda Boss",
+      "category": "Moda"
     },
     {
       "id": "53616416772",
@@ -655,6 +766,20 @@
       "rating": 4.9,
       "salesCount": 1340,
       "seller": "SHARK OUTFIT",
+      "category": "Moda"
+    },
+    {
+      "id": "19071764317",
+      "title": "Bota Feminina Lumiss Salto Alto Grosso Cano Curto Bico Quadrado Calce Fácil Zíper Confortável",
+      "price": 74.94,
+      "originalPrice": 138.78,
+      "discountPercent": 46,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lvn737ld7b5812",
+      "url": "https://s.shopee.com.br/20wb8EAIqP",
+      "rating": 4.9,
+      "salesCount": 506,
+      "official": true,
+      "seller": "Lumiss",
       "category": "Moda"
     },
     {
@@ -709,8 +834,7 @@
       "rating": 4.8,
       "salesCount": 2271,
       "seller": "COCOKA",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "58261587690",
@@ -755,6 +879,19 @@
       "category": "Moda"
     },
     {
+      "id": "22193566084",
+      "title": "Calcinha de Emagrecimento / Cinta Modeladora / Roupa Íntima / Afina a Barriga Leggings Calça Feminina 2024",
+      "price": 27.99,
+      "originalPrice": 49.98,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lg-mqxo1w6fkcna02",
+      "url": "https://s.shopee.com.br/5fptUxj94N",
+      "rating": 4.9,
+      "salesCount": 25819,
+      "seller": "PANDA  BOUTIQUE",
+      "category": "Moda"
+    },
+    {
       "id": "58200638373",
       "title": "Caderno Adesivos 3d com 20 Cenários para Montar e Decorar.",
       "price": 18.8,
@@ -765,8 +902,7 @@
       "rating": 4.9,
       "salesCount": 1878,
       "seller": "3XZ STORE",
-      "category": "Presentes e papelaria",
-      "hot": true
+      "category": "Presentes e papelaria"
     },
     {
       "id": "58214519187",
@@ -796,31 +932,18 @@
       "category": "Casa e organização"
     },
     {
-      "id": "23799028065",
-      "title": "Combo Chinelo Feminino Macio Confortável Leve",
-      "price": 15.89,
-      "originalPrice": 49.66,
-      "discountPercent": 68,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhgo8t17318jdc",
-      "url": "https://s.shopee.com.br/906MSB70OW",
+      "id": "22392476232",
+      "title": "kit com 10 Calcinha infantil Kids",
+      "price": 22.9,
+      "originalPrice": 40.18,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyv86epysgb9de",
+      "url": "https://s.shopee.com.br/2LZRWqDVGI",
       "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2316,
-      "seller": "JackStore",
-      "category": "Moda"
-    },
-    {
-      "id": "58264520528",
-      "title": "Kit 6 Peças Roupa De Bebê Body Menino Animado Estampado Algodão",
-      "price": 45.9,
-      "originalPrice": 109.29,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mrwueepou8sn74",
-      "url": "https://s.shopee.com.br/1qdBv0pt5j",
       "rating": 4.7,
-      "salesCount": 1367,
-      "seller": "Meu Bebê Kids",
-      "category": "Pet e bebê"
+      "salesCount": 2887,
+      "seller": "Dejuule Modas",
+      "category": "Moda"
     },
     {
       "id": "58258677338",
@@ -888,6 +1011,34 @@
       "salesCount": 301,
       "seller": "RunFu",
       "category": "Ferramentas"
+    },
+    {
+      "id": "58258307172",
+      "title": "Calça Jeans Feminina Capri Tecido Leve Cintura Alta",
+      "price": 58.89,
+      "originalPrice": 151,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mmqizemhsxzab5",
+      "url": "https://s.shopee.com.br/1gJlGUxTGY",
+      "rating": 4.8,
+      "salesCount": 3014,
+      "official": true,
+      "seller": "Naraka",
+      "category": "Moda"
+    },
+    {
+      "id": "58268341942",
+      "title": "Brinquedo Squishy Dumpling Bolinho Fidget Sensorial Antiestresse - Modelos Clássico, Glitter, Bolinhas e Led, de Gel",
+      "price": 27.9,
+      "originalPrice": 47.29,
+      "discountPercent": 41,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mtlipl366olc4d",
+      "url": "https://s.shopee.com.br/2BG1KXMrqm",
+      "hasVariantPrices": true,
+      "rating": 4.5,
+      "salesCount": 6981,
+      "seller": "Zany.co",
+      "category": "Pet e bebê"
     },
     {
       "id": "18297829933",
@@ -999,6 +1150,32 @@
       "category": "Beleza"
     },
     {
+      "id": "58208056173",
+      "title": "Camiseta Básica Masculina 100% Algodão Camisa Lisa Conforto Diário Estilo Casual Minimalista Premium Crt Unissex",
+      "price": 21.59,
+      "originalPrice": 59.97,
+      "discountPercent": 64,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mlxv4qoqvu2sbb",
+      "url": "https://s.shopee.com.br/60Sku3aU3v",
+      "rating": 4.8,
+      "salesCount": 1019,
+      "seller": "HACKBERRY",
+      "category": "Moda"
+    },
+    {
+      "id": "21999323729",
+      "title": "Calça Jeans Feminina Cintura Alta Capri Tecido Leve",
+      "price": 57,
+      "originalPrice": 139.02,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxbe1voatqqae1",
+      "url": "https://s.shopee.com.br/60SjtZmLTH",
+      "rating": 4.8,
+      "salesCount": 3964,
+      "seller": "ElisJeans",
+      "category": "Moda"
+    },
+    {
       "id": "58202615709",
       "title": "MINI Refrigerador De Ar Ventilador Umidificador Dupla Giratório+rgb Camada Ventilador Climatizador Ar C/ Reservatório",
       "price": 59.88,
@@ -1012,19 +1189,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58214913448",
-      "title": "Teclado Mecânico Gamer Compacto 60% 63 Teclas Switch Blue Rainbow RGB Anti-Ghosting USB",
-      "price": 99.9,
-      "originalPrice": 370,
-      "discountPercent": 73,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mr1pu215296u72",
-      "url": "https://s.shopee.com.br/1qdAvsdZvk",
-      "rating": 4.9,
-      "salesCount": 254,
-      "seller": "Nova Link",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "20999494647",
       "title": "Difusor de Cachos Ar Universal para Secador de Cabelo",
       "price": 23.99,
@@ -1036,20 +1200,6 @@
       "salesCount": 1368,
       "seller": "Kuàilè Bijux",
       "category": "Beleza"
-    },
-    {
-      "id": "29339554125",
-      "title": "Camiseta Oversized Masculina Cristã  Jesus 100% Algodão Premium",
-      "price": 37.2,
-      "originalPrice": 60,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md3hv73jz22a2f",
-      "url": "https://s.shopee.com.br/AUvAEw2KIp",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 130,
-      "seller": "Matriz clothes",
-      "category": "Moda"
     },
     {
       "id": "23394239273",
@@ -1130,8 +1280,7 @@
       "rating": 4.7,
       "salesCount": 2272,
       "seller": "Melhores coisas",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "58212715148",
@@ -1158,6 +1307,34 @@
       "rating": 4.9,
       "salesCount": 1320,
       "seller": "A_crosail.br",
+      "category": "Moda"
+    },
+    {
+      "id": "58212612774",
+      "title": "kit ate 10 Calcinhas Canelada Poliamida Premium Importada Fio ou Conforto",
+      "price": 24.99,
+      "originalPrice": 39.67,
+      "discountPercent": 37,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824gp-mpjotyf4hlor24",
+      "url": "https://s.shopee.com.br/906LT5o7jR",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 3753,
+      "seller": "Femme Lamour",
+      "category": "Moda"
+    },
+    {
+      "id": "50717936391",
+      "title": "Kit Calcinhas Pala Dupla Cintura Alta Segura Barriga July Conforto Premium",
+      "price": 27.95,
+      "originalPrice": 99.82,
+      "discountPercent": 72,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259z-mt7fhx4x7jlyda",
+      "url": "https://s.shopee.com.br/4qGmVR3zC1",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 2138,
+      "seller": "Thalinda Lingerie Moda",
       "category": "Moda"
     },
     {
@@ -1199,6 +1376,19 @@
       "rating": 4.9,
       "salesCount": 1267,
       "seller": "Kron.outfit",
+      "category": "Moda"
+    },
+    {
+      "id": "22598314126",
+      "title": "Bota Botina Feminina Texana Macia Country Cowboy Bico Quadrado Confortável Zíper E Rebites",
+      "price": 79.89,
+      "originalPrice": 150.74,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m85ec5iriju9db",
+      "url": "https://s.shopee.com.br/AUv9Fqdwap",
+      "rating": 4.9,
+      "salesCount": 540,
+      "seller": "F_MIX",
       "category": "Moda"
     },
     {
@@ -1256,6 +1446,20 @@
       "salesCount": 1692,
       "seller": "casaluna utilidades",
       "category": "Casa e organização"
+    },
+    {
+      "id": "20899597911",
+      "title": "Blusa Academia feminina Oval ) Regata Veste Legging Camisão Tapa Bumbum Camiseta Tule Roupas de Academia Dry Fit Treino",
+      "price": 22.38,
+      "originalPrice": 34.97,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mpntwianxqmb13",
+      "url": "https://s.shopee.com.br/3qOFJaunc2",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1741,
+      "seller": "ATITUDE ÚNICA MODA FEMININA",
+      "category": "Moda"
     },
     {
       "id": "22693482091",
@@ -1327,17 +1531,19 @@
       "category": "Beleza"
     },
     {
-      "id": "58264964287",
-      "title": "Kit 6 Peças Menina Bebê Infantil Peças de Roupas Verão Infantil Fashion Short Blusa Algodão",
-      "price": 47.9,
-      "originalPrice": 95.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mr24mhxckqo418",
-      "url": "https://s.shopee.com.br/80DpGLSPZl",
-      "rating": 4.8,
-      "salesCount": 1900,
-      "seller": "Meu Bebê Kids",
-      "category": "Pet e bebê"
+      "id": "58210657340",
+      "title": "Camisa Social Masculina Manga Longa Não amassa Algodão Slim Estilosas BROSSARD Casual e Dia a Dia",
+      "price": 76,
+      "originalPrice": 168.89,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mo7zrh0zcwshf3",
+      "url": "https://s.shopee.com.br/3B8YWN6tNh",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2369,
+      "official": true,
+      "seller": "Brossard_BR",
+      "category": "Moda"
     },
     {
       "id": "49456762765",
@@ -1393,19 +1599,6 @@
       "rating": 4.9,
       "salesCount": 10629,
       "seller": "GR MARKET EXPRESS",
-      "category": "Moda"
-    },
-    {
-      "id": "23699018404",
-      "title": "Camisa Masculina Dry Fit Camiseta Academia Treino B.MW",
-      "price": 24.56,
-      "originalPrice": 59.9,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257v-mfsertl88d1m1e",
-      "url": "https://s.shopee.com.br/5Atdt8Md7H",
-      "rating": 4.9,
-      "salesCount": 602,
-      "seller": "P e Y Esportes",
       "category": "Moda"
     },
     {
@@ -1551,6 +1744,32 @@
       "category": "Beleza"
     },
     {
+      "id": "23998938097",
+      "title": "Calça Legging Feminina com Bolsos Laterais Cintura Alta Zero Transparência Academia Fitness Atletyca",
+      "price": 52.9,
+      "originalPrice": 85.32,
+      "discountPercent": 38,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb9py64wpadf5",
+      "url": "https://s.shopee.com.br/1BNU8h0HCz",
+      "rating": 4.8,
+      "salesCount": 3523,
+      "seller": "Atletyca Oficial",
+      "category": "Moda"
+    },
+    {
+      "id": "22898838787",
+      "title": "Kit 5 Camisetas Regata Bebê Menino Menina",
+      "price": 29.99,
+      "originalPrice": 81.05,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mnk8vy4obx1gb6",
+      "url": "https://s.shopee.com.br/8pmvGmt5XV",
+      "rating": 4.8,
+      "salesCount": 2253,
+      "seller": "magiainfantil",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "58218792633",
       "title": "Necessaire Organizador Cosmético Maquiagem Feminino Para Viagem Em Alto Qualidade",
       "price": 16.98,
@@ -1576,6 +1795,20 @@
       "salesCount": 664,
       "seller": "Lua Nova - Criações Aromáticas",
       "category": "Casa e organização"
+    },
+    {
+      "id": "44467503760",
+      "title": "Regata Alça Fina Fitness Blusa Feminino Liso Poliamida Tank Top Slim Camiseta Academia Verão",
+      "price": 39.9,
+      "originalPrice": 70,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me8wwjjliw3m30",
+      "url": "https://s.shopee.com.br/LoN9A87iB",
+      "rating": 4.9,
+      "salesCount": 2138,
+      "official": true,
+      "seller": "PINK URBAN",
+      "category": "Moda"
     },
     {
       "id": "18199668940",
@@ -1645,6 +1878,20 @@
       "salesCount": 360,
       "seller": "M.A Acessórios e Variedades",
       "category": "Casa e organização"
+    },
+    {
+      "id": "18799326291",
+      "title": "Blusa Básica Listrada Ribana Canelado Premium Casual  Basico Camiseta T-Shirt",
+      "price": 22.44,
+      "originalPrice": 41.56,
+      "discountPercent": 46,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1g3jk7s6x0q98",
+      "url": "https://s.shopee.com.br/5LD46pd1Pr",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 865,
+      "seller": "UseOficial_",
+      "category": "Moda"
     },
     {
       "id": "58205085045",
@@ -1858,20 +2105,6 @@
       "category": "Beleza"
     },
     {
-      "id": "40718953703",
-      "title": "Camiseta Masculina P ao G5 Camisa em Algodão Tecido Premium Cavalo Lançamento",
-      "price": 32.21,
-      "originalPrice": 48.8,
-      "discountPercent": 34,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824hf-mek4fflg3z0hed",
-      "url": "https://s.shopee.com.br/8KqfexAZhC",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 151,
-      "seller": "MM.modas e acessórios",
-      "category": "Moda"
-    },
-    {
       "id": "23197416358",
       "title": "Parafusadeira Furadeira de Impacto Sem Fio 21V Bivolt 110/220V Kit Maleta com 2 Baterias 28 Peças",
       "price": 113.97,
@@ -1941,6 +2174,19 @@
       "category": "Beleza"
     },
     {
+      "id": "23493648865",
+      "title": "Blusa Plus Size Feminina Gola Alta Camiseta Básica 100% Algodão",
+      "price": 25.9,
+      "originalPrice": 117.73,
+      "discountPercent": 78,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m53abkl1fczp46",
+      "url": "https://s.shopee.com.br/20wc8hpiBY",
+      "rating": 4.7,
+      "salesCount": 506,
+      "seller": "ElisJeans",
+      "category": "Moda"
+    },
+    {
       "id": "58261766323",
       "title": "Kit 5 Rodinhas Cadeira Escritório Gamer Rodízio 50mm Pino 11mm Não Risca Piso Silenciosa Nylon PU Universal Cinza",
       "price": 21.89,
@@ -1979,33 +2225,6 @@
       "salesCount": 681,
       "seller": "YUANYUE",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "58205519385",
-      "title": "Camiseta Básica Masculina Feminina Unissex Plus Size Algodão",
-      "price": 35.9,
-      "originalPrice": 49.86,
-      "discountPercent": 28,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-msbg3k22n56s6d",
-      "url": "https://s.shopee.com.br/1LgvK5bDtg",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 351,
-      "seller": "Camisetas El Elyon",
-      "category": "Moda"
-    },
-    {
-      "id": "22294467165",
-      "title": "Camiseta Básica Masculina Unissex Lisa 100% Algodão",
-      "price": 35.9,
-      "originalPrice": 49.86,
-      "discountPercent": 28,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-msbezeovu878e5",
-      "url": "https://s.shopee.com.br/20wc7JYgXs",
-      "rating": 4.9,
-      "salesCount": 208,
-      "seller": "Camisetas El Elyon",
-      "category": "Moda"
     },
     {
       "id": "19274006007",
@@ -2087,6 +2306,20 @@
       "rating": 4.8,
       "salesCount": 848,
       "seller": "Morada de Paz",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "53053245387",
+      "title": "Ventilador Mini Portátil Recarregável USB de Mão Suporte Mesa Silencioso Ideal para Casa Trabalho",
+      "price": 25.99,
+      "originalPrice": 49.98,
+      "discountPercent": 48,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zud-midfo8h8c3d36b",
+      "url": "https://s.shopee.com.br/8AXETXMtto",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 824,
+      "seller": "LLB COMÉRCIO",
       "category": "Casa e organização"
     },
     {
@@ -2267,16 +2500,43 @@
       "category": "Beleza"
     },
     {
-      "id": "11910776315",
-      "title": "Kit c/3 Camiseta Masculina Estampada Gospel Longline oversized Algodão Básica Cristã Evangélica",
-      "price": 79.9,
-      "originalPrice": 109.45,
-      "discountPercent": 27,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mamrr72ux9xr1b",
-      "url": "https://s.shopee.com.br/8fTW3Z9J1I",
+      "id": "22695017676",
+      "title": "Kit 5 Top Infantil Juvenil Teen Menina Algodão Sutia Sem Bojo Alça Ajustavel Básico Usar Uniforme",
+      "price": 34.45,
+      "originalPrice": 65,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mpik1107egw0c2",
+      "url": "https://s.shopee.com.br/8fTV4TpKA4",
       "rating": 4.9,
-      "salesCount": 140,
-      "seller": "Lojas Éved",
+      "salesCount": 2447,
+      "seller": "DBL LINGERIE",
+      "category": "Moda"
+    },
+    {
+      "id": "19132144851",
+      "title": "Kit 3 Lençol Berço Americano Percal 400 Fios Macio com Elástico 130x70cm Menina e Menino",
+      "price": 28.99,
+      "originalPrice": 54.7,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkgr3wef5fcx7c",
+      "url": "https://s.shopee.com.br/7AehHizQut",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2913,
+      "seller": "GRUPO HH BABY Loja 1",
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "22999662127",
+      "title": "Tênis Masculino Encast conforto e estilo",
+      "price": 34.9,
+      "originalPrice": 79.32,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mrrmd5x0fw1z0d",
+      "url": "https://s.shopee.com.br/9fM3GnRxIk",
+      "rating": 4.6,
+      "salesCount": 731,
+      "seller": "ENCAST 04",
       "category": "Moda"
     },
     {
@@ -2345,6 +2605,19 @@
       "salesCount": 3569,
       "official": true,
       "seller": "UP UNDERWEAR",
+      "category": "Moda"
+    },
+    {
+      "id": "22599507223",
+      "title": "Kit 3 Sutia Infantil Juvenil Algodão Cotton Liso Alta Qualidade Conforto Top Dia a Dia Menina Moça",
+      "price": 25.85,
+      "originalPrice": 47.87,
+      "discountPercent": 46,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mpi6r5uin20x2b",
+      "url": "https://s.shopee.com.br/50aChk3Hbn",
+      "rating": 4.9,
+      "salesCount": 432,
+      "seller": "DBL LINGERIE",
       "category": "Moda"
     },
     {
@@ -2428,7 +2701,7 @@
       "rating": 4.9,
       "salesCount": 2012,
       "seller": "Loja Leme",
-      "category": "Casa e organização"
+      "category": "Pet e bebê"
     },
     {
       "id": "22694681619",
@@ -2539,18 +2812,43 @@
       "category": "Beleza"
     },
     {
-      "id": "8173370643",
-      "title": "Camisa Social Masculina Slim fit Luxo Moda Estilosa Manga Longa",
-      "price": 59.89,
-      "originalPrice": 79.85,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/cd2f3cb01643a6ac374b4a2cbaf42345",
-      "url": "https://s.shopee.com.br/BUxvwffGL",
+      "id": "18299268001",
+      "title": "Saco Plástico PP Transparente Com Aba Adesiva 100 Un Saquinho Para Embalagem de Roupas e Artesanatos",
+      "price": 16.64,
+      "originalPrice": 41.6,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mrbvqlt9xnuu1f",
+      "url": "https://s.shopee.com.br/AUv9mjCiCv",
       "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 503,
-      "official": true,
-      "seller": "Vida Loca Confecções",
+      "rating": 4.9,
+      "salesCount": 2632,
+      "seller": "Embala Commerce",
+      "category": "Presentes e papelaria"
+    },
+    {
+      "id": "22898567954",
+      "title": "Vestido Básico de  Alçinha COM BOLSO Para o Verão Vestido Curto Confortavel Plus Size Com Elasticidade Soltinho",
+      "price": 29.99,
+      "originalPrice": 49.98,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-man68bkisdfd5a",
+      "url": "https://s.shopee.com.br/8VA4sAd27Q",
+      "rating": 4.9,
+      "salesCount": 2247,
+      "seller": "Mig Rouparia",
+      "category": "Moda"
+    },
+    {
+      "id": "23298481880",
+      "title": "Kit 6 Calcinhas Feminina Conforto Tanga Biquíni Confortável Com Forro Algodão Básica Dia a Dia",
+      "price": 19,
+      "originalPrice": 34.55,
+      "discountPercent": 45,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-muamdye9tiioe5",
+      "url": "https://s.shopee.com.br/20wb8EElwC",
+      "rating": 4.9,
+      "salesCount": 3414,
+      "seller": "Mit Lingerie",
       "category": "Moda"
     },
     {
@@ -2624,20 +2922,6 @@
       "hot": true
     },
     {
-      "id": "18299268001",
-      "title": "Saco Plástico PP Transparente Com Aba Adesiva 100 Un Saquinho Para Embalagem de Roupas e Artesanatos",
-      "price": 18.97,
-      "originalPrice": 46.27,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mrbvqlt9xnuu1f",
-      "url": "https://s.shopee.com.br/AUv9mjCiCv",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2632,
-      "seller": "Embala Commerce",
-      "category": "Presentes e papelaria"
-    },
-    {
       "id": "58258453576",
       "title": "Suporte Notebook Ergonômico com Cooler – Refrigeração 5V 1000RPM (DELTA-B1122M)",
       "price": 46.87,
@@ -2665,18 +2949,18 @@
       "category": "Moda"
     },
     {
-      "id": "22794149442",
-      "title": "Suporte Tablet e Celular Metálico Rotativo de Liga de Alumínio Resistente Elegante e Totalmente Ajustável",
-      "price": 20.99,
-      "originalPrice": 49.98,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mitmoii6c26bd2",
-      "url": "https://s.shopee.com.br/2qVitwavbt",
+      "id": "15729282926",
+      "title": "Tênis Sport Titanium masculino/feminino Original",
+      "price": 47,
+      "originalPrice": 90.38,
+      "discountPercent": 48,
+      "imageUrl": "https://cf.shopee.com.br/file/d5c78dee0863c222477f124b2786136f",
+      "url": "https://s.shopee.com.br/8VA5seWOfP",
       "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2428,
-      "seller": "FUTURO ADA SHOP",
-      "category": "Eletrônicos"
+      "rating": 4.7,
+      "salesCount": 898,
+      "seller": "Overtrak",
+      "category": "Moda"
     },
     {
       "id": "23199140933",
@@ -2749,6 +3033,21 @@
       "category": "Beleza"
     },
     {
+      "id": "23793879757",
+      "title": "Daily T-shirt Insider",
+      "price": 59,
+      "originalPrice": 140.48,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261y-ml5jgzzl0av47c",
+      "url": "https://s.shopee.com.br/8fTV4TlxDL",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 10127,
+      "official": true,
+      "seller": "INSIDER",
+      "category": "Moda"
+    },
+    {
       "id": "23193518683",
       "title": "Bermuda Modeladora Anágua Cinta Short Feminino Modelador Alta Compressão Reduz Medidas pos parto",
       "price": 20.96,
@@ -2760,6 +3059,20 @@
       "rating": 4.7,
       "salesCount": 9744,
       "seller": "NM LINGERIE",
+      "category": "Moda"
+    },
+    {
+      "id": "23398956218",
+      "title": "Kit 10 Calcinha Sem Costura Fio Dental Tanga Conforto Corte a Laser Não Marca",
+      "price": 36.9,
+      "originalPrice": 59.52,
+      "discountPercent": 38,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824jj-mfk130f3jd3f76",
+      "url": "https://s.shopee.com.br/4fxMJ84cWy",
+      "hasVariantPrices": true,
+      "rating": 4.5,
+      "salesCount": 2805,
+      "seller": "Toque Suave Lingerie",
       "category": "Moda"
     },
     {
@@ -2788,32 +3101,6 @@
       "salesCount": 409,
       "seller": "Fortetools LTDA",
       "category": "Ferramentas"
-    },
-    {
-      "id": "41365763294",
-      "title": "Teclado Mecânico Gamer Titorion 60% Teclado Preto Computador ABNT2 Hot Swap RGB Switch Red Brown USB LED Titorion",
-      "price": 144.8,
-      "originalPrice": 301.67,
-      "discountPercent": 52,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mt6ul6vosop203",
-      "url": "https://s.shopee.com.br/3LRyidXrt1",
-      "rating": 4.9,
-      "salesCount": 301,
-      "seller": "Shop Borges",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "23694454936",
-      "title": "Blusa academia suplex com toque de poliamida dia a dia básica manguinha",
-      "price": 28.9,
-      "originalPrice": 60.21,
-      "discountPercent": 52,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfe5rlvyc8hwb1",
-      "url": "https://s.shopee.com.br/4B15iAlKj1",
-      "rating": 4.8,
-      "salesCount": 1860,
-      "seller": "Fábrica de Moda Básica",
-      "category": "Moda"
     },
     {
       "id": "22593793702",
@@ -2897,6 +3184,32 @@
       "category": "Moda"
     },
     {
+      "id": "41083528216",
+      "title": "Calça Legging Yoga Flare Wide Leg de treino básica empina bumbum modeladora gringa tecido suplex premium moda feminina",
+      "price": 51.6,
+      "originalPrice": 120,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mrugc84p8q9yd3",
+      "url": "https://s.shopee.com.br/1W0KXIz0X1",
+      "rating": 4.8,
+      "salesCount": 3068,
+      "seller": "predestinadaoficial",
+      "category": "Moda"
+    },
+    {
+      "id": "55411993196",
+      "title": "Camiseta UV50+ Brasil Manga Longa Masculina/Feminina Dry Fit Proteção Solar Camisa Patriota Estampada",
+      "price": 28.94,
+      "originalPrice": 49.9,
+      "discountPercent": 42,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823p0-mpatztplqznkec",
+      "url": "https://s.shopee.com.br/5Atcu2zHK1",
+      "rating": 4.8,
+      "salesCount": 2785,
+      "seller": "Discovery H2O camisetas",
+      "category": "Moda"
+    },
+    {
       "id": "47201353349",
       "title": "Kit 5 Cuecas Boxer Basic Lisa 100% Algodão Masculina Forro Duplo Costura Tripla Sortido",
       "price": 46.46,
@@ -2909,6 +3222,20 @@
       "official": true,
       "seller": "UP UNDERWEAR",
       "category": "Moda"
+    },
+    {
+      "id": "23498810233",
+      "title": "Kit Jornal Pet Higiênico 50/100/150/200 Folhas Biodegradável Atóxico Não Mancha",
+      "price": 17.8,
+      "originalPrice": 41.4,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mddbabnmy2peb8",
+      "url": "https://s.shopee.com.br/gRDXmY0Zq",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 4905,
+      "seller": "Print Park",
+      "category": "Pet e bebê"
     },
     {
       "id": "58262243898",
@@ -3049,16 +3376,16 @@
       "category": "Moda"
     },
     {
-      "id": "18999893421",
-      "title": "Kit 10 Peças Roupinhas de Bebê Body E Mijão Para Menina",
-      "price": 64.98,
-      "originalPrice": 120.33,
-      "discountPercent": 46,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-moaikf4viadje6",
-      "url": "https://s.shopee.com.br/4Vdx5ufjgV",
-      "rating": 4.6,
-      "salesCount": 1102,
-      "seller": "magiainfantil",
+      "id": "19899259306",
+      "title": "Tapete Infantil Bebê Inflável Água Atividades Sensorial Almofada Menino e Menina",
+      "price": 18.82,
+      "originalPrice": 48.26,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mu0tah3mf0u8b9",
+      "url": "https://s.shopee.com.br/AKbj3XrmHe",
+      "rating": 4.9,
+      "salesCount": 2821,
+      "seller": "Mimi Kids",
       "category": "Pet e bebê"
     },
     {
@@ -3160,21 +3487,6 @@
       "category": "Ferramentas"
     },
     {
-      "id": "21099836557",
-      "title": "Processador Triturador De Alimentos New Oggi Mallory Cor Preto",
-      "price": 65,
-      "originalPrice": 118.18,
-      "discountPercent": 45,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwm-mc2jv1qmrooz0e",
-      "url": "https://s.shopee.com.br/1LguN2wjqx",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3637,
-      "official": true,
-      "seller": "Tudão Tech  Ltda",
-      "category": "Cozinha"
-    },
-    {
       "id": "41368657771",
       "title": "Astgn X Basike Caixa de Som Bluetooth Estéreo  80W Potente IPX6 TWS RGB",
       "price": 354.34,
@@ -3245,6 +3557,34 @@
       "category": "Moda"
     },
     {
+      "id": "8333126075",
+      "title": "Bota Feminina Coturno Tratorado Blogueira Confortavel PROMOÇÃO PREÇO DE FABRICA",
+      "price": 59.8,
+      "originalPrice": 99.67,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lk6sqzmzpkzufe",
+      "url": "https://s.shopee.com.br/W7nLTG0t4",
+      "rating": 4.9,
+      "salesCount": 519,
+      "seller": "Oadsey",
+      "category": "Moda"
+    },
+    {
+      "id": "58218889467",
+      "title": "Squishy Toy Divertido | Pãozinho Macio com Glitter para Apertar | Brinquedo Sensorial Relaxante Colorido",
+      "price": 19.99,
+      "originalPrice": 99.95,
+      "discountPercent": 80,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mti3nr9yemmb80",
+      "url": "https://s.shopee.com.br/8VA4sAyl07",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 3336,
+      "seller": "UrbanHouse BR",
+      "category": "Pet e bebê",
+      "hot": true
+    },
+    {
       "id": "22597338672",
       "title": "Mini Guarda-Chuva Portátil Dobravel UPF50+ Cápsula Ultra Leve com Estojo – Proteção UV",
       "price": 23.99,
@@ -3311,7 +3651,7 @@
       "rating": 4.8,
       "salesCount": 2226,
       "seller": "ZSZ_brasil",
-      "category": "Casa e organização"
+      "category": "Moda"
     },
     {
       "id": "58214028771",
@@ -3398,6 +3738,48 @@
       "category": "Beleza"
     },
     {
+      "id": "41631210271",
+      "title": "Kit 3 Top Fitness Feminino Academia Treino Roupas Esportivas Femininas Nadador",
+      "price": 33.14,
+      "originalPrice": 64.98,
+      "discountPercent": 49,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mopibx76xmv9b1",
+      "url": "https://s.shopee.com.br/1LguL04JgD",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2607,
+      "seller": "Casa90",
+      "category": "Moda"
+    },
+    {
+      "id": "23998943440",
+      "title": "Vestido Feminino Curto Estampado Com Alça De Regulagem e Elastex",
+      "price": 38.99,
+      "originalPrice": 69.63,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mttxy5gumlflba",
+      "url": "https://s.shopee.com.br/9V2c40ZE5W",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2708,
+      "seller": "Damaviê",
+      "category": "Moda"
+    },
+    {
+      "id": "42982612738",
+      "title": "Blusa Feminina Gola Polo Ribana Canelada Premium Elegante Casual Estilosa",
+      "price": 28.99,
+      "originalPrice": 93.52,
+      "discountPercent": 69,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mqowz34schkx16",
+      "url": "https://s.shopee.com.br/gRDXm6eIi",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 4405,
+      "seller": "Classica Store",
+      "category": "Moda"
+    },
+    {
       "id": "58212406049",
       "title": "Chinelo Masculino Adulto Antiderrapante Confortável Leve Calçe Facil PROMOÇÃO",
       "price": 17.76,
@@ -3412,31 +3794,17 @@
       "category": "Moda"
     },
     {
-      "id": "58210056829",
-      "title": "Chinelo Masculino Adulto Confortável Leve Lançamento",
-      "price": 17.76,
-      "originalPrice": 49.33,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mnu07vaq6f4222",
-      "url": "https://s.shopee.com.br/80DpGLAoQQ",
+      "id": "22094841996",
+      "title": "Bota Feminina Chelsea/Bag/Militar Promoção Não Perca Oferta",
+      "price": 55.9,
+      "originalPrice": 109.61,
+      "discountPercent": 49,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjnhq3dyoqv729",
+      "url": "https://s.shopee.com.br/9pfSScgTwl",
       "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2177,
-      "seller": "rlshoes2025",
-      "category": "Moda"
-    },
-    {
-      "id": "23191963390",
-      "title": "Oversized Streetwear Estonada Masculino 100% algodão",
-      "price": 42.64,
-      "originalPrice": 69.9,
-      "discountPercent": 39,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzg9wqb1yqf598",
-      "url": "https://s.shopee.com.br/9KjCqn6lfU",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 110,
-      "seller": "Veste Sul",
+      "rating": 4.9,
+      "salesCount": 466,
+      "seller": "ECShoes",
       "category": "Moda"
     },
     {
@@ -3506,7 +3874,7 @@
       "rating": 4.8,
       "salesCount": 3569,
       "seller": "Shop Home & Decor",
-      "category": "Casa e organização"
+      "category": "Pet e bebê"
     },
     {
       "id": "22197398647",
@@ -3537,6 +3905,19 @@
       "category": "Moda"
     },
     {
+      "id": "18198165593",
+      "title": "Calça Jeans Feminina Wide Leg Cintura Alta Pantalona Tecido Leve 100% Algodão",
+      "price": 69.9,
+      "originalPrice": 148.72,
+      "discountPercent": 53,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7tz7imdb29uf2",
+      "url": "https://s.shopee.com.br/8KqefrdSjV",
+      "rating": 4.8,
+      "salesCount": 6923,
+      "seller": "ElisJeans",
+      "category": "Moda"
+    },
+    {
       "id": "23297548342",
       "title": "Haste Eixo Suporte Adaptador Universal Disco De Corte Desbaste Rebolo Lixa Furadeira Parafusadeira Furo 16 - 20 - 22mm",
       "price": 27.97,
@@ -3561,6 +3942,21 @@
       "salesCount": 1459,
       "seller": "LUIZ STORE  BR",
       "category": "Ferramentas"
+    },
+    {
+      "id": "21099836557",
+      "title": "Processador Triturador De Alimentos New Oggi Mallory Cor Preto",
+      "price": 66.99,
+      "originalPrice": 117.53,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwm-mc2jv1qmrooz0e",
+      "url": "https://s.shopee.com.br/1LguN2wjqx",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3637,
+      "official": true,
+      "seller": "Tudão Tech  Ltda",
+      "category": "Cozinha"
     },
     {
       "id": "22992868060",
@@ -3737,410 +4133,6 @@
       "salesCount": 2886,
       "seller": "LUZORA",
       "category": "Casa e organização"
-    },
-    {
-      "id": "25946709329",
-      "title": "ULTRA HIDRATAÇÃO EFEITO TEIA COM ÓLEOS MARROQUINOS - OURO MARROQUINO - FINA MARIA PROFISSIONAL",
-      "price": 38.9,
-      "originalPrice": 79.39,
-      "discountPercent": 51,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258h-mr1ynaykoao016",
-      "url": "https://s.shopee.com.br/9fM2GJCao4",
-      "rating": 4.9,
-      "salesCount": 30756,
-      "seller": "Distribuidora Oficial Fina Maria",
-      "category": "Beleza"
-    },
-    {
-      "id": "18698826077",
-      "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
-      "price": 149,
-      "originalPrice": 338.64,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
-      "url": "https://s.shopee.com.br/8fTVbN1grU",
-      "rating": 4.9,
-      "salesCount": 1251,
-      "official": true,
-      "seller": "Eletricario Loja Oficial",
-      "category": "Ferramentas"
-    },
-    {
-      "id": "46007151632",
-      "title": "Pendente Triplo Lustre Luminária Aramado Tulipa Cabo Cristal 1 Metro",
-      "price": 59.2,
-      "originalPrice": 80,
-      "discountPercent": 26,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mlqzwskv8d8ke3",
-      "url": "https://s.shopee.com.br/1143wN1adf",
-      "rating": 4.8,
-      "salesCount": 319,
-      "seller": "PJ DECORAÇÕES ",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "21998277686",
-      "title": "Kit 20 Unidades Bebedouros Automáticos Aves Galinhas Codornas",
-      "price": 34.89,
-      "originalPrice": 89.46,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mmccxdwf9uyo8e",
-      "url": "https://s.shopee.com.br/6VP0UVFAa4",
-      "rating": 4.9,
-      "salesCount": 1093,
-      "seller": "WGECOMM",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "22297158685",
-      "title": "Umidificador Atomizador De Ar Doméstico Portátil Umidificador 200ml ANJGG",
-      "price": 15.99,
-      "originalPrice": 79.95,
-      "discountPercent": 80,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259g-mfziriko5yxb36",
-      "url": "https://s.shopee.com.br/5q9JhFaBQM",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 3072,
-      "seller": "ANJ.GG store",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "23897143938",
-      "title": "Umidificador Hm-20 Ultrassônico  0,22 L 1,5 W USB Incluso Branco",
-      "price": 15.99,
-      "originalPrice": 79.95,
-      "discountPercent": 80,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lz-mqxgvw7kebye22",
-      "url": "https://s.shopee.com.br/40hfVshA96",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 2308,
-      "seller": "ANJ.GG store",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "58202075375",
-      "title": "KIT 3 Ou 5 Capas Silicone Cor SortIdas Compatível Com Todos iPhone 17 16 15 14 13 12 11 Pro Max Plus X XR XS Max",
-      "price": 24.89,
-      "originalPrice": 49.78,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj3n22tz6qrled",
-      "url": "https://s.shopee.com.br/4B15i9yrq8",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1740,
-      "seller": "KASPRIME.STORE",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "54017981219",
-      "title": "Pote/Colher de Vidro com Tampa de Bambu Hermético Colher 900ml Porta Mantimentos Temperos Saleiro",
-      "price": 15.89,
-      "originalPrice": 39.73,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mtijtl4uz4lf83",
-      "url": "https://s.shopee.com.br/9pfSYuljPf",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 637,
-      "seller": "DS Group ",
-      "category": "Cozinha"
-    },
-    {
-      "id": "54113505958",
-      "title": "Kit Capas de Almofadas para Sofá Premiun Suede Decorativo Casa Sala Quarto Slim",
-      "price": 19.91,
-      "originalPrice": 39.82,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mqca774gijnk2a",
-      "url": "https://s.shopee.com.br/2BG1KUTVhG",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1068,
-      "seller": "bellalardecoraes",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "22098962003",
-      "title": "Kit 3 Vaso Decorativo Espiral Cachepô Minimalista Enfeite Decoração Casa Sala Rack Planta Artificial",
-      "price": 24.89,
-      "originalPrice": 49.78,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-musk84ja38jkbb",
-      "url": "https://s.shopee.com.br/2Vsrj7Qo3d",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 955,
-      "seller": "MAWI 3D",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23798670714",
-      "title": "Fita LED RGB 3528 5M 300 LEDs IP65 à Prova D'Água com Fonte Inclusa – Iluminação Colorida e Flexível",
-      "price": 16.99,
-      "originalPrice": 33.98,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra0r-mbe0liual91f04",
-      "url": "https://s.shopee.com.br/3qOFJZLndK",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2154,
-      "seller": "TMR E-commerce",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58210517964",
-      "title": "Capa de Couro PU Multiuso para 13-16 Polegadas com Suporte para Escritório e Estudo",
-      "price": 39.9,
-      "originalPrice": 79.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xh-mo5fynj6s9ae94",
-      "url": "https://s.shopee.com.br/6fiQgmookR",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 594,
-      "seller": "Lunexis",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "58211027537",
-      "title": "Mochila para notebook de alta qualidade, couro, 13 a 16 polegadas, com suporte e bolsa para carregador",
-      "price": 39.9,
-      "originalPrice": 79.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pj-mogt7aoa5lvz07",
-      "url": "https://s.shopee.com.br/50aChivA8G",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 483,
-      "seller": "1tv3bizrq6",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "43050661409",
-      "title": "Mousepad Gamer APEX Control Mouse pad Grande 49x42 Mouse Pad Branco Preto Blade Red Girl Titorion",
-      "price": 69.88,
-      "originalPrice": 99.83,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-murqr7kx36df0f",
-      "url": "https://s.shopee.com.br/1LguKz8qbt",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1381,
-      "seller": "Shop Borges",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "58267928915",
-      "title": "TWS Fones De Ouvido Bluetooth 5.3 Sem Fio Com Controle De Toque Pro4 Para Android & iOS",
-      "price": 36.98,
-      "originalPrice": 73.96,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mtg679xrc1z7f9",
-      "url": "https://s.shopee.com.br/6AmA5s0HFj",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1273,
-      "seller": "UAL TOP",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "22997557859",
-      "title": "Esponja de Maquiagem - Flat Blend Roxa Océane",
-      "price": 24.9,
-      "originalPrice": 49.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259z-muc61c28yoei74",
-      "url": "https://s.shopee.com.br/9fM2GJ09Qi",
-      "rating": 5,
-      "salesCount": 951,
-      "official": true,
-      "seller": "Océane Oficial",
-      "category": "Beleza"
-    },
-    {
-      "id": "22995057755",
-      "title": "Gel Creme Hidratante Facial Antimanchas Toque Seco Vitamina C, Controla a Oleosidade e Uniformiza a Pele, Garnier, 85g",
-      "price": 31.99,
-      "originalPrice": 42.65,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mpmmalx2jda990",
-      "url": "https://s.shopee.com.br/5q9JhGDiGH",
-      "rating": 4.9,
-      "salesCount": 1762,
-      "official": true,
-      "seller": "Garnier - Loja Oficial",
-      "category": "Beleza"
-    },
-    {
-      "id": "58262787945",
-      "title": "Hidratante Facial Antiacne Toque Seco com Ácido Salicílico, Reduz Imperfeições e Controla a Oleosidade, Garnier, 85g",
-      "price": 31.99,
-      "originalPrice": 42.65,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mrvvfk1zwtfqc8",
-      "url": "https://s.shopee.com.br/6VP0UUBAuT",
-      "rating": 4.9,
-      "salesCount": 1419,
-      "official": true,
-      "seller": "Garnier - Loja Oficial",
-      "category": "Beleza"
-    },
-    {
-      "id": "41557489268",
-      "title": "MEGA HIDRATAÇÃO OURO MARROQUINO EFEITO TEIA | ANTIFRIZZ | ÓLEOS MILAGROSOS | FINA MARIA PROFESSIONAL",
-      "price": 39.9,
-      "originalPrice": 79.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgcvuf1960as06",
-      "url": "https://s.shopee.com.br/9KjBrhDrU2",
-      "rating": 4.9,
-      "salesCount": 14237,
-      "seller": "Distribuidora Oficial Fina Maria",
-      "category": "Beleza"
-    },
-    {
-      "id": "58266747863",
-      "title": "Suporte De Parede Secador E Chapinha Babyliss Organizador De Salão Banheiro Com Suporte Para Cabos",
-      "price": 24.93,
-      "originalPrice": 49.86,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-ms7fbk3fgdmv4f",
-      "url": "https://s.shopee.com.br/qkdk4kygw",
-      "rating": 5,
-      "salesCount": 67,
-      "seller": "UltraShop Stoore",
-      "category": "Beleza"
-    },
-    {
-      "id": "22296700159",
-      "title": "Conjunto Infantil Masculino De Verão – Camiseta Algodão + Bermuda Confortável | 1 a 12 Anos",
-      "price": 29.9,
-      "originalPrice": 49.83,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mth24blb2qypf6",
-      "url": "https://s.shopee.com.br/4qGmVR4BtO",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 4092,
-      "seller": "Moda Kids Virtual",
-      "category": "Moda"
-    },
-    {
-      "id": "58217669744",
-      "title": "Bebedouro Automático Aves Galinha Codorna Copinho Vermelho",
-      "price": 18,
-      "originalPrice": 36,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aq-mstl4ht3lqf6a0",
-      "url": "https://s.shopee.com.br/5VWTIfIybq",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 966,
-      "seller": "Lunexis",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "23893120291",
-      "title": "Kit 10 Fita Isolante 19mm 5m Rolo Resistente Fogo Umidade Hella",
-      "price": 16.93,
-      "originalPrice": 23.85,
-      "discountPercent": 29,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rffa-m3ck1byt9ww684",
-      "url": "https://s.shopee.com.br/3VlOuzaQBu",
-      "rating": 4.9,
-      "salesCount": 990,
-      "official": true,
-      "seller": "Ampec",
-      "category": "Ferramentas"
-    },
-    {
-      "id": "23094872785",
-      "title": "Mochila Notebook  Masculina Impermeável  Capacidade Escolar Trabalho Faculdade",
-      "price": 39.99,
-      "originalPrice": 99.98,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mlgzs3qs6epxd0",
-      "url": "https://s.shopee.com.br/9V2cauH4rv",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1142,
-      "seller": "HZ SHOPPING",
-      "category": "Presentes e papelaria"
-    },
-    {
-      "id": "23329032457",
-      "title": "Kit 10 Spot led 5w 7w Luminária Bivolt Direcionavel Quadrado Redondo Embutido Teto Sanca",
-      "price": 40.9,
-      "originalPrice": 80.2,
-      "discountPercent": 49,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mu3sumfeyqdcad",
-      "url": "https://s.shopee.com.br/7puOr8I6GI",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 712,
-      "official": true,
-      "seller": "Fábrica De Led",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58203008886",
-      "title": "Arranhador Adesivo para Gatos – Protetor de Sofá, Cama e Móveis",
-      "price": 18.9,
-      "originalPrice": 33.75,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zs-mja11zhum8sm52",
-      "url": "https://s.shopee.com.br/906LT62Hlr",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 935,
-      "seller": "Shop MRC",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "22394046482",
-      "title": "Fita Métrica De Aço Inoxidável 3/5/7,5m Trena Profissional Trava Anti-incrustante, impermeável, protetor solar",
-      "price": 21.99,
-      "originalPrice": 61.08,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh5vvod5bnd11b",
-      "url": "https://s.shopee.com.br/5AtcyGOoB4",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 452,
-      "seller": "Arco--íris",
-      "category": "Ferramentas"
-    },
-    {
-      "id": "22193589524",
-      "title": "Papel de Parede Adesivo Mármore Branco com Detalhes Dourados 5m x 45cm Lavável para Sala, Quarto e Cozinha",
-      "price": 17.99,
-      "originalPrice": 58.03,
-      "discountPercent": 69,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mows9pfly96u98",
-      "url": "https://s.shopee.com.br/2Vsrj5ntAl",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 3108,
-      "seller": "Papel de Parede - Shop",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23698683202",
-      "title": "Necessaire De Viagem Feminino Premium Espaçoso E Estiloso Para Cosméticos",
-      "price": 18.48,
-      "originalPrice": 71.08,
-      "discountPercent": 74,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbm0ngt2ybugd6",
-      "url": "https://s.shopee.com.br/20wbCP3VNW",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 998,
-      "seller": "Otimo.bolsas.mochilas",
-      "category": "Beleza"
     }
   ]
 }
