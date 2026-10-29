@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T23:12:01.641Z",
+  "updatedAt": "2026-10-29T23:32:58.390Z",
   "offers": [
     {
       "id": "20042293295",
@@ -647,6 +647,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "22792666247",
+      "title": "PRATA/PRETO Inox Torneira banheiro Alavanca Moderna Abs Luxo 1/4 De Volta Cromo Premi",
+      "price": 49.9,
+      "originalPrice": 106.17,
+      "discountPercent": 53,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyne0a67igv9cc",
+      "url": "https://s.shopee.com.br/5fpuqpDW3k",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1353,
+      "seller": "REAL MO",
+      "category": "Ferramentas"
+    },
+    {
       "id": "22198679435",
       "title": "Frigideira Multifuncional Antiaderente 4 Em 1",
       "price": 37.99,
@@ -734,7 +748,6 @@
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-ms5l9in9msqt7f",
       "url": "https://s.shopee.com.br/70LH5O19XI",
-      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 5054,
       "seller": "Fonte Boa Casa",
@@ -820,8 +833,7 @@
       "rating": 4.8,
       "salesCount": 2388,
       "seller": "COCOKA",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "58261587690",
@@ -850,20 +862,6 @@
       "salesCount": 839,
       "seller": "Valorosa Beauty Hair",
       "category": "Beleza"
-    },
-    {
-      "id": "58254621747",
-      "title": "Óculos de sol feminino oval retrô, padrão tartaruga, estilo moderno",
-      "price": 24.43,
-      "originalPrice": 93.96,
-      "discountPercent": 74,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfed52e1pcef5f",
-      "url": "https://s.shopee.com.br/W7nLSzRe4",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1554,
-      "seller": "óculos  ",
-      "category": "Moda"
     },
     {
       "id": "22193566084",
@@ -1704,6 +1702,20 @@
       "category": "Beleza"
     },
     {
+      "id": "23098737531",
+      "title": "Óculos de Sol Retrô da moda Fashion UV400 Haste Dourada",
+      "price": 18.99,
+      "originalPrice": 40.4,
+      "discountPercent": 53,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi3m2b9be8zq53",
+      "url": "https://s.shopee.com.br/2qVjTgD8CO",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1008,
+      "seller": "Itabaiana Store",
+      "category": "Moda"
+    },
+    {
       "id": "23998938097",
       "title": "Calça Legging Feminina com Bolsos Laterais Cintura Alta Zero Transparência Academia Fitness Atletyca",
       "price": 52.9,
@@ -1896,6 +1908,20 @@
       "category": "Beleza"
     },
     {
+      "id": "22398881699",
+      "title": "Extensão Elétrica Com Cabo 10 Tomadas Régua 4 USB 2 tipo-c",
+      "price": 57.99,
+      "originalPrice": 98.29,
+      "discountPercent": 41,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meds7l5vk0si69",
+      "url": "https://s.shopee.com.br/7Ky8ptfc2d",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 1010,
+      "seller": "huanglw738",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "58264295508",
       "title": "Copo garrafa Térmica Inox 1200ml Parede Dupla tampa Canudo Premium",
       "price": 34.99,
@@ -2022,19 +2048,6 @@
       "official": true,
       "seller": "Bettdow",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "58270017100",
-      "title": "Escova Secadora Alisador Eletrica QuenteCabelo Com 3 Em1,Portátil para Uso Doméstico,protege el cabello",
-      "price": 38.99,
-      "originalPrice": 108.31,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mu1whi961jpc3a",
-      "url": "https://s.shopee.com.br/4B16lXgdMx",
-      "rating": 4.9,
-      "salesCount": 382,
-      "seller": "FZZYSTAR.store",
-      "category": "Beleza"
     },
     {
       "id": "50160899989",
@@ -2256,19 +2269,6 @@
       "salesCount": 825,
       "seller": "LLB COMÉRCIO",
       "category": "Casa e organização"
-    },
-    {
-      "id": "23535003648",
-      "title": "Brinquedo para Gato Arranhador com Pena e Rampa Poste Sisal",
-      "price": 39.89,
-      "originalPrice": 64.34,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhrp620eyj9f23",
-      "url": "https://s.shopee.com.br/60SjtaDhrV",
-      "rating": 4.9,
-      "salesCount": 698,
-      "seller": "Fabrica Pet",
-      "category": "Pet e bebê"
     },
     {
       "id": "23194055670",
@@ -2944,7 +2944,7 @@
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82598-mr9fgqn9qnt38d",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b7-mr9fgq72ark72d",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -3267,20 +3267,6 @@
       "category": "Beleza"
     },
     {
-      "id": "3958758961",
-      "title": "óculos de sol hexagonal masculino feminino com lente preta escura armação metal geométrico blogueira",
-      "price": 16.9,
-      "originalPrice": 49.71,
-      "discountPercent": 66,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mslmq9g7mwas80",
-      "url": "https://s.shopee.com.br/4B15iClUCQ",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 5544,
-      "seller": "L&F Acessórios",
-      "category": "Moda"
-    },
-    {
       "id": "42659281125",
       "title": "Óculos De Sol Ovais Vintage Com Proteção UV400 , Armação De Metal Para Mulheres E Homens",
       "price": 24.01,
@@ -3292,6 +3278,20 @@
       "rating": 4.7,
       "salesCount": 1761,
       "seller": "Choice Oficial",
+      "category": "Moda"
+    },
+    {
+      "id": "23192960392",
+      "title": "Oculos de Sol Gatinho Retangular Cara de Rica Social Casual Moda Feminina",
+      "price": 16.9,
+      "originalPrice": 49.71,
+      "discountPercent": 66,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg416glxa9l025",
+      "url": "https://s.shopee.com.br/7fazEYujOW",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 812,
+      "seller": "Fornecedor de Óculos",
       "category": "Moda"
     },
     {
@@ -3348,20 +3348,6 @@
       "salesCount": 1417,
       "seller": "ENDLESS",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "23498776025",
-      "title": "KL5018 Óculos de sol de metal da moda",
-      "price": 15,
-      "originalPrice": 30,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcw38nrusow1fe",
-      "url": "https://s.shopee.com.br/20wb8DtjbL",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1380,
-      "seller": "KL330",
-      "category": "Moda"
     },
     {
       "id": "58217930618",
@@ -3822,6 +3808,21 @@
       "category": "Ferramentas"
     },
     {
+      "id": "21099836557",
+      "title": "Processador Triturador De Alimentos New Oggi Mallory Cor Preto",
+      "price": 66.99,
+      "originalPrice": 117.53,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwm-mc2jv1qmrooz0e",
+      "url": "https://s.shopee.com.br/1LguN2wjqx",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3670,
+      "official": true,
+      "seller": "Tudão Tech  Ltda",
+      "category": "Cozinha"
+    },
+    {
       "id": "20398185214",
       "title": "Sapateira Organizadora com 9 Prateleiras para Organizar Sapatos Calçados Chinelos Roupas Objetos 24 Pares - Black",
       "price": 54.99,
@@ -3902,19 +3903,6 @@
       "salesCount": 762,
       "seller": "Eddias Home",
       "category": "Casa e organização"
-    },
-    {
-      "id": "23394535462",
-      "title": "Carregador Turbo 45W USB-C Carregamento  Rápido com Cabo Tipo-C 1 Metro para Android galaxy",
-      "price": 28.98,
-      "originalPrice": 60.38,
-      "discountPercent": 52,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-ms3e5fq877yf3b",
-      "url": "https://s.shopee.com.br/2BG1KUWsXf",
-      "rating": 4.8,
-      "salesCount": 1716,
-      "seller": "AcGeeki",
-      "category": "Eletrônicos"
     },
     {
       "id": "22394521810",
@@ -4132,6 +4120,21 @@
       "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 2978,
+      "seller": "ANJ.GG store",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "23897143938",
+      "title": "Umidificador Hm-20 Ultrassônico  0,22 L 1,5 W USB Incluso Branco",
+      "price": 15.99,
+      "originalPrice": 79.95,
+      "discountPercent": 80,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lz-mqxgvw7kebye22",
+      "url": "https://s.shopee.com.br/40hfVshA96",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 2253,
       "seller": "ANJ.GG store",
       "category": "Casa e organização",
       "hot": true
