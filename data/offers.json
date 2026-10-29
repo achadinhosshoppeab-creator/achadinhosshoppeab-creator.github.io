@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T14:33:12.642Z",
+  "updatedAt": "2026-10-29T14:53:22.751Z",
   "offers": [
     {
       "id": "20042293295",
@@ -357,6 +357,19 @@
       "category": "Presentes e papelaria"
     },
     {
+      "id": "22895594528",
+      "title": "1 Amplificador De Imagem Tela Telefone Celular Amplificador De Imagem Tela Ultra Clara Luz Anti-Azul",
+      "price": 17.99,
+      "originalPrice": 43.88,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mr9vkb01htdxca",
+      "url": "https://s.shopee.com.br/7puOr8HtTK",
+      "rating": 4.6,
+      "salesCount": 883,
+      "seller": "REAL MO",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "20898865543",
       "title": "4 PcsToalha De Cabelo Banho, Toalha Grossa Mágica Para Secar Cabelo De Microfibra Grossa Touca Pós",
       "price": 23.99,
@@ -479,7 +492,8 @@
       "rating": 4.8,
       "salesCount": 4863,
       "seller": "HACKBERRY",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "29424706558",
@@ -700,16 +714,16 @@
       "category": "Moda"
     },
     {
-      "id": "58207572793",
+      "id": "58200308460",
       "title": "Luminária Retrô de Mesa LED Recarregável com Cúpula Transparente e Controle por Toque Dourada",
       "price": 54,
       "originalPrice": 100,
       "discountPercent": 46,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zm-mm89tcutvnyg28",
-      "url": "https://s.shopee.com.br/9APlfLt24S",
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgn56islo83o75",
+      "url": "https://s.shopee.com.br/7VHYSWJMwC",
       "rating": 4.9,
-      "salesCount": 726,
-      "seller": "DeinShop",
+      "salesCount": 638,
+      "seller": "MULTIORIENTAL",
       "category": "Casa e organização"
     },
     {
@@ -1013,6 +1027,34 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "22594751357",
+      "title": "60cm Luminária Barra LED Recarregável Sensor de Movimento 3 Cores Luz para Armário e Guarda-Roupa",
+      "price": 21.99,
+      "originalPrice": 73.3,
+      "discountPercent": 70,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mo3dcqnhl0qs3e",
+      "url": "https://s.shopee.com.br/5fpuH9QLep",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 994,
+      "seller": "A casa iluminada",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "20299550104",
+      "title": "Ventilador de Teto C/ Iluminação 3 Cores Luz Controle Remoto Luminária Moderna 60w Bulbo E27 6 Pás",
+      "price": 44.99,
+      "originalPrice": 179.96,
+      "discountPercent": 75,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhl5tpe8zeh24c",
+      "url": "https://s.shopee.com.br/70LHrbLGxD",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 497,
+      "seller": "RAPIDAO NET",
+      "category": "Casa e organização"
+    },
+    {
       "id": "18297829933",
       "title": "Perfume Grace Midnight Feminino Frasco Antigo Hinode 100ml",
       "price": 101.94,
@@ -1025,20 +1067,6 @@
       "official": true,
       "seller": "Hinode ",
       "category": "Beleza"
-    },
-    {
-      "id": "20299550104",
-      "title": "Ventilador de Teto C/ Iluminação 3 Cores Luz Controle Remoto Luminária Moderna 60w Bulbo E27 6 Pás",
-      "price": 44.99,
-      "originalPrice": 179.96,
-      "discountPercent": 75,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhl5tpe8zeh24c",
-      "url": "https://s.shopee.com.br/2gCIdPtP1o",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 497,
-      "seller": "RAPIDAO NET",
-      "category": "Casa e organização"
     },
     {
       "id": "58202329642",
@@ -1069,6 +1097,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "21127605624",
+      "title": "kit 2 ate 3un Luminária Espeto Jardim cob led 7w 9w 15w  cor de luz verde azul rosa à prova d'água",
+      "price": 20.99,
+      "originalPrice": 80.73,
+      "discountPercent": 74,
+      "imageUrl": "https://cf.shopee.com.br/file/e94cfd6f20422c095e7025ddaff94c8f",
+      "url": "https://s.shopee.com.br/3VlPhAYb3Y",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 487,
+      "seller": "RONG.LOJA",
+      "category": "Casa e organização"
+    },
+    {
       "id": "23598844056",
       "title": "Organizador de Maquiagem Giratório – Suporte Multiuso 2/3 Andares p/ Cosméticos e Perfumes",
       "price": 49,
@@ -1080,6 +1122,19 @@
       "rating": 4.9,
       "salesCount": 1130,
       "seller": "DeinShop",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "44378324294",
+      "title": "Painel Decoração Porta Foto Quadro Decorativo Nossa Família Nosso Tesouro em MDF Moldura de Fotos 10x15",
+      "price": 18.5,
+      "originalPrice": 71.15,
+      "discountPercent": 74,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mshelelgzmdh85",
+      "url": "https://s.shopee.com.br/5fptUwALrD",
+      "rating": 4.7,
+      "salesCount": 656,
+      "seller": "Docce Morada ",
       "category": "Casa e organização"
     },
     {
@@ -1433,6 +1488,20 @@
       "salesCount": 1741,
       "seller": "ATITUDE ÚNICA MODA FEMININA",
       "category": "Moda"
+    },
+    {
+      "id": "19597455368",
+      "title": "Kit 3 Luminaria de emergencia 30 leds 2W Branco Frio",
+      "price": 39.9,
+      "originalPrice": 133,
+      "discountPercent": 70,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mu3sumfeuio007",
+      "url": "https://s.shopee.com.br/9V2cqCBksO",
+      "rating": 4.8,
+      "salesCount": 1562,
+      "official": true,
+      "seller": "Fábrica De Led",
+      "category": "Casa e organização"
     },
     {
       "id": "22693482091",
@@ -2020,6 +2089,20 @@
       "category": "Beleza"
     },
     {
+      "id": "20456488740",
+      "title": "Kit 5/6/10 Luminária Solar 100 Leds Sem Fio à Prova D' Água Externa 3 Modos Iluminação Casa Decoração",
+      "price": 74.98,
+      "originalPrice": 163,
+      "discountPercent": 54,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259h-mtosnu62eh3a6d",
+      "url": "https://s.shopee.com.br/6L5b4NNoIt",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 742,
+      "seller": "MAX MO (Atacado & Varejo)",
+      "category": "Casa e organização"
+    },
+    {
       "id": "22992653456",
       "title": "Bettdow Teclado Mágico para ipad A16 2025 Pro 11 Air 4 5 6 10th Gen  Caso Teclado Bluetooth Sem Fio iPad não incluíd",
       "price": 375,
@@ -2118,6 +2201,19 @@
       "category": "Beleza"
     },
     {
+      "id": "58261766323",
+      "title": "Kit 5 Rodinhas Cadeira Escritório Gamer Rodízio 50mm Pino 11mm Não Risca Piso Silenciosa Nylon PU Universal Cinza",
+      "price": 21.89,
+      "originalPrice": 59.16,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-moyd8kdffgg353",
+      "url": "https://s.shopee.com.br/4LKVuTp1ox",
+      "rating": 4.9,
+      "salesCount": 121,
+      "seller": "BRASIL CHAIRS",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "22199198026",
       "title": "Kit Grampos e Presilhas Automotivas com 100 Peças + Estojo Organizador Universal Reforçado",
       "price": 15.88,
@@ -2200,6 +2296,33 @@
       "category": "Presentes e papelaria"
     },
     {
+      "id": "23892379350",
+      "title": "100 Leds Luminária Parede Solar Com Sensor Jardim Externa Prova D'água",
+      "price": 20.88,
+      "originalPrice": 44.43,
+      "discountPercent": 53,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnutbp7mwv5597",
+      "url": "https://s.shopee.com.br/7fayepIjbH",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 572,
+      "seller": "LOJA DA WEB",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58253554533",
+      "title": "Forma Silicone Sabonete Artesanal Massageador Grande 4 Cavidades",
+      "price": 18.98,
+      "originalPrice": 70.3,
+      "discountPercent": 73,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82615-mjn9nvrtnlzb2e",
+      "url": "https://s.shopee.com.br/7VHXgIuqdV",
+      "rating": 5,
+      "salesCount": 1310,
+      "seller": "WGECOMM",
+      "category": "Cozinha"
+    },
+    {
       "id": "58258071799",
       "title": "Kit Banheiro Acessórios 5 Peças Completo Toalheiro Saboneteira Decoração Preto Branco Cromado Decor",
       "price": 31.96,
@@ -2251,6 +2374,19 @@
       "rating": 4.8,
       "salesCount": 1531,
       "seller": "PoliPlast",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58206075411",
+      "title": "Luminária De Teto Lustre Moderno Sala De Jantar Dourado 3 Lâmpadas Criativo Iluminação 110/220v",
+      "price": 78.99,
+      "originalPrice": 239.36,
+      "discountPercent": 67,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mlbvhmdbzbif34",
+      "url": "https://s.shopee.com.br/4B16UOW3hs",
+      "rating": 4.9,
+      "salesCount": 396,
+      "seller": "A casa iluminada",
       "category": "Casa e organização"
     },
     {
@@ -2582,6 +2718,19 @@
       "category": "Presentes e papelaria"
     },
     {
+      "id": "22896245808",
+      "title": "10 Unidade Leds Lâmpada Adesiva Sem Fio Touch De Pilha De Segurança Portátil Para Armário Casa e Decoração Ilumin",
+      "price": 39.9,
+      "originalPrice": 79.8,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258z-mtw1koxeq3uqa7",
+      "url": "https://s.shopee.com.br/3B8ZIYZrja",
+      "rating": 4.8,
+      "salesCount": 408,
+      "seller": "LOJA DA WEB",
+      "category": "Casa e organização"
+    },
+    {
       "id": "58216601427",
       "title": "Porta Temperos Giratório 360 Graus 6, 9 ou 12 Potes de Vidro Organizador Cozinha Tampa Dosadora",
       "price": 27.99,
@@ -2796,7 +2945,8 @@
       "rating": 4.9,
       "salesCount": 2287,
       "seller": "Choice Oficial",
-      "category": "Eletrônicos"
+      "category": "Eletrônicos",
+      "hot": true
     },
     {
       "id": "18299268001",
@@ -2813,6 +2963,20 @@
       "category": "Presentes e papelaria"
     },
     {
+      "id": "23097971890",
+      "title": "Luminária LED USB 3 cores Regulável Recarregável Com sensor de movimento 60cm -F9",
+      "price": 30.55,
+      "originalPrice": 98.55,
+      "discountPercent": 69,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-muolfjpqxb0gc5",
+      "url": "https://s.shopee.com.br/9fM32VB7XT",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 688,
+      "seller": "Brasil Mart",
+      "category": "Casa e organização"
+    },
+    {
       "id": "58258453576",
       "title": "Suporte Notebook Ergonômico com Cooler – Refrigeração 5V 1000RPM (DELTA-B1122M)",
       "price": 46.87,
@@ -2823,6 +2987,34 @@
       "rating": 4.9,
       "salesCount": 561,
       "seller": "NEW SECULO XXI",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "58262489819",
+      "title": "1-4 Luminaria Solar Led Vagalume Para Jardim Luz Ao Ar Livre À Prova D'água Mudança De Cor Firefly",
+      "price": 27.5,
+      "originalPrice": 65.48,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mpt2jhxvetj518",
+      "url": "https://s.shopee.com.br/6fiRSzMXd7",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 566,
+      "seller": "VIDCOR VARIEDADES",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "22794149442",
+      "title": "Suporte Tablet e Celular Metálico Rotativo de Liga de Alumínio Resistente Elegante e Totalmente Ajustável",
+      "price": 20.99,
+      "originalPrice": 49.98,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mitmoii6c26bd2",
+      "url": "https://s.shopee.com.br/2qVitwavbt",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2428,
+      "seller": "FUTURO ADA SHOP",
       "category": "Eletrônicos"
     },
     {
@@ -2838,20 +3030,6 @@
       "salesCount": 850,
       "seller": "Choice Oficial",
       "category": "Moda"
-    },
-    {
-      "id": "22794149442",
-      "title": "Suporte Tablet e Celular Metálico Rotativo de Liga de Alumínio Resistente Elegante e Totalmente Ajustável",
-      "price": 20.99,
-      "originalPrice": 49.98,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mitmoii6c26bd2",
-      "url": "https://s.shopee.com.br/W7nLQYtQG",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2428,
-      "seller": "FUTURO ADA SHOP",
-      "category": "Eletrônicos"
     },
     {
       "id": "23199140933",
@@ -2929,7 +3107,7 @@
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvs-mimqyela89hg71",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zuv-mimqz9sdyk8zd7",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -3017,20 +3195,6 @@
       "rating": 4.8,
       "salesCount": 1860,
       "seller": "Fábrica de Moda Básica",
-      "category": "Moda"
-    },
-    {
-      "id": "58268291074",
-      "title": "Bolsa Feminina Transversal Matelassê Pequena com Pompom Alça Ajustável",
-      "price": 18.99,
-      "originalPrice": 44.16,
-      "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mt7ycjiekcud19",
-      "url": "https://s.shopee.com.br/80Dp22ZlZ3",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 751,
-      "seller": "KJMODAS",
       "category": "Moda"
     },
     {
@@ -3182,6 +3346,34 @@
       "category": "Beleza"
     },
     {
+      "id": "23394147952",
+      "title": "Suporte Metálico Rotativo para Tablet e Celular em Liga de Alumínio ， Resistente, Elegante e Totalmente Ajustável",
+      "price": 21.9,
+      "originalPrice": 49.77,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mifbr1zyk83l5e",
+      "url": "https://s.shopee.com.br/7Aei3uKQp8",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1038,
+      "seller": "Samuel Shop",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "49766317145",
+      "title": "Quadro Decorativo Trio Flores Minamislista Clean Douradas Deus é Bom o Tempo Todo Para Sala Quarto 4K",
+      "price": 34.9,
+      "originalPrice": 79.32,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-ms32z8f1n7rb12",
+      "url": "https://s.shopee.com.br/60SjtY95BB",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 866,
+      "seller": "ITopDecor",
+      "category": "Casa e organização"
+    },
+    {
       "id": "49608965059",
       "title": "2026 K10 Smartwatch Relógio Inteligente 10 2.0 Polegadas PRO MAX IWO 8 Em 1/7 Papel De Parede Personalizado/Recepção De ",
       "price": 69.98,
@@ -3290,20 +3482,6 @@
       "salesCount": 2821,
       "seller": "Mimi Kids",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "58207180884",
-      "title": "TOMI MITO Bolsa Feminina Casual de Ombro com Estampa Geométrica e Pingente Charmoso para Trabalho e Passeios TM9187",
-      "price": 49,
-      "originalPrice": 108.89,
-      "discountPercent": 55,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-msjdqoh14wsn61",
-      "url": "https://s.shopee.com.br/4qGnGDloz7",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1599,
-      "seller": "Amy.Store",
-      "category": "Moda"
     },
     {
       "id": "58203212212",
@@ -3417,6 +3595,20 @@
       "official": true,
       "seller": "Tudão Tech  Ltda",
       "category": "Cozinha"
+    },
+    {
+      "id": "41368657771",
+      "title": "Astgn X Basike Caixa de Som Bluetooth Estéreo  80W Potente IPX6 TWS RGB",
+      "price": 354.34,
+      "originalPrice": 1012.4,
+      "discountPercent": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mejq3arh54ow9f",
+      "url": "https://s.shopee.com.br/30p8K1Thwg",
+      "rating": 4.9,
+      "salesCount": 636,
+      "official": true,
+      "seller": "Astgn X Basike",
+      "category": "Eletrônicos"
     },
     {
       "id": "58202085853",
@@ -3862,6 +4054,19 @@
       "category": "Ferramentas"
     },
     {
+      "id": "14241654483",
+      "title": "Amplificador De Imagem Da Tela Do Celular Ampliada Lupa 3d Tela",
+      "price": 16.98,
+      "originalPrice": 29.79,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b2-musyns3rhqm886",
+      "url": "https://s.shopee.com.br/1qdBi6ejdb",
+      "rating": 4.6,
+      "salesCount": 2845,
+      "seller": "MAX MO (Atacado & Varejo)",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "22992868060",
       "title": "Umidificador De Ar Com Grande Capacidade Para Casa/Escritório Com Atmosfera Led Luz Noturna Lâmpada Casa Para Quarto",
       "price": 16.99,
@@ -3928,211 +4133,6 @@
       "salesCount": 749,
       "seller": "Eddias Home",
       "category": "Casa e organização"
-    },
-    {
-      "id": "23394535462",
-      "title": "Carregador Turbo 45W USB-C Carregamento  Rápido com Cabo Tipo-C 1 Metro para Android galaxy",
-      "price": 28.98,
-      "originalPrice": 60.38,
-      "discountPercent": 52,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-ms3e5fq877yf3b",
-      "url": "https://s.shopee.com.br/2BG1KUWsXf",
-      "rating": 4.8,
-      "salesCount": 1743,
-      "seller": "AcGeeki",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "22394521810",
-      "title": "Kit Umidificador De Ar + 3 Essências 10ml | Difusor Aromatizador Vaso Escolha Seu Modelo Atomizador",
-      "price": 31.83,
-      "originalPrice": 60.06,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mrajjv7ms3r961",
-      "url": "https://s.shopee.com.br/3VlOuxj4A5",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2170,
-      "seller": "Angel's Store1",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "19397732017",
-      "title": "Guarda Chuva Para Brisa Carro Protetor Parasol Tapa Sol Automotivo Retratil Dobravel Protecao UV Termico Com Capa",
-      "price": 19.89,
-      "originalPrice": 60.27,
-      "discountPercent": 67,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-munucxdisirn0c",
-      "url": "https://s.shopee.com.br/9fM2GJ3nFA",
-      "rating": 4.8,
-      "salesCount": 2016,
-      "seller": "SLX loja",
-      "category": "Beleza"
-    },
-    {
-      "id": "43882953952",
-      "title": "Kit 6 Frascos Organizadores Banheiro 500ml Âmbar com Pump, Shampoo Condicionador Sabonete Máscara Sabonete Facial Íntimo",
-      "price": 39.9,
-      "originalPrice": 83.13,
-      "discountPercent": 52,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82583-mr2et6j8ii3034",
-      "url": "https://s.shopee.com.br/30p8OGXSdP",
-      "rating": 5,
-      "salesCount": 476,
-      "seller": "Dona Belezza",
-      "category": "Beleza"
-    },
-    {
-      "id": "24291101685",
-      "title": "MEDOOSI-Quebra cabeça deslizante Magnéticos Pesca Montessori brinquedo jogos pedagogicos puzzle para Infantis educativos",
-      "price": 99,
-      "originalPrice": 353.57,
-      "discountPercent": 72,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlby3n3khc7c11",
-      "url": "https://s.shopee.com.br/80DoHG0jJK",
-      "rating": 4.9,
-      "salesCount": 680,
-      "seller": "MEDOOSI-1",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "58200873688",
-      "title": "MESAS PORTÁTIL DOBRÁVEL CAMPING OU JARDIM VIRA MELTA COM ALÇA  1,80M",
-      "price": 229.99,
-      "originalPrice": 605.24,
-      "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mm9nofg52d536b",
-      "url": "https://s.shopee.com.br/2gCHvSplIU",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2076,
-      "seller": "Reusarte Shop",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "22997647570",
-      "title": "Escova secador Modeladora Taiff Oval Easy Pink Original",
-      "price": 199.99,
-      "originalPrice": 454.52,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
-      "url": "https://s.shopee.com.br/5LD36JY1SH",
-      "rating": 4.9,
-      "salesCount": 674,
-      "official": true,
-      "seller": "Beleza Renovada Oficial",
-      "category": "Beleza"
-    },
-    {
-      "id": "22094263350",
-      "title": "1 a 10 Metros Fita Mangueira de LED 5050 para Decoração 110V ou 220V Branco Frio/Quente Com Conector",
-      "price": 18.77,
-      "originalPrice": 34.76,
-      "discountPercent": 46,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyf-mch8o56lezpwc6",
-      "url": "https://s.shopee.com.br/3B8YWLOKzG",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2886,
-      "seller": "LUZORA",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "25946709329",
-      "title": "ULTRA HIDRATAÇÃO EFEITO TEIA COM ÓLEOS MARROQUINOS - OURO MARROQUINO - FINA MARIA PROFISSIONAL",
-      "price": 38.9,
-      "originalPrice": 79.39,
-      "discountPercent": 51,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258h-mr1ynaykoao016",
-      "url": "https://s.shopee.com.br/9fM2GJCao4",
-      "rating": 4.9,
-      "salesCount": 30756,
-      "seller": "Distribuidora Oficial Fina Maria",
-      "category": "Beleza"
-    },
-    {
-      "id": "18698826077",
-      "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
-      "price": 149,
-      "originalPrice": 338.64,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
-      "url": "https://s.shopee.com.br/8fTVbN1grU",
-      "rating": 4.9,
-      "salesCount": 1251,
-      "official": true,
-      "seller": "Eletricario Loja Oficial",
-      "category": "Ferramentas"
-    },
-    {
-      "id": "46007151632",
-      "title": "Pendente Triplo Lustre Luminária Aramado Tulipa Cabo Cristal 1 Metro",
-      "price": 59.2,
-      "originalPrice": 80,
-      "discountPercent": 26,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mlqzwskv8d8ke3",
-      "url": "https://s.shopee.com.br/1143wN1adf",
-      "rating": 4.8,
-      "salesCount": 319,
-      "seller": "PJ DECORAÇÕES ",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "44162911290",
-      "title": "Areia 4Kg Biodegradável Kadi Grãos Finos para Gatos",
-      "price": 29.99,
-      "originalPrice": 50.83,
-      "discountPercent": 41,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxl-mdet8ey488yyfe",
-      "url": "https://s.shopee.com.br/1BNU8hW6Yv",
-      "rating": 4.8,
-      "salesCount": 6073,
-      "official": true,
-      "seller": "mypetone",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "21998277686",
-      "title": "Kit 20 Unidades Bebedouros Automáticos Aves Galinhas Codornas",
-      "price": 34.89,
-      "originalPrice": 89.46,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mmccxdwf9uyo8e",
-      "url": "https://s.shopee.com.br/6VP0UVFAa4",
-      "rating": 4.9,
-      "salesCount": 1093,
-      "seller": "WGECOMM",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "22297158685",
-      "title": "Umidificador Atomizador De Ar Doméstico Portátil Umidificador 200ml ANJGG",
-      "price": 15.99,
-      "originalPrice": 79.95,
-      "discountPercent": 80,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259g-mfziriko5yxb36",
-      "url": "https://s.shopee.com.br/5q9JhFaBQM",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 3072,
-      "seller": "ANJ.GG store",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "23897143938",
-      "title": "Umidificador Hm-20 Ultrassônico  0,22 L 1,5 W USB Incluso Branco",
-      "price": 15.99,
-      "originalPrice": 79.95,
-      "discountPercent": 80,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lz-mqxgvw7kebye22",
-      "url": "https://s.shopee.com.br/40hfVshA96",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 2308,
-      "seller": "ANJ.GG store",
-      "category": "Casa e organização",
-      "hot": true
     }
   ]
 }
