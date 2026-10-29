@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T15:34:54.215Z",
+  "updatedAt": "2026-10-29T15:55:42.924Z",
   "offers": [
     {
       "id": "20042293295",
@@ -288,19 +288,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "23592416886",
-      "title": "Calça Pijama Masculina Algodão Confortável para Dormir",
-      "price": 33.9,
-      "originalPrice": 99.71,
-      "discountPercent": 66,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkb7kfyvjdvl5a",
-      "url": "https://s.shopee.com.br/30p8roJS1v",
-      "rating": 4.7,
-      "salesCount": 488,
-      "seller": "Chapelaria Vintage",
-      "category": "Moda"
-    },
-    {
       "id": "18599096400",
       "title": "2 Pincéis Ultrafinos para Sobrancelha com Design Aprimorado, perfeitos para delineador em lâmina, maquiagem",
       "price": 21.9,
@@ -438,6 +425,20 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "58253687690",
+      "title": "Óculos de Sol Planta Conceito - Hastes de Sapo Desenho Bico de Pato Unissex UV400 Nariz Removível",
+      "price": 32.97,
+      "originalPrice": 89.11,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134211-820lg-mq686t3ui51c3a",
+      "url": "https://s.shopee.com.br/1BWkY1Lf1",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1487,
+      "seller": "Olivello Home Center",
+      "category": "Moda"
+    },
+    {
       "id": "22697383155",
       "title": "Calça Pantalona Feminina Cintura Alta  Com Bolso Tecido Duna",
       "price": 29.9,
@@ -535,19 +536,6 @@
       "salesCount": 1112,
       "seller": "INFINITY COMERCIO DE VARIEDADES",
       "category": "Moda"
-    },
-    {
-      "id": "58213230968",
-      "title": "Mouse Sem Fio Wireless 2.4GHz 1000 DPI USB Plug And Play Notebook PC Computador Windows Mac Linux",
-      "price": 19.96,
-      "originalPrice": 39.92,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mq946t2fs2rkd1",
-      "url": "https://s.shopee.com.br/7Aei6lb8K9",
-      "rating": 4.9,
-      "salesCount": 247,
-      "seller": "Kr  importados",
-      "category": "Eletrônicos"
     },
     {
       "id": "26734497572",
@@ -739,6 +727,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "58268028843",
+      "title": "Kit 2 Bonés New York NY Bordado | Feminino Masculino | Premium | Aba Curva | Ajustável | Várias Cores - ENVIO IMEDIATO",
+      "price": 64.7,
+      "originalPrice": 119.81,
+      "discountPercent": 46,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mt1tm30f2nt039",
+      "url": "https://s.shopee.com.br/qkdk4xDIV",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1340,
+      "seller": "SHARK OUTFIT",
+      "category": "Moda"
+    },
+    {
       "id": "19071764317",
       "title": "Bota Feminina Lumiss Salto Alto Grosso Cano Curto Bico Quadrado Calce Fácil Zíper Confortável",
       "price": 74.94,
@@ -833,6 +835,20 @@
       "salesCount": 840,
       "seller": "Valorosa Beauty Hair",
       "category": "Beleza"
+    },
+    {
+      "id": "58254621747",
+      "title": "Óculos de sol feminino oval retrô, padrão tartaruga, estilo moderno",
+      "price": 24.43,
+      "originalPrice": 93.96,
+      "discountPercent": 74,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfed52e1pcef5f",
+      "url": "https://s.shopee.com.br/W7nLSzRe4",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1544,
+      "seller": "óculos  ",
+      "category": "Moda"
     },
     {
       "id": "22193566084",
@@ -1253,6 +1269,19 @@
       "category": "Beleza"
     },
     {
+      "id": "41278843530",
+      "title": "Boné Masculino Five Panel Bordado Malha para Masculino Feminino Praia Corrida Ciclismo Estilo Moda Uso Diário Chapéu",
+      "price": 30.6,
+      "originalPrice": 92.73,
+      "discountPercent": 67,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260i-ml307tm5a5ms48",
+      "url": "https://s.shopee.com.br/40hfVtl9ru",
+      "rating": 4.9,
+      "salesCount": 1320,
+      "seller": "A_crosail.br",
+      "category": "Moda"
+    },
+    {
       "id": "58212612774",
       "title": "kit ate 10 Calcinhas Canelada Poliamida Premium Importada Fio ou Conforto",
       "price": 24.99,
@@ -1306,6 +1335,20 @@
       "salesCount": 2752,
       "seller": "Bela Beleza Oficial",
       "category": "Beleza"
+    },
+    {
+      "id": "58257376297",
+      "title": "Boné New York NY Bordado, Aba Curva, Unissex, Regulagem Ajustável, Premium, Treino, Blogueira, Beisebol - ENVIO IMEDIATO",
+      "price": 34.8,
+      "originalPrice": 65.66,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-modgya36lcef22",
+      "url": "https://s.shopee.com.br/1144TGn5Je",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1267,
+      "seller": "Kron.outfit",
+      "category": "Moda"
     },
     {
       "id": "22598314126",
@@ -1475,20 +1518,6 @@
       "category": "Moda"
     },
     {
-      "id": "49456762765",
-      "title": "Cadeira de Escritório Presidente Ultra Ergonômica LARUNO Alto Padrão Luxo Espuma Certificada Homologada NR17 Cinza",
-      "price": 355.9,
-      "originalPrice": 1186.33,
-      "discountPercent": 70,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mso5d25w4nica9",
-      "url": "https://s.shopee.com.br/2gCI626l3Y",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 485,
-      "seller": "LARUNO",
-      "category": "Casa e organização"
-    },
-    {
       "id": "21499647005",
       "title": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Escudo Antiporosidade",
       "price": 17.9,
@@ -1517,6 +1546,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "44515668088",
+      "title": "Meias Malucas 25 ao 40 Dos Desenhos Animados Longas Das Crianças Adulto De Meia Panturrilha",
+      "price": 17.99,
+      "originalPrice": 43.88,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-msk5jtlk8zye92",
+      "url": "https://s.shopee.com.br/6AmA5sd7Li",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 10629,
+      "seller": "GR MARKET EXPRESS",
+      "category": "Moda"
+    },
+    {
       "id": "58250382369",
       "title": "Bolsa De Armazenamento De Ferramentas De Carro Em Feltro Para O Porta-Malas Do Carro",
       "price": 30.9,
@@ -1529,34 +1572,6 @@
       "salesCount": 898,
       "seller": "UR.bestie🧡",
       "category": "Ferramentas"
-    },
-    {
-      "id": "41978917153",
-      "title": "Cadeira de Escritório Ergonômica Giratória Presidente com Apoio Lombar, Braços Ajustáveis e Tecido Mesh- LARUNO",
-      "price": 369.9,
-      "originalPrice": 1193.23,
-      "discountPercent": 69,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mtdzril7oa2r94",
-      "url": "https://s.shopee.com.br/5VWTTEvyIq",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 714,
-      "seller": "LARUNO",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "52456503130",
-      "title": "Cadeira de Escritório Ergonômica cinza Giratória com Apoio Lombar e Braços Ajustáveis - LARUNO",
-      "price": 369.9,
-      "originalPrice": 1193.23,
-      "discountPercent": 69,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mnf5ojvbpcsg7d",
-      "url": "https://s.shopee.com.br/40hfgU1gLg",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 725,
-      "seller": "LARUNO",
-      "category": "Casa e organização"
     },
     {
       "id": "13494334390",
@@ -1795,19 +1810,6 @@
       "category": "Moda"
     },
     {
-      "id": "56455915321",
-      "title": "Almofada de Assento Automotiva para Motorista Carro e Cadeira de Escritório Cor Preta",
-      "price": 34.9,
-      "originalPrice": 60.17,
-      "discountPercent": 42,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke6aqr3ypdvbf",
-      "url": "https://s.shopee.com.br/30p8Ue5UNe",
-      "rating": 4.5,
-      "salesCount": 360,
-      "seller": "M.A Acessórios e Variedades",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58205085045",
       "title": "Lixeira 13 Litros Abertura por Pedal Preta Quadrada",
       "price": 27.9,
@@ -1976,6 +1978,21 @@
       "category": "Beleza"
     },
     {
+      "id": "22992653456",
+      "title": "Bettdow Teclado Mágico para ipad A16 2025 Pro 11 Air 4 5 6 10th Gen  Caso Teclado Bluetooth Sem Fio iPad não incluíd",
+      "price": 375,
+      "originalPrice": 1041.67,
+      "discountPercent": 64,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mrs4kxqf6txg23",
+      "url": "https://s.shopee.com.br/30p8K1UjvY",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 390,
+      "official": true,
+      "seller": "Bettdow",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "50160899989",
       "title": "Novo Relógio 10 PRO Max Smartwatch Inteligente Masculino E Feminino Bluetooth Chamado , Papéis De Parede Personalizáveis",
       "price": 49.99,
@@ -2044,19 +2061,6 @@
       "salesCount": 672,
       "seller": "LARDOCELAR DECOR",
       "category": "Casa e organização"
-    },
-    {
-      "id": "46218998985",
-      "title": "Mouse sem fio Profissional Original 5+ Wireless de Alta Frequencia com 2.4 Ghz - Office Pro Preto",
-      "price": 19.95,
-      "originalPrice": 35,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mu3q6p7vtgjl7b",
-      "url": "https://s.shopee.com.br/6fiRVqd2L4",
-      "rating": 4.7,
-      "salesCount": 132,
-      "seller": "RK_IMPORTS",
-      "category": "Eletrônicos"
     },
     {
       "id": "58254104681",
@@ -2724,19 +2728,6 @@
       "category": "Presentes e papelaria"
     },
     {
-      "id": "54208477572",
-      "title": "Mouse Sem Fio Uniwity 3 Modos PAW3311 6400 DPI 65g Ultraleve BT/2.4G/Com Fio Recarregável",
-      "price": 65.9,
-      "originalPrice": 99.85,
-      "discountPercent": 34,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mu8u9ui2pekoff",
-      "url": "https://s.shopee.com.br/7puOsZ8LDb",
-      "rating": 4.9,
-      "salesCount": 251,
-      "seller": "StyleVoyage.br",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "20999381894",
       "title": "Conjunto 2/3/5/10 Potes 370/640/1040ml Vidro Hermético Mantimentos Marmita Fitness",
       "price": 27.89,
@@ -2918,11 +2909,11 @@
     },
     {
       "id": "23793879757",
-      "title": "Daily T-shirt Insider",
+      "title": "Camiseta Daily T-shirt Insider",
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zuv-mimqz9sdyk8zd7",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259t-mr9fqp009se909",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -3013,6 +3004,20 @@
       "category": "Moda"
     },
     {
+      "id": "22593793702",
+      "title": "Kit Teclado e Mouse Sem Fio Bluetooth  Colorido Compatível com Android iOS e Windows",
+      "price": 42.9,
+      "originalPrice": 99.77,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8zgieqwb22h93",
+      "url": "https://s.shopee.com.br/3g4p7FSCZc",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 447,
+      "seller": "LojaZini",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "18999784319",
       "title": "Pincel de Maquiagem Ultrafino para Sobrancelhas Chanfrado de Precisão para Delineador Sombra e Olhos",
       "price": 16.6,
@@ -3051,6 +3056,33 @@
       "salesCount": 2130,
       "seller": "LOUREN_VARIEDADES",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "58266741003",
+      "title": "Óculos de Sol Conceito Bico de Pato UV400 Unissex com Narigueira RemovívelÓculos de Sol Conceito Bico de Pato UV400 Unis",
+      "price": 21.99,
+      "originalPrice": 66.64,
+      "discountPercent": 67,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-ms76a0fhlddzb1",
+      "url": "https://s.shopee.com.br/4fxMJ7jaBb",
+      "rating": 4.9,
+      "salesCount": 2689,
+      "seller": "óculos  ",
+      "category": "Moda"
+    },
+    {
+      "id": "23794242479",
+      "title": "Meias Masculinas Cano Alto Macias e Resistentes",
+      "price": 21.99,
+      "originalPrice": 30.12,
+      "discountPercent": 27,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mtippu71nkead9",
+      "url": "https://s.shopee.com.br/906LT5SKbV",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 4800,
+      "seller": "Tiger Sport",
+      "category": "Moda"
     },
     {
       "id": "41083528216",
@@ -3118,19 +3150,6 @@
       "salesCount": 1514,
       "seller": "Rosa Tropical",
       "category": "Beleza"
-    },
-    {
-      "id": "58206727055",
-      "title": "Kit Mouse Sem Fio Recarregavel Para Notebook Rgb + Mouse Pad",
-      "price": 34.98,
-      "originalPrice": 79.5,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mq975mi14ikheb",
-      "url": "https://s.shopee.com.br/80Dp4s7hse",
-      "rating": 4.9,
-      "salesCount": 335,
-      "seller": "GH-SHOP",
-      "category": "Eletrônicos"
     },
     {
       "id": "49766317145",
@@ -3216,6 +3235,34 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "3958758961",
+      "title": "óculos de sol hexagonal masculino feminino com lente preta escura armação metal geométrico blogueira",
+      "price": 16.9,
+      "originalPrice": 49.71,
+      "discountPercent": 66,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mslmq9g7mwas80",
+      "url": "https://s.shopee.com.br/4B15iClUCQ",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 5550,
+      "seller": "L&F Acessórios",
+      "category": "Moda"
+    },
+    {
+      "id": "42659281125",
+      "title": "Óculos De Sol Ovais Vintage Com Proteção UV400 , Armação De Metal Para Mulheres E Homens",
+      "price": 24.01,
+      "originalPrice": 61.56,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qp-mp4m9y3qr6kr4f",
+      "url": "https://s.shopee.com.br/9V2c40RBNy",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 1879,
+      "seller": "Choice Oficial",
+      "category": "Moda"
+    },
+    {
       "id": "19899259306",
       "title": "Tapete Infantil Bebê Inflável Água Atividades Sensorial Almofada Menino e Menina",
       "price": 18.82,
@@ -3269,6 +3316,20 @@
       "salesCount": 1407,
       "seller": "ENDLESS",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "23498776025",
+      "title": "KL5018 Óculos de sol de metal da moda",
+      "price": 15,
+      "originalPrice": 30,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcw38nrusow1fe",
+      "url": "https://s.shopee.com.br/20wb8DtjbL",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1391,
+      "seller": "KL330",
+      "category": "Moda"
     },
     {
       "id": "58217930618",
@@ -3328,6 +3389,20 @@
       "category": "Cozinha"
     },
     {
+      "id": "41368657771",
+      "title": "Astgn X Basike Caixa de Som Bluetooth Estéreo  80W Potente IPX6 TWS RGB",
+      "price": 354.34,
+      "originalPrice": 1012.4,
+      "discountPercent": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mejq3arh54ow9f",
+      "url": "https://s.shopee.com.br/30p8K1Thwg",
+      "rating": 4.9,
+      "salesCount": 636,
+      "official": true,
+      "seller": "Astgn X Basike",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "58202085853",
       "title": "Porta Escovas e Creme Dental com Tampa e Organizador para Banheiro Higiênico",
       "price": 15.8,
@@ -3369,6 +3444,19 @@
       "official": true,
       "seller": "Salon Line",
       "category": "Beleza"
+    },
+    {
+      "id": "22394494115",
+      "title": "SHOTH FEMININO ALFAIATARIA CON CINTO MARRON É BOLSOS ELEGANTES",
+      "price": 26.25,
+      "originalPrice": 35,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mt6ee43r1wxzc2",
+      "url": "https://s.shopee.com.br/1BNU8gvwoz",
+      "rating": 4.8,
+      "salesCount": 1736,
+      "seller": "GRISEL MODAS",
+      "category": "Moda"
     },
     {
       "id": "8333126075",
@@ -3705,6 +3793,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "57412117145",
+      "title": "Óculos de Sol Feminino Oval Vintage Retrô UV400 Elegante Moda",
+      "price": 18.8,
+      "originalPrice": 36.15,
+      "discountPercent": 48,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h8-mpe2wtjqkn4c6c",
+      "url": "https://s.shopee.com.br/2gCHvRrCFH",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2420,
+      "seller": "T.R. Imports Brasil",
+      "category": "Moda"
+    },
+    {
       "id": "18198165593",
       "title": "Calça Jeans Feminina Wide Leg Cintura Alta Pantalona Tecido Leve 100% Algodão",
       "price": 69.9,
@@ -4028,105 +4130,6 @@
       "rating": 4.9,
       "salesCount": 1740,
       "seller": "KASPRIME.STORE",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "54113505958",
-      "title": "Kit Capas de Almofadas para Sofá Premiun Suede Decorativo Casa Sala Quarto Slim",
-      "price": 19.91,
-      "originalPrice": 39.82,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mqca774gijnk2a",
-      "url": "https://s.shopee.com.br/2BG1KUTVhG",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1068,
-      "seller": "bellalardecoraes",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "51450633186",
-      "title": "Basike Mouse Sem Fio BLuetooth 12000DPI Ajustável 3 Modos，Mouse Gamer Ergonômico RGB para Notebook，PC e Teclado，MOU339",
-      "price": 113.99,
-      "originalPrice": 227.98,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgj2xiy1frwke3",
-      "url": "https://s.shopee.com.br/9APmT13GVz",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 265,
-      "official": true,
-      "seller": "Basike Loja Oficial",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "22098962003",
-      "title": "Kit 3 Vaso Decorativo Espiral Cachepô Minimalista Enfeite Decoração Casa Sala Rack Planta Artificial",
-      "price": 24.89,
-      "originalPrice": 49.78,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-musk84ja38jkbb",
-      "url": "https://s.shopee.com.br/2Vsrj7Qo3d",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 955,
-      "seller": "MAWI 3D",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23798670714",
-      "title": "Fita LED RGB 3528 5M 300 LEDs IP65 à Prova D'Água com Fonte Inclusa – Iluminação Colorida e Flexível",
-      "price": 16.99,
-      "originalPrice": 33.98,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra0r-mbe0liual91f04",
-      "url": "https://s.shopee.com.br/3qOFJZLndK",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2154,
-      "seller": "TMR E-commerce",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58210517964",
-      "title": "Capa de Couro PU Multiuso para 13-16 Polegadas com Suporte para Escritório e Estudo",
-      "price": 39.9,
-      "originalPrice": 79.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xh-mo5fynj6s9ae94",
-      "url": "https://s.shopee.com.br/6fiQgmookR",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 594,
-      "seller": "Lunexis",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "58211027537",
-      "title": "Mochila para notebook de alta qualidade, couro, 13 a 16 polegadas, com suporte e bolsa para carregador",
-      "price": 39.9,
-      "originalPrice": 79.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pj-mogt7aoa5lvz07",
-      "url": "https://s.shopee.com.br/50aChivA8G",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 483,
-      "seller": "1tv3bizrq6",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "43050661409",
-      "title": "Mousepad Gamer APEX Control Mouse pad Grande 49x42 Mouse Pad Branco Preto Blade Red Girl Titorion",
-      "price": 69.88,
-      "originalPrice": 99.83,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-murqr7kx36df0f",
-      "url": "https://s.shopee.com.br/1LguKz8qbt",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1381,
-      "seller": "Shop Borges",
       "category": "Eletrônicos"
     }
   ]
