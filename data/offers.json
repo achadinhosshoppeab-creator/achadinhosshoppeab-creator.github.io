@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T18:42:05.332Z",
+  "updatedAt": "2026-10-29T19:03:06.669Z",
   "offers": [
     {
       "id": "20042293295",
@@ -653,12 +653,12 @@
       "originalPrice": 53.17,
       "discountPercent": 53,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259d-mtai9235voqoda",
-      "url": "https://s.shopee.com.br/9zysetHHxp",
+      "url": "https://s.shopee.com.br/5q9KkgCGwe",
       "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 1285,
       "seller": "BIG MO",
-      "category": "Beleza"
+      "category": "Presentes e papelaria"
     },
     {
       "id": "58214695707",
@@ -698,20 +698,6 @@
       "rating": 4.8,
       "salesCount": 1924,
       "seller": "eradino",
-      "category": "Moda"
-    },
-    {
-      "id": "4893739569",
-      "title": "Kit 10 Calcinhas de Algodão Feminina Adulto Tanga Lisas Cos Largo",
-      "price": 42.13,
-      "originalPrice": 79.49,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mn9e150092bo66",
-      "url": "https://s.shopee.com.br/8AXFVVr4Yb",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2017,
-      "seller": "AMD Comércio",
       "category": "Moda"
     },
     {
@@ -768,6 +754,20 @@
       "official": true,
       "seller": "Lumiss",
       "category": "Moda"
+    },
+    {
+      "id": "20298106278",
+      "title": "Kit Refil Mop 8 Litros 13,5 cm Para Balde Esfregão Microfiba Giratório",
+      "price": 23.99,
+      "originalPrice": 119.95,
+      "discountPercent": 80,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mn5ven6ym9l04c",
+      "url": "https://s.shopee.com.br/6L5bLYSyMK",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 249,
+      "seller": "GH-SHOP",
+      "category": "Casa e organização"
     },
     {
       "id": "53465088216",
@@ -1162,20 +1162,6 @@
       "category": "Beleza"
     },
     {
-      "id": "23998169868",
-      "title": "Kit 5 Calcinha Fio Dental Algodão  Conforto Cotton Feminina",
-      "price": 24.98,
-      "originalPrice": 40.29,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m72b6gedy8g774",
-      "url": "https://s.shopee.com.br/906MV2ntrq",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1857,
-      "seller": "Demila-Confecções",
-      "category": "Moda"
-    },
-    {
       "id": "23394239273",
       "title": "Kit Jogo Broca Escariadora 8 Peças Madeira Piloto Chanfro para Madeira Aço HSS 3 a 10mm",
       "price": 25.9,
@@ -1284,6 +1270,34 @@
       "category": "Moda"
     },
     {
+      "id": "58212612774",
+      "title": "kit ate 10 Calcinhas Canelada Poliamida Premium Importada Fio ou Conforto",
+      "price": 24.99,
+      "originalPrice": 39.67,
+      "discountPercent": 37,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824gp-mpjotyf4hlor24",
+      "url": "https://s.shopee.com.br/906LT5o7jR",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 3753,
+      "seller": "Femme Lamour",
+      "category": "Moda"
+    },
+    {
+      "id": "50717936391",
+      "title": "Kit Calcinhas Pala Dupla Cintura Alta Segura Barriga July Conforto Premium",
+      "price": 27.95,
+      "originalPrice": 99.82,
+      "discountPercent": 72,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259z-mt7fhx4x7jlyda",
+      "url": "https://s.shopee.com.br/4qGmVR3zC1",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 2138,
+      "seller": "Thalinda Lingerie Moda",
+      "category": "Moda"
+    },
+    {
       "id": "46806231294",
       "title": "Fone KZ EDX Pro Profissional Intra-auricular Driver Dinâmico Magnético 10mm Original Gamer",
       "price": 48.9,
@@ -1335,20 +1349,6 @@
       "rating": 4.9,
       "salesCount": 540,
       "seller": "F_MIX",
-      "category": "Moda"
-    },
-    {
-      "id": "58253786518",
-      "title": "Kit Calcinhas Cinta Modeladora Compressão Cós Alto Redutora De Medidas Confortável",
-      "price": 25.89,
-      "originalPrice": 60.21,
-      "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-ms5spnagkves65",
-      "url": "https://s.shopee.com.br/9zytgsk5ps",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 2011,
-      "seller": "Daffine.Oficial",
       "category": "Moda"
     },
     {
@@ -1461,20 +1461,6 @@
       "rating": 4.8,
       "salesCount": 1431,
       "seller": "osiriloko",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "21499491641",
-      "title": "Mop C/ cabo de 140 cm + 2 Refis - Rodinhas e Cesto Em Inox - Balde Centrífuga - CH",
-      "price": 59.9,
-      "originalPrice": 119.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mqm69hmdu3uo02",
-      "url": "https://s.shopee.com.br/6VP0UTc2t2",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 3836,
-      "seller": "Chaicommerce",
       "category": "Casa e organização"
     },
     {
@@ -1785,20 +1771,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "22894923594",
-      "title": "VELA AROMÁTICA 150G ARTESANAL PREMIUM PERFUMADA CERA COCO 100% NATURAL",
-      "price": 23,
-      "originalPrice": 69.7,
-      "discountPercent": 67,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mmf90m1c21hjc8",
-      "url": "https://s.shopee.com.br/3B8YWLkGdz",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 271,
-      "seller": "SEA & LAR",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58250465689",
       "title": "Suporte TV Monitor Articulado Giratório Metálico LED LCD 10-26 Polegadas Reforçado e Ajustável",
       "price": 32.9,
@@ -2008,6 +1980,20 @@
       "category": "Beleza"
     },
     {
+      "id": "13614461290",
+      "title": "Kit 3 Saco Organizador Closet Edredon Cobertor C/ Ziper",
+      "price": 19.99,
+      "originalPrice": 28.15,
+      "discountPercent": 29,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23030-mlscpix8imov93",
+      "url": "https://s.shopee.com.br/70LI8jnqoU",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1384,
+      "seller": "Isaplastic",
+      "category": "Casa e organização"
+    },
+    {
       "id": "22992653456",
       "title": "Bettdow Teclado Mágico para ipad A16 2025 Pro 11 Air 4 5 6 10th Gen  Caso Teclado Bluetooth Sem Fio iPad não incluíd",
       "price": 375,
@@ -2021,6 +2007,19 @@
       "official": true,
       "seller": "Bettdow",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "58270017100",
+      "title": "Escova Secadora Alisador Eletrica QuenteCabelo Com 3 Em1,Portátil para Uso Doméstico,protege el cabello",
+      "price": 38.99,
+      "originalPrice": 108.31,
+      "discountPercent": 64,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mu1whi961jpc3a",
+      "url": "https://s.shopee.com.br/4B16lXgdMx",
+      "rating": 4.9,
+      "salesCount": 339,
+      "seller": "FZZYSTAR.store",
+      "category": "Beleza"
     },
     {
       "id": "50160899989",
@@ -2065,19 +2064,6 @@
       "category": "Ferramentas"
     },
     {
-      "id": "41779907146",
-      "title": "Fita Isolante Preta Kit 10 Rolos 5m Antichama 750V Alta Aderência para Instalação Elétrica Profissional",
-      "price": 15.99,
-      "originalPrice": 26.21,
-      "discountPercent": 39,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mtjld06qrhmr6a",
-      "url": "https://s.shopee.com.br/6L5aICPdRi",
-      "rating": 4.9,
-      "salesCount": 464,
-      "seller": "rgprimeprime",
-      "category": "Ferramentas"
-    },
-    {
       "id": "22691297138",
       "title": "[OFFICIAL] SKIN1004 madagascar centella ampoule 30ml,55ml,100ml,120ml",
       "price": 44.97,
@@ -2107,19 +2093,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58254104681",
-      "title": "Depilador Elétrico Facial Portátil em Formato Batom USB, Aparador de Pelos do Buço e Rosto – Prático e Indolor",
-      "price": 16.9,
-      "originalPrice": 45.68,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjz10b92lhxd25",
-      "url": "https://s.shopee.com.br/LoNg0dzGN",
-      "rating": 4.8,
-      "salesCount": 1268,
-      "seller": "MOZA SHOP",
-      "category": "Beleza"
-    },
-    {
       "id": "58261766323",
       "title": "Kit 5 Rodinhas Cadeira Escritório Gamer Rodízio 50mm Pino 11mm Não Risca Piso Silenciosa Nylon PU Universal Cinza",
       "price": 21.89,
@@ -2143,7 +2116,7 @@
       "rating": 4.9,
       "salesCount": 3542,
       "seller": "RD ECOM",
-      "category": "Presentes e papelaria"
+      "category": "Casa e organização"
     },
     {
       "id": "41022402072",
@@ -2460,6 +2433,19 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "21898108143",
+      "title": "Jogo De Mesa Astronauta Equilíbrio 50 Peças Infantil Puzzle Tabuleiro",
+      "price": 29.99,
+      "originalPrice": 90.88,
+      "discountPercent": 67,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8p3j4v55nkh48",
+      "url": "https://s.shopee.com.br/2Vsrj9LfTA",
+      "rating": 4.8,
+      "salesCount": 826,
+      "seller": "shopwithus",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "55108506021",
       "title": "Espelho Decorativo Orgânico Nuvem 70x50cm Instalação Rápida",
       "price": 57.98,
@@ -2594,6 +2580,20 @@
       "salesCount": 852,
       "seller": "Choice Oficial",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "12214476532",
+      "title": "Kit 10 Saco Organizador Closet Edredom Cobertor C/ Ziper",
+      "price": 49.99,
+      "originalPrice": 66.65,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23030-mlscpix8imov93",
+      "url": "https://s.shopee.com.br/5VWULytYrJ",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1156,
+      "seller": "Isaplastic",
+      "category": "Casa e organização"
     },
     {
       "id": "58216601427",
@@ -2759,6 +2759,33 @@
       "category": "Moda"
     },
     {
+      "id": "23298142175",
+      "title": "Calça Jeans Feminina Wide Leg Pantalona Grafite Marmorizada Cintura Alta 34 ao 44",
+      "price": 59.99,
+      "originalPrice": 199.97,
+      "discountPercent": 70,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mrmcbc9uji1068",
+      "url": "https://s.shopee.com.br/2BG1KX0wFt",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2220,
+      "seller": "AfonteSP - Moda Em Marketplaces",
+      "category": "Moda"
+    },
+    {
+      "id": "23298481880",
+      "title": "Kit 6 Calcinhas Feminina Conforto Tanga Biquíni Confortável Com Forro Algodão Básica Dia a Dia",
+      "price": 19,
+      "originalPrice": 34.55,
+      "discountPercent": 45,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-muamdye9tiioe5",
+      "url": "https://s.shopee.com.br/20wb8EElwC",
+      "rating": 4.9,
+      "salesCount": 3414,
+      "seller": "Mit Lingerie",
+      "category": "Moda"
+    },
+    {
       "id": "18597787721",
       "title": "Mochila Escolar Reforçada Nylon Impermeável Viagem Esportiva",
       "price": 39.9,
@@ -2825,8 +2852,7 @@
       "rating": 4.9,
       "salesCount": 2287,
       "seller": "Choice Oficial",
-      "category": "Eletrônicos",
-      "hot": true
+      "category": "Eletrônicos"
     },
     {
       "id": "58258453576",
@@ -3198,20 +3224,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "49751473661",
-      "title": "Esfregão 360° Mop Twist Auto-Torção Microfibra 2 em 1 Limpeza Geral",
-      "price": 31.99,
-      "originalPrice": 82.03,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhifeipnrytfee",
-      "url": "https://s.shopee.com.br/20wb8CtB1a",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 2029,
-      "seller": "Armazem do Marcelao",
-      "category": "Casa e organização"
-    },
-    {
       "id": "20607193834",
       "title": "CARREGADOR PORTÁTIL POWER BANK UNIVERSAL 10.000MAH E 5.000MAH",
       "price": 33.75,
@@ -3491,20 +3503,6 @@
       "hot": true
     },
     {
-      "id": "22597338672",
-      "title": "Mini Guarda-Chuva Portátil Dobravel UPF50+ Cápsula Ultra Leve com Estojo – Proteção UV",
-      "price": 23.99,
-      "originalPrice": 59.97,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lreutfgf8mqsd0",
-      "url": "https://s.shopee.com.br/7VHXgLTEpM",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1720,
-      "seller": "DAILONG COMERCIO DE PRESENTES LTDA",
-      "category": "Presentes e papelaria"
-    },
-    {
       "id": "22695171666",
       "title": "Lixeira Inteligente Automática 16L Recarregável USB com Sensor, Abertura Automática para Cozinha, Banheiro e Escritório",
       "price": 68.4,
@@ -3712,20 +3710,6 @@
       "salesCount": 466,
       "seller": "ECShoes",
       "category": "Moda"
-    },
-    {
-      "id": "58210617908",
-      "title": "Trena de Fibra de Vidro 30M/50M/100M Resistente à Água e Ferrugem para Construção e Obras",
-      "price": 36.99,
-      "originalPrice": 80.41,
-      "discountPercent": 54,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mo8lnsg5s9hg0b",
-      "url": "https://s.shopee.com.br/4B15iDSWRj",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1367,
-      "seller": "Super Vida_BR",
-      "category": "Ferramentas"
     },
     {
       "id": "23194244914",
@@ -3986,6 +3970,21 @@
       "category": "Beleza"
     },
     {
+      "id": "9315675115",
+      "title": "Bota Texana GiGiL Feminina Cano Alto Salto Médio Western Bordada",
+      "price": 49.99,
+      "originalPrice": 178.54,
+      "discountPercent": 72,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu2-mknq92e0nf2a2f",
+      "url": "https://s.shopee.com.br/1BWkYHutx",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 431,
+      "official": true,
+      "seller": "GiGiL",
+      "category": "Moda"
+    },
+    {
       "id": "24291101685",
       "title": "MEDOOSI-Quebra cabeça deslizante Magnéticos Pesca Montessori brinquedo jogos pedagogicos puzzle para Infantis educativos",
       "price": 99,
@@ -4010,19 +4009,6 @@
       "rating": 4.9,
       "salesCount": 2076,
       "seller": "Reusarte Shop",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "22299257003",
-      "title": "Kit Mesa Dobrável Portátil Vira Maleta Camping Churrasco 90X60cm com 2 Banquinhos Dobráveis Brancos",
-      "price": 138.99,
-      "originalPrice": 496.39,
-      "discountPercent": 72,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mip9s7xl8r2a5b",
-      "url": "https://s.shopee.com.br/1BXmW8YhG",
-      "rating": 4.7,
-      "salesCount": 301,
-      "seller": "Arofa",
       "category": "Casa e organização"
     },
     {
@@ -4052,6 +4038,20 @@
       "salesCount": 2886,
       "seller": "LUZORA",
       "category": "Casa e organização"
+    },
+    {
+      "id": "58260622031",
+      "title": "Carregador Portátil Power Bank Turbo 20000mAh 22.5W Premium iPhone Samsung Xiaomi",
+      "price": 79.98,
+      "originalPrice": 181.77,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mqvxflwvl0cl56",
+      "url": "https://s.shopee.com.br/70LI8mdq8i",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 725,
+      "seller": "@LVSHOP",
+      "category": "Eletrônicos"
     },
     {
       "id": "25946709329",
@@ -4121,17 +4121,19 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "20298953877",
-      "title": "Suporte Metálico Ergonômico para Notebook Tablet e Macbook Base Dobrável de Alumínio",
-      "price": 19.99,
-      "originalPrice": 68.93,
-      "discountPercent": 71,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820l7-mqxcaudni1oke8",
-      "url": "https://s.shopee.com.br/AKbk5VVDjD",
-      "rating": 4.9,
-      "salesCount": 431,
-      "seller": "Aola Shop ",
-      "category": "Casa e organização"
+      "id": "22297158685",
+      "title": "Umidificador Atomizador De Ar Doméstico Portátil Umidificador 200ml ANJGG",
+      "price": 15.99,
+      "originalPrice": 79.95,
+      "discountPercent": 80,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259g-mfziriko5yxb36",
+      "url": "https://s.shopee.com.br/5q9JhFaBQM",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 3072,
+      "seller": "ANJ.GG store",
+      "category": "Casa e organização",
+      "hot": true
     }
   ]
 }
