@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T01:07:48.199Z",
+  "updatedAt": "2026-10-29T01:28:30.050Z",
   "offers": [
     {
       "id": "20042293295",
@@ -289,20 +289,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "23892379352",
-      "title": "1/2/4 PCS Luminária Parede Solar  100 Leds Com Sensor de Movimento Jardim Externa Prova D'água Casa",
-      "price": 16.83,
-      "originalPrice": 38.25,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b9-msuv9j38rl6t71",
-      "url": "https://s.shopee.com.br/8pmuG1lcjj",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1976,
-      "seller": "NEW WORD MAGAZINE",
-      "category": "Casa e organização"
-    },
-    {
       "id": "18599096400",
       "title": "2 Pincéis Ultrafinos para Sobrancelha com Design Aprimorado, perfeitos para delineador em lâmina, maquiagem",
       "price": 21.9,
@@ -360,8 +346,8 @@
     {
       "id": "23898177386",
       "title": "Planner Quadro Lousa Magnética para Anotações Planejamento Semanal ima + Caneta Apagador",
-      "price": 19,
-      "originalPrice": 42.22,
+      "price": 19.9,
+      "originalPrice": 44.22,
       "discountPercent": 55,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5wadxth4tqd8f",
       "url": "https://s.shopee.com.br/AAIGWBV133",
@@ -397,6 +383,20 @@
       "salesCount": 2391,
       "seller": "1000 Coisas Variedades",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "23892379352",
+      "title": "1/2/4 PCS Luminária Parede Solar  100 Leds Com Sensor de Movimento Jardim Externa Prova D'água Casa",
+      "price": 20.88,
+      "originalPrice": 44.43,
+      "discountPercent": 53,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b9-msuv9j38rl6t71",
+      "url": "https://s.shopee.com.br/8pmuG1lcjj",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1976,
+      "seller": "NEW WORD MAGAZINE",
+      "category": "Casa e organização"
     },
     {
       "id": "22795743014",
@@ -722,7 +722,6 @@
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-ms5l9in9msqt7f",
       "url": "https://s.shopee.com.br/gRBCg6OMy",
-      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 4184,
       "seller": "Fonte Boa Casa",
@@ -3001,7 +3000,7 @@
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvt-mimqxqykqcxw8f",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zto-mimqzrbp86is9a",
       "url": "https://s.shopee.com.br/7Aeewf2dCz",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -3496,6 +3495,7 @@
       "discountPercent": 55,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mr73w9vaa9dx8c",
       "url": "https://s.shopee.com.br/7AeewfTEiV",
+      "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 2200,
       "seller": "FR Ferramentas Relâmpago",
