@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T20:25:38.332Z",
+  "updatedAt": "2026-10-29T20:46:27.678Z",
   "offers": [
     {
       "id": "20042293295",
@@ -493,7 +493,8 @@
       "rating": 4.8,
       "salesCount": 4935,
       "seller": "HACKBERRY",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "29424706558",
@@ -1000,20 +1001,6 @@
       "category": "Ferramentas"
     },
     {
-      "id": "58258307172",
-      "title": "Calça Jeans Feminina Capri Tecido Leve Cintura Alta",
-      "price": 58.89,
-      "originalPrice": 151,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mmqizemhsxzab5",
-      "url": "https://s.shopee.com.br/1gJlGUxTGY",
-      "rating": 4.8,
-      "salesCount": 3015,
-      "official": true,
-      "seller": "Naraka",
-      "category": "Moda"
-    },
-    {
       "id": "58268341942",
       "title": "Brinquedo Squishy Dumpling Bolinho Fidget Sensorial Antiestresse - Modelos Clássico, Glitter, Bolinhas e Led, de Gel",
       "price": 27.9,
@@ -1121,19 +1108,6 @@
       "salesCount": 1191,
       "seller": "VICTORIA BAZAR EIRELI",
       "category": "Beleza"
-    },
-    {
-      "id": "21999323729",
-      "title": "Calça Jeans Feminina Cintura Alta Capri Tecido Leve",
-      "price": 57,
-      "originalPrice": 139.02,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxbe1voatqqae1",
-      "url": "https://s.shopee.com.br/60SjtZmLTH",
-      "rating": 4.8,
-      "salesCount": 3978,
-      "seller": "ElisJeans",
-      "category": "Moda"
     },
     {
       "id": "58202615709",
@@ -1813,19 +1787,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58213937333",
-      "title": "Kit Mouse Sem Fio Silencioso Recarregavel+Suporte Notebook+Mouse Pad",
-      "price": 36.99,
-      "originalPrice": 69.79,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mqf77sjfryteee",
-      "url": "https://s.shopee.com.br/3LRzrihKIQ",
-      "rating": 4.9,
-      "salesCount": 167,
-      "seller": "FR-SHOP",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "56455915321",
       "title": "Almofada de Assento Automotiva para Motorista Carro e Cadeira de Escritório Cor Preta",
       "price": 34.9,
@@ -1892,6 +1853,20 @@
       "salesCount": 1262,
       "seller": "KALU OFICIAL",
       "category": "Beleza"
+    },
+    {
+      "id": "58217236158",
+      "title": "Calça Legging Fake Jeans Estampa Imita Jeans Pronta Entrega Tamanho Único VESTE ATÉ 40/42",
+      "price": 23,
+      "originalPrice": 33.33,
+      "discountPercent": 31,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ls-mtfcrpyhik8ybb",
+      "url": "https://s.shopee.com.br/2qVjIFZXy6",
+      "hasVariantPrices": true,
+      "rating": 4.5,
+      "salesCount": 954,
+      "seller": "Buy & Buy",
+      "category": "Moda"
     },
     {
       "id": "58264295508",
@@ -2020,6 +1995,19 @@
       "official": true,
       "seller": "Bettdow",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "58270017100",
+      "title": "Escova Secadora Alisador Eletrica QuenteCabelo Com 3 Em1,Portátil para Uso Doméstico,protege el cabello",
+      "price": 38.99,
+      "originalPrice": 108.31,
+      "discountPercent": 64,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mu1whi961jpc3a",
+      "url": "https://s.shopee.com.br/4B16lXgdMx",
+      "rating": 4.9,
+      "salesCount": 382,
+      "seller": "FZZYSTAR.store",
+      "category": "Beleza"
     },
     {
       "id": "50160899989",
@@ -2254,19 +2242,6 @@
       "salesCount": 698,
       "seller": "Fabrica Pet",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "23194055670",
-      "title": "Kit 12 Marmitas Potes 800ml com Travas Laterais BPA FREE - Alimentos organizadores de congelador PLASTICOS",
-      "price": 38,
-      "originalPrice": 100,
-      "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mrzweol0dfk5ee",
-      "url": "https://s.shopee.com.br/20wb8Am9Hh",
-      "rating": 4.8,
-      "salesCount": 1660,
-      "seller": "PoliPlast",
-      "category": "Casa e organização"
     },
     {
       "id": "58204197533",
@@ -2541,6 +2516,19 @@
       "category": "Moda"
     },
     {
+      "id": "16478390649",
+      "title": "Suporte Base Para Notebook Mesa Apoio Tablet Portatil com Regulagem Dobravel",
+      "price": 19.98,
+      "originalPrice": 68.9,
+      "discountPercent": 71,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mncxnab1mfb64f",
+      "url": "https://s.shopee.com.br/7AehHjYdAU",
+      "rating": 4.8,
+      "salesCount": 1631,
+      "seller": "GH-SHOP",
+      "category": "Casa e organização"
+    },
+    {
       "id": "19599891325",
       "title": "Quebra-Cabeça de Dino 3D em Madeira - Brinquedo Educativo Montessori para Bebês e Crianças Pequenas",
       "price": 22.49,
@@ -2581,19 +2569,6 @@
       "salesCount": 877,
       "seller": "Choice Oficial",
       "category": "Presentes e papelaria"
-    },
-    {
-      "id": "16478390649",
-      "title": "Suporte Base Para Notebook Mesa Apoio Tablet Portatil com Regulagem Dobravel",
-      "price": 19.98,
-      "originalPrice": 68.9,
-      "discountPercent": 71,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mncxnab1mfb64f",
-      "url": "https://s.shopee.com.br/7AehHjYdAU",
-      "rating": 4.8,
-      "salesCount": 1631,
-      "seller": "GH-SHOP",
-      "category": "Casa e organização"
     },
     {
       "id": "58216601427",
@@ -2759,6 +2734,20 @@
       "category": "Moda"
     },
     {
+      "id": "23298142175",
+      "title": "Calça Jeans Feminina Wide Leg Pantalona Grafite Marmorizada Cintura Alta 34 ao 44",
+      "price": 59.99,
+      "originalPrice": 199.97,
+      "discountPercent": 70,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mrmcbc9uji1068",
+      "url": "https://s.shopee.com.br/2BG1KX0wFt",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2265,
+      "seller": "AfonteSP - Moda Em Marketplaces",
+      "category": "Moda"
+    },
+    {
       "id": "23298481880",
       "title": "Kit 6 Calcinhas Feminina Conforto Tanga Biquíni Confortável Com Forro Algodão Básica Dia a Dia",
       "price": 19,
@@ -2839,6 +2828,19 @@
       "salesCount": 2263,
       "seller": "Choice Oficial",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "58201321540",
+      "title": "Embaralhador Automático De Cartas Baralho Poker Profissional Jogo De Mesa",
+      "price": 34.9,
+      "originalPrice": 85.12,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkdycp7msa2p77",
+      "url": "https://s.shopee.com.br/4LKX50uzTh",
+      "rating": 4.8,
+      "salesCount": 876,
+      "seller": "SuperPetShowOnline",
+      "category": "Pet e bebê"
     },
     {
       "id": "58258453576",
@@ -2943,7 +2945,7 @@
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zto-mimqzrbp86is9a",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261y-ml5jgzzl0av47c",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -3252,19 +3254,6 @@
       "category": "Eletrônicos"
     },
     {
-      "id": "58206727055",
-      "title": "Kit Mouse Sem Fio Recarregavel Para Notebook Rgb + Mouse Pad",
-      "price": 34.98,
-      "originalPrice": 79.5,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mq975mi14ikheb",
-      "url": "https://s.shopee.com.br/6AmBEvWXXi",
-      "rating": 4.9,
-      "salesCount": 332,
-      "seller": "GH-SHOP",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "23094631884",
       "title": "Kit Terapia Capilar Loca Cosmetics - Óleo Coco + Ricino + Alecrim 60ml OU 3 Óleos + Pente Aplicador",
       "price": 27.69,
@@ -3318,6 +3307,20 @@
       "salesCount": 2848,
       "seller": "Mimi Kids",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "58219481666",
+      "title": "Kit 2 Sacos e Caixas Organizadoras 94L Cinza Janela Transparente Anti-Poeira Anti-Mofo para Edredom",
+      "price": 29.57,
+      "originalPrice": 59.14,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mtruwzzbyebnf9",
+      "url": "https://s.shopee.com.br/4fxNTYL6p6",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 266,
+      "seller": "Summit Pulse  02",
+      "category": "Casa e organização"
     },
     {
       "id": "58203212212",
@@ -3418,6 +3421,19 @@
       "category": "Ferramentas"
     },
     {
+      "id": "51317797478",
+      "title": "Kit 2 Suportes Organizadores de Bonés Acrílico Até 14 Bonés Closet Guarda-Roupa Loja",
+      "price": 37.42,
+      "originalPrice": 49.89,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mt8th0o5plvne7",
+      "url": "https://s.shopee.com.br/7puPFN93P1",
+      "rating": 4.8,
+      "salesCount": 345,
+      "seller": "MiDi Store",
+      "category": "Casa e organização"
+    },
+    {
       "id": "41368657771",
       "title": "Astgn X Basike Caixa de Som Bluetooth Estéreo  80W Potente IPX6 TWS RGB",
       "price": 354.34,
@@ -3485,6 +3501,20 @@
       "rating": 4.8,
       "salesCount": 1819,
       "seller": "GRISEL MODAS",
+      "category": "Moda"
+    },
+    {
+      "id": "22994657049",
+      "title": "Calças Sarja Masculina Jeans Colorido Slim Oferta especial fábrica vendas diretas bolsa de faca",
+      "price": 39.99,
+      "originalPrice": 199.95,
+      "discountPercent": 80,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134202-821gf-mgkll13d3myz97",
+      "url": "https://s.shopee.com.br/4fxNTcSZFP",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1928,
+      "seller": "Sucesso Em Variedades shop",
       "category": "Moda"
     },
     {
@@ -3611,6 +3641,19 @@
       "salesCount": 262,
       "seller": "Casa Lúmina",
       "category": "Casa e organização"
+    },
+    {
+      "id": "58255940256",
+      "title": "Suporte Notebook Alumínio Dobrável | Portátil Refrigerador Home Office",
+      "price": 22.8,
+      "originalPrice": 49.57,
+      "discountPercent": 54,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-ml7ltn6wirk4e6",
+      "url": "https://s.shopee.com.br/6L5aIAq5QP",
+      "rating": 4.9,
+      "salesCount": 539,
+      "seller": "Tudo Bom ",
+      "category": "Eletrônicos"
     },
     {
       "id": "58204153704",
@@ -3823,19 +3866,6 @@
       "category": "Moda"
     },
     {
-      "id": "18198165593",
-      "title": "Calça Jeans Feminina Wide Leg Cintura Alta Pantalona Tecido Leve 100% Algodão",
-      "price": 69.9,
-      "originalPrice": 148.72,
-      "discountPercent": 53,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7tz7imdb29uf2",
-      "url": "https://s.shopee.com.br/8KqefrdSjV",
-      "rating": 4.8,
-      "salesCount": 6978,
-      "seller": "ElisJeans",
-      "category": "Moda"
-    },
-    {
       "id": "23297548342",
       "title": "Haste Eixo Suporte Adaptador Universal Disco De Corte Desbaste Rebolo Lixa Furadeira Parafusadeira Furo 16 - 20 - 22mm",
       "price": 27.97,
@@ -3862,6 +3892,21 @@
       "category": "Ferramentas"
     },
     {
+      "id": "21099836557",
+      "title": "Processador Triturador De Alimentos New Oggi Mallory Cor Preto",
+      "price": 66.99,
+      "originalPrice": 117.53,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwm-mc2jv1qmrooz0e",
+      "url": "https://s.shopee.com.br/1LguN2wjqx",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3670,
+      "official": true,
+      "seller": "Tudão Tech  Ltda",
+      "category": "Cozinha"
+    },
+    {
       "id": "22992868060",
       "title": "Umidificador De Ar Com Grande Capacidade Para Casa/Escritório Com Atmosfera Led Luz Noturna Lâmpada Casa Para Quarto",
       "price": 16.99,
@@ -3873,6 +3918,19 @@
       "rating": 4.8,
       "salesCount": 1250,
       "seller": "BEST MO",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "22397905118",
+      "title": "Mesa Dobrável para Notebook",
+      "price": 41.68,
+      "originalPrice": 99.24,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0xdxz8tsev4e2",
+      "url": "https://s.shopee.com.br/AAIIrFND5E",
+      "rating": 4.9,
+      "salesCount": 1136,
+      "seller": "Cozinha em Casa",
       "category": "Casa e organização"
     },
     {
@@ -3900,19 +3958,6 @@
       "rating": 4.9,
       "salesCount": 2955,
       "seller": "Reusarte Shop",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "22397905118",
-      "title": "Mesa Dobrável para Notebook",
-      "price": 41.68,
-      "originalPrice": 99.24,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0xdxz8tsev4e2",
-      "url": "https://s.shopee.com.br/AAIIrFND5E",
-      "rating": 4.9,
-      "salesCount": 1136,
-      "seller": "Cozinha em Casa",
       "category": "Casa e organização"
     },
     {
@@ -4026,6 +4071,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "58267928931",
+      "title": "Jogo de Xadrez Magnético com Esferas e Ímã, Tabuleiro Educacional Infantil Lógica e Estratégia, Brinquedo de Família",
+      "price": 25.66,
+      "originalPrice": 53.46,
+      "discountPercent": 52,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mtkqnr9utf5t0a",
+      "url": "https://s.shopee.com.br/2BG1sK9AtK",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 808,
+      "seller": "Mercado Elite",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "58200873688",
       "title": "MESAS PORTÁTIL DOBRÁVEL CAMPING OU JARDIM VIRA MELTA COM ALÇA  1,80M",
       "price": 229.99,
@@ -4079,61 +4138,6 @@
       "salesCount": 31200,
       "seller": "Distribuidora Oficial Fina Maria",
       "category": "Beleza"
-    },
-    {
-      "id": "18698826077",
-      "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
-      "price": 149,
-      "originalPrice": 338.64,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
-      "url": "https://s.shopee.com.br/8fTVbN1grU",
-      "rating": 4.9,
-      "salesCount": 1216,
-      "official": true,
-      "seller": "Eletricario Loja Oficial",
-      "category": "Ferramentas"
-    },
-    {
-      "id": "46007151632",
-      "title": "Pendente Triplo Lustre Luminária Aramado Tulipa Cabo Cristal 1 Metro",
-      "price": 59.2,
-      "originalPrice": 80,
-      "discountPercent": 26,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mlqzwskv8d8ke3",
-      "url": "https://s.shopee.com.br/1143wN1adf",
-      "rating": 4.8,
-      "salesCount": 318,
-      "seller": "PJ DECORAÇÕES ",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "21998277686",
-      "title": "Kit 20 Unidades Bebedouros Automáticos Aves Galinhas Codornas",
-      "price": 34.89,
-      "originalPrice": 89.46,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mmccxdwf9uyo8e",
-      "url": "https://s.shopee.com.br/6VP0UVFAa4",
-      "rating": 4.9,
-      "salesCount": 1116,
-      "seller": "WGECOMM",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "22297158685",
-      "title": "Umidificador Atomizador De Ar Doméstico Portátil Umidificador 200ml ANJGG",
-      "price": 15.99,
-      "originalPrice": 79.95,
-      "discountPercent": 80,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259g-mfziriko5yxb36",
-      "url": "https://s.shopee.com.br/5q9JhFaBQM",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2978,
-      "seller": "ANJ.GG store",
-      "category": "Casa e organização",
-      "hot": true
     }
   ]
 }
