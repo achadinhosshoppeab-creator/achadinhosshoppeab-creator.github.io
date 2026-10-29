@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T18:21:24.510Z",
+  "updatedAt": "2026-10-29T18:42:05.332Z",
   "offers": [
     {
       "id": "20042293295",
@@ -620,19 +620,6 @@
       "category": "Beleza"
     },
     {
-      "id": "55155732894",
-      "title": "KIT 3 Regata Blusinha Feminina Suplex Duplo Básica Elegante Moda Blogueira Tendencia",
-      "price": 45.9,
-      "originalPrice": 148.06,
-      "discountPercent": 69,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261p-mk8jzrdkq7et9c",
-      "url": "https://s.shopee.com.br/2BG2L0p4qb",
-      "rating": 4.8,
-      "salesCount": 379,
-      "seller": "WM FASHION",
-      "category": "Moda"
-    },
-    {
       "id": "22594653048",
       "title": "Kit 10 Cubo Mágico 5x5cm – Quebra-Cabeça Educativo Antiestresse para Crianças e Adultos",
       "price": 15.8,
@@ -714,6 +701,20 @@
       "category": "Moda"
     },
     {
+      "id": "4893739569",
+      "title": "Kit 10 Calcinhas de Algodão Feminina Adulto Tanga Lisas Cos Largo",
+      "price": 42.13,
+      "originalPrice": 79.49,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mn9e150092bo66",
+      "url": "https://s.shopee.com.br/8AXFVVr4Yb",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2017,
+      "seller": "AMD Comércio",
+      "category": "Moda"
+    },
+    {
       "id": "58207572793",
       "title": "Luminária Retrô de Mesa LED Recarregável com Cúpula Transparente e Controle por Toque Dourada",
       "price": 54,
@@ -725,20 +726,6 @@
       "salesCount": 726,
       "seller": "DeinShop",
       "category": "Casa e organização"
-    },
-    {
-      "id": "23993623768",
-      "title": "Camiseta Masculina Básica Canelada Slim Fit Confortável Premium Envio Imediato",
-      "price": 25.99,
-      "originalPrice": 89.62,
-      "discountPercent": 71,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mli7lq03k0sk15",
-      "url": "https://s.shopee.com.br/5VWUJ8cO4s",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 756,
-      "seller": "Moda Boss",
-      "category": "Moda"
     },
     {
       "id": "53616416772",
@@ -1041,20 +1028,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "18297829933",
-      "title": "Perfume Grace Midnight Feminino Frasco Antigo Hinode 100ml",
-      "price": 101.94,
-      "originalPrice": 169.9,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mspjvyi96xhh07",
-      "url": "https://s.shopee.com.br/3B8YWKXTM1",
-      "rating": 4.9,
-      "salesCount": 546,
-      "official": true,
-      "seller": "Hinode ",
-      "category": "Beleza"
-    },
-    {
       "id": "20299550104",
       "title": "Ventilador de Teto C/ Iluminação 3 Cores Luz Controle Remoto Luminária Moderna 60w Bulbo E27 6 Pás",
       "price": 44.99,
@@ -1150,19 +1123,6 @@
       "category": "Beleza"
     },
     {
-      "id": "58208056173",
-      "title": "Camiseta Básica Masculina 100% Algodão Camisa Lisa Conforto Diário Estilo Casual Minimalista Premium Crt Unissex",
-      "price": 21.59,
-      "originalPrice": 59.97,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mlxv4qoqvu2sbb",
-      "url": "https://s.shopee.com.br/60Sku3aU3v",
-      "rating": 4.8,
-      "salesCount": 1019,
-      "seller": "HACKBERRY",
-      "category": "Moda"
-    },
-    {
       "id": "21999323729",
       "title": "Calça Jeans Feminina Cintura Alta Capri Tecido Leve",
       "price": 57,
@@ -1200,6 +1160,20 @@
       "salesCount": 1368,
       "seller": "Kuàilè Bijux",
       "category": "Beleza"
+    },
+    {
+      "id": "23998169868",
+      "title": "Kit 5 Calcinha Fio Dental Algodão  Conforto Cotton Feminina",
+      "price": 24.98,
+      "originalPrice": 40.29,
+      "discountPercent": 38,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m72b6gedy8g774",
+      "url": "https://s.shopee.com.br/906MV2ntrq",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1857,
+      "seller": "Demila-Confecções",
+      "category": "Moda"
     },
     {
       "id": "23394239273",
@@ -1310,34 +1284,6 @@
       "category": "Moda"
     },
     {
-      "id": "58212612774",
-      "title": "kit ate 10 Calcinhas Canelada Poliamida Premium Importada Fio ou Conforto",
-      "price": 24.99,
-      "originalPrice": 39.67,
-      "discountPercent": 37,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824gp-mpjotyf4hlor24",
-      "url": "https://s.shopee.com.br/906LT5o7jR",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 3753,
-      "seller": "Femme Lamour",
-      "category": "Moda"
-    },
-    {
-      "id": "50717936391",
-      "title": "Kit Calcinhas Pala Dupla Cintura Alta Segura Barriga July Conforto Premium",
-      "price": 27.95,
-      "originalPrice": 99.82,
-      "discountPercent": 72,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259z-mt7fhx4x7jlyda",
-      "url": "https://s.shopee.com.br/4qGmVR3zC1",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 2138,
-      "seller": "Thalinda Lingerie Moda",
-      "category": "Moda"
-    },
-    {
       "id": "46806231294",
       "title": "Fone KZ EDX Pro Profissional Intra-auricular Driver Dinâmico Magnético 10mm Original Gamer",
       "price": 48.9,
@@ -1389,6 +1335,20 @@
       "rating": 4.9,
       "salesCount": 540,
       "seller": "F_MIX",
+      "category": "Moda"
+    },
+    {
+      "id": "58253786518",
+      "title": "Kit Calcinhas Cinta Modeladora Compressão Cós Alto Redutora De Medidas Confortável",
+      "price": 25.89,
+      "originalPrice": 60.21,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-ms5spnagkves65",
+      "url": "https://s.shopee.com.br/9zytgsk5ps",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 2011,
+      "seller": "Daffine.Oficial",
       "category": "Moda"
     },
     {
@@ -1880,20 +1840,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "18799326291",
-      "title": "Blusa Básica Listrada Ribana Canelado Premium Casual  Basico Camiseta T-Shirt",
-      "price": 22.44,
-      "originalPrice": 41.56,
-      "discountPercent": 46,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1g3jk7s6x0q98",
-      "url": "https://s.shopee.com.br/5LD46pd1Pr",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 865,
-      "seller": "UseOficial_",
-      "category": "Moda"
-    },
-    {
       "id": "58205085045",
       "title": "Lixeira 13 Litros Abertura por Pedal Preta Quadrada",
       "price": 27.9,
@@ -2172,19 +2118,6 @@
       "salesCount": 1268,
       "seller": "MOZA SHOP",
       "category": "Beleza"
-    },
-    {
-      "id": "23493648865",
-      "title": "Blusa Plus Size Feminina Gola Alta Camiseta Básica 100% Algodão",
-      "price": 25.9,
-      "originalPrice": 117.73,
-      "discountPercent": 78,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m53abkl1fczp46",
-      "url": "https://s.shopee.com.br/20wc8hpiBY",
-      "rating": 4.7,
-      "salesCount": 506,
-      "seller": "ElisJeans",
-      "category": "Moda"
     },
     {
       "id": "58261766323",
@@ -2527,19 +2460,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "22999662127",
-      "title": "Tênis Masculino Encast conforto e estilo",
-      "price": 34.9,
-      "originalPrice": 79.32,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mrrmd5x0fw1z0d",
-      "url": "https://s.shopee.com.br/9fM3GnRxIk",
-      "rating": 4.6,
-      "salesCount": 731,
-      "seller": "ENCAST 04",
-      "category": "Moda"
-    },
-    {
       "id": "55108506021",
       "title": "Espelho Decorativo Orgânico Nuvem 70x50cm Instalação Rápida",
       "price": 57.98,
@@ -2839,19 +2759,6 @@
       "category": "Moda"
     },
     {
-      "id": "23298481880",
-      "title": "Kit 6 Calcinhas Feminina Conforto Tanga Biquíni Confortável Com Forro Algodão Básica Dia a Dia",
-      "price": 19,
-      "originalPrice": 34.55,
-      "discountPercent": 45,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-muamdye9tiioe5",
-      "url": "https://s.shopee.com.br/20wb8EElwC",
-      "rating": 4.9,
-      "salesCount": 3414,
-      "seller": "Mit Lingerie",
-      "category": "Moda"
-    },
-    {
       "id": "18597787721",
       "title": "Mochila Escolar Reforçada Nylon Impermeável Viagem Esportiva",
       "price": 39.9,
@@ -2949,20 +2856,6 @@
       "category": "Moda"
     },
     {
-      "id": "15729282926",
-      "title": "Tênis Sport Titanium masculino/feminino Original",
-      "price": 47,
-      "originalPrice": 90.38,
-      "discountPercent": 48,
-      "imageUrl": "https://cf.shopee.com.br/file/d5c78dee0863c222477f124b2786136f",
-      "url": "https://s.shopee.com.br/8VA5seWOfP",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 898,
-      "seller": "Overtrak",
-      "category": "Moda"
-    },
-    {
       "id": "23199140933",
       "title": "Planta Decorativa: Vasos Trançado Marrom + Pendentes Artificial Folhas De Bambu",
       "price": 20.89,
@@ -3034,11 +2927,11 @@
     },
     {
       "id": "23793879757",
-      "title": "Daily T-shirt Insider",
+      "title": "Camiseta Daily T-shirt Insider",
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261y-ml5jgzzl0av47c",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258b-mr9etewst7np93",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -3101,6 +2994,19 @@
       "salesCount": 409,
       "seller": "Fortetools LTDA",
       "category": "Ferramentas"
+    },
+    {
+      "id": "23694454936",
+      "title": "Blusa academia suplex com toque de poliamida dia a dia básica manguinha",
+      "price": 28.9,
+      "originalPrice": 60.21,
+      "discountPercent": 52,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfe5rlvyc8hwb1",
+      "url": "https://s.shopee.com.br/4B15iAlKj1",
+      "rating": 4.8,
+      "salesCount": 1860,
+      "seller": "Fábrica de Moda Básica",
+      "category": "Moda"
     },
     {
       "id": "22593793702",
@@ -4107,6 +4013,19 @@
       "category": "Casa e organização"
     },
     {
+      "id": "22299257003",
+      "title": "Kit Mesa Dobrável Portátil Vira Maleta Camping Churrasco 90X60cm com 2 Banquinhos Dobráveis Brancos",
+      "price": 138.99,
+      "originalPrice": 496.39,
+      "discountPercent": 72,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mip9s7xl8r2a5b",
+      "url": "https://s.shopee.com.br/1BXmW8YhG",
+      "rating": 4.7,
+      "salesCount": 301,
+      "seller": "Arofa",
+      "category": "Casa e organização"
+    },
+    {
       "id": "22997647570",
       "title": "Escova secador Modeladora Taiff Oval Easy Pink Original",
       "price": 199.99,
@@ -4132,6 +4051,86 @@
       "rating": 4.8,
       "salesCount": 2886,
       "seller": "LUZORA",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "25946709329",
+      "title": "ULTRA HIDRATAÇÃO EFEITO TEIA COM ÓLEOS MARROQUINOS - OURO MARROQUINO - FINA MARIA PROFISSIONAL",
+      "price": 38.9,
+      "originalPrice": 79.39,
+      "discountPercent": 51,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258h-mr1ynaykoao016",
+      "url": "https://s.shopee.com.br/9fM2GJCao4",
+      "rating": 4.9,
+      "salesCount": 30756,
+      "seller": "Distribuidora Oficial Fina Maria",
+      "category": "Beleza"
+    },
+    {
+      "id": "18698826077",
+      "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
+      "price": 149,
+      "originalPrice": 338.64,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
+      "url": "https://s.shopee.com.br/8fTVbN1grU",
+      "rating": 4.9,
+      "salesCount": 1251,
+      "official": true,
+      "seller": "Eletricario Loja Oficial",
+      "category": "Ferramentas"
+    },
+    {
+      "id": "46007151632",
+      "title": "Pendente Triplo Lustre Luminária Aramado Tulipa Cabo Cristal 1 Metro",
+      "price": 59.2,
+      "originalPrice": 80,
+      "discountPercent": 26,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mlqzwskv8d8ke3",
+      "url": "https://s.shopee.com.br/1143wN1adf",
+      "rating": 4.8,
+      "salesCount": 319,
+      "seller": "PJ DECORAÇÕES ",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "44162911290",
+      "title": "Areia 4Kg Biodegradável Kadi Grãos Finos para Gatos",
+      "price": 29.99,
+      "originalPrice": 50.83,
+      "discountPercent": 41,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxl-mdet8ey488yyfe",
+      "url": "https://s.shopee.com.br/1BNU8hW6Yv",
+      "rating": 4.8,
+      "salesCount": 6073,
+      "official": true,
+      "seller": "mypetone",
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "21998277686",
+      "title": "Kit 20 Unidades Bebedouros Automáticos Aves Galinhas Codornas",
+      "price": 34.89,
+      "originalPrice": 89.46,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mmccxdwf9uyo8e",
+      "url": "https://s.shopee.com.br/6VP0UVFAa4",
+      "rating": 4.9,
+      "salesCount": 1093,
+      "seller": "WGECOMM",
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "20298953877",
+      "title": "Suporte Metálico Ergonômico para Notebook Tablet e Macbook Base Dobrável de Alumínio",
+      "price": 19.99,
+      "originalPrice": 68.93,
+      "discountPercent": 71,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820l7-mqxcaudni1oke8",
+      "url": "https://s.shopee.com.br/AKbk5VVDjD",
+      "rating": 4.9,
+      "salesCount": 431,
+      "seller": "Aola Shop ",
       "category": "Casa e organização"
     }
   ]
