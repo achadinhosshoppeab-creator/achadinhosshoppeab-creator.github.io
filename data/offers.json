@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T21:48:48.746Z",
+  "updatedAt": "2026-10-29T22:09:34.712Z",
   "offers": [
     {
       "id": "20042293295",
@@ -2883,19 +2883,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "23396886154",
-      "title": "Fita Led Rgb 3528 Colorida 5m + Controle 300 Led  Decoração Casa Loja Gesso Teto Sanca Vitrine",
-      "price": 20.99,
-      "originalPrice": 49.98,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-llnkmg0141r71f",
-      "url": "https://s.shopee.com.br/LoO5N2BPB",
-      "rating": 4.6,
-      "salesCount": 988,
-      "seller": "ZSZ_Official Store",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58263203459",
       "title": "Kit Limpa Vidro Magnético Prático Dupla Face Rodo Mágico Janelas",
       "price": 24.88,
@@ -2953,11 +2940,11 @@
     },
     {
       "id": "23793879757",
-      "title": "Camiseta Daily T-shirt Insider",
+      "title": "Daily T-shirt Insider",
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258i-mr9etg77gnws5d",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zte-mimqypxh1jwm67",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -3847,6 +3834,21 @@
       "salesCount": 1521,
       "seller": "LUIZ STORE  BR",
       "category": "Ferramentas"
+    },
+    {
+      "id": "21099836557",
+      "title": "Processador Triturador De Alimentos New Oggi Mallory Cor Preto",
+      "price": 66.99,
+      "originalPrice": 117.53,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwm-mc2jv1qmrooz0e",
+      "url": "https://s.shopee.com.br/1LguN2wjqx",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3670,
+      "official": true,
+      "seller": "Tudão Tech  Ltda",
+      "category": "Cozinha"
     },
     {
       "id": "20398185214",
