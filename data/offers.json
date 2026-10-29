@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T13:51:30.666Z",
+  "updatedAt": "2026-10-29T14:12:18.924Z",
   "offers": [
     {
       "id": "20042293295",
@@ -45,6 +45,19 @@
       "category": "Beleza"
     },
     {
+      "id": "22296671784",
+      "title": "Placa Pix Display Mesa Balcão - PIX, WI-FI e INSTAGRAM - MODERNO",
+      "price": 18.99,
+      "originalPrice": 59.34,
+      "discountPercent": 68,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lkomlr9h6h7g14",
+      "url": "https://s.shopee.com.br/1qdBSoai6J",
+      "rating": 4.9,
+      "salesCount": 2397,
+      "seller": "Bordados e Corte a Laser",
+      "category": "Presentes e papelaria"
+    },
+    {
       "id": "41721001761",
       "title": "Sandália Feminina Lumiss Rasteira Fisherman Confortável Bico Redondo Fivela",
       "price": 48.9,
@@ -58,51 +71,6 @@
       "official": true,
       "seller": "Lumiss",
       "category": "Moda"
-    },
-    {
-      "id": "28267020630",
-      "title": "Bebê Reborn Boneco Stitch Menino Original Realista de Silicone Pode Dar Banho",
-      "price": 73.9,
-      "originalPrice": 217.35,
-      "discountPercent": 66,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-msk6rf20l43p2d",
-      "url": "https://s.shopee.com.br/7puO4x5yEo",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1583,
-      "official": true,
-      "seller": "Adora ",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "19499073421",
-      "title": "Bebê Reborn Boneca Realista Girafinha Luxo Em Silicone Pode Dar Banho Envio Imediato",
-      "price": 75.9,
-      "originalPrice": 216.86,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg3sr42k07wke3",
-      "url": "https://s.shopee.com.br/4LKVuWJIKm",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 5411,
-      "official": true,
-      "seller": "Adora ",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "22897149838",
-      "title": "Boneca Reborn Bebê Girafinha Luxo Original Realista de Silicone Menina Pode Dar Banho Envio Imediato",
-      "price": 75.9,
-      "originalPrice": 216.86,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mu2179tvc4cib1",
-      "url": "https://s.shopee.com.br/50aChkGkyy",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 3290,
-      "official": true,
-      "seller": "Adora ",
-      "category": "Pet e bebê"
     },
     {
       "id": "23524387565",
@@ -176,47 +144,6 @@
       "category": "Moda"
     },
     {
-      "id": "57707127537",
-      "title": "Bebê Reborn Boneca Realista Recém-Nascida 100% Siliconada Pode dar Banho",
-      "price": 77.9,
-      "originalPrice": 199.74,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m1-mqyk3k7olon833",
-      "url": "https://s.shopee.com.br/4Vdw6pIezp",
-      "rating": 4.9,
-      "salesCount": 4564,
-      "official": true,
-      "seller": "Adora ",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "18857098349",
-      "title": "Kit 10 Removedor De Pêlos Pet Máquina De Lavar Roupa",
-      "price": 16.99,
-      "originalPrice": 49.97,
-      "discountPercent": 66,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825au-mt6a42tv5ds15c",
-      "url": "https://s.shopee.com.br/AUv9FqzwZf",
-      "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 1243,
-      "seller": "BIG MO",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "21198280139",
-      "title": "Soprador Turbo à Jato Portátil 130.000 RPM – Mini Ventilador, Sem Fio e Super Potente",
-      "price": 48.98,
-      "originalPrice": 244.9,
-      "discountPercent": 80,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdosuy9xgp153d",
-      "url": "https://s.shopee.com.br/8pmvGlKMY0",
-      "rating": 4.7,
-      "salesCount": 612,
-      "seller": "Nova Link",
-      "category": "Casa e organização"
-    },
-    {
       "id": "22894519217",
       "title": "Kit de Calcinhas Fio Duplo Levanta Bumbum Fio Dental Confortável Forro em Algodão Sensual",
       "price": 28.9,
@@ -260,34 +187,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "19699386462",
-      "title": "Bebê Reborn Luxo Realista de Silicone Pode Dar Banho Envio Imediato Vestido Rosa",
-      "price": 77.9,
-      "originalPrice": 181.16,
-      "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mlpeh9q5snpgcd",
-      "url": "https://s.shopee.com.br/70LH5Q98vb",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1637,
-      "official": true,
-      "seller": "Adora ",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "18599096400",
-      "title": "2 Pincéis Ultrafinos para Sobrancelha com Design Aprimorado, perfeitos para delineador em lâmina, maquiagem",
-      "price": 21.9,
-      "originalPrice": 64.41,
-      "discountPercent": 66,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk3ewqamjvgia1",
-      "url": "https://s.shopee.com.br/30p9230je8",
-      "rating": 5,
-      "salesCount": 742,
-      "seller": "StarlinkX",
-      "category": "Beleza"
-    },
-    {
       "id": "19099590678",
       "title": "Almofada para Pescoço Bebe Conforto fofinha Apoio de Cabeça 100% Algodão",
       "price": 22,
@@ -298,35 +197,6 @@
       "rating": 4.9,
       "salesCount": 2426,
       "seller": "Varietah Kids",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "57906653359",
-      "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
-      "price": 79.9,
-      "originalPrice": 181.59,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mty7oa0hgfls15",
-      "url": "https://s.shopee.com.br/5VWTIfEqy8",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2569,
-      "official": true,
-      "seller": "Adora ",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "45602042438",
-      "title": "Bebê Boneca Reborn Realista Fofinha Corpinho Siliconado Pode Dar Banho",
-      "price": 97.9,
-      "originalPrice": 217.56,
-      "discountPercent": 55,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhg79hu8u4uea3",
-      "url": "https://s.shopee.com.br/6AmA5tCJcK",
-      "rating": 4.5,
-      "salesCount": 1781,
-      "official": true,
-      "seller": "Adora ",
       "category": "Pet e bebê"
     },
     {
@@ -469,21 +339,6 @@
       "category": "Moda"
     },
     {
-      "id": "29424706558",
-      "title": "Bebê Reborn Boneca Realista Bailarina em Vinil Siliconado em Promoção",
-      "price": 99.9,
-      "originalPrice": 208.13,
-      "discountPercent": 52,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi37a7bd5eyp45",
-      "url": "https://s.shopee.com.br/7VHXgL7Eui",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1834,
-      "official": true,
-      "seller": "Adora ",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "21449768277",
       "title": "Mini Umidificador Difusor Aromatizador Egg Portátil Usb Led Aromatizador De Ambiente Purificador De Ar Casa Escritório",
       "price": 16.98,
@@ -604,6 +459,19 @@
       "salesCount": 5053,
       "seller": "Bela Beleza Oficial",
       "category": "Beleza"
+    },
+    {
+      "id": "22193951652",
+      "title": "Bolsa Feminina Baguete Estilosa Minimalista Tira colo Art LIfe",
+      "price": 29,
+      "originalPrice": 70.73,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8xc464tf8ci7a",
+      "url": "https://s.shopee.com.br/8VA5bXK3FE",
+      "rating": 4.9,
+      "salesCount": 901,
+      "seller": "Art Life acessórios",
+      "category": "Moda"
     },
     {
       "id": "22594653048",
@@ -742,6 +610,19 @@
       "category": "Moda"
     },
     {
+      "id": "20799864923",
+      "title": "Bolsa Duart's Feminina Compacta, Elegante e Funcional | Ideal para Presentes",
+      "price": 39.99,
+      "originalPrice": 199.95,
+      "discountPercent": 80,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbwpijhtfqg709",
+      "url": "https://s.shopee.com.br/3qOG2xboim",
+      "rating": 4.7,
+      "salesCount": 293,
+      "seller": "DS DUART´S BOLSA",
+      "category": "Moda"
+    },
+    {
       "id": "53465088216",
       "title": "Body Splash Feminino Morango 180ml Perfume Corporal Cheiroso Fixação Longa Fragrância Doce Gourmand Blow Girl",
       "price": 28.9,
@@ -861,7 +742,7 @@
       "rating": 4.9,
       "salesCount": 1878,
       "seller": "3XZ STORE",
-      "category": "Pet e bebê"
+      "category": "Presentes e papelaria"
     },
     {
       "id": "58214519187",
@@ -1109,6 +990,20 @@
       "category": "Beleza"
     },
     {
+      "id": "23798300710",
+      "title": "Bolsa Tote Daily Clear Gocase - Leve, Moderna e Minimalista",
+      "price": 179.99,
+      "originalPrice": 352.92,
+      "discountPercent": 49,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh6ar6yxfy80ab",
+      "url": "https://s.shopee.com.br/7Ky8DOOUc7",
+      "rating": 5,
+      "salesCount": 576,
+      "official": true,
+      "seller": "Gocase",
+      "category": "Moda"
+    },
+    {
       "id": "21999323729",
       "title": "Calça Jeans Feminina Cintura Alta Capri Tecido Leve",
       "price": 57,
@@ -1239,20 +1134,6 @@
       "rating": 4.7,
       "salesCount": 2272,
       "seller": "Melhores coisas",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23293962132",
-      "title": "Mop Flat Esfregão Com Balde Rodo Mágico Lava Seca Tira Pó + 4 Refil",
-      "price": 43.88,
-      "originalPrice": 69.65,
-      "discountPercent": 37,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9ej4jfobfi18f",
-      "url": "https://s.shopee.com.br/9pfT4e9VwD",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 1692,
-      "seller": "casaluna utilidades",
       "category": "Casa e organização"
     },
     {
@@ -1393,6 +1274,20 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "21299367155",
+      "title": "Conjunto 2/3/5/10 Potes 370/640/640ml Vidro Hermético Mantimentos Marmita Fitness",
+      "price": 20.17,
+      "originalPrice": 69.55,
+      "discountPercent": 71,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mucaft9u86bmd5",
+      "url": "https://s.shopee.com.br/AAIIrCgIRx",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2854,
+      "seller": "Larsul",
+      "category": "Casa e organização"
+    },
+    {
       "id": "24140416368",
       "title": "Smartwatch Relógio Inteligente Android iOS watch10,Carregamento Sem Fio Bluetooth Chamada,Papel de parede personalizado",
       "price": 49.99,
@@ -1404,6 +1299,20 @@
       "rating": 4.9,
       "salesCount": 225,
       "seller": "FANSHEN",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "23293962132",
+      "title": "Mop Flat Esfregão Com Balde Rodo Mágico Lava Seca Tira Pó + 4 Refil",
+      "price": 44.88,
+      "originalPrice": 70.13,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9ej4jfobfi18f",
+      "url": "https://s.shopee.com.br/9pfT4e9VwD",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 1692,
+      "seller": "casaluna utilidades",
       "category": "Casa e organização"
     },
     {
@@ -2158,20 +2067,6 @@
       "category": "Moda"
     },
     {
-      "id": "23994140705",
-      "title": "Pantufa de Pelúcia Unissex Inverno Chinelo Quarto Quentinho Antiderrapante",
-      "price": 19.99,
-      "originalPrice": 29.84,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcttxc9mn2m9a0",
-      "url": "https://s.shopee.com.br/5LD36MFUJ7",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2549,
-      "seller": "Via Bell",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "22693511862",
       "title": "Arranhador Adesivo Premium:  Sofá, Cama e Móveis Para Gato - Protetor Pet",
       "price": 17.8,
@@ -2363,6 +2258,32 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23493930815",
+      "title": "Escova De Limpeza 9 Em 1  Elétrica Giratória Com Cabo Alongador",
+      "price": 68.9,
+      "originalPrice": 181.32,
+      "discountPercent": 62,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj5cubo7uz29de",
+      "url": "https://s.shopee.com.br/7AehHhZiNc",
+      "rating": 4.8,
+      "salesCount": 5510,
+      "seller": "KOBAC SHOP",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "18698147487",
+      "title": "Escova Elétrica Giratória 9 em 1 Recarregável com Cabo Alongador ，Limpeza Multiuso",
+      "price": 68.9,
+      "originalPrice": 181.32,
+      "discountPercent": 62,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mmireijlz4sg78",
+      "url": "https://s.shopee.com.br/5VWTIdg3lS",
+      "rating": 4.8,
+      "salesCount": 3498,
+      "seller": "Samuel Shop",
+      "category": "Casa e organização"
+    },
+    {
       "id": "23199035279",
       "title": "GOKOCO Secador de Cabelo de Alta Velocidade Secador de Cabelo Profissional 1500W Alta Velocida de 2Minutos Secagem Rápid",
       "price": 189.05,
@@ -2540,20 +2461,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "41783247275",
-      "title": "Pelucia Pet Cachorrinho e Gatinho ou Filhotes que Andam Late Lambe Abana o Rabo Fala Toca Musica Filhotinhos",
-      "price": 135.9,
-      "originalPrice": 277.35,
-      "discountPercent": 51,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-ms1kfmghjldy8f",
-      "url": "https://s.shopee.com.br/8VA4sB3Qt0",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1911,
-      "seller": "GR MARKET EXPRESS",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "50456009409",
       "title": " Kit Gel Sólido OsNailmall com 3 peças e caneta de duas pontas, Gel 3D para Extensão e Modelagem de Unhas, Manicure",
       "price": 19.96,
@@ -2566,6 +2473,20 @@
       "salesCount": 852,
       "seller": "Choice Oficial",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "45909783869",
+      "title": "Bolsa Feminina Pequena Estruturada Elegante Alça Fixa Design Moderno Sofisticado",
+      "price": 45,
+      "originalPrice": 60,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mnohwknrfitg29",
+      "url": "https://s.shopee.com.br/40hgFGbBNn",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 341,
+      "seller": "MH BOLSAS",
+      "category": "Moda"
     },
     {
       "id": "58216601427",
@@ -2607,6 +2528,20 @@
       "salesCount": 1811,
       "seller": "Baby Import Shop Br",
       "category": "Moda"
+    },
+    {
+      "id": "23493485994",
+      "title": "Conjunto Potes Vidro Hermético 640ml Mantimentos Fitness Marmita Alimentos",
+      "price": 29.89,
+      "originalPrice": 74.72,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu1-mky6bhubuzup79",
+      "url": "https://s.shopee.com.br/1gJkjaCehW",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1830,
+      "seller": "Life Hack Homeware",
+      "category": "Casa e organização"
     },
     {
       "id": "22494963134",
@@ -2714,6 +2649,47 @@
       "salesCount": 736,
       "seller": "M Flowerr",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "20999381894",
+      "title": "Conjunto 2/3/5/10 Potes 370/640/1040ml Vidro Hermético Mantimentos Marmita Fitness",
+      "price": 27.89,
+      "originalPrice": 68.02,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mpavso8ys2yp67",
+      "url": "https://s.shopee.com.br/906LT3kjoc",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 8656,
+      "seller": "Life Hack Homeware",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58263021202",
+      "title": "BRILHO NOVO Escova Sanitária com Cabeça Substituível e Refis Descartáveis | Base + 6, 12, 18, 24 ou 36 Refis",
+      "price": 59.8,
+      "originalPrice": 145.85,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-msdw742h9vd1fe",
+      "url": "https://s.shopee.com.br/5q9JhFen5U",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 5137,
+      "seller": "BRILHO NOVO BR",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "20699887898",
+      "title": "Escova de limpeza elétrica multifuncional 9 em 1, retrátil - com cabo estendido para banheiro, cozinha e quarto",
+      "price": 73.9,
+      "originalPrice": 180.24,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj6q8n2hewap3c",
+      "url": "https://s.shopee.com.br/1LguKyvvE2",
+      "rating": 4.8,
+      "salesCount": 1982,
+      "seller": "MOZA SHOP",
+      "category": "Casa e organização"
     },
     {
       "id": "46757037054",
@@ -2860,7 +2836,7 @@
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvt-mimqxqykqcxw8f",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvr-mimqzej64v0h61",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -2951,6 +2927,20 @@
       "category": "Moda"
     },
     {
+      "id": "58268291074",
+      "title": "Bolsa Feminina Transversal Matelassê Pequena com Pompom Alça Ajustável",
+      "price": 18.99,
+      "originalPrice": 44.16,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mt7ycjiekcud19",
+      "url": "https://s.shopee.com.br/8pmw09ImZG",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 751,
+      "seller": "KJMODAS",
+      "category": "Moda"
+    },
+    {
       "id": "22593793702",
       "title": "Kit Teclado e Mouse Sem Fio Bluetooth  Colorido Compatível com Android iOS e Windows",
       "price": 42.9,
@@ -2963,19 +2953,6 @@
       "salesCount": 447,
       "seller": "LojaZini",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "18999784319",
-      "title": "Pincel de Maquiagem Ultrafino para Sobrancelhas Chanfrado de Precisão para Delineador Sombra e Olhos",
-      "price": 16.6,
-      "originalPrice": 24.41,
-      "discountPercent": 32,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk3ewqaxttkz0b",
-      "url": "https://s.shopee.com.br/7puO4w1yZD",
-      "rating": 4.8,
-      "salesCount": 1338,
-      "seller": "StarlinkX",
-      "category": "Beleza"
     },
     {
       "id": "23898813796",
@@ -3321,6 +3298,20 @@
       "category": "Ferramentas"
     },
     {
+      "id": "25997978448",
+      "title": "Bolsa Tote Bloom Godaily Leve Moderna Transversal Feminina",
+      "price": 109.9,
+      "originalPrice": 199.82,
+      "discountPercent": 45,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mriw0yxavjt286",
+      "url": "https://s.shopee.com.br/5VWU21VTKw",
+      "rating": 4.9,
+      "salesCount": 445,
+      "official": true,
+      "seller": "Gocase",
+      "category": "Moda"
+    },
+    {
       "id": "21099836557",
       "title": "Processador Triturador De Alimentos New Oggi Mallory Cor Preto",
       "price": 65,
@@ -3542,19 +3533,6 @@
       "salesCount": 537,
       "seller": "Tudo Bom ",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "21399090715",
-      "title": "Kit Limpeza Extensão de Cílios Pump Espumador Pisseta e Pincel de Limpeza",
-      "price": 17.78,
-      "originalPrice": 25.04,
-      "discountPercent": 29,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxtxf6vk0nf605",
-      "url": "https://s.shopee.com.br/7Ky8C0kEr4",
-      "rating": 4.9,
-      "salesCount": 530,
-      "seller": "Monamor Cosméticos",
-      "category": "Beleza"
     },
     {
       "id": "58204153704",
@@ -3940,20 +3918,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "22899362047",
-      "title": "Caderno De Desenho 50 Fls (100 Páginas ) espessado Sketchbook Capa Dura Preta",
-      "price": 16.9,
-      "originalPrice": 31.89,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-ml9s1nqgzz0lcd",
-      "url": "https://s.shopee.com.br/6fiROoMKKB",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 427,
-      "seller": "AUE PAPEL CRIATIVO",
-      "category": "Presentes e papelaria"
-    },
-    {
       "id": "58200873688",
       "title": "MESAS PORTÁTIL DOBRÁVEL CAMPING OU JARDIM VIRA MELTA COM ALÇA  1,80M",
       "price": 229.99,
@@ -4093,19 +4057,6 @@
       "hot": true
     },
     {
-      "id": "58205622618",
-      "title": "Kit 3 Cadernos de desenho aquarela / Sketchbook Capa Dura Papel Holler",
-      "price": 32.9,
-      "originalPrice": 59.82,
-      "discountPercent": 45,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zue-ml0wfobrhw5c52",
-      "url": "https://s.shopee.com.br/6VP1CVMxfI",
-      "rating": 5,
-      "salesCount": 199,
-      "seller": "AUE PAPEL CRIATIVO",
-      "category": "Presentes e papelaria"
-    },
-    {
       "id": "58202075375",
       "title": "KIT 3 Ou 5 Capas Silicone Cor SortIdas Compatível Com Todos iPhone 17 16 15 14 13 12 11 Pro Max Plus X XR XS Max",
       "price": 24.89,
@@ -4120,6 +4071,19 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "22094198964",
+      "title": "Bolsa Feminina Média Duart's de Ombro e Mão Original",
+      "price": 39.99,
+      "originalPrice": 79.98,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mqght66lpreq53",
+      "url": "https://s.shopee.com.br/4VdwqBZHMq",
+      "rating": 4.8,
+      "salesCount": 355,
+      "seller": "DS DUART´S BOLSA",
+      "category": "Moda"
+    },
+    {
       "id": "54113505958",
       "title": "Kit Capas de Almofadas para Sofá Premiun Suede Decorativo Casa Sala Quarto Slim",
       "price": 19.91,
@@ -4131,6 +4095,34 @@
       "rating": 4.9,
       "salesCount": 1068,
       "seller": "bellalardecoraes",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "22098962003",
+      "title": "Kit 3 Vaso Decorativo Espiral Cachepô Minimalista Enfeite Decoração Casa Sala Rack Planta Artificial",
+      "price": 24.89,
+      "originalPrice": 49.78,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-musk84ja38jkbb",
+      "url": "https://s.shopee.com.br/2Vsrj7Qo3d",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 955,
+      "seller": "MAWI 3D",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "23798670714",
+      "title": "Fita LED RGB 3528 5M 300 LEDs IP65 à Prova D'Água com Fonte Inclusa – Iluminação Colorida e Flexível",
+      "price": 16.99,
+      "originalPrice": 33.98,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra0r-mbe0liual91f04",
+      "url": "https://s.shopee.com.br/3qOFJZLndK",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2154,
+      "seller": "TMR E-commerce",
       "category": "Casa e organização"
     }
   ]
