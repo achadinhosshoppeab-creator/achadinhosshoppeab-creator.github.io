@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T23:32:58.390Z",
+  "updatedAt": "2026-10-29T23:53:11.827Z",
   "offers": [
     {
       "id": "20042293295",
@@ -30,6 +30,20 @@
       "category": "Beleza"
     },
     {
+      "id": "58255119188",
+      "title": "Espelho Decorativo Cantinho Do Café Em Acrílico com Xícara",
+      "price": 19.99,
+      "originalPrice": 68.93,
+      "discountPercent": 71,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261g-mkmj4gexwp355d",
+      "url": "https://s.shopee.com.br/8VA6FR7BUo",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 129,
+      "seller": "Cora Carolina",
+      "category": "Casa e organização"
+    },
+    {
       "id": "29564832567",
       "title": "Medicube PDRN Pink Peptide Serum 10ml 30ml / Ultra Light PDRN Pink Peptide Serum 30ml",
       "price": 45.49,
@@ -56,6 +70,19 @@
       "salesCount": 2408,
       "seller": "Bordados e Corte a Laser",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "43676855421",
+      "title": "Kit 2 Pares Chinelo + Sandália Feminina Ortopédica Palmilha Massageadora Casual Leve Macio Confortável Sola de Eva",
+      "price": 65.99,
+      "originalPrice": 199.97,
+      "discountPercent": 67,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mr8ttbi683ye5d",
+      "url": "https://s.shopee.com.br/50aE511TSy",
+      "rating": 4.8,
+      "salesCount": 1510,
+      "seller": "Ploomer Premium",
+      "category": "Beleza"
     },
     {
       "id": "41721001761",
@@ -647,20 +674,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "22792666247",
-      "title": "PRATA/PRETO Inox Torneira banheiro Alavanca Moderna Abs Luxo 1/4 De Volta Cromo Premi",
-      "price": 49.9,
-      "originalPrice": 106.17,
-      "discountPercent": 53,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyne0a67igv9cc",
-      "url": "https://s.shopee.com.br/5fpuqpDW3k",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1353,
-      "seller": "REAL MO",
-      "category": "Ferramentas"
-    },
-    {
       "id": "22198679435",
       "title": "Frigideira Multifuncional Antiaderente 4 Em 1",
       "price": 37.99,
@@ -833,7 +846,8 @@
       "rating": 4.8,
       "salesCount": 2388,
       "seller": "COCOKA",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "58261587690",
@@ -862,6 +876,20 @@
       "salesCount": 839,
       "seller": "Valorosa Beauty Hair",
       "category": "Beleza"
+    },
+    {
+      "id": "58254621747",
+      "title": "Óculos de sol feminino oval retrô, padrão tartaruga, estilo moderno",
+      "price": 24.43,
+      "originalPrice": 93.96,
+      "discountPercent": 74,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfed52e1pcef5f",
+      "url": "https://s.shopee.com.br/W7nLSzRe4",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1554,
+      "seller": "óculos  ",
+      "category": "Moda"
     },
     {
       "id": "22193566084",
@@ -1420,6 +1448,19 @@
       "category": "Moda"
     },
     {
+      "id": "58206703806",
+      "title": "Capinha de silicone macia para iPhone 13 11 12 14 15 16 17 pro max 14 15 16 plus 17 air Padrão bíblico",
+      "price": 17.9,
+      "originalPrice": 59.67,
+      "discountPercent": 70,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvw-mml8yukuutqgf3",
+      "url": "https://s.shopee.com.br/W7oijAUC8",
+      "rating": 4.8,
+      "salesCount": 627,
+      "seller": "Capa Protetora Top",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "22693482091",
       "title": "KIT 12 Peças de Utensílios Para Cozinha em Silicone e Bambu",
       "price": 29.99,
@@ -1702,20 +1743,6 @@
       "category": "Beleza"
     },
     {
-      "id": "23098737531",
-      "title": "Óculos de Sol Retrô da moda Fashion UV400 Haste Dourada",
-      "price": 18.99,
-      "originalPrice": 40.4,
-      "discountPercent": 53,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi3m2b9be8zq53",
-      "url": "https://s.shopee.com.br/2qVjTgD8CO",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1008,
-      "seller": "Itabaiana Store",
-      "category": "Moda"
-    },
-    {
       "id": "23998938097",
       "title": "Calça Legging Feminina com Bolsos Laterais Cintura Alta Zero Transparência Academia Fitness Atletyca",
       "price": 52.9,
@@ -1908,20 +1935,6 @@
       "category": "Beleza"
     },
     {
-      "id": "22398881699",
-      "title": "Extensão Elétrica Com Cabo 10 Tomadas Régua 4 USB 2 tipo-c",
-      "price": 57.99,
-      "originalPrice": 98.29,
-      "discountPercent": 41,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meds7l5vk0si69",
-      "url": "https://s.shopee.com.br/7Ky8ptfc2d",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1010,
-      "seller": "huanglw738",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "58264295508",
       "title": "Copo garrafa Térmica Inox 1200ml Parede Dupla tampa Canudo Premium",
       "price": 34.99,
@@ -2050,6 +2063,19 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "58270017100",
+      "title": "Escova Secadora Alisador Eletrica QuenteCabelo Com 3 Em1,Portátil para Uso Doméstico,protege el cabello",
+      "price": 38.99,
+      "originalPrice": 108.31,
+      "discountPercent": 64,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mu1whi961jpc3a",
+      "url": "https://s.shopee.com.br/4B16lXgdMx",
+      "rating": 4.9,
+      "salesCount": 382,
+      "seller": "FZZYSTAR.store",
+      "category": "Beleza"
+    },
+    {
       "id": "50160899989",
       "title": "Novo Relógio 10 PRO Max Smartwatch Inteligente Masculino E Feminino Bluetooth Chamado , Papéis De Parede Personalizáveis",
       "price": 49.99,
@@ -2118,20 +2144,6 @@
       "official": true,
       "seller": "koksara.kbeauty",
       "category": "Beleza"
-    },
-    {
-      "id": "19898262315",
-      "title": "Espelho Redondo Decorativo 60x60cm Premium Moderno Para Decoração Banheiro Sala Quarto Lavabo Alta Qualidade",
-      "price": 27.89,
-      "originalPrice": 38.74,
-      "discountPercent": 28,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjbt0wdf5z4675",
-      "url": "https://s.shopee.com.br/W7nLQZr2g",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 691,
-      "seller": "LARDOCELAR DECOR",
-      "category": "Casa e organização"
     },
     {
       "id": "58261766323",
@@ -2473,19 +2485,6 @@
       "salesCount": 821,
       "seller": "shopwithus",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "55108506021",
-      "title": "Espelho Decorativo Orgânico Nuvem 70x50cm Instalação Rápida",
-      "price": 57.98,
-      "originalPrice": 148.67,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mq4y8emjcs1vd6",
-      "url": "https://s.shopee.com.br/BUwwob7ia",
-      "rating": 4.9,
-      "salesCount": 744,
-      "seller": "Global Shop21",
-      "category": "Casa e organização"
     },
     {
       "id": "19253571158",
@@ -2940,11 +2939,11 @@
     },
     {
       "id": "23793879757",
-      "title": "Camiseta Daily T-shirt Insider",
+      "title": "Daily T-shirt Insider",
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b7-mr9fgq72ark72d",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvk-mimqyksts74070",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -3267,6 +3266,20 @@
       "category": "Beleza"
     },
     {
+      "id": "3958758961",
+      "title": "óculos de sol hexagonal masculino feminino com lente preta escura armação metal geométrico blogueira",
+      "price": 16.9,
+      "originalPrice": 49.71,
+      "discountPercent": 66,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mslmq9g7mwas80",
+      "url": "https://s.shopee.com.br/4B15iClUCQ",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 5544,
+      "seller": "L&F Acessórios",
+      "category": "Moda"
+    },
+    {
       "id": "42659281125",
       "title": "Óculos De Sol Ovais Vintage Com Proteção UV400 , Armação De Metal Para Mulheres E Homens",
       "price": 24.01,
@@ -3278,20 +3291,6 @@
       "rating": 4.7,
       "salesCount": 1761,
       "seller": "Choice Oficial",
-      "category": "Moda"
-    },
-    {
-      "id": "23192960392",
-      "title": "Oculos de Sol Gatinho Retangular Cara de Rica Social Casual Moda Feminina",
-      "price": 16.9,
-      "originalPrice": 49.71,
-      "discountPercent": 66,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg416glxa9l025",
-      "url": "https://s.shopee.com.br/7fazEYujOW",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 812,
-      "seller": "Fornecedor de Óculos",
       "category": "Moda"
     },
     {
@@ -3348,6 +3347,20 @@
       "salesCount": 1417,
       "seller": "ENDLESS",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "23498776025",
+      "title": "KL5018 Óculos de sol de metal da moda",
+      "price": 15,
+      "originalPrice": 30,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcw38nrusow1fe",
+      "url": "https://s.shopee.com.br/20wb8DtjbL",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1380,
+      "seller": "KL330",
+      "category": "Moda"
     },
     {
       "id": "58217930618",
@@ -3891,18 +3904,17 @@
       "category": "Casa e organização"
     },
     {
-      "id": "22997996599",
-      "title": "Espelho Redondo Decorativo Lapidado Vidro 60cm 50cm 40cm 30cm Sala Quarto Banheiro Hall",
-      "price": 28.89,
-      "originalPrice": 60.19,
+      "id": "23394535462",
+      "title": "Carregador Turbo 45W USB-C Carregamento  Rápido com Cabo Tipo-C 1 Metro para Android galaxy",
+      "price": 28.98,
+      "originalPrice": 60.38,
       "discountPercent": 52,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mm6jikncxou843",
-      "url": "https://s.shopee.com.br/qkdk2YaMm",
-      "hasVariantPrices": true,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-ms3e5fq877yf3b",
+      "url": "https://s.shopee.com.br/2BG1KUWsXf",
       "rating": 4.8,
-      "salesCount": 762,
-      "seller": "Eddias Home",
-      "category": "Casa e organização"
+      "salesCount": 1716,
+      "seller": "AcGeeki",
+      "category": "Eletrônicos"
     },
     {
       "id": "22394521810",
@@ -4120,21 +4132,6 @@
       "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 2978,
-      "seller": "ANJ.GG store",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "23897143938",
-      "title": "Umidificador Hm-20 Ultrassônico  0,22 L 1,5 W USB Incluso Branco",
-      "price": 15.99,
-      "originalPrice": 79.95,
-      "discountPercent": 80,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lz-mqxgvw7kebye22",
-      "url": "https://s.shopee.com.br/40hfVshA96",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 2253,
       "seller": "ANJ.GG store",
       "category": "Casa e organização",
       "hot": true
