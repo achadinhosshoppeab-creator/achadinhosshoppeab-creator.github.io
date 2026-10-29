@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T01:49:06.001Z",
+  "updatedAt": "2026-10-29T02:09:44.255Z",
   "offers": [
     {
       "id": "20042293295",
@@ -722,6 +722,7 @@
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-ms5l9in9msqt7f",
       "url": "https://s.shopee.com.br/gRBCg6OMy",
+      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 4184,
       "seller": "Fonte Boa Casa",
@@ -859,6 +860,7 @@
       "discountPercent": 44,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lg-mqxo1w6fkcna02",
       "url": "https://s.shopee.com.br/1BNRnd7wYV",
+      "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 25819,
       "seller": "PANDA  BOUTIQUE",
@@ -1108,19 +1110,6 @@
       "salesCount": 809,
       "seller": "Super Vida_BR",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "58266747188",
-      "title": "Nc-10 Sérum com 10% de Niacinamida e 1% de Zinco PCA com alta eficácia contra acnes 4678",
-      "price": 24.9,
-      "originalPrice": 118.57,
-      "discountPercent": 79,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258y-ms7effpra9zc4a",
-      "url": "https://s.shopee.com.br/9fLzvExv21",
-      "rating": 4.9,
-      "salesCount": 1106,
-      "seller": "VICTORIA BAZAR EIRELI",
-      "category": "Beleza"
     },
     {
       "id": "21999323729",
@@ -1530,6 +1519,19 @@
       "rating": 4.8,
       "salesCount": 1173,
       "seller": "lovelife1c1.br",
+      "category": "Beleza"
+    },
+    {
+      "id": "58266747188",
+      "title": "Nc-10 Sérum com 10% de Niacinamida e 1% de Zinco PCA com alta eficácia contra acnes 4678",
+      "price": 29.99,
+      "originalPrice": 119.96,
+      "discountPercent": 75,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258y-ms7effpra9zc4a",
+      "url": "https://s.shopee.com.br/9fLzvExv21",
+      "rating": 4.9,
+      "salesCount": 1106,
+      "seller": "VICTORIA BAZAR EIRELI",
       "category": "Beleza"
     },
     {
@@ -2767,6 +2769,7 @@
       "discountPercent": 40,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-man68bkisdfd5a",
       "url": "https://s.shopee.com.br/W7mKlgKQm",
+      "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 2247,
       "seller": "Mig Rouparia",
@@ -3026,7 +3029,7 @@
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zte-mimqypxh1jwm67",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7reqd-m8azulf99rip90",
       "url": "https://s.shopee.com.br/7Aeewf2dCz",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -3679,20 +3682,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "20398185214",
-      "title": "Sapateira Organizadora com 9 Prateleiras para Organizar Sapatos Calçados Chinelos Roupas Objetos 24 Pares - Black",
-      "price": 52.99,
-      "originalPrice": 203.81,
-      "discountPercent": 74,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratk-ma318jb4a6ng62",
-      "url": "https://s.shopee.com.br/8fTU3kgmCj",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2226,
-      "seller": "ZSZ_brasil",
-      "category": "Moda"
-    },
-    {
       "id": "58214028771",
       "title": "Kit 6 12 ou 24 Unidades Vela Aromática Perfumada Artesanal 60g  Lata Metal com Tampa Zodíaco Decoração Presente",
       "price": 59.9,
@@ -3941,6 +3930,20 @@
       "salesCount": 1459,
       "seller": "LUIZ STORE  BR",
       "category": "Ferramentas"
+    },
+    {
+      "id": "20398185214",
+      "title": "Sapateira Organizadora com 9 Prateleiras para Organizar Sapatos Calçados Chinelos Roupas Objetos 24 Pares - Black",
+      "price": 54.99,
+      "originalPrice": 203.67,
+      "discountPercent": 73,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratk-ma318jb4a6ng62",
+      "url": "https://s.shopee.com.br/8fTU3kgmCj",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2226,
+      "seller": "ZSZ_brasil",
+      "category": "Moda"
     },
     {
       "id": "22992868060",
