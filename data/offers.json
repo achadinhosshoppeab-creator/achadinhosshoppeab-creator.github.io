@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T12:04:14.396Z",
+  "updatedAt": "2026-10-29T12:24:50.676Z",
   "offers": [
     {
       "id": "20042293295",
@@ -675,6 +675,19 @@
       "hot": true
     },
     {
+      "id": "22093527112",
+      "title": "Cabo Mop Giratório Completo Com 140 Cm - NL",
+      "price": 32.9,
+      "originalPrice": 62.08,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8xcziv7ur0987",
+      "url": "https://s.shopee.com.br/6AmAhuNTNb",
+      "rating": 4.8,
+      "salesCount": 1390,
+      "seller": "Nosso Lar Utilidade",
+      "category": "Casa e organização"
+    },
+    {
       "id": "58254977142",
       "title": "Camiseta Feminina Algodão 30.1 Premium Moda Gringa Blusinha Street Fashion Slim Fit Casual",
       "price": 19.99,
@@ -721,6 +734,7 @@
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-ms5l9in9msqt7f",
       "url": "https://s.shopee.com.br/70LH5O19XI",
+      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 4184,
       "seller": "Fonte Boa Casa",
@@ -971,17 +985,17 @@
       "category": "Casa e organização"
     },
     {
-      "id": "22399549197",
+      "id": "58213601132",
       "title": "Bolsa de Armazenamento em Feltro para Porta-Malas do Carro, Organizador de Ferramentas e Acessórios Automotivos",
-      "price": 23.99,
-      "originalPrice": 99.96,
+      "price": 24.49,
+      "originalPrice": 102.04,
       "discountPercent": 76,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mq6p6evfbpc3c4",
-      "url": "https://s.shopee.com.br/W7nw6vrDt",
+      "url": "https://s.shopee.com.br/1gJlGVb4Hg",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 204,
-      "seller": "RunFeng",
+      "salesCount": 301,
+      "seller": "RunFu",
       "category": "Ferramentas"
     },
     {
@@ -1039,21 +1053,6 @@
       "salesCount": 497,
       "seller": "RAPIDAO NET",
       "category": "Casa e organização"
-    },
-    {
-      "id": "58202329642",
-      "title": "Popozuda Creme Corporal Termoativo para Estrias e Celulite 200g | Efeito Aquecimento",
-      "price": 79.9,
-      "originalPrice": 159.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mu2f856jdx4y80",
-      "url": "https://s.shopee.com.br/gRDXlpFur",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 5326,
-      "official": true,
-      "seller": "Popozuda Oficial",
-      "category": "Beleza"
     },
     {
       "id": "22194675243",
@@ -1261,7 +1260,7 @@
       "originalPrice": 69.65,
       "discountPercent": 37,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9ej4jfobfi18f",
-      "url": "https://s.shopee.com.br/9zyseuPgQ0",
+      "url": "https://s.shopee.com.br/9pfT4e9VwD",
       "hasVariantPrices": true,
       "rating": 4.6,
       "salesCount": 1692,
@@ -1322,19 +1321,6 @@
       "salesCount": 2138,
       "seller": "Thalinda Lingerie Moda",
       "category": "Moda"
-    },
-    {
-      "id": "18499738293",
-      "title": "MALETA COM  BANDEJA PLÁSTICA REFORÇADA CAIXA ORGANIZADORA /FERRAMENTA/JARDINAGEM/PESCA",
-      "price": 18.89,
-      "originalPrice": 29.98,
-      "discountPercent": 37,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mpb0thffdkhv05",
-      "url": "https://s.shopee.com.br/2BG1vApVqB",
-      "rating": 4.8,
-      "salesCount": 200,
-      "seller": "JLF Utilidades Do Lar",
-      "category": "Ferramentas"
     },
     {
       "id": "46806231294",
@@ -1853,6 +1839,19 @@
       "category": "Casa e organização"
     },
     {
+      "id": "20498140657",
+      "title": "Mop Girátorio Cleaner Profissional – Balde com Centrífuga 14L + Refil Duplo e Cabo Reforçado - MN",
+      "price": 69.9,
+      "originalPrice": 120.52,
+      "discountPercent": 42,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbnxm1i5f5ndcc",
+      "url": "https://s.shopee.com.br/60SkVbO6iY",
+      "rating": 4.8,
+      "salesCount": 1797,
+      "seller": "MANIA UTILIDADES E AFINS LTDA",
+      "category": "Casa e organização"
+    },
+    {
       "id": "58253347883",
       "title": "Bota Feminina Cano Curto Preta Salto Grosso Tratorada Confortável Moda Inverno",
       "price": 47.9,
@@ -2003,20 +2002,6 @@
       "category": "Beleza"
     },
     {
-      "id": "9350390417",
-      "title": "Hidratante Renovador Para Área dos Olhos  Kokeshi Olhos de Gueixa 15g",
-      "price": 25.9,
-      "originalPrice": 37,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mn60bp00ov7kac",
-      "url": "https://s.shopee.com.br/8AXETYMhhb",
-      "rating": 4.9,
-      "salesCount": 2400,
-      "official": true,
-      "seller": "KOKESHI OFICIAL",
-      "category": "Beleza"
-    },
-    {
       "id": "23293978804",
       "title": "Calça Pantalona De Linho Com Cinto Fake e Cintura Alta e Bolsos",
       "price": 39.99,
@@ -2045,19 +2030,17 @@
       "category": "Beleza"
     },
     {
-      "id": "23799494458",
-      "title": "Popozuda Clarinha Sérum Clareador Corporal com Niacinamida e Ácido Tranexâmico",
-      "price": 59.9,
-      "originalPrice": 99.83,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mu2i2k24ydc25f",
-      "url": "https://s.shopee.com.br/AAIIrEF5dv",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2675,
-      "official": true,
-      "seller": "Popozuda Oficial",
-      "category": "Beleza"
+      "id": "23032999814",
+      "title": "3 Saco Organizador Multiuso Embalagem Transparente Edredom Coberta Toalhas de Pvc e Ziper Preto Enxoval Guarda Roupa",
+      "price": 19.99,
+      "originalPrice": 28.15,
+      "discountPercent": 29,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lusgv3w44b51bc",
+      "url": "https://s.shopee.com.br/80DoHCu6TV",
+      "rating": 4.8,
+      "salesCount": 1524,
+      "seller": "Isaplastic",
+      "category": "Casa e organização"
     },
     {
       "id": "22992653456",
@@ -2264,6 +2247,20 @@
       "salesCount": 1310,
       "seller": "WGECOMM",
       "category": "Cozinha"
+    },
+    {
+      "id": "58258071799",
+      "title": "Kit Banheiro Acessórios 5 Peças Completo Toalheiro Saboneteira Decoração Preto Branco Cromado Decor",
+      "price": 31.96,
+      "originalPrice": 51.55,
+      "discountPercent": 38,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mmjbbyrviqyscd",
+      "url": "https://s.shopee.com.br/1W0KXHZ5FW",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 848,
+      "seller": "Morada de Paz",
+      "category": "Casa e organização"
     },
     {
       "id": "53053245387",
@@ -2483,19 +2480,6 @@
       "salesCount": 1749,
       "seller": "Terra Celestial",
       "category": "Ferramentas"
-    },
-    {
-      "id": "22999662127",
-      "title": "Tênis Masculino Encast conforto e estilo",
-      "price": 34.9,
-      "originalPrice": 79.32,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mrrmd5x0fw1z0d",
-      "url": "https://s.shopee.com.br/9fM2qttZza",
-      "rating": 4.6,
-      "salesCount": 731,
-      "seller": "ENCAST 04",
-      "category": "Moda"
     },
     {
       "id": "55108506021",
@@ -2879,6 +2863,20 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "52605012484",
+      "title": "Relógio De Quartzo Da Moda Feminina E Conjunto De Joias Com Pulseira De Couro Sem Caixa Pulso Elegante",
+      "price": 18.05,
+      "originalPrice": 82.05,
+      "discountPercent": 78,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82590-mrlbd6atm51k71",
+      "url": "https://s.shopee.com.br/3LRzFVsL6V",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 850,
+      "seller": "Choice Oficial",
+      "category": "Moda"
+    },
+    {
       "id": "22794149442",
       "title": "Suporte Tablet e Celular Metálico Rotativo de Liga de Alumínio Resistente Elegante e Totalmente Ajustável",
       "price": 20.99,
@@ -2964,11 +2962,11 @@
     },
     {
       "id": "23793879757",
-      "title": "Daily T-shirt Insider",
+      "title": "Camiseta Daily T-shirt Insider",
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvk-mimqyksts74070",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258b-mr9etewst7np93",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -3019,6 +3017,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "58214452769",
+      "title": "Suporte Magnético para Facas  33cm Ferramentas Utensílios Porta Facas Organizador de Parede Cozinha Oficina",
+      "price": 16.9,
+      "originalPrice": 40.24,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mqr0h8mg2xvld5",
+      "url": "https://s.shopee.com.br/9APmCI8W45",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 409,
+      "seller": "Fortetools LTDA",
+      "category": "Ferramentas"
+    },
+    {
       "id": "41365763294",
       "title": "Teclado Mecânico Gamer Titorion 60% Teclado Preto Computador ABNT2 Hot Swap RGB Switch Red Brown USB LED Titorion",
       "price": 144.8,
@@ -3042,20 +3054,6 @@
       "rating": 4.8,
       "salesCount": 1860,
       "seller": "Fábrica de Moda Básica",
-      "category": "Moda"
-    },
-    {
-      "id": "52605012484",
-      "title": "Relógio De Quartzo Da Moda Feminina E Conjunto De Joias Com Pulseira De Couro Sem Caixa Pulso Elegante",
-      "price": 18.05,
-      "originalPrice": 78.48,
-      "discountPercent": 77,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82590-mrlbd6atm51k71",
-      "url": "https://s.shopee.com.br/3LRzFVsL6V",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 850,
-      "seller": "Choice Oficial",
       "category": "Moda"
     },
     {
@@ -3443,6 +3441,20 @@
       "category": "Cozinha"
     },
     {
+      "id": "41368657771",
+      "title": "Astgn X Basike Caixa de Som Bluetooth Estéreo  80W Potente IPX6 TWS RGB",
+      "price": 354.34,
+      "originalPrice": 1012.4,
+      "discountPercent": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mejq3arh54ow9f",
+      "url": "https://s.shopee.com.br/30p8K1Thwg",
+      "rating": 4.9,
+      "salesCount": 636,
+      "official": true,
+      "seller": "Astgn X Basike",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "58202085853",
       "title": "Porta Escovas e Creme Dental com Tampa e Organizador para Banheiro Higiênico",
       "price": 15.8,
@@ -3648,35 +3660,6 @@
       "salesCount": 1205,
       "official": true,
       "seller": "Salon Line",
-      "category": "Beleza"
-    },
-    {
-      "id": "58207914273",
-      "title": "Popozuda Lisinha Redutor de Pelos Corporais com Telocapil",
-      "price": 59.9,
-      "originalPrice": 84.37,
-      "discountPercent": 29,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mu2f856jfbpe66",
-      "url": "https://s.shopee.com.br/1W0KXIm5Dw",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 10450,
-      "official": true,
-      "seller": "Popozuda Oficial",
-      "category": "Beleza"
-    },
-    {
-      "id": "41919952056",
-      "title": "Hoygi Retinal Eye Cream Suave Nutritivo Firmador Hidratante Cuidados Com Os Olhos",
-      "price": 16.63,
-      "originalPrice": 46.19,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82619-mjl7s667d7uq27",
-      "url": "https://s.shopee.com.br/5VWTdoinTQ",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1498,
-      "seller": "Choice Oficial",
       "category": "Beleza"
     },
     {
@@ -3886,19 +3869,6 @@
       "category": "Ferramentas"
     },
     {
-      "id": "20197669054",
-      "title": "Tenis Masculino Escolar Academia Original FREEDOM Corrida Caminhada Lançamento PRETO e DOURADO",
-      "price": 46.99,
-      "originalPrice": 70.13,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltwnifcpjwpx8a",
-      "url": "https://s.shopee.com.br/5VWTtF9RRt",
-      "rating": 4.8,
-      "salesCount": 678,
-      "seller": "Cirandinha Shoes",
-      "category": "Moda"
-    },
-    {
       "id": "22992868060",
       "title": "Umidificador De Ar Com Grande Capacidade Para Casa/Escritório Com Atmosfera Led Luz Noturna Lâmpada Casa Para Quarto",
       "price": 16.99,
@@ -3937,20 +3907,6 @@
       "salesCount": 1482,
       "seller": "Capitãozinho",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "22394651285",
-      "title": "Carrinho Organizador Multiuso Laterais Aço - 3 Prateleiras Carrinho de armazenamento S9",
-      "price": 79.99,
-      "originalPrice": 216.19,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgrljce3neh1e2",
-      "url": "https://s.shopee.com.br/1BXLBxlEo",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 105,
-      "seller": "Miudezas Felizes",
-      "category": "Ferramentas"
     },
     {
       "id": "22198393127",
@@ -4127,6 +4083,47 @@
       "salesCount": 319,
       "seller": "PJ DECORAÇÕES ",
       "category": "Casa e organização"
+    },
+    {
+      "id": "58207708258",
+      "title": "Kit 4 Short Bermuda Infantil Juvenil Tactel Menino Praia Com Bolso Elastano Premium 2 a 16 Anos",
+      "price": 38.88,
+      "originalPrice": 99.69,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mt4bdbzoonb9a1",
+      "url": "https://s.shopee.com.br/3B8YWNAXH6",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 4383,
+      "seller": "EDYBOY",
+      "category": "Moda"
+    },
+    {
+      "id": "44162911290",
+      "title": "Areia 4Kg Biodegradável Kadi Grãos Finos para Gatos",
+      "price": 29.99,
+      "originalPrice": 50.83,
+      "discountPercent": 41,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxl-mdet8ey488yyfe",
+      "url": "https://s.shopee.com.br/1BNU8hW6Yv",
+      "rating": 4.8,
+      "salesCount": 6073,
+      "official": true,
+      "seller": "mypetone",
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "21998277686",
+      "title": "Kit 20 Unidades Bebedouros Automáticos Aves Galinhas Codornas",
+      "price": 34.89,
+      "originalPrice": 89.46,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mmccxdwf9uyo8e",
+      "url": "https://s.shopee.com.br/6VP0UVFAa4",
+      "rating": 4.9,
+      "salesCount": 1093,
+      "seller": "WGECOMM",
+      "category": "Pet e bebê"
     }
   ]
 }
