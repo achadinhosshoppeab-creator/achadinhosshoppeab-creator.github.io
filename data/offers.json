@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T21:28:01.560Z",
+  "updatedAt": "2026-10-29T21:48:48.746Z",
   "offers": [
     {
       "id": "20042293295",
@@ -273,21 +273,6 @@
       "category": "Moda"
     },
     {
-      "id": "58259049816",
-      "title": "Kit 2 Calça Alfaiataria PREMIUM Cintura Alta Com Bolso PROMOÇÃO",
-      "price": 33.27,
-      "originalPrice": 158.43,
-      "discountPercent": 79,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mnw7prj7241t25",
-      "url": "https://s.shopee.com.br/2LZSkBRXzv",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2444,
-      "seller": "Essencial K Modas",
-      "category": "Moda",
-      "hot": true
-    },
-    {
       "id": "58252737415",
       "title": "Sacola Organizadora A4/A5/A6 Kit 3/5/10 Para Peças Lego Quebra-Cabeça Papéis e Maquiagem - Armazene Tudo",
       "price": 17.99,
@@ -508,7 +493,8 @@
       "rating": 4.8,
       "salesCount": 4935,
       "seller": "HACKBERRY",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "29424706558",
@@ -881,6 +867,19 @@
       "category": "Moda"
     },
     {
+      "id": "22193566084",
+      "title": "Calcinha de Emagrecimento / Cinta Modeladora / Roupa Íntima / Afina a Barriga Leggings Calça Feminina 2024",
+      "price": 27.99,
+      "originalPrice": 49.98,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lg-mqxo1w6fkcna02",
+      "url": "https://s.shopee.com.br/5fptUxj94N",
+      "rating": 4.9,
+      "salesCount": 25718,
+      "seller": "PANDA  BOUTIQUE",
+      "category": "Moda"
+    },
+    {
       "id": "58200638373",
       "title": "Caderno Adesivos 3d com 20 Cenários para Montar e Decorar.",
       "price": 18.8,
@@ -1044,6 +1043,19 @@
       "category": "Casa e organização"
     },
     {
+      "id": "58202615709",
+      "title": "MINI Refrigerador De Ar Ventilador Umidificador Dupla Giratório+rgb Camada Ventilador Climatizador Ar C/ Reservatório",
+      "price": 56.04,
+      "originalPrice": 186.8,
+      "discountPercent": 70,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zue-mizz3df604cj39",
+      "url": "https://s.shopee.com.br/6VP0UTXe4Q",
+      "rating": 4.6,
+      "salesCount": 3672,
+      "seller": "JX VERDE",
+      "category": "Casa e organização"
+    },
+    {
       "id": "58202329642",
       "title": "Popozuda Creme Corporal Termoativo para Estrias e Celulite 200g | Efeito Aquecimento",
       "price": 79.9,
@@ -1136,19 +1148,6 @@
       "salesCount": 3978,
       "seller": "ElisJeans",
       "category": "Moda"
-    },
-    {
-      "id": "58202615709",
-      "title": "MINI Refrigerador De Ar Ventilador Umidificador Dupla Giratório+rgb Camada Ventilador Climatizador Ar C/ Reservatório",
-      "price": 59.88,
-      "originalPrice": 187.13,
-      "discountPercent": 68,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zue-mizz3df604cj39",
-      "url": "https://s.shopee.com.br/6VP0UTXe4Q",
-      "rating": 4.6,
-      "salesCount": 3672,
-      "seller": "JX VERDE",
-      "category": "Casa e organização"
     },
     {
       "id": "20999494647",
@@ -1534,20 +1533,6 @@
       "official": true,
       "seller": "Salon Line",
       "category": "Beleza"
-    },
-    {
-      "id": "58261016170",
-      "title": "2026 Chamada De Frequência Cardíaca Bluetooth À Prova D'água Iwo s10 Sport Smart Watch",
-      "price": 40.99,
-      "originalPrice": 113.86,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mqg1enae9mgx68",
-      "url": "https://s.shopee.com.br/11459gKMTC",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 791,
-      "seller": "SmartTempo",
-      "category": "Eletrônicos"
     },
     {
       "id": "58259403968",
@@ -2080,20 +2065,6 @@
       "category": "Beleza"
     },
     {
-      "id": "58200790435",
-      "title": "[ Sutia Adesivo Manga Invisivel Levanta ] Peitos Seio Push Up Silicone Ajustável",
-      "price": 19.89,
-      "originalPrice": 35.52,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhaf8nsypn9c11",
-      "url": "https://s.shopee.com.br/BUyAD0C7S",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 207,
-      "seller": "FLUVI",
-      "category": "Moda"
-    },
-    {
       "id": "23197416358",
       "title": "Parafusadeira Furadeira de Impacto Sem Fio 21V Bivolt 110/220V Kit Maleta com 2 Baterias 28 Peças",
       "price": 113.97,
@@ -2150,20 +2121,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "41022402072",
-      "title": "2026 Smartwatch Original S10 Pro 38mm/45mm Unissex - Chamadas via Bluetooth Esportivo Teste de pressão arterial",
-      "price": 39.99,
-      "originalPrice": 108.08,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpbyp1psmlu64f",
-      "url": "https://s.shopee.com.br/4LKX7o7fi2",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 682,
-      "seller": "YUANYUE",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "58261766323",
       "title": "Kit 5 Rodinhas Cadeira Escritório Gamer Rodízio 50mm Pino 11mm Não Risca Piso Silenciosa Nylon PU Universal Cinza",
       "price": 21.89,
@@ -2188,6 +2145,20 @@
       "salesCount": 3585,
       "seller": "RD ECOM",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "41022402072",
+      "title": "2026 Smartwatch Original S10 Pro 38mm/45mm Unissex - Chamadas via Bluetooth Esportivo Teste de pressão arterial",
+      "price": 39.99,
+      "originalPrice": 108.08,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpbyp1psmlu64f",
+      "url": "https://s.shopee.com.br/4LKX7o7fi2",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 682,
+      "seller": "YUANYUE",
+      "category": "Eletrônicos"
     },
     {
       "id": "19274006007",
@@ -2244,20 +2215,6 @@
       "salesCount": 301,
       "seller": "B&G Kids",
       "category": "Presentes e papelaria"
-    },
-    {
-      "id": "23399193375",
-      "title": "2026 T800 Ultra 3 MAX Mais Recente Smartwatch Relógio Inteligente NFC Série 10 2.19Polegadas Sem Fio",
-      "price": 39.8,
-      "originalPrice": 147.41,
-      "discountPercent": 73,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhq4f2lhz40397",
-      "url": "https://s.shopee.com.br/gREl4Ld96",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 932,
-      "seller": "LUNANA Shop",
-      "category": "Eletrônicos"
     },
     {
       "id": "58253554533",
@@ -2339,6 +2296,20 @@
       "salesCount": 808,
       "seller": "Pague Pouco $",
       "category": "Cozinha"
+    },
+    {
+      "id": "22194732923",
+      "title": "【Sete pulseiras】 Smartwatch S20 PRO MAX Watch Pro Série 10 Bluetooth Relógio inteligente Cardíaca Monitoramento NFC GPS",
+      "price": 55.88,
+      "originalPrice": 169.33,
+      "discountPercent": 67,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhvbz0es6l1ec9",
+      "url": "https://s.shopee.com.br/3B8YWKTLYf",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 913,
+      "seller": "TRADENO ECOMERCE",
+      "category": "Eletrônicos"
     },
     {
       "id": "58200512845",
@@ -2682,19 +2653,6 @@
       "category": "Eletrônicos"
     },
     {
-      "id": "42524620494",
-      "title": "smartwatch GPS BETTDOW Com Aplicativos AI Integrados , Resistência À Água De 3 ATM E display AMOLED",
-      "price": 319,
-      "originalPrice": 797.5,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mo6pfixw88aw29",
-      "url": "https://s.shopee.com.br/40hgjC8wNw",
-      "rating": 4.9,
-      "salesCount": 584,
-      "seller": "Bettdow mall.br",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "58262746825",
       "title": "Guarda-Chuva Automático Anti-Vento com Lanterna Proteção UV Blackout Compacto para Bolsa e Mochila",
       "price": 34,
@@ -2747,6 +2705,19 @@
       "official": true,
       "seller": "LOJA PLASÚTIL",
       "category": "Casa e organização"
+    },
+    {
+      "id": "42524620494",
+      "title": "smartwatch GPS BETTDOW Com Aplicativos AI Integrados , Resistência À Água De 3 ATM E display AMOLED",
+      "price": 319,
+      "originalPrice": 797.5,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mo6pfixw88aw29",
+      "url": "https://s.shopee.com.br/40hgjC8wNw",
+      "rating": 4.9,
+      "salesCount": 584,
+      "seller": "Bettdow mall.br",
+      "category": "Eletrônicos"
     },
     {
       "id": "58217483353",
@@ -2898,20 +2869,6 @@
       "category": "Eletrônicos"
     },
     {
-      "id": "52605012484",
-      "title": "Relógio De Quartzo Da Moda Feminina E Conjunto De Joias Com Pulseira De Couro Sem Caixa Pulso Elegante",
-      "price": 18.05,
-      "originalPrice": 82.05,
-      "discountPercent": 78,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82590-mrlbd6atm51k71",
-      "url": "https://s.shopee.com.br/3LRzFVsL6V",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 818,
-      "seller": "Choice Oficial",
-      "category": "Moda"
-    },
-    {
       "id": "23199140933",
       "title": "Planta Decorativa: Vasos Trançado Marrom + Pendentes Artificial Folhas De Bambu",
       "price": 20.89,
@@ -2923,6 +2880,19 @@
       "rating": 4.9,
       "salesCount": 1038,
       "seller": "Kardía",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "23396886154",
+      "title": "Fita Led Rgb 3528 Colorida 5m + Controle 300 Led  Decoração Casa Loja Gesso Teto Sanca Vitrine",
+      "price": 20.99,
+      "originalPrice": 49.98,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-llnkmg0141r71f",
+      "url": "https://s.shopee.com.br/LoO5N2BPB",
+      "rating": 4.6,
+      "salesCount": 988,
+      "seller": "ZSZ_Official Store",
       "category": "Casa e organização"
     },
     {
@@ -2987,7 +2957,7 @@
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258b-mr9etewst7np93",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258i-mr9etg77gnws5d",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -3143,6 +3113,19 @@
       "rating": 4.9,
       "salesCount": 4780,
       "seller": "Tiger Sport",
+      "category": "Moda"
+    },
+    {
+      "id": "41083528216",
+      "title": "Calça Legging Yoga Flare Wide Leg de treino básica empina bumbum modeladora gringa tecido suplex premium moda feminina",
+      "price": 51.6,
+      "originalPrice": 120,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mrugc84p8q9yd3",
+      "url": "https://s.shopee.com.br/1W0KXIz0X1",
+      "rating": 4.8,
+      "salesCount": 3117,
+      "seller": "predestinadaoficial",
       "category": "Moda"
     },
     {
@@ -3506,20 +3489,6 @@
       "category": "Moda"
     },
     {
-      "id": "58259312483",
-      "title": "Calça Legging Esportiva Cintura Alta Com Bolso Empina Bumbum Zero Transparência Respirável Fitness Academia Yoga",
-      "price": 49.98,
-      "originalPrice": 199.92,
-      "discountPercent": 75,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mndsyg0vb9j55a",
-      "url": "https://s.shopee.com.br/AAIK4Zxj6e",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1795,
-      "seller": "FROOG-8",
-      "category": "Moda"
-    },
-    {
       "id": "8333126075",
       "title": "Bota Feminina Coturno Tratorado Blogueira Confortavel PROMOÇÃO PREÇO DE FABRICA",
       "price": 59.8,
@@ -3757,19 +3726,6 @@
       "category": "Moda"
     },
     {
-      "id": "58212516051",
-      "title": "Kit 7 Sutia Infantil Juvenil Algodão Cotton Liso Alta Qualidade Conforto Top Dia a Dia Menina Moça",
-      "price": 48.9,
-      "originalPrice": 80.16,
-      "discountPercent": 39,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mpi3lhmfh3pec9",
-      "url": "https://s.shopee.com.br/3VlQ8KnVMI",
-      "rating": 4.9,
-      "salesCount": 95,
-      "seller": "DBL LINGERIE",
-      "category": "Moda"
-    },
-    {
       "id": "58210617908",
       "title": "Trena de Fibra de Vidro 30M/50M/100M Resistente à Água e Ferrugem para Construção e Obras",
       "price": 36.99,
@@ -3782,21 +3738,6 @@
       "salesCount": 1324,
       "seller": "Super Vida_BR",
       "category": "Ferramentas"
-    },
-    {
-      "id": "23097741874",
-      "title": "BETTDOW Smart Watch Mulheres Homens Bluetooth GPS Resposta Chamada Modo Esportivo IP67 À Prova D 'Água",
-      "price": 169.99,
-      "originalPrice": 361.68,
-      "discountPercent": 53,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mo58gc5bsao114",
-      "url": "https://s.shopee.com.br/3g4qKaAD3y",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 620,
-      "official": true,
-      "seller": "Bettdow",
-      "category": "Eletrônicos"
     },
     {
       "id": "23194244914",
@@ -4073,19 +4014,6 @@
       "category": "Moda"
     },
     {
-      "id": "58262507980",
-      "title": "Kit 10 Sutia Infantil Juvenil Algodão Cotton Liso Alta Qualidade Conforto Top Dia a Dia Menina Moça",
-      "price": 62.89,
-      "originalPrice": 99.83,
-      "discountPercent": 37,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mpi0p9xl3zlv35",
-      "url": "https://s.shopee.com.br/3B8Zjiom2G",
-      "rating": 4.9,
-      "salesCount": 87,
-      "seller": "DBL LINGERIE",
-      "category": "Moda"
-    },
-    {
       "id": "24291101685",
       "title": "MEDOOSI-Quebra cabeça deslizante Magnéticos Pesca Montessori brinquedo jogos pedagogicos puzzle para Infantis educativos",
       "price": 99,
@@ -4138,6 +4066,73 @@
       "official": true,
       "seller": "Beleza Renovada Oficial",
       "category": "Beleza"
+    },
+    {
+      "id": "22094263350",
+      "title": "1 a 10 Metros Fita Mangueira de LED 5050 para Decoração 110V ou 220V Branco Frio/Quente Com Conector",
+      "price": 18.77,
+      "originalPrice": 34.76,
+      "discountPercent": 46,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyf-mch8o56lezpwc6",
+      "url": "https://s.shopee.com.br/3B8YWLOKzG",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2793,
+      "seller": "LUZORA",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "25946709329",
+      "title": "ULTRA HIDRATAÇÃO EFEITO TEIA COM ÓLEOS MARROQUINOS - OURO MARROQUINO - FINA MARIA PROFISSIONAL",
+      "price": 38.9,
+      "originalPrice": 79.39,
+      "discountPercent": 51,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258h-mr1ynaykoao016",
+      "url": "https://s.shopee.com.br/9fM2GJCao4",
+      "rating": 4.9,
+      "salesCount": 31200,
+      "seller": "Distribuidora Oficial Fina Maria",
+      "category": "Beleza"
+    },
+    {
+      "id": "18698826077",
+      "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
+      "price": 149,
+      "originalPrice": 338.64,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
+      "url": "https://s.shopee.com.br/8fTVbN1grU",
+      "rating": 4.9,
+      "salesCount": 1216,
+      "official": true,
+      "seller": "Eletricario Loja Oficial",
+      "category": "Ferramentas"
+    },
+    {
+      "id": "46007151632",
+      "title": "Pendente Triplo Lustre Luminária Aramado Tulipa Cabo Cristal 1 Metro",
+      "price": 59.2,
+      "originalPrice": 80,
+      "discountPercent": 26,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mlqzwskv8d8ke3",
+      "url": "https://s.shopee.com.br/1143wN1adf",
+      "rating": 4.8,
+      "salesCount": 318,
+      "seller": "PJ DECORAÇÕES ",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "21998277686",
+      "title": "Kit 20 Unidades Bebedouros Automáticos Aves Galinhas Codornas",
+      "price": 34.89,
+      "originalPrice": 89.46,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mmccxdwf9uyo8e",
+      "url": "https://s.shopee.com.br/6VP0UVFAa4",
+      "rating": 4.9,
+      "salesCount": 1116,
+      "seller": "WGECOMM",
+      "category": "Pet e bebê"
     }
   ]
 }
