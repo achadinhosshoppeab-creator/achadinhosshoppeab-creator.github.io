@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T22:51:14.785Z",
+  "updatedAt": "2026-10-29T23:12:01.641Z",
   "offers": [
     {
       "id": "20042293295",
@@ -55,19 +55,6 @@
       "rating": 4.9,
       "salesCount": 2408,
       "seller": "Bordados e Corte a Laser",
-      "category": "Presentes e papelaria"
-    },
-    {
-      "id": "22398050334",
-      "title": "Mochila Viagem God Talent Grande 40l Reforçada Escolar Notebook",
-      "price": 29.9,
-      "originalPrice": 90.61,
-      "discountPercent": 67,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpo6d03dse962",
-      "url": "https://s.shopee.com.br/qkf39rP19",
-      "rating": 4.7,
-      "salesCount": 115,
-      "seller": "ZENX MEDALI",
       "category": "Presentes e papelaria"
     },
     {
@@ -506,8 +493,7 @@
       "rating": 4.8,
       "salesCount": 4935,
       "seller": "HACKBERRY",
-      "category": "Moda",
-      "hot": true
+      "category": "Moda"
     },
     {
       "id": "29424706558",
@@ -748,6 +734,7 @@
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-ms5l9in9msqt7f",
       "url": "https://s.shopee.com.br/70LH5O19XI",
+      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 5054,
       "seller": "Fonte Boa Casa",
@@ -2800,6 +2787,20 @@
       "category": "Moda"
     },
     {
+      "id": "18597787721",
+      "title": "Mochila Escolar Reforçada Nylon Impermeável Viagem Esportiva",
+      "price": 39.9,
+      "originalPrice": 99.75,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvj-lyw40hetm45005",
+      "url": "https://s.shopee.com.br/2LZS3jiMPg",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 729,
+      "seller": "M Flowerr",
+      "category": "Presentes e papelaria"
+    },
+    {
       "id": "20999381894",
       "title": "Conjunto 2/3/5/10 Potes 370/640/1040ml Vidro Hermético Mantimentos Marmita Fitness",
       "price": 27.89,
@@ -3684,20 +3685,6 @@
       "category": "Moda"
     },
     {
-      "id": "58212406049",
-      "title": "Chinelo Masculino Adulto Antiderrapante Confortável Leve Calçe Facil PROMOÇÃO",
-      "price": 17.76,
-      "originalPrice": 49.33,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820m5-mnu3gx6nrklc58",
-      "url": "https://s.shopee.com.br/2Vsrj944KL",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 4020,
-      "seller": "rlshoes2025",
-      "category": "Moda"
-    },
-    {
       "id": "22094841996",
       "title": "Bota Feminina Chelsea/Bag/Militar Promoção Não Perca Oferta",
       "price": 55.9,
@@ -4133,6 +4120,21 @@
       "official": true,
       "seller": "Ampec",
       "category": "Ferramentas"
+    },
+    {
+      "id": "22297158685",
+      "title": "Umidificador Atomizador De Ar Doméstico Portátil Umidificador 200ml ANJGG",
+      "price": 15.99,
+      "originalPrice": 79.95,
+      "discountPercent": 80,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259g-mfziriko5yxb36",
+      "url": "https://s.shopee.com.br/5q9JhFaBQM",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2978,
+      "seller": "ANJ.GG store",
+      "category": "Casa e organização",
+      "hot": true
     }
   ]
 }
