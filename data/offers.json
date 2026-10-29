@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T04:12:05.339Z",
+  "updatedAt": "2026-10-29T04:42:59.265Z",
   "offers": [
     {
       "id": "20042293295",
@@ -166,7 +166,7 @@
       "originalPrice": 279.44,
       "discountPercent": 61,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825ab-mr9l65fd66mkf6",
-      "url": "https://s.shopee.com.br/30p8K0uZp0",
+      "url": "https://s.shopee.com.br/2VsrpQsgJ4",
       "hasVariantPrices": true,
       "rating": 5,
       "salesCount": 4580,
@@ -721,7 +721,6 @@
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-ms5l9in9msqt7f",
       "url": "https://s.shopee.com.br/70LH5O19XI",
-      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 4184,
       "seller": "Fonte Boa Casa",
@@ -2130,21 +2129,6 @@
       "category": "Ferramentas"
     },
     {
-      "id": "22691297138",
-      "title": "[OFFICIAL] SKIN1004 madagascar centella ampoule 30ml,55ml,100ml,120ml",
-      "price": 44.97,
-      "originalPrice": 62.46,
-      "discountPercent": 28,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-823qv-mp97g79bqk8w0d",
-      "url": "https://s.shopee.com.br/40hfVqqlnI",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 4287,
-      "official": true,
-      "seller": "koksara.kbeauty",
-      "category": "Beleza"
-    },
-    {
       "id": "19898262315",
       "title": "Espelho Redondo Decorativo 60x60cm Premium Moderno Para Decoração Banheiro Sala Quarto Lavabo Alta Qualidade",
       "price": 27.89,
@@ -2197,6 +2181,21 @@
       "salesCount": 681,
       "seller": "YUANYUE",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "22691297138",
+      "title": "[OFFICIAL] SKIN1004 madagascar centella ampoule 30ml,55ml,100ml,120ml",
+      "price": 44.97,
+      "originalPrice": 62.46,
+      "discountPercent": 28,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-823qv-mp97g79bqk8w0d",
+      "url": "https://s.shopee.com.br/40hfVqqlnI",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 4287,
+      "official": true,
+      "seller": "koksara.kbeauty",
+      "category": "Beleza"
     },
     {
       "id": "19274006007",
@@ -3616,7 +3615,7 @@
       "originalPrice": 203.81,
       "discountPercent": 74,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratk-ma318jb4a6ng62",
-      "url": "https://s.shopee.com.br/5q9JhGrNZJ",
+      "url": "https://s.shopee.com.br/9zyslEtlem",
       "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 2226,
