@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T08:49:48.818Z",
+  "updatedAt": "2026-10-29T09:20:46.098Z",
   "offers": [
     {
       "id": "20042293295",
@@ -479,8 +479,7 @@
       "rating": 4.8,
       "salesCount": 4863,
       "seller": "HACKBERRY",
-      "category": "Moda",
-      "hot": true
+      "category": "Moda"
     },
     {
       "id": "29424706558",
@@ -1345,7 +1344,7 @@
       "originalPrice": 68.79,
       "discountPercent": 42,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mlm9f6twpjph48",
-      "url": "https://s.shopee.com.br/50aChjMJk9",
+      "url": "https://s.shopee.com.br/4VdwWDcP6U",
       "rating": 4.9,
       "salesCount": 2752,
       "seller": "Bela Beleza Oficial",
@@ -1948,20 +1947,6 @@
       "category": "Beleza"
     },
     {
-      "id": "22292949724",
-      "title": "Papel de Parede Mármore Branco com Dourado Para Sala Quarto | Autocolante Lavável | Adesivo Vinílico De Fácil Aplicação",
-      "price": 21.98,
-      "originalPrice": 62.8,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke79xgy03k1e2",
-      "url": "https://s.shopee.com.br/1LguiEpW3H",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1040,
-      "seller": "imperial_adesivos",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58264295508",
       "title": "Copo garrafa Térmica Inox 1200ml Parede Dupla tampa Canudo Premium",
       "price": 34.99,
@@ -2030,20 +2015,6 @@
       "salesCount": 5984,
       "seller": "romeromodasltda",
       "category": "Moda"
-    },
-    {
-      "id": "58252046695",
-      "title": "Papel Adesivo Parede 5/10/15m Mármore Dourado c/ Preto Cozinha Quarto Lavável Sala Banheiro Antimofo",
-      "price": 26.9,
-      "originalPrice": 59.78,
-      "discountPercent": 55,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mibrs911eayu73",
-      "url": "https://s.shopee.com.br/BUxK5txQA",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 816,
-      "seller": "HG Variedades Oficial",
-      "category": "Casa e organização"
     },
     {
       "id": "23394200396",
@@ -2307,19 +2278,6 @@
       "salesCount": 824,
       "seller": "LLB COMÉRCIO",
       "category": "Casa e organização"
-    },
-    {
-      "id": "23535003648",
-      "title": "Brinquedo para Gato Arranhador com Pena e Rampa Poste Sisal",
-      "price": 39.89,
-      "originalPrice": 64.34,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhrp620eyj9f23",
-      "url": "https://s.shopee.com.br/60SjtaDhrV",
-      "rating": 4.9,
-      "salesCount": 697,
-      "seller": "Fabrica Pet",
-      "category": "Pet e bebê"
     },
     {
       "id": "23194055670",
@@ -2649,20 +2607,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "50456009409",
-      "title": " Kit Gel Sólido OsNailmall com 3 peças e caneta de duas pontas, Gel 3D para Extensão e Modelagem de Unhas, Manicure",
-      "price": 19.96,
-      "originalPrice": 31.19,
-      "discountPercent": 36,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qn-mp4m429nx7nx76",
-      "url": "https://s.shopee.com.br/AUv9FrDD4e",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 852,
-      "seller": "Choice Oficial",
-      "category": "Presentes e papelaria"
-    },
-    {
       "id": "58216601427",
       "title": "Porta Temperos Giratório 360 Graus 6, 9 ou 12 Potes de Vidro Organizador Cozinha Tampa Dosadora",
       "price": 27.99,
@@ -2891,8 +2835,7 @@
       "rating": 4.9,
       "salesCount": 2287,
       "seller": "Choice Oficial",
-      "category": "Eletrônicos",
-      "hot": true
+      "category": "Eletrônicos"
     },
     {
       "id": "58258453576",
@@ -2993,11 +2936,11 @@
     },
     {
       "id": "23793879757",
-      "title": "Daily T-shirt Insider",
+      "title": "Camiseta Daily T-shirt Insider",
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zuv-mimqz9sdyk8zd7",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258b-mr9etewst7np93",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -3033,19 +2976,6 @@
       "salesCount": 2805,
       "seller": "Toque Suave Lingerie",
       "category": "Moda"
-    },
-    {
-      "id": "21899851088",
-      "title": "Kit 10 Unidades Bebedouros Automáticos Para Aves Galinhas Codornas",
-      "price": 21.1,
-      "originalPrice": 65.94,
-      "discountPercent": 68,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mmccxdwb6dc635",
-      "url": "https://s.shopee.com.br/9APlfP51AK",
-      "rating": 4.9,
-      "salesCount": 2927,
-      "seller": "WGECOMM",
-      "category": "Pet e bebê"
     },
     {
       "id": "58214452769",
@@ -3443,20 +3373,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "23794773040",
-      "title": "Protetor Adesivo Arranhador para Gato – Evite Danos em Sofás e Móveis",
-      "price": 17.9,
-      "originalPrice": 35.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82629-mja1hlqri0w264",
-      "url": "https://s.shopee.com.br/7faxse7MTj",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 877,
-      "seller": "Vende Mic",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "58215112791",
       "title": "Parafusadeira Furadeira de Impacto 48V Sem Fio 2 Baterias 3 Funções com Maleta e Acessórios Kit Completo",
       "price": 135.98,
@@ -3534,7 +3450,7 @@
       "originalPrice": 110.86,
       "discountPercent": 30,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzueege6fwgeb",
-      "url": "https://s.shopee.com.br/5fptUxN98x",
+      "url": "https://s.shopee.com.br/3VlPKNgD8K",
       "rating": 4.9,
       "salesCount": 2324,
       "official": true,
@@ -3691,20 +3607,6 @@
       "salesCount": 537,
       "seller": "Tudo Bom ",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "58204153704",
-      "title": "Kit Shampoo + Condicionador + Creme para Pentear 300ml SOS Cachos Kids Hidratação Salon Line",
-      "price": 46.1,
-      "originalPrice": 64.93,
-      "discountPercent": 29,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-msr3shcqrz0n32",
-      "url": "https://s.shopee.com.br/7VHXgKGRSb",
-      "rating": 4.9,
-      "salesCount": 1205,
-      "official": true,
-      "seller": "Salon Line",
-      "category": "Beleza"
     },
     {
       "id": "58207914273",
@@ -4129,6 +4031,105 @@
       "salesCount": 30756,
       "seller": "Distribuidora Oficial Fina Maria",
       "category": "Beleza"
+    },
+    {
+      "id": "18698826077",
+      "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
+      "price": 149,
+      "originalPrice": 338.64,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
+      "url": "https://s.shopee.com.br/50aChkPLhn",
+      "rating": 4.9,
+      "salesCount": 1251,
+      "official": true,
+      "seller": "Eletricario Loja Oficial",
+      "category": "Ferramentas"
+    },
+    {
+      "id": "46007151632",
+      "title": "Pendente Triplo Lustre Luminária Aramado Tulipa Cabo Cristal 1 Metro",
+      "price": 59.2,
+      "originalPrice": 80,
+      "discountPercent": 26,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mlqzwskv8d8ke3",
+      "url": "https://s.shopee.com.br/1143wN1adf",
+      "rating": 4.8,
+      "salesCount": 319,
+      "seller": "PJ DECORAÇÕES ",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58207708258",
+      "title": "Kit 4 Short Bermuda Infantil Juvenil Tactel Menino Praia Com Bolso Elastano Premium 2 a 16 Anos",
+      "price": 38.88,
+      "originalPrice": 99.69,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mt4bdbzoonb9a1",
+      "url": "https://s.shopee.com.br/3B8YWNAXH6",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 4383,
+      "seller": "EDYBOY",
+      "category": "Moda"
+    },
+    {
+      "id": "44162911290",
+      "title": "Areia 4Kg Biodegradável Kadi Grãos Finos para Gatos",
+      "price": 29.99,
+      "originalPrice": 50.83,
+      "discountPercent": 41,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxl-mdet8ey488yyfe",
+      "url": "https://s.shopee.com.br/1BNU8hW6Yv",
+      "rating": 4.8,
+      "salesCount": 6073,
+      "official": true,
+      "seller": "mypetone",
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "22297158685",
+      "title": "Umidificador Atomizador De Ar Doméstico Portátil Umidificador 200ml ANJGG",
+      "price": 15.99,
+      "originalPrice": 79.95,
+      "discountPercent": 80,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259g-mfziriko5yxb36",
+      "url": "https://s.shopee.com.br/5q9JhFaBQM",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 3072,
+      "seller": "ANJ.GG store",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "23897143938",
+      "title": "Umidificador Hm-20 Ultrassônico  0,22 L 1,5 W USB Incluso Branco",
+      "price": 15.99,
+      "originalPrice": 79.95,
+      "discountPercent": 80,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lz-mqxgvw7kebye22",
+      "url": "https://s.shopee.com.br/40hfVshA96",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 2308,
+      "seller": "ANJ.GG store",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "58202075375",
+      "title": "KIT 3 Ou 5 Capas Silicone Cor SortIdas Compatível Com Todos iPhone 17 16 15 14 13 12 11 Pro Max Plus X XR XS Max",
+      "price": 24.89,
+      "originalPrice": 49.78,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj3n22tz6qrled",
+      "url": "https://s.shopee.com.br/4B15i9yrq8",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1740,
+      "seller": "KASPRIME.STORE",
+      "category": "Eletrônicos"
     }
   ]
 }
