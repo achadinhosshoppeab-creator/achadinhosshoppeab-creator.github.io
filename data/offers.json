@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T16:37:15.078Z",
+  "updatedAt": "2026-10-29T16:58:02.210Z",
   "offers": [
     {
       "id": "20042293295",
@@ -1048,7 +1048,7 @@
       "originalPrice": 159.8,
       "discountPercent": 50,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mu2f856jdx4y80",
-      "url": "https://s.shopee.com.br/gRDXlpFur",
+      "url": "https://s.shopee.com.br/70LI0DD6jY",
       "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 5326,
@@ -1547,6 +1547,20 @@
       "category": "Beleza"
     },
     {
+      "id": "23997408775",
+      "title": "Mouse Gamer Ergonômico RGB Até 7200dpi Com fio 1.5M Keedi MOU903",
+      "price": 23.5,
+      "originalPrice": 75.81,
+      "discountPercent": 69,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m7s9b22qhl0476",
+      "url": "https://s.shopee.com.br/2gCIqCqoZf",
+      "rating": 4.8,
+      "salesCount": 183,
+      "official": true,
+      "seller": "Keedi Eletrônicos",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "58259403968",
       "title": "Pendente Dourado Borboleta De Luz LED de 3 cores em 1 luminária de teto do quarto Bivolt",
       "price": 45.98,
@@ -1970,7 +1984,7 @@
       "originalPrice": 37,
       "discountPercent": 30,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mn60bp00ov7kac",
-      "url": "https://s.shopee.com.br/8AXETYMhhb",
+      "url": "https://s.shopee.com.br/9fM3B72xKK",
       "rating": 4.9,
       "salesCount": 2400,
       "official": true,
@@ -2012,7 +2026,7 @@
       "originalPrice": 99.83,
       "discountPercent": 40,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mu2i2k24ydc25f",
-      "url": "https://s.shopee.com.br/AAIIrEF5dv",
+      "url": "https://s.shopee.com.br/9APmaC4rLB",
       "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 2675,
@@ -2156,7 +2170,7 @@
       "rating": 4.9,
       "salesCount": 3542,
       "seller": "RD ECOM",
-      "category": "Presentes e papelaria"
+      "category": "Casa e organização"
     },
     {
       "id": "41022402072",
@@ -2280,19 +2294,6 @@
       "salesCount": 697,
       "seller": "Fabrica Pet",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "23194055670",
-      "title": "Kit 12 Marmitas Potes 800ml com Travas Laterais BPA FREE - Alimentos organizadores de congelador PLASTICOS",
-      "price": 38,
-      "originalPrice": 100,
-      "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mrzweol0dfk5ee",
-      "url": "https://s.shopee.com.br/20wb8Am9Hh",
-      "rating": 4.8,
-      "salesCount": 1531,
-      "seller": "PoliPlast",
-      "category": "Casa e organização"
     },
     {
       "id": "58204197533",
@@ -2745,6 +2746,20 @@
       "category": "Beleza"
     },
     {
+      "id": "58203437216",
+      "title": "Meia 3D De Presente Para Crianças Desenhos Animados Tridimensionais De Alta Qualidade Acima Do Joelho Festa",
+      "price": 20.9,
+      "originalPrice": 69.67,
+      "discountPercent": 70,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjk0plqbnpj60e",
+      "url": "https://s.shopee.com.br/4qGnQEXanR",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2559,
+      "seller": "CAZA SHOP",
+      "category": "Moda"
+    },
+    {
       "id": "22898567954",
       "title": "Vestido Básico de  Alçinha COM BOLSO Para o Verão Vestido Curto Confortavel Plus Size Com Elasticidade Soltinho",
       "price": 29.99,
@@ -2967,11 +2982,11 @@
     },
     {
       "id": "23793879757",
-      "title": "Camiseta Daily T-shirt Insider",
+      "title": "Daily T-shirt Insider",
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b7-mr9fgq72ark72d",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261y-ml5jgzzl0av47c",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -3545,20 +3560,6 @@
       "hot": true
     },
     {
-      "id": "22597338672",
-      "title": "Mini Guarda-Chuva Portátil Dobravel UPF50+ Cápsula Ultra Leve com Estojo – Proteção UV",
-      "price": 23.99,
-      "originalPrice": 59.97,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lreutfgf8mqsd0",
-      "url": "https://s.shopee.com.br/7VHXgLTEpM",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1720,
-      "seller": "DAILONG COMERCIO DE PRESENTES LTDA",
-      "category": "Presentes e papelaria"
-    },
-    {
       "id": "22695171666",
       "title": "Lixeira Inteligente Automática 16L Recarregável USB com Sensor, Abertura Automática para Cozinha, Banheiro e Escritório",
       "price": 68.4,
@@ -3675,26 +3676,12 @@
       "originalPrice": 84.37,
       "discountPercent": 29,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mu2f856jfbpe66",
-      "url": "https://s.shopee.com.br/1W0KXIm5Dw",
+      "url": "https://s.shopee.com.br/5VWUDSIomB",
       "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 10450,
       "official": true,
       "seller": "Popozuda Oficial",
-      "category": "Beleza"
-    },
-    {
-      "id": "41919952056",
-      "title": "Hoygi Retinal Eye Cream Suave Nutritivo Firmador Hidratante Cuidados Com Os Olhos",
-      "price": 16.63,
-      "originalPrice": 46.19,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82619-mjl7s667d7uq27",
-      "url": "https://s.shopee.com.br/5VWTdoinTQ",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1498,
-      "seller": "Choice Oficial",
       "category": "Beleza"
     },
     {
@@ -3862,6 +3849,20 @@
       "rating": 4.8,
       "salesCount": 2420,
       "seller": "T.R. Imports Brasil",
+      "category": "Moda"
+    },
+    {
+      "id": "22299321807",
+      "title": "Kit com 24 Meias Vários Modelos Econômico Algodão",
+      "price": 30.55,
+      "originalPrice": 65,
+      "discountPercent": 53,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcbj0hdid3ajec",
+      "url": "https://s.shopee.com.br/50aDcXWxSU",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1962,
+      "seller": "Socks_store.wm",
       "category": "Moda"
     },
     {
