@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T03:18:57.636Z",
+  "updatedAt": "2026-10-30T03:49:28.921Z",
   "offers": [
     {
       "id": "20042293295",
@@ -2841,11 +2841,11 @@
     },
     {
       "id": "23793879757",
-      "title": "Camiseta Daily T-shirt Insider",
+      "title": "Daily T-shirt Insider",
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258i-mr9etg77gnws5d",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvv-mimqxyvho0zled",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -3152,20 +3152,6 @@
       "salesCount": 780,
       "seller": "SHENGSI-SMART",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "23094631884",
-      "title": "Kit Terapia Capilar Loca Cosmetics - Óleo Coco + Ricino + Alecrim 60ml OU 3 Óleos + Pente Aplicador",
-      "price": 27.69,
-      "originalPrice": 40.13,
-      "discountPercent": 31,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mugvntynlczk9c",
-      "url": "https://s.shopee.com.br/2VssfNFWtq",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1624,
-      "seller": "Valorosa Beauty Hair",
-      "category": "Beleza"
     },
     {
       "id": "3958758961",
@@ -3738,20 +3724,6 @@
       "category": "Ferramentas"
     },
     {
-      "id": "21099836557",
-      "title": "Processador Triturador De Alimentos New Oggi Mallory Cor Preto",
-      "price": 66.99,
-      "originalPrice": 117.53,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwm-mc2jv1qmrooz0e",
-      "url": "https://s.shopee.com.br/1LguN2wjqx",
-      "rating": 4.9,
-      "salesCount": 3670,
-      "official": true,
-      "seller": "Tudão Tech  Ltda",
-      "category": "Cozinha"
-    },
-    {
       "id": "22992868060",
       "title": "Umidificador De Ar Com Grande Capacidade Para Casa/Escritório Com Atmosfera Led Luz Noturna Lâmpada Casa Para Quarto",
       "price": 16.99,
@@ -4135,6 +4107,34 @@
       "salesCount": 957,
       "seller": "MAWI 3D",
       "category": "Casa e organização"
+    },
+    {
+      "id": "23798670714",
+      "title": "Fita LED RGB 3528 5M 300 LEDs IP65 à Prova D'Água com Fonte Inclusa – Iluminação Colorida e Flexível",
+      "price": 16.99,
+      "originalPrice": 33.98,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra0r-mbe0liual91f04",
+      "url": "https://s.shopee.com.br/3qOFJZLndK",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2305,
+      "seller": "TMR E-commerce",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58210517964",
+      "title": "Capa de Couro PU Multiuso para 13-16 Polegadas com Suporte para Escritório e Estudo",
+      "price": 39.9,
+      "originalPrice": 79.8,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xh-mo5fynj6s9ae94",
+      "url": "https://s.shopee.com.br/6fiQgmookR",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 605,
+      "seller": "Lunexis",
+      "category": "Eletrônicos"
     }
   ]
 }
