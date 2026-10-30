@@ -1,34 +1,6 @@
 {
-  "updatedAt": "2026-10-30T16:03:51.374Z",
+  "updatedAt": "2026-10-30T16:24:22.485Z",
   "offers": [
-    {
-      "id": "21998270875",
-      "title": "Shampoo Escurecedor Cabelos Brancos Tonalizante Colored 300ml Efeito 100% Natural Super Resultado",
-      "price": 15.09,
-      "originalPrice": 68.59,
-      "discountPercent": 78,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mmajzmcmll3a15",
-      "url": "https://s.shopee.com.br/80DqjDehSf",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 803,
-      "seller": "mazurcosmeticos",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "22893900983",
-      "title": "Combo Completo Ativador de Cachos Perfeitos Shampoo Condicionador Máscara Sérum reparador de pontas",
-      "price": 32.99,
-      "originalPrice": 109.97,
-      "discountPercent": 70,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8i2s1il7c41bf",
-      "url": "https://s.shopee.com.br/5fpvwvoL4s",
-      "rating": 4.8,
-      "salesCount": 297,
-      "seller": "lindaleycosmeticos",
-      "category": "Beleza"
-    },
     {
       "id": "44110609035",
       "title": "2026 Mais Recente Smartwatch S10 Pro Relógio Série 10 2.08 Polegadas Sem Fio Bluetooth Esportes ALKF",
@@ -41,7 +13,8 @@
       "rating": 4.8,
       "salesCount": 756,
       "seller": "HeyMa",
-      "category": "Eletrônicos"
+      "category": "Eletrônicos",
+      "hot": true
     },
     {
       "id": "23394239273",
@@ -56,20 +29,6 @@
       "seller": "ManufaturaPrecisa",
       "category": "Ferramentas",
       "hot": true
-    },
-    {
-      "id": "23997408775",
-      "title": "Mouse Gamer Ergonômico RGB Até 7200dpi Com fio 1.5M Keedi MOU903",
-      "price": 23.5,
-      "originalPrice": 75.81,
-      "discountPercent": 69,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m7s9b22qhl0476",
-      "url": "https://s.shopee.com.br/7fb0KZ7IsT",
-      "rating": 4.8,
-      "salesCount": 189,
-      "official": true,
-      "seller": "Keedi Eletrônicos",
-      "category": "Eletrônicos"
     },
     {
       "id": "18297829933",
@@ -113,19 +72,6 @@
       "category": "Beleza"
     },
     {
-      "id": "18599237494",
-      "title": "Teclado Gamer Semi Mecânico 100% com Fio Preto Abnt2 Usb Rgb Computador Videogame Titorion",
-      "price": 64.9,
-      "originalPrice": 158.29,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mptea3knxs772e",
-      "url": "https://s.shopee.com.br/5fpvwtEuwH",
-      "rating": 4.9,
-      "salesCount": 81,
-      "seller": "Shop Borges",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "58270017100",
       "title": "Escova Secadora Alisador Eletrica QuenteCabelo Com 3 Em1,Portátil para Uso Doméstico,protege el cabello",
       "price": 38.99,
@@ -136,35 +82,7 @@
       "rating": 4.9,
       "salesCount": 382,
       "seller": "FZZYSTAR.store",
-      "category": "Beleza"
-    },
-    {
-      "id": "23998811384",
-      "title": "Kit Shampoo e Condicionador Tradicional 430 ml + Máscara Fortalecimento 500 g Gota Dourada",
-      "price": 40.9,
-      "originalPrice": 65.97,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdjm669d5x2x0a",
-      "url": "https://s.shopee.com.br/7puQWug5gV",
-      "rating": 5,
-      "salesCount": 269,
-      "official": true,
-      "seller": "Gota Dourada Cosméticos",
-      "category": "Beleza"
-    },
-    {
-      "id": "23597982563",
-      "title": "Conjunto Potes Vidro Hermético Mantimentos Marmita 640ml",
-      "price": 28.99,
-      "originalPrice": 74.33,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zuc-mky6lkqdrncw9a",
-      "url": "https://s.shopee.com.br/3B8arCHS5s",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1302,
-      "seller": "Life Hack Homeware",
-      "category": "Casa e organização",
+      "category": "Beleza",
       "hot": true
     },
     {
@@ -181,48 +99,6 @@
       "seller": "Embala Commerce",
       "category": "Presentes e papelaria",
       "hot": true
-    },
-    {
-      "id": "23992917186",
-      "title": "Kit Teclado e Mouse Gamer RGB ABNT2 USB com Fio Multimídia 3600 DPI 6 Botões PC Notebook Keedi TEC801",
-      "price": 53.9,
-      "originalPrice": 128.33,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a7-mto97yibovev6d",
-      "url": "https://s.shopee.com.br/3VlRMuNAL3",
-      "rating": 4.8,
-      "salesCount": 61,
-      "official": true,
-      "seller": "Keedi Eletrônicos",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "49515831550",
-      "title": "Pente Aplicador De Líquido Capilar Massagem No Couro Cabeludo Desembaraçar Óleo E Condicionador Antiestático",
-      "price": 19,
-      "originalPrice": 50,
-      "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mrr2vog6yqdi49",
-      "url": "https://s.shopee.com.br/30pAm1yUU9",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 197,
-      "seller": "RushDuck Store",
-      "category": "Beleza"
-    },
-    {
-      "id": "58259521205",
-      "title": "Kit Shampoo e Condicionador SOS Bomba Original 300ml Salon Line",
-      "price": 31.5,
-      "originalPrice": 45,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mnfxmm2bgrup88",
-      "url": "https://s.shopee.com.br/3qOHlYvJnE",
-      "rating": 4.9,
-      "salesCount": 567,
-      "official": true,
-      "seller": "Salon Line",
-      "category": "Beleza"
     },
     {
       "id": "23094631884",
@@ -268,48 +144,6 @@
       "hot": true
     },
     {
-      "id": "42929222786",
-      "title": "Pendente Tulipa Luminária Teto Aramado Cabo Cristal 1 Metro",
-      "price": 25.2,
-      "originalPrice": 35,
-      "discountPercent": 28,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mlqzh33cwglg49",
-      "url": "https://s.shopee.com.br/4LKYMT71Ei",
-      "rating": 4.9,
-      "salesCount": 137,
-      "seller": "PJ DECORAÇÕES ",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58260332510",
-      "title": "Kit com Shampoo + Condicionador + Defizantre Meu Liso Demais Salon Line",
-      "price": 39.9,
-      "originalPrice": 55.42,
-      "discountPercent": 28,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mnzqfnzie6108b",
-      "url": "https://s.shopee.com.br/4VdyYmsmRY",
-      "rating": 4.9,
-      "salesCount": 207,
-      "official": true,
-      "seller": "Salon Line",
-      "category": "Beleza"
-    },
-    {
-      "id": "23598053475",
-      "title": "Lustre Led Luminária Pendente 5 Arcos Moderno Anéis Bivolt 160W Com Controle Brinovar",
-      "price": 565.8,
-      "originalPrice": 1154.69,
-      "discountPercent": 51,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m324w9ww6swl1f",
-      "url": "https://s.shopee.com.br/9V2eVxnLl2",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 75,
-      "official": true,
-      "seller": "Brinovar Oficial",
-      "category": "Casa e organização"
-    },
-    {
       "id": "22093231630",
       "title": "Sabonete Facial em Gel Pele de Porcelana 190ml Kokeshi",
       "price": 42.09,
@@ -322,46 +156,6 @@
       "official": true,
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza"
-    },
-    {
-      "id": "22698517946",
-      "title": "MOUSE GAMER COM FIO  7 BOTOES E 3 BOTOES MAUSE COM LED RGB 2.400 DPI ÓPTICO ILUMINAÇÃO COLORIDA PARA JOGOS VIDEO GAMERS",
-      "price": 17.99,
-      "originalPrice": 39.11,
-      "discountPercent": 54,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mqxjn74hlvk667",
-      "url": "https://s.shopee.com.br/7VHa8G7wDS",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 190,
-      "seller": "LAMPADAECOM",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "15263718139",
-      "title": "Mouse Gamer Para Jogo 3200dpi Profissional Ergonômico com fio Óptico LED RGB USB PC Videogame",
-      "price": 39.9,
-      "originalPrice": 70,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2iisknbl8p23e",
-      "url": "https://s.shopee.com.br/3g4rZDMX06",
-      "rating": 4.9,
-      "salesCount": 61,
-      "seller": "Shop Borges",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "58260576959",
-      "title": "Teclado Mecânico Gamer RGB 68 Teclas Eixo Vermelho USB+2.4G+BT ABNT2 TK08",
-      "price": 71.99,
-      "originalPrice": 138.44,
-      "discountPercent": 48,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mos2w4d46ww35f",
-      "url": "https://s.shopee.com.br/4LKYMRJzeA",
-      "rating": 4.9,
-      "salesCount": 65,
-      "seller": "TechLar-MGS",
-      "category": "Eletrônicos"
     },
     {
       "id": "23593332489",
@@ -402,20 +196,6 @@
       "rating": 4.8,
       "salesCount": 1644,
       "seller": "Universo Cosmetico",
-      "category": "Beleza"
-    },
-    {
-      "id": "58253894256",
-      "title": "Comfort Boom Perfume Para Roupas Em Cristais 275g",
-      "price": 27.28,
-      "originalPrice": 80.24,
-      "discountPercent": 66,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-muwsk0rgymtf3e",
-      "url": "https://s.shopee.com.br/8Kqh7peBfe",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 360,
-      "seller": "Mga Produtos",
       "category": "Beleza"
     },
     {
@@ -461,21 +241,6 @@
       "hot": true
     },
     {
-      "id": "42374564399",
-      "title": "Organizador Alimentos Geladeira com cesto Único duplo 2,2L (20x15cm) Linha Clear Fresh - OU",
-      "price": 35.9,
-      "originalPrice": 85.48,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfx0ob951zph7b",
-      "url": "https://s.shopee.com.br/1qdDNrBmcZ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 699,
-      "official": true,
-      "seller": "DSD Multi Comercio",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58259278839",
       "title": "Kit Biotina Pura + Colágeno Hidrolisado + Ácido Hialurônico Alta Concentração Pele Unhas e Cabelos",
       "price": 24.5,
@@ -489,49 +254,6 @@
       "seller": "Aureum Vitae",
       "category": "Beleza",
       "hot": true
-    },
-    {
-      "id": "19798334526",
-      "title": "Kit 5 Fio Pendente Lustre Luminária de Teto Soquete Liso E27 Cabo PP Preto 1mt",
-      "price": 33.33,
-      "originalPrice": 52.9,
-      "discountPercent": 37,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfpwxsehvegw2c",
-      "url": "https://s.shopee.com.br/1gJnBZHAeS",
-      "rating": 4.9,
-      "salesCount": 86,
-      "seller": "ilumi.tudo",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "56163615411",
-      "title": "Suporte De Shampoo De Aluminio Prateleiras De Banheiro Sem Furo Premium Suporte De Banheiro",
-      "price": 22.91,
-      "originalPrice": 60.29,
-      "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mqeien14cidp35",
-      "url": "https://s.shopee.com.br/AAILJCWS3s",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1799,
-      "seller": "SPDSANG.br",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "56866353908",
-      "title": "Mousepad Gamer Grande Borracha Antiderrapante Desk Pad Para Teclado e Mouse 30x80/40x80",
-      "price": 27.88,
-      "originalPrice": 79.66,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-ms47gz4q5hxh17",
-      "url": "https://s.shopee.com.br/7Aejje9CtQ",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 146,
-      "official": true,
-      "seller": "Belin Life ",
-      "category": "Eletrônicos"
     },
     {
       "id": "58200475144",
@@ -588,76 +310,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "22293662628",
-      "title": "Luminarias Pendentes De Teto Kit 2 Vegas Casa Sala Cozinha Quarto Decoração Estilo Textura  Aluminio",
-      "price": 33.6,
-      "originalPrice": 48,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mt5n6k56wponc0",
-      "url": "https://s.shopee.com.br/3qOHlY8vFR",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 235,
-      "seller": "Mily Mania",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "21599574827",
-      "title": "Luminaria De Teto Luxo Kit 2 Pendentes Lustre Decoração Cozinha Sala de Jantar Envio Rapido Aluminio",
-      "price": 37.08,
-      "originalPrice": 52.97,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mt5ng5pj2f458f",
-      "url": "https://s.shopee.com.br/4VdyYm6Ntl",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 131,
-      "seller": "Mily Mania",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23298140391",
-      "title": "Luminaria Pendentes De Teto Kit3 Vegas Bala Casa Sala Cozinha Quarto Varanda Estilo Textura Aluminio",
-      "price": 46.9,
-      "originalPrice": 67,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mt5ng5pldame34",
-      "url": "https://s.shopee.com.br/4B18AA7eZj",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 137,
-      "seller": "Mily Mania",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "21299574792",
-      "title": "Luminaria De Teto Luxo Kit 3 Pendentes Lustre Decoração Cozinha Sala de Jantar Envio Rapido Aluminio",
-      "price": 53.18,
-      "originalPrice": 75.97,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mt5nkl8ve5tx43",
-      "url": "https://s.shopee.com.br/2VsuB6DzxZ",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 85,
-      "seller": "Mily Mania",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "28533908018",
-      "title": "Shampoo De Cor De Cabelo À Base De Ervas 3 Em 1 Condicionador Com Essência Vegetal Para Tintura",
-      "price": 93.04,
-      "originalPrice": 186.08,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823oq-mp4m2rbaojrgb7",
-      "url": "https://s.shopee.com.br/1Lgwmy4prj",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 641,
-      "seller": "Choice Oficial",
-      "category": "Beleza"
-    },
-    {
       "id": "22097353011",
       "title": "Cadeira Escritório Giratória Mesh Altura Ajustável Apoio Para Lombar Com Rodinhas Corporativa",
       "price": 169.9,
@@ -673,59 +325,17 @@
       "category": "Casa e organização"
     },
     {
-      "id": "22394148139",
-      "title": "Shampoo Condicionador Leave-in Infantil Verdi Natural Aloe Vera Camomila Pantenol Verdi Natural",
-      "price": 41.9,
-      "originalPrice": 82.16,
-      "discountPercent": 49,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rav8-mauq0twkwihc9c",
-      "url": "https://s.shopee.com.br/60SmLXn4Oy",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 318,
-      "seller": "Flobaby Oficial",
-      "category": "Beleza"
-    },
-    {
-      "id": "23694052248",
-      "title": "Luminária De Teto Plafon 3 Cores Em 1 20CM Sobreposto 20W Painel Céu Estrelado Pendente Borboleta",
-      "price": 52.9,
-      "originalPrice": 107.96,
-      "discountPercent": 51,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mtsi8sq8euwx83",
-      "url": "https://s.shopee.com.br/BUzOoMsh5",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 67,
-      "seller": "Abajurê",
+      "id": "50802620838",
+      "title": "Kit 10 Organizadores Acrílico Cristal Modular Para Geladeiras Maquiagens Gavetas Armarios",
+      "price": 44.9,
+      "originalPrice": 59.87,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8227k-mhvhuh6oiyo18c",
+      "url": "https://s.shopee.com.br/4B16fqaOTS",
+      "rating": 4.7,
+      "salesCount": 1393,
+      "seller": "AuraShop Cuidado que a casa merece",
       "category": "Casa e organização"
-    },
-    {
-      "id": "49403707127",
-      "title": " Kit de Teclas para Teclado Mecânico Gamer, Camada de Letras, Compatível com Maioria dos 61/64/66/68/84/87/96/98/100/104",
-      "price": 32.82,
-      "originalPrice": 43.76,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258r-mr8gsu24hczlc2",
-      "url": "https://s.shopee.com.br/7Ky9vx8ZYR",
-      "rating": 4.8,
-      "salesCount": 68,
-      "seller": "Choice Oficial",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "58211442575",
-      "title": "Deo Colônia Kaiak Miniatura Masculino 25ml",
-      "price": 49.28,
-      "originalPrice": 65.71,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pk-mopv3g8qnk7h17",
-      "url": "https://s.shopee.com.br/1W0LjB5bl1",
-      "rating": 5,
-      "salesCount": 1262,
-      "official": true,
-      "seller": "NATURA",
-      "category": "Beleza"
     },
     {
       "id": "40980557860",
@@ -752,7 +362,8 @@
       "rating": 4.5,
       "salesCount": 2062,
       "seller": "Fuxi Store",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "58269326392",
@@ -768,17 +379,18 @@
       "category": "Cozinha"
     },
     {
-      "id": "11560752615",
-      "title": "Cadiveu Essentials Quartzo Shine Quartzo Líquido Condicionante 65ml",
-      "price": 29.9,
-      "originalPrice": 56.42,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lywbfp9mcs9xc0",
-      "url": "https://s.shopee.com.br/5LD5YJpbkm",
-      "rating": 4.9,
-      "salesCount": 429,
-      "seller": "Terra da Beleza",
-      "category": "Beleza"
+      "id": "18499252377",
+      "title": "Fita LED 3528 SUPER LED ULTRA RGB 5M até 15M 12V 300 LEDS | 16 CORES IP20 Pronta Entrega Com e Sem Fonte",
+      "price": 17.5,
+      "originalPrice": 35.71,
+      "discountPercent": 51,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwh98hxpqto5fe",
+      "url": "https://s.shopee.com.br/5LD5Zi6uNi",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 936,
+      "seller": "Abella Tech",
+      "category": "Casa e organização"
     },
     {
       "id": "40179335828",
@@ -941,34 +553,6 @@
       "salesCount": 1499,
       "seller": "Spotlight 82",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "22798035553",
-      "title": "Cama Colchonete Almofada para Cachorro ou Gato Pet Pequeno Médio e Grande Lavável com Zíper",
-      "price": 19.98,
-      "originalPrice": 28.54,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m80jdxx3htrl7d",
-      "url": "https://s.shopee.com.br/6fiRoS8B7m",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1797,
-      "seller": "MovicPets",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "25788718282",
-      "title": "(3 cores em 1 luz) Lustre Pendente Luminária de Teto Led Dourado Decoração Minimalista Moderno  Cozinha Ceiling Light",
-      "price": 75.9,
-      "originalPrice": 105.42,
-      "discountPercent": 28,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m30hjyoqbtg34c",
-      "url": "https://s.shopee.com.br/2qVkZiCjHL",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 174,
-      "seller": "boa_saude.br",
-      "category": "Casa e organização"
     },
     {
       "id": "22894246754",
