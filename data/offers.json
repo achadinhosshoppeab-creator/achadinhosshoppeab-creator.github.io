@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T01:36:56.776Z",
+  "updatedAt": "2026-10-30T01:57:36.671Z",
   "offers": [
     {
       "id": "20042293295",
@@ -918,19 +918,6 @@
       "category": "Moda"
     },
     {
-      "id": "58258677338",
-      "title": "Porta Retrato Decoração Sala Quadro de Fotos Porta Retrato Parede Decorativo Mdf 40x70 Árvore Molduras Foto Família",
-      "price": 16,
-      "originalPrice": 69.57,
-      "discountPercent": 77,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mshelelgveo51e",
-      "url": "https://s.shopee.com.br/1Lgv5oxaAl",
-      "rating": 4.8,
-      "salesCount": 500,
-      "seller": "Au&Miau Decorações",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58263519901",
       "title": "Kit Capilar Óleo Extraordinário NEW HAIR Profissional 1L Salão + Óleo Extraordinário 100ml NEW HAIR",
       "price": 67.9,
@@ -1618,6 +1605,19 @@
       "category": "Casa e organização"
     },
     {
+      "id": "58258677338",
+      "title": "Porta Retrato Decoração Sala Quadro de Fotos Porta Retrato Parede Decorativo Mdf 40x70 Árvore Molduras Foto Família",
+      "price": 22.5,
+      "originalPrice": 70.31,
+      "discountPercent": 68,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mshelelgveo51e",
+      "url": "https://s.shopee.com.br/1Lgv5oxaAl",
+      "rating": 4.8,
+      "salesCount": 500,
+      "seller": "Au&Miau Decorações",
+      "category": "Casa e organização"
+    },
+    {
       "id": "23098550947",
       "title": "Tripé Selfie Stick Extensível com Controle Remoto Sem Fio para Grupos de Selfies e Streaming ao Vivo",
       "price": 27.99,
@@ -1696,7 +1696,6 @@
       "discountPercent": 38,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb9py64wpadf5",
       "url": "https://s.shopee.com.br/60SlBCUUaV",
-      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 3493,
       "seller": "Atletyca Oficial",
@@ -2007,19 +2006,6 @@
       "official": true,
       "seller": "Bettdow",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "58270017100",
-      "title": "Escova Secadora Alisador Eletrica QuenteCabelo Com 3 Em1,Portátil para Uso Doméstico,protege el cabello",
-      "price": 38.99,
-      "originalPrice": 108.31,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mu1whi961jpc3a",
-      "url": "https://s.shopee.com.br/4B16lXgdMx",
-      "rating": 4.9,
-      "salesCount": 382,
-      "seller": "FZZYSTAR.store",
-      "category": "Beleza"
     },
     {
       "id": "50160899989",
@@ -2899,11 +2885,11 @@
     },
     {
       "id": "23793879757",
-      "title": "Camiseta Daily T-shirt Insider",
+      "title": "Daily T-shirt Insider",
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b7-mr9fgq72ark72d",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zuv-mimqz9sdyk8zd7",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -4137,6 +4123,20 @@
       "salesCount": 633,
       "seller": "DS Group ",
       "category": "Cozinha"
+    },
+    {
+      "id": "54113505958",
+      "title": "Kit Capas de Almofadas para Sofá Premiun Suede Decorativo Casa Sala Quarto Slim",
+      "price": 19.91,
+      "originalPrice": 39.82,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mqca774gijnk2a",
+      "url": "https://s.shopee.com.br/2BG1KUTVhG",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1071,
+      "seller": "bellalardecoraes",
+      "category": "Casa e organização"
     }
   ]
 }
