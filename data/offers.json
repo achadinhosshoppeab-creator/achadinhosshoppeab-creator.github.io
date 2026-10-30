@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-30T18:33:58.010Z",
+  "updatedAt": "2026-10-30T18:54:38.719Z",
   "offers": [
-    {
-      "id": "20454205961",
-      "title": "Kit Colmeia Organizadora de gavetas Tamanhos P/M/G/GG - Kit com 10, 2, 3 e 5 unidades - Organizalux",
-      "price": 26.99,
-      "originalPrice": 65.83,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me36ldh7ufb49d",
-      "url": "https://s.shopee.com.br/9V2egGeyiJ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1037,
-      "seller": "ORGANIZALUX®",
-      "category": "Casa e organização",
-      "hot": true
-    },
     {
       "id": "44110609035",
       "title": "2026 Mais Recente Smartwatch S10 Pro Relógio Série 10 2.08 Polegadas Sem Fio Bluetooth Esportes ALKF",
@@ -129,20 +114,6 @@
       "seller": "Choice Oficial",
       "category": "Beleza",
       "hot": true
-    },
-    {
-      "id": "18598312729",
-      "title": "Porta Maquiagem Make Cosméticos Multiuso Perfume Prateleira 3 Andares 4 Gavetas Organização Completa",
-      "price": 47.99,
-      "originalPrice": 99.98,
-      "discountPercent": 52,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zue-mkl9jdl6iku802",
-      "url": "https://s.shopee.com.br/9APoHegFO9",
-      "rating": 4.8,
-      "salesCount": 981,
-      "official": true,
-      "seller": "Oi Vida Oficial",
-      "category": "Casa e organização"
     },
     {
       "id": "22093231630",
@@ -312,32 +283,6 @@
       "hot": true
     },
     {
-      "id": "22999183222",
-      "title": "Porta Talher De Gaveta Organizador Com Divisórias Cozinha Suporte Separador Talheres Versátil",
-      "price": 35.53,
-      "originalPrice": 50.04,
-      "discountPercent": 29,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh1wr9kng1s444",
-      "url": "https://s.shopee.com.br/9KjETxfc3G",
-      "rating": 4.9,
-      "salesCount": 1084,
-      "seller": "UtiliFácil.",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23898764911",
-      "title": "Porta Talheres Gaveta Bambu 7 Divisórias Extensível Ajustável  Organizador Talheres Madeira",
-      "price": 64.5,
-      "originalPrice": 89.58,
-      "discountPercent": 28,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mtxyj2g1bls187",
-      "url": "https://s.shopee.com.br/5VWVuuuCpf",
-      "rating": 4.8,
-      "salesCount": 1066,
-      "seller": "HELPLO",
-      "category": "Casa e organização"
-    },
-    {
       "id": "23997823258",
       "title": "Mochila de viagem unissex Alça de aço reforçada com portas USB e para fones de ouvido D8109",
       "price": 55.99,
@@ -377,6 +322,20 @@
       "official": true,
       "seller": "mypetone",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "23194371381",
+      "title": "Escova De Limpeza 5 em 1 Ajustável Janela Banheiro e Cozinha Ferramenta Recarregável",
+      "price": 25.96,
+      "originalPrice": 56.43,
+      "discountPercent": 54,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mt5cn6iv6txhb6",
+      "url": "https://s.shopee.com.br/AUvBZGyHOZ",
+      "rating": 4.5,
+      "salesCount": 2062,
+      "seller": "Fuxi Store",
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "18499252377",
