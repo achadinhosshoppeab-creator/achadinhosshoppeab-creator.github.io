@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T14:20:14.471Z",
+  "updatedAt": "2026-10-30T14:40:51.702Z",
   "offers": [
     {
       "id": "20042293295",
@@ -118,16 +118,18 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "58205100450",
-      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
-      "price": 37.96,
-      "originalPrice": 99.89,
-      "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
-      "url": "https://s.shopee.com.br/7faxsd6jXY",
-      "rating": 4.8,
-      "salesCount": 2006,
-      "seller": "Ela&Ela",
+      "id": "23524387565",
+      "title": "[OFFICIAL] SKIN1004 madagascar tone brightening capsule ampoule 30ml,50ml,100ml",
+      "price": 46.98,
+      "originalPrice": 126.97,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-823qx-mp98g129uwaob3",
+      "url": "https://s.shopee.com.br/40hfVtPA0C",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 1761,
+      "official": true,
+      "seller": "koksara.kbeauty",
       "category": "Beleza"
     },
     {
@@ -185,6 +187,20 @@
       "salesCount": 4577,
       "official": true,
       "seller": "Adora ",
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "18857098349",
+      "title": "Kit 10 Removedor De Pêlos Pet Máquina De Lavar Roupa",
+      "price": 16.99,
+      "originalPrice": 49.97,
+      "discountPercent": 66,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825au-mt6a42tv5ds15c",
+      "url": "https://s.shopee.com.br/AUv9FqzwZf",
+      "hasVariantPrices": true,
+      "rating": 4.5,
+      "salesCount": 1225,
+      "seller": "BIG MO",
       "category": "Pet e bebê"
     },
     {
@@ -631,21 +647,6 @@
       "category": "Beleza"
     },
     {
-      "id": "23524387565",
-      "title": "[OFFICIAL] SKIN1004 madagascar tone brightening capsule ampoule 30ml,50ml,100ml",
-      "price": 89.97,
-      "originalPrice": 173.02,
-      "discountPercent": 48,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-823qx-mp98g129uwaob3",
-      "url": "https://s.shopee.com.br/40hfVtPA0C",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1761,
-      "official": true,
-      "seller": "koksara.kbeauty",
-      "category": "Beleza"
-    },
-    {
       "id": "58214695707",
       "title": "T-shirt Masculina Looney Tunes modelo novo Camiseta Versátil Camisa Tendência Blusa Premium Crt Unissex",
       "price": 23.9,
@@ -692,7 +693,6 @@
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-ms5l9in9msqt7f",
       "url": "https://s.shopee.com.br/70LH5O19XI",
-      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 5054,
       "seller": "Fonte Boa Casa",
@@ -1481,7 +1481,7 @@
       "price": 17.9,
       "originalPrice": 32.55,
       "discountPercent": 45,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820mg-mp9hltr9i96o08",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257y-muxmft0i8lc155",
       "url": "https://s.shopee.com.br/80DoHFEXRM",
       "rating": 4.9,
       "salesCount": 1602,
@@ -1572,20 +1572,6 @@
       "salesCount": 3043,
       "seller": "Larsul",
       "category": "Casa e organização"
-    },
-    {
-      "id": "57951023705",
-      "title": "Cicaplast Repair Cream B5 40ml Hidratar Nutrir A Barreira Da Pele Reparação Cuidados Faciais",
-      "price": 25.14,
-      "originalPrice": 67.95,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824go-mf3kovy2z6ywbb",
-      "url": "https://s.shopee.com.br/6AmA5sCRaR",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1141,
-      "seller": "Choice Oficial",
-      "category": "Beleza"
     },
     {
       "id": "58266177953",
@@ -1875,20 +1861,6 @@
       "salesCount": 1203,
       "seller": "Lucky1 shop",
       "category": "Cozinha"
-    },
-    {
-      "id": "22399132687",
-      "title": "Kit Skin Care Geleia facial Colágeno e Niacinamida Kokeshi",
-      "price": 54.9,
-      "originalPrice": 78.43,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mge5tyc09rlwd9",
-      "url": "https://s.shopee.com.br/1W0MgoqOJ6",
-      "rating": 4.9,
-      "salesCount": 1254,
-      "official": true,
-      "seller": "KOKESHI OFICIAL",
-      "category": "Beleza"
     },
     {
       "id": "58209766348",
@@ -2592,20 +2564,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "23693686267",
-      "title": "Kit 5 Organizadores Lápis 3D Lúdico Coloridos Plasútil",
-      "price": 31.9,
-      "originalPrice": 79.75,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ak-muana8e0cq9u42",
-      "url": "https://s.shopee.com.br/7Ky7U0eEkC",
-      "rating": 5,
-      "salesCount": 1725,
-      "official": true,
-      "seller": "LOJA PLASÚTIL",
-      "category": "Casa e organização"
-    },
-    {
       "id": "42524620494",
       "title": "smartwatch GPS BETTDOW Com Aplicativos AI Integrados , Resistência À Água De 3 ATM E display AMOLED",
       "price": 319,
@@ -2703,20 +2661,6 @@
       "category": "Presentes e papelaria"
     },
     {
-      "id": "20999381894",
-      "title": "Conjunto 2/3/5/10 Potes 370/640/1040ml Vidro Hermético Mantimentos Marmita Fitness",
-      "price": 27.89,
-      "originalPrice": 68.02,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mpavso8ys2yp67",
-      "url": "https://s.shopee.com.br/906LT3kjoc",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 8341,
-      "seller": "Life Hack Homeware",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58263021202",
       "title": "BRILHO NOVO Escova Sanitária com Cabeça Substituível e Refis Descartáveis | Base + 6, 12, 18, 24 ou 36 Refis",
       "price": 59.8,
@@ -2770,6 +2714,20 @@
       "official": true,
       "seller": "Salon Line",
       "category": "Beleza"
+    },
+    {
+      "id": "22599145030",
+      "title": "Vaso Para Flores Decorativo Centro De Mesa Acrílico Decoração Mesa Posta",
+      "price": 30.53,
+      "originalPrice": 59.86,
+      "discountPercent": 49,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258p-mgcaindcecr1ca",
+      "url": "https://s.shopee.com.br/2Vsu5OOFMu",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 379,
+      "seller": "Art laser acrílico",
+      "category": "Casa e organização"
     },
     {
       "id": "58258453576",
@@ -2841,11 +2799,11 @@
     },
     {
       "id": "23793879757",
-      "title": "Camiseta Daily T-shirt Insider",
+      "title": "Daily T-shirt Insider",
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258h-mr9fqpp9k17093",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvk-mimqyksts74070",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -2896,20 +2854,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "58214452769",
-      "title": "Suporte Magnético para Facas  33cm Ferramentas Utensílios Porta Facas Organizador de Parede Cozinha Oficina",
-      "price": 16.9,
-      "originalPrice": 40.24,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mqr0h8mg2xvld5",
-      "url": "https://s.shopee.com.br/9APmCI8W45",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 409,
-      "seller": "Fortetools LTDA",
-      "category": "Ferramentas"
-    },
-    {
       "id": "23694454936",
       "title": "Blusa academia suplex com toque de poliamida dia a dia básica manguinha",
       "price": 28.9,
@@ -2935,6 +2879,20 @@
       "salesCount": 446,
       "seller": "LojaZini",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "58204276446",
+      "title": "Kit 2 Vasos Decorativos Letreiro Personalizado Decoração Moderna Elegante Casa Escritório",
+      "price": 24.99,
+      "originalPrice": 43.09,
+      "discountPercent": 42,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mujuoml55og18e",
+      "url": "https://s.shopee.com.br/906NpKzVAn",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 632,
+      "seller": "Isaas Express",
+      "category": "Casa e organização"
     },
     {
       "id": "18999784319",
@@ -4065,17 +4023,17 @@
       "category": "Casa e organização"
     },
     {
-      "id": "22098962003",
-      "title": "Kit 3 Vaso Decorativo Espiral Cachepô Minimalista Enfeite Decoração Casa Sala Rack Planta Artificial",
-      "price": 24.89,
-      "originalPrice": 49.78,
+      "id": "23297722595",
+      "title": "Conjunto Potes 640ml Vidro Hermético Mantimentos Marmita 640ml Marmita Fit com Tampa 4 Travas",
+      "price": 29.9,
+      "originalPrice": 59.8,
       "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-musk84ja38jkbb",
-      "url": "https://s.shopee.com.br/2VstsdiaZh",
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zug-mkwq0pk8dhxeab",
+      "url": "https://s.shopee.com.br/9V2eQFg03F",
       "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 957,
-      "seller": "MAWI 3D",
+      "rating": 4.9,
+      "salesCount": 1040,
+      "seller": "Larsul",
       "category": "Casa e organização"
     },
     {
@@ -4132,6 +4090,48 @@
       "rating": 4.9,
       "salesCount": 478,
       "seller": "1tv3bizrq6",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "43050661409",
+      "title": "Mousepad Gamer APEX Control Mouse pad Grande 49x42 Mouse Pad Branco Preto Blade Red Girl Titorion",
+      "price": 69.88,
+      "originalPrice": 99.83,
+      "discountPercent": 30,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-murqr7kx36df0f",
+      "url": "https://s.shopee.com.br/1LguKz8qbt",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 1364,
+      "seller": "Shop Borges",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "23594541990",
+      "title": "Selfie Stick Tripé 1.8M/2M/1.7M, 4 Eixos 360° Rotação Anti-tremor+ Controle Bluetooth Sem Fio para Vlog",
+      "price": 54.99,
+      "originalPrice": 109.98,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk1x0wpsptz69d",
+      "url": "https://s.shopee.com.br/5VWTIe2obf",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1417,
+      "seller": "ENDLESS",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "58267928915",
+      "title": "TWS Fones De Ouvido Bluetooth 5.3 Sem Fio Com Controle De Toque Pro4 Para Android & iOS",
+      "price": 36.98,
+      "originalPrice": 73.96,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mtg679xrc1z7f9",
+      "url": "https://s.shopee.com.br/6AmA5s0HFj",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 1439,
+      "seller": "UAL TOP",
       "category": "Eletrônicos"
     }
   ]
