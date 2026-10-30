@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T16:24:22.485Z",
+  "updatedAt": "2026-10-30T16:45:07.231Z",
   "offers": [
     {
       "id": "44110609035",
@@ -325,6 +325,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23997823258",
+      "title": "Mochila de viagem unissex Alça de aço reforçada com portas USB e para fones de ouvido D8109",
+      "price": 55.99,
+      "originalPrice": 130.21,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0jvifc9a5r4fc",
+      "url": "https://s.shopee.com.br/4fxMJ70YSp",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 440,
+      "seller": "MOCHILA FASHION",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "50802620838",
       "title": "Kit 10 Organizadores Acrílico Cristal Modular Para Geladeiras Maquiagens Gavetas Armarios",
       "price": 44.9,
@@ -529,19 +543,6 @@
       "category": "Beleza"
     },
     {
-      "id": "23594149969",
-      "title": "Kit 5 Caixas Organizadoras com Tampa Cesto Grande de Plástico 2 Litros 4,5 Litros 17 Litros",
-      "price": 59.9,
-      "originalPrice": 75.105,
-      "discountPercent": 20.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mqvxcnrv84joe4",
-      "url": "https://s.shopee.com.br/6fiQgmO8vA",
-      "rating": 4.9,
-      "salesCount": 2986,
-      "seller": "RV-ECOMMERCE",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58261388401",
       "title": "Jogo Stop Interativo Educativo Basta Palavras 24cm Com 36 Cards Dupla Face 2 A 6 Jogadores Portugues",
       "price": 34.99,
@@ -552,6 +553,20 @@
       "rating": 4.9,
       "salesCount": 1499,
       "seller": "Spotlight 82",
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "22798035553",
+      "title": "Cama Colchonete Almofada para Cachorro ou Gato Pet Pequeno Médio e Grande Lavável com Zíper",
+      "price": 19.98,
+      "originalPrice": 28.54,
+      "discountPercent": 30,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m80jdxx3htrl7d",
+      "url": "https://s.shopee.com.br/6fiRoS8B7m",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1797,
+      "seller": "MovicPets",
       "category": "Pet e bebê"
     },
     {
