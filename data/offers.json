@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T01:16:15.640Z",
+  "updatedAt": "2026-10-30T01:36:56.776Z",
   "offers": [
     {
       "id": "20042293295",
@@ -215,20 +215,6 @@
       "salesCount": 1225,
       "seller": "BIG MO",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "18297829933",
-      "title": "Perfume Grace Midnight Feminino Frasco Antigo Hinode 100ml",
-      "price": 67.96,
-      "originalPrice": 169.9,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mspjvyi96xhh07",
-      "url": "https://s.shopee.com.br/3B8YWKXTM1",
-      "rating": 4.9,
-      "salesCount": 609,
-      "official": true,
-      "seller": "Hinode ",
-      "category": "Beleza"
     },
     {
       "id": "21198280139",
@@ -734,6 +720,7 @@
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-ms5l9in9msqt7f",
       "url": "https://s.shopee.com.br/70LH5O19XI",
+      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 5054,
       "seller": "Fonte Boa Casa",
@@ -819,8 +806,7 @@
       "rating": 4.8,
       "salesCount": 2388,
       "seller": "COCOKA",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "58261587690",
@@ -3795,21 +3781,6 @@
       "category": "Ferramentas"
     },
     {
-      "id": "21099836557",
-      "title": "Processador Triturador De Alimentos New Oggi Mallory Cor Preto",
-      "price": 66.99,
-      "originalPrice": 117.53,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwm-mc2jv1qmrooz0e",
-      "url": "https://s.shopee.com.br/1LguN2wjqx",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3670,
-      "official": true,
-      "seller": "Tudão Tech  Ltda",
-      "category": "Cozinha"
-    },
-    {
       "id": "20398185214",
       "title": "Sapateira Organizadora com 9 Prateleiras para Organizar Sapatos Calçados Chinelos Roupas Objetos 24 Pares - Black",
       "price": 54.99,
@@ -4096,20 +4067,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "44133490452",
-      "title": "Trena Nível Laser Profissional 2,5m 3 Pontos Linhas Horizontal Vertical Cruzado Nível De Bolha Prático E Preciso Prumo",
-      "price": 19,
-      "originalPrice": 79.17,
-      "discountPercent": 76,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mrs5mkbc2cjr60",
-      "url": "https://s.shopee.com.br/8Kqg8tdb8e",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 227,
-      "seller": "ALEX SHOPS COMDE ARMARINHOS LTDA",
-      "category": "Ferramentas"
-    },
-    {
       "id": "23893120291",
       "title": "Kit 10 Fita Isolante 19mm 5m Rolo Resistente Fogo Umidade Hella",
       "price": 16.93,
@@ -4137,6 +4094,49 @@
       "seller": "ANJ.GG store",
       "category": "Casa e organização",
       "hot": true
+    },
+    {
+      "id": "23897143938",
+      "title": "Umidificador Hm-20 Ultrassônico  0,22 L 1,5 W USB Incluso Branco",
+      "price": 15.99,
+      "originalPrice": 79.95,
+      "discountPercent": 80,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lz-mqxgvw7kebye22",
+      "url": "https://s.shopee.com.br/40hfVshA96",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 2253,
+      "seller": "ANJ.GG store",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "58202075375",
+      "title": "KIT 3 Ou 5 Capas Silicone Cor SortIdas Compatível Com Todos iPhone 17 16 15 14 13 12 11 Pro Max Plus X XR XS Max",
+      "price": 24.89,
+      "originalPrice": 49.78,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj3n22tz6qrled",
+      "url": "https://s.shopee.com.br/4B15i9yrq8",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1721,
+      "seller": "KASPRIME.STORE",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "54017981219",
+      "title": "Pote/Colher de Vidro com Tampa de Bambu Hermético Colher 900ml Porta Mantimentos Temperos Saleiro",
+      "price": 15.89,
+      "originalPrice": 39.73,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mtijtl4uz4lf83",
+      "url": "https://s.shopee.com.br/9pfSYuljPf",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 633,
+      "seller": "DS Group ",
+      "category": "Cozinha"
     }
   ]
 }
