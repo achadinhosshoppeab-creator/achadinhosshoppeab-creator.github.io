@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T21:19:01.649Z",
+  "updatedAt": "2026-10-30T21:39:40.351Z",
   "offers": [
     {
       "id": "44110609035",
@@ -143,19 +143,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58205605828",
-      "title": "Protetor Solar FPS 70 SunCare UVA+UVB Toque Seco Resistente à Água 150ml",
-      "price": 22,
-      "originalPrice": 37.6,
-      "discountPercent": 41.5,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mq9jfhtd0mpt16",
-      "url": "https://s.shopee.com.br/7faxsdBPJ6",
-      "rating": 4.8,
-      "salesCount": 1630,
-      "seller": "Universo Cosmetico",
-      "category": "Beleza"
-    },
-    {
       "id": "58210582239",
       "title": "Luminária de Leitura de Clipe LED Amiga dos Olhos, Portátil Recarregável para Estudo e Viagens",
       "price": 45.99,
@@ -226,6 +213,19 @@
       "category": "Moda"
     },
     {
+      "id": "58205605828",
+      "title": "Protetor Solar FPS 70 SunCare UVA+UVB Toque Seco Resistente à Água 150ml",
+      "price": 22,
+      "originalPrice": 30.3,
+      "discountPercent": 27.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mq9jfhtd0mpt16",
+      "url": "https://s.shopee.com.br/7faxsdBPJ6",
+      "rating": 4.8,
+      "salesCount": 1630,
+      "seller": "Universo Cosmetico",
+      "category": "Beleza"
+    },
+    {
       "id": "22593191349",
       "title": "Kit com 7 Organizadores Acrílico Cristal Modular Para Geladeiras Gavetas e Maquiagens",
       "price": 33.9,
@@ -251,7 +251,8 @@
       "rating": 4.8,
       "salesCount": 445,
       "seller": "MOCHILA FASHION",
-      "category": "Eletrônicos"
+      "category": "Eletrônicos",
+      "hot": true
     },
     {
       "id": "50802620838",
@@ -279,20 +280,6 @@
       "official": true,
       "seller": "mypetone",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "23194371381",
-      "title": "Escova De Limpeza 5 em 1 Ajustável Janela Banheiro e Cozinha Ferramenta Recarregável",
-      "price": 25.96,
-      "originalPrice": 56.43,
-      "discountPercent": 54,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mt5cn6iv6txhb6",
-      "url": "https://s.shopee.com.br/AUvBZGyHOZ",
-      "rating": 4.5,
-      "salesCount": 2029,
-      "seller": "Fuxi Store",
-      "category": "Casa e organização",
-      "hot": true
     },
     {
       "id": "18499252377",
@@ -390,20 +377,6 @@
       "salesCount": 1742,
       "seller": "KEEP SHOP",
       "category": "Beleza"
-    },
-    {
-      "id": "58217762568",
-      "title": "Kit 4/8/12/18 Pastilha Sanitária Vaso Sanitário Limpeza Profunda Antiodor Tira Manchas Perfumada",
-      "price": 16.99,
-      "originalPrice": 27.85,
-      "discountPercent": 39,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a7-msvux297oirm04",
-      "url": "https://s.shopee.com.br/gRFhHFl94",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2795,
-      "seller": "COCONUT SHOP",
-      "category": "Casa e organização"
     },
     {
       "id": "45466593909",
