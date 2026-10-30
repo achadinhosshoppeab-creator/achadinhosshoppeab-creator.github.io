@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T08:57:09.644Z",
+  "updatedAt": "2026-10-30T10:13:24.033Z",
   "offers": [
     {
       "id": "20042293295",
@@ -706,6 +706,7 @@
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-ms5l9in9msqt7f",
       "url": "https://s.shopee.com.br/70LH5O19XI",
+      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 5054,
       "seller": "Fonte Boa Casa",
@@ -2031,19 +2032,6 @@
       "category": "Eletrônicos"
     },
     {
-      "id": "58270017100",
-      "title": "Escova Secadora Alisador Eletrica QuenteCabelo Com 3 Em1,Portátil para Uso Doméstico,protege el cabello",
-      "price": 38.99,
-      "originalPrice": 108.31,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mu1whi961jpc3a",
-      "url": "https://s.shopee.com.br/4B16lXgdMx",
-      "rating": 4.9,
-      "salesCount": 382,
-      "seller": "FZZYSTAR.store",
-      "category": "Beleza"
-    },
-    {
       "id": "50160899989",
       "title": "Novo Relógio 10 PRO Max Smartwatch Inteligente Masculino E Feminino Bluetooth Chamado , Papéis De Parede Personalizáveis",
       "price": 49.99,
@@ -2854,11 +2842,11 @@
     },
     {
       "id": "23793879757",
-      "title": "Daily T-shirt Insider",
+      "title": "Camiseta Daily T-shirt Insider",
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zte-mimqypxh1jwm67",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258b-mr9etewst7np93",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -4133,6 +4121,20 @@
       "rating": 4.7,
       "salesCount": 957,
       "seller": "MAWI 3D",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "23798670714",
+      "title": "Fita LED RGB 3528 5M 300 LEDs IP65 à Prova D'Água com Fonte Inclusa – Iluminação Colorida e Flexível",
+      "price": 16.99,
+      "originalPrice": 33.98,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra0r-mbe0liual91f04",
+      "url": "https://s.shopee.com.br/3qOFJZLndK",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2305,
+      "seller": "TMR E-commerce",
       "category": "Casa e organização"
     }
   ]
