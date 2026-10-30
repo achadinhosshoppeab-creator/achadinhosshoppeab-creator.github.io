@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T20:17:04.882Z",
+  "updatedAt": "2026-10-30T20:37:45.388Z",
   "offers": [
     {
       "id": "44110609035",
@@ -11,7 +11,7 @@
       "url": "https://s.shopee.com.br/BUwwqDYsd",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 756,
+      "salesCount": 744,
       "seller": "HeyMa",
       "category": "Eletrônicos",
       "hot": true
@@ -151,7 +151,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mq9jfhtd0mpt16",
       "url": "https://s.shopee.com.br/7faxsdBPJ6",
       "rating": 4.8,
-      "salesCount": 1644,
+      "salesCount": 1630,
       "seller": "Universo Cosmetico",
       "category": "Beleza"
     },
@@ -178,7 +178,7 @@
       "url": "https://s.shopee.com.br/6L5cATXxVr",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 715,
+      "salesCount": 697,
       "seller": "Eddias Home",
       "category": "Casa e organização"
     },
@@ -296,20 +296,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "23194371381",
-      "title": "Escova De Limpeza 5 em 1 Ajustável Janela Banheiro e Cozinha Ferramenta Recarregável",
-      "price": 25.96,
-      "originalPrice": 56.43,
-      "discountPercent": 54,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mt5cn6iv6txhb6",
-      "url": "https://s.shopee.com.br/AUvBZGyHOZ",
-      "rating": 4.5,
-      "salesCount": 2029,
-      "seller": "Fuxi Store",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "18499252377",
       "title": "Fita LED 3528 SUPER LED ULTRA RGB 5M até 15M 12V 300 LEDS | 16 CORES IP20 Pronta Entrega Com e Sem Fonte",
       "price": 17.5,
@@ -321,7 +307,8 @@
       "rating": 4.8,
       "salesCount": 984,
       "seller": "Abella Tech",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "40179335828",
@@ -433,20 +420,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "23398299096",
-      "title": "Sutiã em Renda com Bojo - Modelo Tradicional - Sustentação - Soutien - Sutia - Sutian - Moda Íntima",
-      "price": 22.77,
-      "originalPrice": 39.26,
-      "discountPercent": 42,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me98bk31ep6o81",
-      "url": "https://s.shopee.com.br/W7q4qB5ZZ",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 384,
-      "seller": "Velvet Intimate",
-      "category": "Moda"
-    },
-    {
       "id": "22593191479",
       "title": "Kit Organizadores Acrílico Cristal Modular Para Geladeiras Gavetas e Maquiagens",
       "price": 33.9,
@@ -512,6 +485,20 @@
       "official": true,
       "seller": "Primacial",
       "category": "Beleza"
+    },
+    {
+      "id": "20598461061",
+      "title": "Cortina Voil Gaze De Linho 3,00 x 2,20/2,30/2,40/2,50/2,60/2,70/2,80 C/forro Blackout Grosso Original",
+      "price": 199.9,
+      "originalPrice": 239.9,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mtqni748srupa7",
+      "url": "https://s.shopee.com.br/9KjBrewrh8",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1604,
+      "seller": "Kaluros ",
+      "category": "Casa e organização"
     }
   ]
 }
