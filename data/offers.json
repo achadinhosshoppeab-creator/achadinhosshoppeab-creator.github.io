@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T17:26:37.184Z",
+  "updatedAt": "2026-10-30T17:52:32.206Z",
   "offers": [
     {
       "id": "44110609035",
@@ -227,6 +227,20 @@
       "hot": true
     },
     {
+      "id": "23898813796",
+      "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
+      "price": 44.9,
+      "originalPrice": 52.97,
+      "discountPercent": 15.2,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mq228ungk5c142",
+      "url": "https://s.shopee.com.br/3g4rGo3w0C",
+      "rating": 4.8,
+      "salesCount": 1659,
+      "official": true,
+      "seller": "Barbour's Beauty",
+      "category": "Beleza"
+    },
+    {
       "id": "58259278839",
       "title": "Kit Biotina Pura + Colágeno Hidrolisado + Ácido Hialurônico Alta Concentração Pele Unhas e Cabelos",
       "price": 24.5,
@@ -308,7 +322,8 @@
       "rating": 4.8,
       "salesCount": 1082,
       "seller": "AuraShop Cuidado que a casa merece",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "23997823258",
@@ -350,20 +365,6 @@
       "official": true,
       "seller": "mypetone",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "23194371381",
-      "title": "Escova De Limpeza 5 em 1 Ajustável Janela Banheiro e Cozinha Ferramenta Recarregável",
-      "price": 25.96,
-      "originalPrice": 56.43,
-      "discountPercent": 54,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mt5cn6iv6txhb6",
-      "url": "https://s.shopee.com.br/AUvBZGyHOZ",
-      "rating": 4.5,
-      "salesCount": 2062,
-      "seller": "Fuxi Store",
-      "category": "Casa e organização",
-      "hot": true
     },
     {
       "id": "18499252377",
