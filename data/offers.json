@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T00:55:27.090Z",
+  "updatedAt": "2026-10-30T01:16:15.640Z",
   "offers": [
     {
       "id": "20042293295",
@@ -259,19 +259,6 @@
       "hot": true
     },
     {
-      "id": "58264079626",
-      "title": "Jogo De Tabuleiro Infantil Educativo Em Lona 45x45cm Com Dado e Pinos Resistente",
-      "price": 19.9,
-      "originalPrice": 49.75,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqjadrojjbiba5",
-      "url": "https://s.shopee.com.br/1BYC9HqQW",
-      "rating": 4.8,
-      "salesCount": 489,
-      "seller": "Tem de Tudo Decora",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "21499198919",
       "title": "1/2/5 Pcs Carteiras Fibra De Carbono Porta-Cartões Masculina Marca Preta Mágica Tripla De Couro",
       "price": 16.5,
@@ -506,8 +493,7 @@
       "rating": 4.8,
       "salesCount": 4935,
       "seller": "HACKBERRY",
-      "category": "Moda",
-      "hot": true
+      "category": "Moda"
     },
     {
       "id": "29424706558",
@@ -728,19 +714,6 @@
       "category": "Moda"
     },
     {
-      "id": "42629343558",
-      "title": "Jogo da memoria sonoro e visual,memory game tipo genius luz e som Pura Nostalgia",
-      "price": 17,
-      "originalPrice": 51.52,
-      "discountPercent": 67,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262q-mlyxl7ut40ece9",
-      "url": "https://s.shopee.com.br/W7on4FwPf",
-      "rating": 4.9,
-      "salesCount": 395,
-      "seller": "BRINQUE E PENSE",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "58207572793",
       "title": "Luminária Retrô de Mesa LED Recarregável com Cúpula Transparente e Controle por Toque Dourada",
       "price": 54,
@@ -761,7 +734,6 @@
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-ms5l9in9msqt7f",
       "url": "https://s.shopee.com.br/70LH5O19XI",
-      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 5054,
       "seller": "Fonte Boa Casa",
@@ -821,6 +793,20 @@
       "salesCount": 3549,
       "seller": "SHR ELETRONICOS",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "22591222586",
+      "title": "KIT 2 Baralho Conjunto Cartão de Jogo Dourado 24k Prova D'água Promoção",
+      "price": 23.99,
+      "originalPrice": 47.98,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lgsqbykc2hor1b",
+      "url": "https://s.shopee.com.br/2LZRWqNGWl",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1435,
+      "seller": "REAL MO",
+      "category": "Pet e bebê"
     },
     {
       "id": "58266694509",
@@ -946,19 +932,6 @@
       "category": "Moda"
     },
     {
-      "id": "21699242351",
-      "title": "2 conjunto Baralho Cartão de Jogo Dourado 24k Prova D'água Promoção",
-      "price": 22.99,
-      "originalPrice": 44.21,
-      "discountPercent": 48,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltx7v54enazp65",
-      "url": "https://s.shopee.com.br/60SlLAv0G8",
-      "rating": 4.9,
-      "salesCount": 166,
-      "seller": "RISESHOP_brasil",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "58258677338",
       "title": "Porta Retrato Decoração Sala Quadro de Fotos Porta Retrato Parede Decorativo Mdf 40x70 Árvore Molduras Foto Família",
       "price": 16,
@@ -996,20 +969,6 @@
       "salesCount": 4915,
       "seller": "GRISEL MODAS",
       "category": "Moda"
-    },
-    {
-      "id": "23799026606",
-      "title": "Jogo Stop Caça Palavras Brinquedo Responde Rápido Português",
-      "price": 55.98,
-      "originalPrice": 243.39,
-      "discountPercent": 77,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257t-mfxmyk2msbns23",
-      "url": "https://s.shopee.com.br/4fxNkj04xk",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 210,
-      "seller": "VoLog Loja",
-      "category": "Pet e bebê"
     },
     {
       "id": "23398865735",
@@ -2134,8 +2093,8 @@
     {
       "id": "22691297138",
       "title": "[OFFICIAL] SKIN1004 madagascar centella ampoule 30ml,55ml,100ml,120ml",
-      "price": 44.97,
-      "originalPrice": 62.46,
+      "price": 44.98,
+      "originalPrice": 62.47,
       "discountPercent": 28,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-823qv-mp97g79bqk8w0d",
       "url": "https://s.shopee.com.br/40hfVqqlnI",
@@ -2954,11 +2913,11 @@
     },
     {
       "id": "23793879757",
-      "title": "Daily T-shirt Insider",
+      "title": "Camiseta Daily T-shirt Insider",
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82600-mlbw7dkwakudc3",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b7-mr9fgq72ark72d",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -3155,19 +3114,6 @@
       "official": true,
       "seller": "UP UNDERWEAR",
       "category": "Moda"
-    },
-    {
-      "id": "58208027058",
-      "title": "Jogo de Xadrez Magnético Tabuleiro Estratégia Lógica",
-      "price": 29.8,
-      "originalPrice": 69.3,
-      "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mmir22alysxw80",
-      "url": "https://s.shopee.com.br/3g4qYt3szS",
-      "rating": 4.7,
-      "salesCount": 212,
-      "seller": "Tudo Bom ",
-      "category": "Pet e bebê"
     },
     {
       "id": "23498810233",
@@ -3389,6 +3335,20 @@
       "salesCount": 1380,
       "seller": "KL330",
       "category": "Moda"
+    },
+    {
+      "id": "58217930618",
+      "title": "Xadrez Magnético Jogo de Xadrez Magnético Jogos De Tabuleiro Jogo Magnético Jogos Educativos 32 Esferas Com Ímã Portátil",
+      "price": 25.66,
+      "originalPrice": 57.02,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mszb90a5o6iu28",
+      "url": "https://s.shopee.com.br/LoN9AUsaR",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 1306,
+      "seller": "Mercado Elite",
+      "category": "Pet e bebê"
     },
     {
       "id": "23794773040",
@@ -3835,6 +3795,21 @@
       "category": "Ferramentas"
     },
     {
+      "id": "21099836557",
+      "title": "Processador Triturador De Alimentos New Oggi Mallory Cor Preto",
+      "price": 66.99,
+      "originalPrice": 117.53,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwm-mc2jv1qmrooz0e",
+      "url": "https://s.shopee.com.br/1LguN2wjqx",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3670,
+      "official": true,
+      "seller": "Tudão Tech  Ltda",
+      "category": "Cozinha"
+    },
+    {
       "id": "20398185214",
       "title": "Sapateira Organizadora com 9 Prateleiras para Organizar Sapatos Calçados Chinelos Roupas Objetos 24 Pares - Black",
       "price": 54.99,
@@ -4121,6 +4096,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "44133490452",
+      "title": "Trena Nível Laser Profissional 2,5m 3 Pontos Linhas Horizontal Vertical Cruzado Nível De Bolha Prático E Preciso Prumo",
+      "price": 19,
+      "originalPrice": 79.17,
+      "discountPercent": 76,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mrs5mkbc2cjr60",
+      "url": "https://s.shopee.com.br/8Kqg8tdb8e",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 227,
+      "seller": "ALEX SHOPS COMDE ARMARINHOS LTDA",
+      "category": "Ferramentas"
+    },
+    {
       "id": "23893120291",
       "title": "Kit 10 Fita Isolante 19mm 5m Rolo Resistente Fogo Umidade Hella",
       "price": 16.93,
@@ -4133,6 +4122,21 @@
       "official": true,
       "seller": "Ampec",
       "category": "Ferramentas"
+    },
+    {
+      "id": "22297158685",
+      "title": "Umidificador Atomizador De Ar Doméstico Portátil Umidificador 200ml ANJGG",
+      "price": 15.99,
+      "originalPrice": 79.95,
+      "discountPercent": 80,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259g-mfziriko5yxb36",
+      "url": "https://s.shopee.com.br/5q9JhFaBQM",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2978,
+      "seller": "ANJ.GG store",
+      "category": "Casa e organização",
+      "hot": true
     }
   ]
 }
