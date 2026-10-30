@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T10:13:24.033Z",
+  "updatedAt": "2026-10-30T10:43:49.142Z",
   "offers": [
     {
       "id": "20042293295",
@@ -2842,11 +2842,11 @@
     },
     {
       "id": "23793879757",
-      "title": "Camiseta Daily T-shirt Insider",
+      "title": "Daily T-shirt Insider",
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258b-mr9etewst7np93",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zte-mimqypxh1jwm67",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -3875,21 +3875,6 @@
       "category": "Moda"
     },
     {
-      "id": "9315675115",
-      "title": "Bota Texana GiGiL Feminina Cano Alto Salto Médio Western Bordada",
-      "price": 49.99,
-      "originalPrice": 178.54,
-      "discountPercent": 72,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu2-mknq92e0nf2a2f",
-      "url": "https://s.shopee.com.br/1BWkYHutx",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 431,
-      "official": true,
-      "seller": "GiGiL",
-      "category": "Moda"
-    },
-    {
       "id": "24291101685",
       "title": "MEDOOSI-Quebra cabeça deslizante Magnéticos Pesca Montessori brinquedo jogos pedagogicos puzzle para Infantis educativos",
       "price": 99,
@@ -4136,6 +4121,20 @@
       "salesCount": 2305,
       "seller": "TMR E-commerce",
       "category": "Casa e organização"
+    },
+    {
+      "id": "58210517964",
+      "title": "Capa de Couro PU Multiuso para 13-16 Polegadas com Suporte para Escritório e Estudo",
+      "price": 39.9,
+      "originalPrice": 79.8,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xh-mo5fynj6s9ae94",
+      "url": "https://s.shopee.com.br/6fiQgmookR",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 605,
+      "seller": "Lunexis",
+      "category": "Eletrônicos"
     }
   ]
 }
