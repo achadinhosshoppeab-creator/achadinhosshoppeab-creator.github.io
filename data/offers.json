@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T12:16:23.098Z",
+  "updatedAt": "2026-10-30T12:36:57.708Z",
   "offers": [
     {
       "id": "20042293295",
@@ -499,8 +499,8 @@
     {
       "id": "21449768277",
       "title": "Mini Umidificador Difusor Aromatizador Egg Portátil Usb Led Aromatizador De Ambiente Purificador De Ar Casa Escritório",
-      "price": 16.98,
-      "originalPrice": 38.59,
+      "price": 16.99,
+      "originalPrice": 38.61,
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825am-mr8dslz05zpd88",
       "url": "https://s.shopee.com.br/5Atcu1cimJ",
@@ -741,6 +741,20 @@
       "category": "Moda"
     },
     {
+      "id": "19499571684",
+      "title": "Extra grosso Organizador De Guarda-Roupa Dobrável Para Roupas E Calças Grande Dura Alto Qualidade",
+      "price": 19.29,
+      "originalPrice": 96.45,
+      "discountPercent": 80,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m45k6a93pmph36",
+      "url": "https://s.shopee.com.br/4B17vvg7wp",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 469,
+      "seller": "SUPERMERCADO RJ",
+      "category": "Casa e organização"
+    },
+    {
       "id": "53465088216",
       "title": "Body Splash Feminino Morango 180ml Perfume Corporal Cheiroso Fixação Longa Fragrância Doce Gourmand Blow Girl",
       "price": 28.9,
@@ -751,6 +765,19 @@
       "rating": 4.8,
       "salesCount": 755,
       "seller": "Blow Girl Oficial",
+      "category": "Beleza"
+    },
+    {
+      "id": "58262515173",
+      "title": "Paleta de Sombras Rosa Tropical 15 Cores Alta Pigmentação Matte e Glitter",
+      "price": 48.9,
+      "originalPrice": 108.67,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824jl-mpi2yo1fkyrw69",
+      "url": "https://s.shopee.com.br/1qdD9eJoDB",
+      "rating": 4.9,
+      "salesCount": 58,
+      "seller": "Rosa Tropical",
       "category": "Beleza"
     },
     {
@@ -848,19 +875,6 @@
       "salesCount": 25718,
       "seller": "PANDA  BOUTIQUE",
       "category": "Moda"
-    },
-    {
-      "id": "58200638373",
-      "title": "Caderno Adesivos 3d com 20 Cenários para Montar e Decorar.",
-      "price": 18.8,
-      "originalPrice": 89.52,
-      "discountPercent": 79,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh29sd72kb9ja1",
-      "url": "https://s.shopee.com.br/8KqfClBxuj",
-      "rating": 4.9,
-      "salesCount": 1891,
-      "seller": "3XZ STORE",
-      "category": "Presentes e papelaria"
     },
     {
       "id": "58214519187",
@@ -1585,21 +1599,6 @@
       "salesCount": 737,
       "seller": "LARUNO",
       "category": "Casa e organização"
-    },
-    {
-      "id": "13494334390",
-      "title": "Cílios Fadvan W 4D Extensão De Cílios Alongamento W Novidade Volume Híbrido Maquiagem",
-      "price": 21.99,
-      "originalPrice": 68.72,
-      "discountPercent": 68,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md41zddja3uz7d",
-      "url": "https://s.shopee.com.br/6L5aI8iqk6",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 3001,
-      "official": true,
-      "seller": "fadvan.br",
-      "category": "Beleza"
     },
     {
       "id": "21299367155",
@@ -2859,7 +2858,7 @@
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7reqd-m8azulf99rip90",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvx-mimqxns395oicb",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -2949,6 +2948,20 @@
       "salesCount": 446,
       "seller": "LojaZini",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "58254036883",
+      "title": "Batom Mágico SACE LADY  hidratante labial de longa duração brilho",
+      "price": 55.99,
+      "originalPrice": 130.21,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mr6rlefcuj2f30",
+      "url": "https://s.shopee.com.br/9V2eHjqcbP",
+      "rating": 4.8,
+      "salesCount": 98,
+      "official": true,
+      "seller": "SACE LADY Brasil",
+      "category": "Beleza"
     },
     {
       "id": "18999784319",
@@ -4117,20 +4130,6 @@
       "rating": 4.7,
       "salesCount": 957,
       "seller": "MAWI 3D",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23798670714",
-      "title": "Fita LED RGB 3528 5M 300 LEDs IP65 à Prova D'Água com Fonte Inclusa – Iluminação Colorida e Flexível",
-      "price": 16.99,
-      "originalPrice": 33.98,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra0r-mbe0liual91f04",
-      "url": "https://s.shopee.com.br/3qOFJZLndK",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2305,
-      "seller": "TMR E-commerce",
       "category": "Casa e organização"
     }
   ]
