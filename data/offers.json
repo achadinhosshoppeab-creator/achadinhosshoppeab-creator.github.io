@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T04:19:50.678Z",
+  "updatedAt": "2026-10-30T04:50:46.443Z",
   "offers": [
     {
       "id": "20042293295",
@@ -2553,20 +2553,6 @@
       "category": "Presentes e papelaria"
     },
     {
-      "id": "58216601427",
-      "title": "Porta Temperos Giratório 360 Graus 6, 9 ou 12 Potes de Vidro Organizador Cozinha Tampa Dosadora",
-      "price": 27.99,
-      "originalPrice": 79.97,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-ms4c1u5vebd0fe",
-      "url": "https://s.shopee.com.br/2LZRWnJ2rI",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 880,
-      "seller": "@LVSHOP",
-      "category": "Cozinha"
-    },
-    {
       "id": "22694681619",
       "title": "Electro Nest Adaptador Conversor OTG Cabo Tipo-C Para Lightning ZHQ-25 ZHQ-26",
       "price": 15.98,
@@ -4133,6 +4119,20 @@
       "rating": 4.7,
       "salesCount": 957,
       "seller": "MAWI 3D",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "23798670714",
+      "title": "Fita LED RGB 3528 5M 300 LEDs IP65 à Prova D'Água com Fonte Inclusa – Iluminação Colorida e Flexível",
+      "price": 16.99,
+      "originalPrice": 33.98,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra0r-mbe0liual91f04",
+      "url": "https://s.shopee.com.br/3qOFJZLndK",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2305,
+      "seller": "TMR E-commerce",
       "category": "Casa e organização"
     }
   ]
