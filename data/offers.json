@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T11:35:07.835Z",
+  "updatedAt": "2026-10-30T11:55:45.530Z",
   "offers": [
     {
       "id": "20042293295",
@@ -227,19 +227,6 @@
       "rating": 4.7,
       "salesCount": 642,
       "seller": "Nova Link",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "18399631373",
-      "title": "Suporte Baba Eletronica Para Berco Universal",
-      "price": 15.9,
-      "originalPrice": 39.75,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mutsevw73rb650",
-      "url": "https://s.shopee.com.br/1W0MgqOyjO",
-      "rating": 4.9,
-      "salesCount": 226,
-      "seller": "LOJA ARZ VARIEDADES",
       "category": "Casa e organização"
     },
     {
@@ -719,6 +706,7 @@
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-ms5l9in9msqt7f",
       "url": "https://s.shopee.com.br/70LH5O19XI",
+      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 5054,
       "seller": "Fonte Boa Casa",
@@ -1078,6 +1066,19 @@
       "category": "Moda"
     },
     {
+      "id": "22194675243",
+      "title": "Suporte Câmera Babá Eletrônica Universal Para Berço",
+      "price": 17.9,
+      "originalPrice": 29.83,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mtyo4j6tavpc3f",
+      "url": "https://s.shopee.com.br/2gCHvSqnGD",
+      "rating": 4.9,
+      "salesCount": 1425,
+      "seller": "LY STORE OFICIAL",
+      "category": "Casa e organização"
+    },
+    {
       "id": "23598844056",
       "title": "Organizador de Maquiagem Giratório – Suporte Multiuso 2/3 Andares p/ Cosméticos e Perfumes",
       "price": 49,
@@ -1089,6 +1090,21 @@
       "rating": 4.9,
       "salesCount": 1193,
       "seller": "DeinShop",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "40877150108",
+      "title": "Jogo de Lençol Veneza Percal 300 fios Lese Bordado Inglês Micropercal King Queen Casal Solteiro",
+      "price": 48.9,
+      "originalPrice": 188.08,
+      "discountPercent": 74,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mpjeprtlfv2bff",
+      "url": "https://s.shopee.com.br/9pfUdWzTmV",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1270,
+      "official": true,
+      "seller": "Bella Primavera",
       "category": "Casa e organização"
     },
     {
@@ -1488,6 +1504,20 @@
       "category": "Moda"
     },
     {
+      "id": "49456762765",
+      "title": "Cadeira de Escritório Presidente Ultra Ergonômica LARUNO Alto Padrão Luxo Espuma Certificada Homologada NR17 Cinza",
+      "price": 355.9,
+      "originalPrice": 1186.33,
+      "discountPercent": 70,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mso5d25w4nica9",
+      "url": "https://s.shopee.com.br/2gCI626l3Y",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 499,
+      "seller": "LARUNO",
+      "category": "Casa e organização"
+    },
+    {
       "id": "21499647005",
       "title": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Escudo Antiporosidade",
       "price": 17.9,
@@ -1542,6 +1572,34 @@
       "salesCount": 881,
       "seller": "UR.bestie🧡",
       "category": "Ferramentas"
+    },
+    {
+      "id": "41978917153",
+      "title": "Cadeira de Escritório Ergonômica Giratória Presidente com Apoio Lombar, Braços Ajustáveis e Tecido Mesh- LARUNO",
+      "price": 369.9,
+      "originalPrice": 1193.23,
+      "discountPercent": 69,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mtdzril7oa2r94",
+      "url": "https://s.shopee.com.br/5VWTTEvyIq",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 744,
+      "seller": "LARUNO",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "52456503130",
+      "title": "Cadeira de Escritório Ergonômica cinza Giratória com Apoio Lombar e Braços Ajustáveis - LARUNO",
+      "price": 369.9,
+      "originalPrice": 1193.23,
+      "discountPercent": 69,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mnf5ojvbpcsg7d",
+      "url": "https://s.shopee.com.br/40hfgU1gLg",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 737,
+      "seller": "LARUNO",
+      "category": "Casa e organização"
     },
     {
       "id": "13494334390",
@@ -1767,17 +1825,30 @@
       "category": "Casa e organização"
     },
     {
-      "id": "46210197239",
-      "title": "Suporte TV Articulado Monitor Giratório Metálico LED LCD 10-26 Polegadas Reforçado e Ajustável",
-      "price": 32.9,
-      "originalPrice": 99.7,
-      "discountPercent": 67,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mqlzae8s9p8g46",
-      "url": "https://s.shopee.com.br/1LgwUXPc4N",
+      "id": "18499246242",
+      "title": "Jogo de Lençol Premium Com Elástico 400 fios Percal 3 Peças Ponto Palito",
+      "price": 16.9,
+      "originalPrice": 29.14,
+      "discountPercent": 42,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mje1s2nv7y827b",
+      "url": "https://s.shopee.com.br/1gJmuWUZLe",
       "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 226,
-      "seller": "Benetton Utilidades",
+      "rating": 4.8,
+      "salesCount": 2314,
+      "seller": "Enxovais.Store",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "56455915321",
+      "title": "Almofada de Assento Automotiva para Motorista Carro e Cadeira de Escritório Cor Preta",
+      "price": 34.9,
+      "originalPrice": 60.17,
+      "discountPercent": 42,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke6aqr3ypdvbf",
+      "url": "https://s.shopee.com.br/30p8Ue5UNe",
+      "rating": 4.5,
+      "salesCount": 374,
+      "seller": "M.A Acessórios e Variedades",
       "category": "Casa e organização"
     },
     {
@@ -2648,19 +2719,6 @@
       "hot": true
     },
     {
-      "id": "23298481880",
-      "title": "Kit 6 Calcinhas Feminina Conforto Tanga Biquíni Confortável Com Forro Algodão Básica Dia a Dia",
-      "price": 19,
-      "originalPrice": 34.55,
-      "discountPercent": 45,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-muamdye9tiioe5",
-      "url": "https://s.shopee.com.br/20wb8EElwC",
-      "rating": 4.9,
-      "salesCount": 3299,
-      "seller": "Mit Lingerie",
-      "category": "Moda"
-    },
-    {
       "id": "18597787721",
       "title": "Mochila Escolar Reforçada Nylon Impermeável Viagem Esportiva",
       "price": 39.9,
@@ -2673,20 +2731,6 @@
       "salesCount": 729,
       "seller": "M Flowerr",
       "category": "Presentes e papelaria"
-    },
-    {
-      "id": "55661385154",
-      "title": "Arzopa Z1C Cinza-Monitor Portátil Com Suporte 100 % sRGB De 16.1 \" , 1080P FHD Tela De Extensão De USB C HDMI Para PC",
-      "price": 538.99,
-      "originalPrice": 1796.63,
-      "discountPercent": 70,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-muxakw9jfw9131",
-      "url": "https://s.shopee.com.br/2LZTgNLo2T",
-      "rating": 5,
-      "salesCount": 182,
-      "official": true,
-      "seller": "ARZOPA Official Store",
-      "category": "Casa e organização"
     },
     {
       "id": "20999381894",
@@ -2769,6 +2813,34 @@
       "salesCount": 569,
       "seller": "NEW SECULO XXI",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "54456551138",
+      "title": "Jogo De Lençol 2 e 3 Peças Solteiro, Casal, Queen E King Toque Acetinado Suave Desing Liso Premium",
+      "price": 19.98,
+      "originalPrice": 29.82,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-ms2mym11yww5f8",
+      "url": "https://s.shopee.com.br/2Vstu3ROet",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 1506,
+      "seller": "Ebenézer ShopCapas",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "22598037692",
+      "title": "Lencol Padrão, Queen, King 400 Fios Micropercal Jogo De Cama Casal 03 Peças Solteiro 02 Peças",
+      "price": 28.9,
+      "originalPrice": 68.81,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2sis2o5y8er81",
+      "url": "https://s.shopee.com.br/AUvBQkwwQh",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1083,
+      "seller": "BELLA CASA ENXOVAIS E DECORAÇÃO ",
+      "category": "Casa e organização"
     },
     {
       "id": "23199140933",
@@ -3027,6 +3099,19 @@
       "salesCount": 2796,
       "official": true,
       "seller": "UP UNDERWEAR",
+      "category": "Moda"
+    },
+    {
+      "id": "23298481880",
+      "title": "Kit 6 Calcinhas Feminina Conforto Tanga Biquíni Confortável Com Forro Algodão Básica Dia a Dia",
+      "price": 20,
+      "originalPrice": 34.48,
+      "discountPercent": 42,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-muamdye9tiioe5",
+      "url": "https://s.shopee.com.br/20wb8EElwC",
+      "rating": 4.9,
+      "salesCount": 3299,
+      "seller": "Mit Lingerie",
       "category": "Moda"
     },
     {
@@ -3641,20 +3726,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "22197398647",
-      "title": "Kit Jogo Lençol 400 fios Micropercal Ponto Palito : Solteiro 2 Peças - Casal ; Queen ou King 3 Peças",
-      "price": 21.9,
-      "originalPrice": 46.6,
-      "discountPercent": 53,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltf8zb5vrxtr14",
-      "url": "https://s.shopee.com.br/qket707Aq",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2995,
-      "seller": "Relíquias do Interior",
-      "category": "Casa e organização"
-    },
-    {
       "id": "23092951296",
       "title": "Fones de ouvido Bluetooth 5.3 com cancelamento de ruído à prova d'água IPX5 da BETTDOW com microfone integrado",
       "price": 39,
@@ -3843,21 +3914,6 @@
       "salesCount": 471,
       "seller": "Dona Belezza",
       "category": "Beleza"
-    },
-    {
-      "id": "22428942973",
-      "title": "Bota Feminina Western Texana Cano Curto Bordada",
-      "price": 49.99,
-      "originalPrice": 178.54,
-      "discountPercent": 72,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23030-3sx1l4b1j8nvde",
-      "url": "https://s.shopee.com.br/qkdk5EkD2",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 559,
-      "official": true,
-      "seller": "GiGiL",
-      "category": "Moda"
     },
     {
       "id": "24291101685",
@@ -4078,62 +4134,6 @@
       "salesCount": 1071,
       "seller": "bellalardecoraes",
       "category": "Casa e organização"
-    },
-    {
-      "id": "22098962003",
-      "title": "Kit 3 Vaso Decorativo Espiral Cachepô Minimalista Enfeite Decoração Casa Sala Rack Planta Artificial",
-      "price": 24.89,
-      "originalPrice": 49.78,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-musk84ja38jkbb",
-      "url": "https://s.shopee.com.br/2VstsdiaZh",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 957,
-      "seller": "MAWI 3D",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23798670714",
-      "title": "Fita LED RGB 3528 5M 300 LEDs IP65 à Prova D'Água com Fonte Inclusa – Iluminação Colorida e Flexível",
-      "price": 16.99,
-      "originalPrice": 33.98,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra0r-mbe0liual91f04",
-      "url": "https://s.shopee.com.br/3qOFJZLndK",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2305,
-      "seller": "TMR E-commerce",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58269531963",
-      "title": "Kit Coala Coleção de Lançamentos - Limpadores Perfumados Coala 500ml",
-      "price": 29.9,
-      "originalPrice": 59.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mts5kylhkpoh2a",
-      "url": "https://s.shopee.com.br/60Sm34vSJa",
-      "rating": 4.9,
-      "salesCount": 4110,
-      "official": true,
-      "seller": "Coala Essências Oficial",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58210517964",
-      "title": "Capa de Couro PU Multiuso para 13-16 Polegadas com Suporte para Escritório e Estudo",
-      "price": 39.9,
-      "originalPrice": 79.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xh-mo5fynj6s9ae94",
-      "url": "https://s.shopee.com.br/6fiQgmookR",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 605,
-      "seller": "Lunexis",
-      "category": "Eletrônicos"
     }
   ]
 }
