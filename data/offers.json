@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T23:23:22.250Z",
+  "updatedAt": "2026-10-30T23:44:05.578Z",
   "offers": [
     {
       "id": "44110609035",
@@ -267,6 +267,21 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "9830388367",
+      "title": "Mochila Maternidade Bolsa Mamãe Bebê Multifunção",
+      "price": 30.99,
+      "originalPrice": 70.43,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbnb-lnu59twuc1wo61",
+      "url": "https://s.shopee.com.br/7puR2UBYVw",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 1446,
+      "seller": "ANJ.GG store",
+      "category": "Moda",
+      "hot": true
+    },
+    {
       "id": "50802620838",
       "title": "Kit 10 Organizadores Acrílico Cristal Modular Para Geladeiras Maquiagens Gavetas Armarios",
       "price": 44.9,
@@ -319,8 +334,7 @@
       "rating": 4.8,
       "salesCount": 984,
       "seller": "Abella Tech",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "40179335828",
