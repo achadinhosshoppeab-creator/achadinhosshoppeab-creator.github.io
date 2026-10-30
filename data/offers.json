@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T20:37:45.388Z",
+  "updatedAt": "2026-10-30T20:58:24.323Z",
   "offers": [
     {
       "id": "44110609035",
@@ -183,21 +183,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58215946864",
-      "title": "Froog Calça Legging Feminina Roupa de Academia com Bolso +Zero Transparência +Cintura Alta +Elástica+Fitness",
-      "price": 49.99,
-      "originalPrice": 138.86,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mt4m2bpslcskae",
-      "url": "https://s.shopee.com.br/9zysevSeHq",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2591,
-      "seller": "FROOG 2",
-      "category": "Moda",
-      "hot": true
-    },
-    {
       "id": "23898813796",
       "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
       "price": 44.9,
@@ -266,7 +251,8 @@
       "rating": 4.8,
       "salesCount": 445,
       "seller": "MOCHILA FASHION",
-      "category": "Eletrônicos"
+      "category": "Eletrônicos",
+      "hot": true
     },
     {
       "id": "50802620838",
