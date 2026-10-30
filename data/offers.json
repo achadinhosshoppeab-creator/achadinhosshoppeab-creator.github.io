@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T05:52:08.037Z",
+  "updatedAt": "2026-10-30T06:22:58.074Z",
   "offers": [
     {
       "id": "20042293295",
@@ -579,19 +579,6 @@
       "category": "Moda"
     },
     {
-      "id": "58210053681",
-      "title": "Planner Magnético Lousa Lembrete Imã Geladeira Porta Recados Anotação Semanal Mensal",
-      "price": 22.9,
-      "originalPrice": 45.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mntikjm5998i6d",
-      "url": "https://s.shopee.com.br/5q9JhHVwLB",
-      "rating": 4.9,
-      "salesCount": 661,
-      "seller": "Organizadores ",
-      "category": "Presentes e papelaria"
-    },
-    {
       "id": "22493876691",
       "title": "Jogo 10/15 Brocas Diamantadas Serra Copo furar Vidro Granito Ceramica 6 a 50 mm kit ferramentas",
       "price": 25.59,
@@ -954,6 +941,19 @@
       "salesCount": 4915,
       "seller": "GRISEL MODAS",
       "category": "Moda"
+    },
+    {
+      "id": "58264002966",
+      "title": "Planner Magnético Lousa Lembrete Imã Geladeira Porta Recados Anotação Semanal Mensal",
+      "price": 22.49,
+      "originalPrice": 46.85,
+      "discountPercent": 52,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mqh1409az1fl36",
+      "url": "https://s.shopee.com.br/7VHXgLPaxj",
+      "rating": 4.9,
+      "salesCount": 433,
+      "seller": "Planner ",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "23398865735",
