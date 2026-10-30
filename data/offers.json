@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T20:58:24.323Z",
+  "updatedAt": "2026-10-30T21:19:01.649Z",
   "offers": [
     {
       "id": "44110609035",
@@ -251,8 +251,7 @@
       "rating": 4.8,
       "salesCount": 445,
       "seller": "MOCHILA FASHION",
-      "category": "Eletrônicos",
-      "hot": true
+      "category": "Eletrônicos"
     },
     {
       "id": "50802620838",
@@ -280,6 +279,20 @@
       "official": true,
       "seller": "mypetone",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "23194371381",
+      "title": "Escova De Limpeza 5 em 1 Ajustável Janela Banheiro e Cozinha Ferramenta Recarregável",
+      "price": 25.96,
+      "originalPrice": 56.43,
+      "discountPercent": 54,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mt5cn6iv6txhb6",
+      "url": "https://s.shopee.com.br/AUvBZGyHOZ",
+      "rating": 4.5,
+      "salesCount": 2029,
+      "seller": "Fuxi Store",
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "18499252377",
