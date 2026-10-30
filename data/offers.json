@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T18:54:38.719Z",
+  "updatedAt": "2026-10-30T19:15:12.740Z",
   "offers": [
     {
       "id": "44110609035",
@@ -66,7 +66,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mrvgs50iy8zr1f",
       "url": "https://s.shopee.com.br/6AmA5piWOH",
       "rating": 4.9,
-      "salesCount": 7009,
+      "salesCount": 6750,
       "official": true,
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza"
@@ -110,7 +110,7 @@
       "url": "https://s.shopee.com.br/5VWTdoinTQ",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 1506,
+      "salesCount": 1509,
       "seller": "Choice Oficial",
       "category": "Beleza",
       "hot": true
@@ -128,21 +128,6 @@
       "official": true,
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza"
-    },
-    {
-      "id": "23593332489",
-      "title": "Espelho Lopazzi Base Reta Corpo Inteiro 170x70 Com Suporte de Chão Moldura Alumínio Quarto Sala Decorativo",
-      "price": 419.9,
-      "originalPrice": 539,
-      "discountPercent": 22.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7taq0e5d7ys2c",
-      "url": "https://s.shopee.com.br/8fTV4R4lT3",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 584,
-      "official": true,
-      "seller": "Loja Lopazzi",
-      "category": "Casa e organização"
     },
     {
       "id": "20998101213",
@@ -254,19 +239,6 @@
       "salesCount": 1975,
       "seller": "BNT MODAS",
       "category": "Moda"
-    },
-    {
-      "id": "58262884933",
-      "title": "Kit 5 Perfumes Masculinos 100ml | Fragrâncias Variadas de Alta Fixação | Ideal para Present",
-      "price": 99,
-      "originalPrice": 150,
-      "discountPercent": 34,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mppt57q4o3k078",
-      "url": "https://s.shopee.com.br/9pfSSaClaU",
-      "rating": 4.7,
-      "salesCount": 883,
-      "seller": "zorza2",
-      "category": "Beleza"
     },
     {
       "id": "22593191349",
@@ -421,6 +393,19 @@
       "category": "Moda"
     },
     {
+      "id": "23194187468",
+      "title": "Massageador Elétrico Profissional Muscular Pistola Portátil Original c/ 6 Níveis e 4 Ponteiras",
+      "price": 29.79,
+      "originalPrice": 49.65,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra13-mbmlv84kuejg25",
+      "url": "https://s.shopee.com.br/4qGo2fdsyS",
+      "rating": 4.9,
+      "salesCount": 1719,
+      "seller": "KEEP SHOP",
+      "category": "Beleza"
+    },
+    {
       "id": "58217762568",
       "title": "Kit 4/8/12/18 Pastilha Sanitária Vaso Sanitário Limpeza Profunda Antiodor Tira Manchas Perfumada",
       "price": 16.99,
@@ -475,6 +460,19 @@
       "category": "Beleza"
     },
     {
+      "id": "21999886368",
+      "title": "Xilofone Infantil Musical 8 Notas Colorido Educativo Com Baquetas Brinquedo Montessori",
+      "price": 20.9,
+      "originalPrice": 29.86,
+      "discountPercent": 30,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824io-mpxoul329vymfd",
+      "url": "https://s.shopee.com.br/3g4rGmDTRF",
+      "rating": 4.9,
+      "salesCount": 2366,
+      "seller": "Click&Shop Nova Era",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "58261388401",
       "title": "Jogo Stop Interativo Educativo Basta Palavras 24cm Com 36 Cards Dupla Face 2 A 6 Jogadores Portugues",
       "price": 34.99,
@@ -496,7 +494,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mukmdt0eigw203",
       "url": "https://s.shopee.com.br/LoN99uiZz",
       "rating": 4.7,
-      "salesCount": 1788,
+      "salesCount": 1794,
       "official": true,
       "seller": "Primacial",
       "category": "Beleza"
