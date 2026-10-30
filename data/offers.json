@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-30T22:41:49.168Z",
+  "updatedAt": "2026-10-30T23:02:37.063Z",
   "offers": [
+    {
+      "id": "27206105091",
+      "title": "Folha De Máscara Medicube 1ea (10 Tipos)",
+      "price": 21.97,
+      "originalPrice": 99.86,
+      "discountPercent": 78,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-82628-mkixh9h7b4sja3",
+      "url": "https://s.shopee.com.br/6AmD0YKAFb",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 1878,
+      "official": true,
+      "seller": "koksara.kbeauty",
+      "category": "Beleza",
+      "hot": true
+    },
     {
       "id": "44110609035",
       "title": "2026 Mais Recente Smartwatch S10 Pro Relógio Série 10 2.08 Polegadas Sem Fio Bluetooth Esportes ALKF",
@@ -29,6 +45,20 @@
       "seller": "ManufaturaPrecisa",
       "category": "Ferramentas",
       "hot": true
+    },
+    {
+      "id": "23997408775",
+      "title": "Mouse Gamer Ergonômico RGB Até 7200dpi Com fio 1.5M Keedi MOU903",
+      "price": 23.5,
+      "originalPrice": 75.81,
+      "discountPercent": 69,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m7s9b22qhl0476",
+      "url": "https://s.shopee.com.br/6L5dCsAKJ3",
+      "rating": 4.8,
+      "salesCount": 193,
+      "official": true,
+      "seller": "Keedi Eletrônicos",
+      "category": "Eletrônicos"
     },
     {
       "id": "18297829933",
@@ -72,6 +102,35 @@
       "category": "Beleza"
     },
     {
+      "id": "58251614514",
+      "title": "Belifou Glitter Garrafa Térmica Portátil De 800 Ml Com Isolamento Duplo Adequada Para Academia",
+      "price": 34.5,
+      "originalPrice": 93.24,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mouu57r72adhf3",
+      "url": "https://s.shopee.com.br/gRGSRjVBK",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1362,
+      "official": true,
+      "seller": "Belifou Talheres",
+      "category": "Cozinha",
+      "hot": true
+    },
+    {
+      "id": "58254948793",
+      "title": "Barra De Luminária Led Rgb Para Monitor Computador Tela Regulavel Com Fundo De Toque",
+      "price": 67.99,
+      "originalPrice": 206.03,
+      "discountPercent": 67,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkj86lk3dcld90",
+      "url": "https://s.shopee.com.br/1BZfDYqF3",
+      "rating": 4.9,
+      "salesCount": 1407,
+      "seller": "A casa iluminada",
+      "category": "Casa e organização"
+    },
+    {
       "id": "18299268001",
       "title": "Saco Plástico PP Transparente Com Aba Adesiva 100 Un Saquinho Para Embalagem de Roupas e Artesanatos",
       "price": 16.97,
@@ -85,6 +144,20 @@
       "seller": "Embala Commerce",
       "category": "Presentes e papelaria",
       "hot": true
+    },
+    {
+      "id": "58263459751",
+      "title": "Kit 5/10 Luminária Solar Jardim LED Impermeável Luz Quente Branca Iluminação Externa Quintal Paisagismo",
+      "price": 36.8,
+      "originalPrice": 80,
+      "discountPercent": 54,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mr9m6xs1w5c622",
+      "url": "https://s.shopee.com.br/1146r3V2DD",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 1468,
+      "seller": "UtiLife Store",
+      "category": "Casa e organização"
     },
     {
       "id": "58204153704",
@@ -130,6 +203,20 @@
       "category": "Beleza"
     },
     {
+      "id": "18798303717",
+      "title": "Luminária Astronauta Projetor De Luz Galáxia Nebulosa Estrelas Noturna Controle Remoto Rotação 360 Cabeça Magnética",
+      "price": 57.99,
+      "originalPrice": 109.42,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mte61xucfcar3d",
+      "url": "https://s.shopee.com.br/1BNX3MUOsE",
+      "rating": 4.9,
+      "salesCount": 1850,
+      "official": true,
+      "seller": "Oi Vida Oficial",
+      "category": "Casa e organização"
+    },
+    {
       "id": "20998101213",
       "title": "Kit 3 Heras Ramas Artificial Pendente Real Ao Toque 6 Metros Verde Planta Trepadeira Folhagem",
       "price": 18.99,
@@ -168,6 +255,19 @@
       "salesCount": 697,
       "seller": "Eddias Home",
       "category": "Casa e organização"
+    },
+    {
+      "id": "22698517946",
+      "title": "MOUSE GAMER COM FIO  7 BOTOES E 3 BOTOES MAUSE COM LED RGB 2.400 DPI ÓPTICO ILUMINAÇÃO COLORIDA PARA JOGOS VIDEO GAMERS",
+      "price": 19.99,
+      "originalPrice": 39.2,
+      "discountPercent": 49,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mqxjn74hlvk667",
+      "url": "https://s.shopee.com.br/60SmoGBaz1",
+      "rating": 4.9,
+      "salesCount": 190,
+      "seller": "LAMPADAECOM",
+      "category": "Eletrônicos"
     },
     {
       "id": "23898813796",
@@ -249,8 +349,20 @@
       "rating": 4.8,
       "salesCount": 1091,
       "seller": "AuraShop Cuidado que a casa merece",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
+    },
+    {
+      "id": "57761003382",
+      "title": "Espuma Cremosa de Limpeza Facial 240ml Hidratação e Maciez da Pele Com Aloe Vera Dermachem",
+      "price": 18.99,
+      "originalPrice": 26.01,
+      "discountPercent": 27,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mokxf2xigem86d",
+      "url": "https://s.shopee.com.br/5q9MbwLQvR",
+      "rating": 4.9,
+      "salesCount": 2467,
+      "seller": "JGP VARIEDADES",
+      "category": "Beleza"
     },
     {
       "id": "23997823258",
@@ -319,8 +431,7 @@
       "rating": 4.8,
       "salesCount": 984,
       "seller": "Abella Tech",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "40179335828",
@@ -392,16 +503,16 @@
       "category": "Moda"
     },
     {
-      "id": "23194187468",
-      "title": "Massageador Elétrico Profissional Muscular Pistola Portátil Original c/ 6 Níveis e 4 Ponteiras",
-      "price": 29.79,
-      "originalPrice": 49.65,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra13-mbmlv84kuejg25",
-      "url": "https://s.shopee.com.br/4qGo2fdsyS",
+      "id": "58214700748",
+      "title": "ANA 1108/4 Pincéis De Maquiagem De Ponta Dupla/Conjunto Com Parte Superior Plana Angular/Cerdas Maci",
+      "price": 22.99,
+      "originalPrice": 40.33,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mt441btsnq4l8c",
+      "url": "https://s.shopee.com.br/BUzrZsEkD",
       "rating": 4.9,
-      "salesCount": 1742,
-      "seller": "KEEP SHOP",
+      "salesCount": 1258,
+      "seller": "ANA1108 Store",
       "category": "Beleza"
     },
     {
@@ -432,6 +543,19 @@
       "category": "Casa e organização"
     },
     {
+      "id": "58214686455",
+      "title": "ANA1108 Kits com 36 Mini Esponja Gota e Blender Para rosto e Maquiagem Base E Corretivo",
+      "price": 24.98,
+      "originalPrice": 40.29,
+      "discountPercent": 38,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mrrcic3i3jlzf9",
+      "url": "https://s.shopee.com.br/7puQzfPo3E",
+      "rating": 4.8,
+      "salesCount": 511,
+      "seller": "ANA1108 Store",
+      "category": "Beleza"
+    },
+    {
       "id": "58266272545",
       "title": "Kit Hidratante Nivea Milk 400ml cada Pele Seca a Extrasseca",
       "price": 44.01,
@@ -442,6 +566,20 @@
       "rating": 5,
       "salesCount": 1732,
       "seller": "MIGARO",
+      "category": "Beleza"
+    },
+    {
+      "id": "22297438072",
+      "title": "KIT 12 unidades  Mini Espelho De Maquiagem Portátil Com 5 Pcs Pincéis De Maquiagem Lupa Mão Segurar Bolso Dobrável Maqui",
+      "price": 67.19,
+      "originalPrice": 104.98,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltflffuljjlrc1",
+      "url": "https://s.shopee.com.br/W7qGBqy4J",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1080,
+      "seller": "loja atacada",
       "category": "Beleza"
     },
     {
@@ -483,6 +621,20 @@
       "rating": 4.9,
       "salesCount": 1604,
       "seller": "Kaluros ",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "23799188673",
+      "title": "kit 1400 Toalhas Umedecidas Bebê Limpinho",
+      "price": 59.99,
+      "originalPrice": 71.99,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mspv9fbn4npg06",
+      "url": "https://s.shopee.com.br/9zytBmgmji",
+      "rating": 4.9,
+      "salesCount": 4644,
+      "official": true,
+      "seller": "Droga Clara",
       "category": "Casa e organização"
     }
   ]
