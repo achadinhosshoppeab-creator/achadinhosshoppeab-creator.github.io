@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T03:49:28.921Z",
+  "updatedAt": "2026-10-30T04:19:50.678Z",
   "offers": [
     {
       "id": "20042293295",
@@ -710,6 +710,19 @@
       "rating": 4.9,
       "salesCount": 716,
       "seller": "DeinShop",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "53616416772",
+      "title": "Toalha Banhão Gigante E Rosto 100% Algodão Alta Absorção Toque Macio Aveludada Enxuga Bem Wave Habitat",
+      "price": 19.9,
+      "originalPrice": 45.23,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-ms5l9in9msqt7f",
+      "url": "https://s.shopee.com.br/70LH5O19XI",
+      "rating": 4.8,
+      "salesCount": 5054,
+      "seller": "Fonte Boa Casa",
       "category": "Casa e organização"
     },
     {
@@ -3154,6 +3167,20 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "23094631884",
+      "title": "Kit Terapia Capilar Loca Cosmetics - Óleo Coco + Ricino + Alecrim 60ml OU 3 Óleos + Pente Aplicador",
+      "price": 27.69,
+      "originalPrice": 40.13,
+      "discountPercent": 31,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mugvntynlczk9c",
+      "url": "https://s.shopee.com.br/2VssfNFWtq",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1624,
+      "seller": "Valorosa Beauty Hair",
+      "category": "Beleza"
+    },
+    {
       "id": "3958758961",
       "title": "óculos de sol hexagonal masculino feminino com lente preta escura armação metal geométrico blogueira",
       "price": 16.9,
@@ -4107,34 +4134,6 @@
       "salesCount": 957,
       "seller": "MAWI 3D",
       "category": "Casa e organização"
-    },
-    {
-      "id": "23798670714",
-      "title": "Fita LED RGB 3528 5M 300 LEDs IP65 à Prova D'Água com Fonte Inclusa – Iluminação Colorida e Flexível",
-      "price": 16.99,
-      "originalPrice": 33.98,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra0r-mbe0liual91f04",
-      "url": "https://s.shopee.com.br/3qOFJZLndK",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2305,
-      "seller": "TMR E-commerce",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58210517964",
-      "title": "Capa de Couro PU Multiuso para 13-16 Polegadas com Suporte para Escritório e Estudo",
-      "price": 39.9,
-      "originalPrice": 79.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xh-mo5fynj6s9ae94",
-      "url": "https://s.shopee.com.br/6fiQgmookR",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 605,
-      "seller": "Lunexis",
-      "category": "Eletrônicos"
     }
   ]
 }
