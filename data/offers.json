@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T15:22:26.737Z",
+  "updatedAt": "2026-10-30T15:43:07.476Z",
   "offers": [
     {
       "id": "20042293295",
@@ -294,7 +294,7 @@
       "originalPrice": 64.41,
       "discountPercent": 66,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk3ewqamjvgia1",
-      "url": "https://s.shopee.com.br/30p9230je8",
+      "url": "https://s.shopee.com.br/4B188kPbG0",
       "rating": 5,
       "salesCount": 749,
       "seller": "StarlinkX",
@@ -720,6 +720,7 @@
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-ms5l9in9msqt7f",
       "url": "https://s.shopee.com.br/70LH5O19XI",
+      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 5054,
       "seller": "Fonte Boa Casa",
@@ -1011,19 +1012,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "58216502207",
-      "title": "Kit 2 Tapetes Comedouro Pet Antiderrapante Lavável | Tapete para Ração Cachorro e Gato | Base Emborrachada",
-      "price": 25,
-      "originalPrice": 50,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-ms2op6sv45jb81",
-      "url": "https://s.shopee.com.br/2BG3jd3AZv",
-      "rating": 4.7,
-      "salesCount": 459,
-      "seller": "Casa e Amore",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "20299550104",
       "title": "Ventilador de Teto C/ Iluminação 3 Cores Luz Controle Remoto Luminária Moderna 60w Bulbo E27 6 Pás",
       "price": 44.99,
@@ -1266,27 +1254,13 @@
       "category": "Casa e organização"
     },
     {
-      "id": "23293962132",
-      "title": "Mop Flat Esfregão Com Balde Rodo Mágico Lava Seca Tira Pó + 4 Refil",
-      "price": 43.88,
-      "originalPrice": 69.65,
-      "discountPercent": 37,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9ej4jfobfi18f",
-      "url": "https://s.shopee.com.br/9pfT4e9VwD",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 1687,
-      "seller": "casaluna utilidades",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58212715148",
       "title": "Máscara de Cílios À Prova d'Água Longa Duração 9x Mais Volume Cor Preto, The Colossal Volum' Express Maybelline NY, 8ml",
       "price": 42.9,
       "originalPrice": 68.1,
       "discountPercent": 37,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mt5lvcg7qhvp5f",
-      "url": "https://s.shopee.com.br/4qGmVQE9Rm",
+      "url": "https://s.shopee.com.br/7puQVU6UAk",
       "rating": 4.9,
       "salesCount": 913,
       "official": true,
@@ -1418,6 +1392,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23293962132",
+      "title": "Mop Flat Esfregão Com Balde Rodo Mágico Lava Seca Tira Pó + 4 Refil",
+      "price": 44.88,
+      "originalPrice": 70.13,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9ej4jfobfi18f",
+      "url": "https://s.shopee.com.br/9pfT4e9VwD",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 1687,
+      "seller": "casaluna utilidades",
+      "category": "Casa e organização"
+    },
+    {
       "id": "20899597911",
       "title": "Blusa Academia feminina Oval ) Regata Veste Legging Camisão Tapa Bumbum Camiseta Tule Roupas de Academia Dry Fit Treino",
       "price": 22.38,
@@ -1458,6 +1446,20 @@
       "official": true,
       "seller": "Keedi Eletrônicos",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "21499491641",
+      "title": "Mop C/ cabo de 140 cm + 2 Refis - Rodinhas e Cesto Em Inox - Balde Centrífuga - CH",
+      "price": 59.9,
+      "originalPrice": 119.8,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mqm69hmdu3uo02",
+      "url": "https://s.shopee.com.br/6VP0UTc2t2",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 3885,
+      "seller": "Chaicommerce",
+      "category": "Casa e organização"
     },
     {
       "id": "56462123347",
@@ -1791,19 +1793,6 @@
       "rating": 4.8,
       "salesCount": 610,
       "seller": "LojaZini",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "20498140657",
-      "title": "Mop Girátorio Cleaner Profissional – Balde com Centrífuga 14L + Refil Duplo e Cabo Reforçado - MN",
-      "price": 69.9,
-      "originalPrice": 120.52,
-      "discountPercent": 42,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbnxm1i5f5ndcc",
-      "url": "https://s.shopee.com.br/5fpvu4fgDX",
-      "rating": 4.8,
-      "salesCount": 1706,
-      "seller": "MANIA UTILIDADES E AFINS LTDA",
       "category": "Casa e organização"
     },
     {
@@ -2277,6 +2266,20 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "58200512845",
+      "title": "Comedouro Gato Cachorro Cães Pet Duplo Madeira 2 Tigelas Alumínio 400ml Resistente Água",
+      "price": 36,
+      "originalPrice": 94.74,
+      "discountPercent": 62,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mus2acxv1l354a",
+      "url": "https://s.shopee.com.br/3qOFJbPJzo",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 661,
+      "seller": "Au&Miau Decorações",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "45254771953",
       "title": "Toalhas De Banho Luxo Macias 70 X 1,40 Atacado",
       "price": 23.9,
@@ -2410,20 +2413,6 @@
       "rating": 4.9,
       "salesCount": 2934,
       "seller": "GRUPO HH BABY Loja 1",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "58200512845",
-      "title": "Comedouro Gato Cachorro Cães Pet Duplo Madeira 2 Tigelas Alumínio 400ml Resistente Água",
-      "price": 36,
-      "originalPrice": 94.74,
-      "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mus2acxv1l354a",
-      "url": "https://s.shopee.com.br/3qOFJbPJzo",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 661,
-      "seller": "Au&Miau Decorações",
       "category": "Pet e bebê"
     },
     {
@@ -2894,11 +2883,11 @@
     },
     {
       "id": "23793879757",
-      "title": "Daily T-shirt Insider",
+      "title": "Camiseta Daily T-shirt Insider",
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvr-mimqzej64v0h61",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258b-mr9etewst7np93",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -4129,6 +4118,20 @@
       "rating": 4.8,
       "salesCount": 2305,
       "seller": "TMR E-commerce",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58269531963",
+      "title": "Kit Coala Coleção de Lançamentos - Limpadores Perfumados Coala 500ml",
+      "price": 29.9,
+      "originalPrice": 59.8,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mts5kylhkpoh2a",
+      "url": "https://s.shopee.com.br/60Sm34vSJa",
+      "rating": 4.9,
+      "salesCount": 4110,
+      "official": true,
+      "seller": "Coala Essências Oficial",
       "category": "Casa e organização"
     }
   ]
