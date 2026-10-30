@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-30T18:13:17.161Z",
+  "updatedAt": "2026-10-30T18:33:58.010Z",
   "offers": [
+    {
+      "id": "20454205961",
+      "title": "Kit Colmeia Organizadora de gavetas Tamanhos P/M/G/GG - Kit com 10, 2, 3 e 5 unidades - Organizalux",
+      "price": 26.99,
+      "originalPrice": 65.83,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me36ldh7ufb49d",
+      "url": "https://s.shopee.com.br/9V2egGeyiJ",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1037,
+      "seller": "ORGANIZALUX®",
+      "category": "Casa e organização",
+      "hot": true
+    },
     {
       "id": "44110609035",
       "title": "2026 Mais Recente Smartwatch S10 Pro Relógio Série 10 2.08 Polegadas Sem Fio Bluetooth Esportes ALKF",
@@ -114,6 +129,20 @@
       "seller": "Choice Oficial",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "18598312729",
+      "title": "Porta Maquiagem Make Cosméticos Multiuso Perfume Prateleira 3 Andares 4 Gavetas Organização Completa",
+      "price": 47.99,
+      "originalPrice": 99.98,
+      "discountPercent": 52,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zue-mkl9jdl6iku802",
+      "url": "https://s.shopee.com.br/9APoHegFO9",
+      "rating": 4.8,
+      "salesCount": 981,
+      "official": true,
+      "seller": "Oi Vida Oficial",
+      "category": "Casa e organização"
     },
     {
       "id": "22093231630",
@@ -242,21 +271,6 @@
       "hot": true
     },
     {
-      "id": "21071530577",
-      "title": "Varal De Chão Roupa Calcinha Grade 3 Andares Dobrável Portátil",
-      "price": 67.99,
-      "originalPrice": 79.99,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7augbm6ixf693",
-      "url": "https://s.shopee.com.br/1LguKyiW73",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 4309,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58200475144",
       "title": "CALÇA PANTALONA DE ALFAIATARIA  FEMININA COM CINTO CINTURA ALTA ELEGANTE. no",
       "price": 29.99,
@@ -290,12 +304,38 @@
       "originalPrice": 70.63,
       "discountPercent": 52,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m04jnjrh1jgdc7",
-      "url": "https://s.shopee.com.br/AKbjaORM55",
+      "url": "https://s.shopee.com.br/8fTXgji9P4",
       "rating": 4.8,
       "salesCount": 1082,
       "seller": "AuraShop Cuidado que a casa merece",
       "category": "Casa e organização",
       "hot": true
+    },
+    {
+      "id": "22999183222",
+      "title": "Porta Talher De Gaveta Organizador Com Divisórias Cozinha Suporte Separador Talheres Versátil",
+      "price": 35.53,
+      "originalPrice": 50.04,
+      "discountPercent": 29,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh1wr9kng1s444",
+      "url": "https://s.shopee.com.br/9KjETxfc3G",
+      "rating": 4.9,
+      "salesCount": 1084,
+      "seller": "UtiliFácil.",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "23898764911",
+      "title": "Porta Talheres Gaveta Bambu 7 Divisórias Extensível Ajustável  Organizador Talheres Madeira",
+      "price": 64.5,
+      "originalPrice": 89.58,
+      "discountPercent": 28,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mtxyj2g1bls187",
+      "url": "https://s.shopee.com.br/5VWVuuuCpf",
+      "rating": 4.8,
+      "salesCount": 1066,
+      "seller": "HELPLO",
+      "category": "Casa e organização"
     },
     {
       "id": "23997823258",
@@ -318,7 +358,7 @@
       "originalPrice": 59.87,
       "discountPercent": 25,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8227k-mhvhuh6oiyo18c",
-      "url": "https://s.shopee.com.br/4B16fqaOTS",
+      "url": "https://s.shopee.com.br/8pmxt2hW47",
       "rating": 4.7,
       "salesCount": 1393,
       "seller": "AuraShop Cuidado que a casa merece",
@@ -337,33 +377,6 @@
       "official": true,
       "seller": "mypetone",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "23194371381",
-      "title": "Escova De Limpeza 5 em 1 Ajustável Janela Banheiro e Cozinha Ferramenta Recarregável",
-      "price": 25.96,
-      "originalPrice": 56.43,
-      "discountPercent": 54,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mt5cn6iv6txhb6",
-      "url": "https://s.shopee.com.br/AUvBZGyHOZ",
-      "rating": 4.5,
-      "salesCount": 2062,
-      "seller": "Fuxi Store",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "23694663832",
-      "title": "Kit 2 Canetas Gel Apagável Crazy Fluffles 0,7mm Divertidas, Criativas e com Pelúcia Rosa e Azul BRW",
-      "price": 34.9,
-      "originalPrice": 52.09,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgs96x65iww4f6",
-      "url": "https://s.shopee.com.br/9V2eet0aUJ",
-      "rating": 5,
-      "salesCount": 362,
-      "seller": "Monkey Market Papelaria",
-      "category": "Presentes e papelaria"
     },
     {
       "id": "18499252377",
@@ -447,19 +460,6 @@
       "official": true,
       "seller": "Krokodilus Oficial",
       "category": "Moda"
-    },
-    {
-      "id": "23194187468",
-      "title": "Massageador Elétrico Profissional Muscular Pistola Portátil Original c/ 6 Níveis e 4 Ponteiras",
-      "price": 29.79,
-      "originalPrice": 49.65,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra13-mbmlv84kuejg25",
-      "url": "https://s.shopee.com.br/4qGo2fdsyS",
-      "rating": 4.9,
-      "salesCount": 1719,
-      "seller": "KEEP SHOP",
-      "category": "Beleza"
     },
     {
       "id": "58217762568",
