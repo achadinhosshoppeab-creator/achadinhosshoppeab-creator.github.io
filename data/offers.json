@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T19:35:49.129Z",
+  "updatedAt": "2026-10-30T19:56:27.779Z",
   "offers": [
     {
       "id": "44110609035",
@@ -53,7 +53,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mpxsgrjyul1c20",
       "url": "https://s.shopee.com.br/2gCHvRURSE",
       "rating": 4.8,
-      "salesCount": 1593,
+      "salesCount": 1553,
       "seller": "Nutryx Importação",
       "category": "Beleza"
     },
@@ -138,7 +138,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7req3-m8ax16wfd9yf0d",
       "url": "https://s.shopee.com.br/2Vsrj7RpwN",
       "rating": 4.6,
-      "salesCount": 1005,
+      "salesCount": 1003,
       "seller": "Kardía",
       "category": "Casa e organização"
     },
@@ -183,20 +183,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "26236872498",
-      "title": "Planta Artificial Palmeira Com Vaso Polietileno",
-      "price": 76.6,
-      "originalPrice": 136.79,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mtr3kl0m40zmd0",
-      "url": "https://s.shopee.com.br/906O9ati8i",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1127,
-      "seller": "Vai de Tech",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58215946864",
       "title": "Froog Calça Legging Feminina Roupa de Academia com Bolso +Zero Transparência +Cintura Alta +Elástica+Fitness",
       "price": 49.99,
@@ -220,7 +206,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mq228ungk5c142",
       "url": "https://s.shopee.com.br/3g4rGo3w0C",
       "rating": 4.8,
-      "salesCount": 1659,
+      "salesCount": 1694,
       "official": true,
       "seller": "Barbour's Beauty",
       "category": "Beleza"
@@ -278,7 +264,7 @@
       "url": "https://s.shopee.com.br/4fxMJ70YSp",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 440,
+      "salesCount": 445,
       "seller": "MOCHILA FASHION",
       "category": "Eletrônicos"
     },
@@ -304,7 +290,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mnr3wmvkts7637",
       "url": "https://s.shopee.com.br/3VlPRsLMEl",
       "rating": 4.9,
-      "salesCount": 900,
+      "salesCount": 955,
       "official": true,
       "seller": "mypetone",
       "category": "Pet e bebê"
@@ -346,7 +332,7 @@
       "url": "https://s.shopee.com.br/4B17No8lQc",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1319,
+      "salesCount": 1408,
       "seller": "Loja do Abençoado F",
       "category": "Beleza"
     },
@@ -360,7 +346,7 @@
       "url": "https://s.shopee.com.br/8VA4sAzn1B",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1330,
+      "salesCount": 1297,
       "seller": "MEDOOSI-BR",
       "category": "Pet e bebê"
     },
@@ -373,7 +359,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh9d339f89af1c",
       "url": "https://s.shopee.com.br/AAIIrE1tEN",
       "rating": 4.9,
-      "salesCount": 2380,
+      "salesCount": 2361,
       "official": true,
       "seller": "Principia Skincare",
       "category": "Beleza"
@@ -387,7 +373,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259d-mrpvjgt0vw2049",
       "url": "https://s.shopee.com.br/7AejPmjvmv",
       "rating": 5,
-      "salesCount": 1792,
+      "salesCount": 1775,
       "official": true,
       "seller": "Krokodilus Oficial",
       "category": "Moda"
@@ -481,7 +467,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rq-mopgr0b3zlse85",
       "url": "https://s.shopee.com.br/1gJkjcPnsZ",
       "rating": 4.9,
-      "salesCount": 1499,
+      "salesCount": 1552,
       "seller": "Spotlight 82",
       "category": "Pet e bebê"
     },
