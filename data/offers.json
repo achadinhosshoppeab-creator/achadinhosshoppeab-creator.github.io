@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T12:57:41.909Z",
+  "updatedAt": "2026-10-30T13:18:23.506Z",
   "offers": [
     {
       "id": "20042293295",
@@ -1848,19 +1848,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "23493930815",
-      "title": "Escova De Limpeza 9 Em 1  Elétrica Giratória Com Cabo Alongador",
-      "price": 61.99,
-      "originalPrice": 182.32,
-      "discountPercent": 66,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj5cubo7uz29de",
-      "url": "https://s.shopee.com.br/7AehHhZiNc",
-      "rating": 4.8,
-      "salesCount": 5693,
-      "seller": "KOBAC SHOP",
-      "category": "Casa e organização"
-    },
-    {
       "id": "28758577108",
       "title": "QKZ Fone de ouvido com fio AK6 intra-auricular microfone alta qualidade som e cancelamento de ruído",
       "price": 16.18,
@@ -1926,20 +1913,6 @@
       "url": "https://s.shopee.com.br/1qdAvuXPOZ",
       "rating": 4.9,
       "salesCount": 2289,
-      "official": true,
-      "seller": "KOKESHI OFICIAL",
-      "category": "Beleza"
-    },
-    {
-      "id": "22598903793",
-      "title": "Kit Rotina Skin Care Sérum Tudo em 1 Multifunção Sabonete e creme hidratante facial",
-      "price": 112.9,
-      "originalPrice": 161.29,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mqm8j2nwk26b75",
-      "url": "https://s.shopee.com.br/906NiH4qEQ",
-      "rating": 4.9,
-      "salesCount": 213,
       "official": true,
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza"
@@ -2347,6 +2320,19 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23493930815",
+      "title": "Escova De Limpeza 9 Em 1  Elétrica Giratória Com Cabo Alongador",
+      "price": 68.9,
+      "originalPrice": 181.32,
+      "discountPercent": 62,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj5cubo7uz29de",
+      "url": "https://s.shopee.com.br/7AehHhZiNc",
+      "rating": 4.8,
+      "salesCount": 5693,
+      "seller": "KOBAC SHOP",
+      "category": "Casa e organização"
+    },
+    {
       "id": "18698147487",
       "title": "Escova Elétrica Giratória 9 em 1 Recarregável com Cabo Alongador ，Limpeza Multiuso",
       "price": 68.9,
@@ -2688,6 +2674,20 @@
       "hot": true
     },
     {
+      "id": "23398957875",
+      "title": "Conjunto Fitness Poliamida Premium Top Biquini e Shorts com Bolso Cós Alto Sem Transparência",
+      "price": 62.93,
+      "originalPrice": 83.91,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-muw48o8gbp4xd7",
+      "url": "https://s.shopee.com.br/7Ky7U1hTVp",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1308,
+      "seller": "Live Again",
+      "category": "Moda"
+    },
+    {
       "id": "18597787721",
       "title": "Mochila Escolar Reforçada Nylon Impermeável Viagem Esportiva",
       "price": 39.9,
@@ -2809,21 +2809,6 @@
       "salesCount": 2027,
       "seller": "JX VERDE",
       "category": "Casa e organização"
-    },
-    {
-      "id": "23099869803",
-      "title": "Kit Clareador Facial Completo Hidrabene – Sabonete, Sérum Multicorretivo, Hidratante e Protetor Solar FPS 70",
-      "price": 99.9,
-      "originalPrice": 237.86,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mu9bv5wfqps110",
-      "url": "https://s.shopee.com.br/9zyuu712CS",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 251,
-      "official": true,
-      "seller": "Hidrabene ",
-      "category": "Beleza"
     },
     {
       "id": "58254155069",
@@ -4133,6 +4118,20 @@
       "official": true,
       "seller": "Coala Essências Oficial",
       "category": "Casa e organização"
+    },
+    {
+      "id": "58210517964",
+      "title": "Capa de Couro PU Multiuso para 13-16 Polegadas com Suporte para Escritório e Estudo",
+      "price": 39.9,
+      "originalPrice": 79.8,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xh-mo5fynj6s9ae94",
+      "url": "https://s.shopee.com.br/6fiQgmookR",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 605,
+      "seller": "Lunexis",
+      "category": "Eletrônicos"
     }
   ]
 }
