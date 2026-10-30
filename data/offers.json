@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T14:40:51.702Z",
+  "updatedAt": "2026-10-30T15:01:40.606Z",
   "offers": [
     {
       "id": "20042293295",
@@ -130,6 +130,19 @@
       "salesCount": 1761,
       "official": true,
       "seller": "koksara.kbeauty",
+      "category": "Beleza"
+    },
+    {
+      "id": "58205100450",
+      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
+      "price": 37.96,
+      "originalPrice": 99.89,
+      "discountPercent": 62,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
+      "url": "https://s.shopee.com.br/7faxsd6jXY",
+      "rating": 4.8,
+      "salesCount": 2006,
+      "seller": "Ela&Ela",
       "category": "Beleza"
     },
     {
@@ -525,6 +538,20 @@
       "category": "Moda"
     },
     {
+      "id": "18297829933",
+      "title": "Perfume Grace Midnight Feminino Frasco Antigo Hinode 100ml",
+      "price": 84.95,
+      "originalPrice": 169.9,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mspjvyi96xhh07",
+      "url": "https://s.shopee.com.br/3B8YWKXTM1",
+      "rating": 4.9,
+      "salesCount": 609,
+      "official": true,
+      "seller": "Hinode ",
+      "category": "Beleza"
+    },
+    {
       "id": "26734497572",
       "title": "Coqueteleira Fuse com Rede 700ml Preta - Dark Lab",
       "price": 19.9,
@@ -618,19 +645,6 @@
       "salesCount": 829,
       "seller": "Nova Link",
       "category": "Cozinha"
-    },
-    {
-      "id": "58207572793",
-      "title": "Luminária Retrô de Mesa LED Recarregável com Cúpula Transparente e Controle por Toque Dourada",
-      "price": 52,
-      "originalPrice": 100,
-      "discountPercent": 48,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zm-mm89tcutvnyg28",
-      "url": "https://s.shopee.com.br/9APlfLt24S",
-      "rating": 4.9,
-      "salesCount": 716,
-      "seller": "DeinShop",
-      "category": "Casa e organização"
     },
     {
       "id": "18240846440",
@@ -1350,20 +1364,6 @@
       "category": "Cozinha"
     },
     {
-      "id": "58203749906",
-      "title": "2026 Novo Q71 Fones de ouvido Bluetooth sem fio OWS fones de ouvido esportivos com clipe",
-      "price": 42.8,
-      "originalPrice": 147.59,
-      "discountPercent": 71,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zub-mkkp8o2qrxfl50",
-      "url": "https://s.shopee.com.br/4B15iBugpU",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 4317,
-      "seller": "LUNANA Shop",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "24140416368",
       "title": "Smartwatch Relógio Inteligente Android iOS watch10,Carregamento Sem Fio Bluetooth Chamada,Papel de parede personalizado",
       "price": 49.99,
@@ -1376,6 +1376,20 @@
       "salesCount": 219,
       "seller": "FANSHEN",
       "category": "Casa e organização"
+    },
+    {
+      "id": "58203749906",
+      "title": "2026 Novo Q71 Fones de ouvido Bluetooth sem fio OWS fones de ouvido esportivos com clipe",
+      "price": 42.8,
+      "originalPrice": 147.59,
+      "discountPercent": 71,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zub-mkkp8o2qrxfl50",
+      "url": "https://s.shopee.com.br/4B15iBugpU",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 4317,
+      "seller": "LUNANA Shop",
+      "category": "Eletrônicos"
     },
     {
       "id": "20899597911",
@@ -1490,6 +1504,19 @@
       "category": "Beleza"
     },
     {
+      "id": "13582190615",
+      "title": "Kit 3 Saco Organizador Closet Para Edredom e Cobertor com Zíper Pvc Guarda-Roupa",
+      "price": 20.99,
+      "originalPrice": 31.8,
+      "discountPercent": 34,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mct9huzl603l7e",
+      "url": "https://s.shopee.com.br/9V2eReJqs4",
+      "rating": 4.8,
+      "salesCount": 229,
+      "seller": "Innova Embalagens",
+      "category": "Casa e organização"
+    },
+    {
       "id": "58259403968",
       "title": "Pendente Dourado Borboleta De Luz LED de 3 cores em 1 luminária de teto do quarto Bivolt",
       "price": 45.98,
@@ -1572,6 +1599,20 @@
       "salesCount": 3043,
       "seller": "Larsul",
       "category": "Casa e organização"
+    },
+    {
+      "id": "57951023705",
+      "title": "Cicaplast Repair Cream B5 40ml Hidratar Nutrir A Barreira Da Pele Reparação Cuidados Faciais",
+      "price": 25.14,
+      "originalPrice": 67.95,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824go-mf3kovy2z6ywbb",
+      "url": "https://s.shopee.com.br/6AmA5sCRaR",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1141,
+      "seller": "Choice Oficial",
+      "category": "Beleza"
     },
     {
       "id": "58266177953",
@@ -1861,6 +1902,20 @@
       "salesCount": 1203,
       "seller": "Lucky1 shop",
       "category": "Cozinha"
+    },
+    {
+      "id": "22399132687",
+      "title": "Kit Skin Care Geleia facial Colágeno e Niacinamida Kokeshi",
+      "price": 54.9,
+      "originalPrice": 78.43,
+      "discountPercent": 30,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mge5tyc09rlwd9",
+      "url": "https://s.shopee.com.br/1W0MgoqOJ6",
+      "rating": 4.9,
+      "salesCount": 1254,
+      "official": true,
+      "seller": "KOKESHI OFICIAL",
+      "category": "Beleza"
     },
     {
       "id": "58209766348",
@@ -2180,20 +2235,6 @@
       "salesCount": 1660,
       "seller": "PoliPlast",
       "category": "Casa e organização"
-    },
-    {
-      "id": "58204197533",
-      "title": "Kit Ate 100 Unidades Garfo Faca Sal Guardanapo Descartavel Embalados Restaurante Delivery Festa",
-      "price": 28.98,
-      "originalPrice": 46,
-      "discountPercent": 37,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820la-mqynwoz58c1x0f",
-      "url": "https://s.shopee.com.br/3B8YWKGu6a",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 808,
-      "seller": "Pague Pouco $",
-      "category": "Cozinha"
     },
     {
       "id": "22194732923",
@@ -2564,6 +2605,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23693686267",
+      "title": "Kit 5 Organizadores Lápis 3D Lúdico Coloridos Plasútil",
+      "price": 31.9,
+      "originalPrice": 79.75,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ak-muana8e0cq9u42",
+      "url": "https://s.shopee.com.br/7Ky7U0eEkC",
+      "rating": 5,
+      "salesCount": 1725,
+      "official": true,
+      "seller": "LOJA PLASÚTIL",
+      "category": "Casa e organização"
+    },
+    {
       "id": "42524620494",
       "title": "smartwatch GPS BETTDOW Com Aplicativos AI Integrados , Resistência À Água De 3 ATM E display AMOLED",
       "price": 319,
@@ -2661,6 +2716,34 @@
       "category": "Presentes e papelaria"
     },
     {
+      "id": "41079726137",
+      "title": " Carregador Rápido PD QC 3.0 USB Tipo‐C para Motos, Tomada à Prova d’Água com Voltímetro para Celular",
+      "price": 46.33,
+      "originalPrice": 100.72,
+      "discountPercent": 54,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134253-81zud-mmjmjhxey3gl59",
+      "url": "https://s.shopee.com.br/AAILEsqVci",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 63,
+      "seller": "Choice Oficial",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "20999381894",
+      "title": "Conjunto 2/3/5/10 Potes 370/640/1040ml Vidro Hermético Mantimentos Marmita Fitness",
+      "price": 27.89,
+      "originalPrice": 68.02,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mpavso8ys2yp67",
+      "url": "https://s.shopee.com.br/906LT3kjoc",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 8341,
+      "seller": "Life Hack Homeware",
+      "category": "Casa e organização"
+    },
+    {
       "id": "58263021202",
       "title": "BRILHO NOVO Escova Sanitária com Cabeça Substituível e Refis Descartáveis | Base + 6, 12, 18, 24 ou 36 Refis",
       "price": 59.8,
@@ -2714,20 +2797,6 @@
       "official": true,
       "seller": "Salon Line",
       "category": "Beleza"
-    },
-    {
-      "id": "22599145030",
-      "title": "Vaso Para Flores Decorativo Centro De Mesa Acrílico Decoração Mesa Posta",
-      "price": 30.53,
-      "originalPrice": 59.86,
-      "discountPercent": 49,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258p-mgcaindcecr1ca",
-      "url": "https://s.shopee.com.br/2Vsu5OOFMu",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 379,
-      "seller": "Art laser acrílico",
-      "category": "Casa e organização"
     },
     {
       "id": "58258453576",
@@ -2867,6 +2936,20 @@
       "category": "Moda"
     },
     {
+      "id": "58268291074",
+      "title": "Bolsa Feminina Transversal Matelassê Pequena com Pompom Alça Ajustável",
+      "price": 18.99,
+      "originalPrice": 44.16,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mt7ycjiekcud19",
+      "url": "https://s.shopee.com.br/8fTXS7Ici5",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 799,
+      "seller": "KJMODAS",
+      "category": "Moda"
+    },
+    {
       "id": "22593793702",
       "title": "Kit Teclado e Mouse Sem Fio Bluetooth  Colorido Compatível com Android iOS e Windows",
       "price": 42.9,
@@ -2879,20 +2962,6 @@
       "salesCount": 446,
       "seller": "LojaZini",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "58204276446",
-      "title": "Kit 2 Vasos Decorativos Letreiro Personalizado Decoração Moderna Elegante Casa Escritório",
-      "price": 24.99,
-      "originalPrice": 43.09,
-      "discountPercent": 42,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mujuoml55og18e",
-      "url": "https://s.shopee.com.br/906NpKzVAn",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 632,
-      "seller": "Isaas Express",
-      "category": "Casa e organização"
     },
     {
       "id": "18999784319",
@@ -3040,6 +3109,20 @@
       "salesCount": 1547,
       "seller": "Rosa Tropical",
       "category": "Beleza"
+    },
+    {
+      "id": "23594042964",
+      "title": "Saco Organizador para Cobertor 60x50x28cm Impermeável Zíper Duplo，Bolsa com zíper para cobertores",
+      "price": 21.98,
+      "originalPrice": 49.95,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma5fta3ti8ljad",
+      "url": "https://s.shopee.com.br/40hhtXen1V",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1269,
+      "seller": "*Ponto de Luz",
+      "category": "Casa e organização"
     },
     {
       "id": "49766317145",
@@ -3736,6 +3819,19 @@
       "category": "Casa e organização"
     },
     {
+      "id": "8543485442",
+      "title": "Ring Light 20cm/8inch LED with phone holder + Tripod Stand Youtuber FB Live Mobile Phone Shooting",
+      "price": 26.99,
+      "originalPrice": 99.96,
+      "discountPercent": 73,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvfw-ljrs7h3ur8ya1a",
+      "url": "https://s.shopee.com.br/BUzKXs6HP",
+      "rating": 4.8,
+      "salesCount": 231,
+      "seller": "ZSZ_Official Store",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "22594718147",
       "title": "2 Em 1 Vestir Quebra-Cabeça Magnético Crianças 3D Escrita Magnética Tábua De Desenho",
       "price": 59.49,
@@ -3995,6 +4091,20 @@
       "hot": true
     },
     {
+      "id": "58267928915",
+      "title": "TWS Fones De Ouvido Bluetooth 5.3 Sem Fio Com Controle De Toque Pro4 Para Android & iOS",
+      "price": 36.98,
+      "originalPrice": 73.96,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mtg679xrc1z7f9",
+      "url": "https://s.shopee.com.br/1BZ8BPQRU",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 1439,
+      "seller": "UAL TOP",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "58202075375",
       "title": "KIT 3 Ou 5 Capas Silicone Cor SortIdas Compatível Com Todos iPhone 17 16 15 14 13 12 11 Pro Max Plus X XR XS Max",
       "price": 24.89,
@@ -4009,130 +4119,18 @@
       "category": "Eletrônicos"
     },
     {
-      "id": "54113505958",
-      "title": "Kit Capas de Almofadas para Sofá Premiun Suede Decorativo Casa Sala Quarto Slim",
-      "price": 19.91,
-      "originalPrice": 39.82,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mqca774gijnk2a",
-      "url": "https://s.shopee.com.br/2BG1KUTVhG",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1071,
-      "seller": "bellalardecoraes",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23297722595",
-      "title": "Conjunto Potes 640ml Vidro Hermético Mantimentos Marmita 640ml Marmita Fit com Tampa 4 Travas",
-      "price": 29.9,
-      "originalPrice": 59.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zug-mkwq0pk8dhxeab",
-      "url": "https://s.shopee.com.br/9V2eQFg03F",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1040,
-      "seller": "Larsul",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23798670714",
-      "title": "Fita LED RGB 3528 5M 300 LEDs IP65 à Prova D'Água com Fonte Inclusa – Iluminação Colorida e Flexível",
-      "price": 16.99,
-      "originalPrice": 33.98,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra0r-mbe0liual91f04",
-      "url": "https://s.shopee.com.br/3qOFJZLndK",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2305,
-      "seller": "TMR E-commerce",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58269531963",
-      "title": "Kit Coala Coleção de Lançamentos - Limpadores Perfumados Coala 500ml",
-      "price": 29.9,
-      "originalPrice": 59.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mts5kylhkpoh2a",
-      "url": "https://s.shopee.com.br/60Sm34vSJa",
-      "rating": 4.9,
-      "salesCount": 4110,
-      "official": true,
-      "seller": "Coala Essências Oficial",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58210517964",
-      "title": "Capa de Couro PU Multiuso para 13-16 Polegadas com Suporte para Escritório e Estudo",
-      "price": 39.9,
-      "originalPrice": 79.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xh-mo5fynj6s9ae94",
-      "url": "https://s.shopee.com.br/6fiQgmookR",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 605,
-      "seller": "Lunexis",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "58211027537",
-      "title": "Mochila para notebook de alta qualidade, couro, 13 a 16 polegadas, com suporte e bolsa para carregador",
-      "price": 39.9,
-      "originalPrice": 79.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pj-mogt7aoa5lvz07",
-      "url": "https://s.shopee.com.br/50aChivA8G",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 478,
-      "seller": "1tv3bizrq6",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "43050661409",
-      "title": "Mousepad Gamer APEX Control Mouse pad Grande 49x42 Mouse Pad Branco Preto Blade Red Girl Titorion",
-      "price": 69.88,
-      "originalPrice": 99.83,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-murqr7kx36df0f",
-      "url": "https://s.shopee.com.br/1LguKz8qbt",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1364,
-      "seller": "Shop Borges",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "23594541990",
-      "title": "Selfie Stick Tripé 1.8M/2M/1.7M, 4 Eixos 360° Rotação Anti-tremor+ Controle Bluetooth Sem Fio para Vlog",
-      "price": 54.99,
-      "originalPrice": 109.98,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk1x0wpsptz69d",
-      "url": "https://s.shopee.com.br/5VWTIe2obf",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1417,
-      "seller": "ENDLESS",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "58267928915",
-      "title": "TWS Fones De Ouvido Bluetooth 5.3 Sem Fio Com Controle De Toque Pro4 Para Android & iOS",
-      "price": 36.98,
-      "originalPrice": 73.96,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mtg679xrc1z7f9",
-      "url": "https://s.shopee.com.br/6AmA5s0HFj",
+      "id": "22821203434",
+      "title": "Armário Suspenso de 90 cm - Modular - Organização Inteligente - 3 Portas - Preto ou Branco",
+      "price": 165.3,
+      "originalPrice": 220.4,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23020-c1jeggsfv1mv47",
+      "url": "https://s.shopee.com.br/5AtfHgaLeo",
       "hasVariantPrices": true,
       "rating": 4.7,
-      "salesCount": 1439,
-      "seller": "UAL TOP",
-      "category": "Eletrônicos"
+      "salesCount": 498,
+      "seller": "AMG DECORE",
+      "category": "Casa e organização"
     }
   ]
 }
