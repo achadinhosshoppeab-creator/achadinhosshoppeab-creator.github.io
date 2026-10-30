@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T17:52:32.206Z",
+  "updatedAt": "2026-10-30T18:13:17.161Z",
   "offers": [
     {
       "id": "44110609035",
@@ -70,20 +70,6 @@
       "official": true,
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza"
-    },
-    {
-      "id": "58270017100",
-      "title": "Escova Secadora Alisador Eletrica QuenteCabelo Com 3 Em1,Portátil para Uso Doméstico,protege el cabello",
-      "price": 38.99,
-      "originalPrice": 108.31,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mu1whi961jpc3a",
-      "url": "https://s.shopee.com.br/4B16lXgdMx",
-      "rating": 4.9,
-      "salesCount": 382,
-      "seller": "FZZYSTAR.store",
-      "category": "Beleza",
-      "hot": true
     },
     {
       "id": "18299268001",
@@ -298,20 +284,6 @@
       "category": "Beleza"
     },
     {
-      "id": "22994432585",
-      "title": "Rastreador Pet Inteligente com Coleira – Compatível com Apple Find My (iPhone, iPad, Mac) | MM-ATP",
-      "price": 20,
-      "originalPrice": 29.85,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meyoqhtczksm23",
-      "url": "https://s.shopee.com.br/8VA5P1ZIOA",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1224,
-      "seller": "TECHWORLD STORE",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "22593191349",
       "title": "Kit com 7 Organizadores Acrílico Cristal Modular Para Geladeiras Gavetas e Maquiagens",
       "price": 33.9,
@@ -365,6 +337,33 @@
       "official": true,
       "seller": "mypetone",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "23194371381",
+      "title": "Escova De Limpeza 5 em 1 Ajustável Janela Banheiro e Cozinha Ferramenta Recarregável",
+      "price": 25.96,
+      "originalPrice": 56.43,
+      "discountPercent": 54,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mt5cn6iv6txhb6",
+      "url": "https://s.shopee.com.br/AUvBZGyHOZ",
+      "rating": 4.5,
+      "salesCount": 2062,
+      "seller": "Fuxi Store",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "23694663832",
+      "title": "Kit 2 Canetas Gel Apagável Crazy Fluffles 0,7mm Divertidas, Criativas e com Pelúcia Rosa e Azul BRW",
+      "price": 34.9,
+      "originalPrice": 52.09,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgs96x65iww4f6",
+      "url": "https://s.shopee.com.br/9V2eet0aUJ",
+      "rating": 5,
+      "salesCount": 362,
+      "seller": "Monkey Market Papelaria",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "18499252377",
@@ -527,20 +526,6 @@
       "rating": 4.9,
       "salesCount": 1499,
       "seller": "Spotlight 82",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "22798035553",
-      "title": "Cama Colchonete Almofada para Cachorro ou Gato Pet Pequeno Médio e Grande Lavável com Zíper",
-      "price": 19.98,
-      "originalPrice": 28.54,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m80jdxx3htrl7d",
-      "url": "https://s.shopee.com.br/6fiRoS8B7m",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1797,
-      "seller": "MovicPets",
       "category": "Pet e bebê"
     },
     {
