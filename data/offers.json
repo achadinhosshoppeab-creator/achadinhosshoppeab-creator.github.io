@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T06:53:44.462Z",
+  "updatedAt": "2026-10-30T07:24:36.093Z",
   "offers": [
     {
       "id": "20042293295",
@@ -2156,20 +2156,6 @@
       "category": "Eletrônicos"
     },
     {
-      "id": "19274006007",
-      "title": "Kit 5 Cuecas Box Microfibra Lisa Sem Costura Polo Wear",
-      "price": 61.8,
-      "originalPrice": 92.24,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-23020-g46s4cjwjtnv79",
-      "url": "https://s.shopee.com.br/2qVi7lBbBd",
-      "rating": 4.8,
-      "salesCount": 2490,
-      "official": true,
-      "seller": "UP UNDERWEAR",
-      "category": "Moda"
-    },
-    {
       "id": "23994140705",
       "title": "Pantufa de Pelúcia Unissex Inverno Chinelo Quarto Quentinho Antiderrapante",
       "price": 19.99,
@@ -2469,20 +2455,6 @@
       "salesCount": 3001,
       "seller": "Bela Beleza Oficial",
       "category": "Beleza"
-    },
-    {
-      "id": "23131712327",
-      "title": "Kit 5 Cuecas Polo Star Boxer Microfibra Confortável Adulto Sortido",
-      "price": 68.89,
-      "originalPrice": 99.84,
-      "discountPercent": 31,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mboal9oylp5z08",
-      "url": "https://s.shopee.com.br/BUwwrLkar",
-      "rating": 4.9,
-      "salesCount": 3508,
-      "official": true,
-      "seller": "UP UNDERWEAR",
-      "category": "Moda"
     },
     {
       "id": "22599507223",
@@ -4134,6 +4106,34 @@
       "salesCount": 2305,
       "seller": "TMR E-commerce",
       "category": "Casa e organização"
+    },
+    {
+      "id": "58210517964",
+      "title": "Capa de Couro PU Multiuso para 13-16 Polegadas com Suporte para Escritório e Estudo",
+      "price": 39.9,
+      "originalPrice": 79.8,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xh-mo5fynj6s9ae94",
+      "url": "https://s.shopee.com.br/6fiQgmookR",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 605,
+      "seller": "Lunexis",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "58211027537",
+      "title": "Mochila para notebook de alta qualidade, couro, 13 a 16 polegadas, com suporte e bolsa para carregador",
+      "price": 39.9,
+      "originalPrice": 79.8,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pj-mogt7aoa5lvz07",
+      "url": "https://s.shopee.com.br/50aChivA8G",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 478,
+      "seller": "1tv3bizrq6",
+      "category": "Eletrônicos"
     }
   ]
 }
