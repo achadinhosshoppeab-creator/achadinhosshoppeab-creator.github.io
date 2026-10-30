@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T19:56:27.779Z",
+  "updatedAt": "2026-10-30T20:17:04.882Z",
   "offers": [
     {
       "id": "44110609035",
@@ -25,7 +25,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvx-mchapvnkvmbb21",
       "url": "https://s.shopee.com.br/8pmvGnBifg",
       "rating": 4.8,
-      "salesCount": 529,
+      "salesCount": 527,
       "seller": "ManufaturaPrecisa",
       "category": "Ferramentas",
       "hot": true
@@ -95,7 +95,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-msr3shcqrz0n32",
       "url": "https://s.shopee.com.br/7VHXgKGRSb",
       "rating": 4.9,
-      "salesCount": 1215,
+      "salesCount": 1229,
       "official": true,
       "seller": "Salon Line",
       "category": "Beleza"
@@ -221,7 +221,7 @@
       "url": "https://s.shopee.com.br/1BX3au1da",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1801,
+      "salesCount": 1819,
       "seller": "Aureum Vitae",
       "category": "Beleza",
       "hot": true
@@ -249,7 +249,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m04jnjrh1jgdc7",
       "url": "https://s.shopee.com.br/8fTXgji9P4",
       "rating": 4.8,
-      "salesCount": 1082,
+      "salesCount": 1091,
       "seller": "AuraShop Cuidado que a casa merece",
       "category": "Casa e organização",
       "hot": true
@@ -304,10 +304,24 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mt5cn6iv6txhb6",
       "url": "https://s.shopee.com.br/AUvBZGyHOZ",
       "rating": 4.5,
-      "salesCount": 2062,
+      "salesCount": 2029,
       "seller": "Fuxi Store",
       "category": "Casa e organização",
       "hot": true
+    },
+    {
+      "id": "18499252377",
+      "title": "Fita LED 3528 SUPER LED ULTRA RGB 5M até 15M 12V 300 LEDS | 16 CORES IP20 Pronta Entrega Com e Sem Fonte",
+      "price": 17.5,
+      "originalPrice": 35.71,
+      "discountPercent": 51,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwh98hxpqto5fe",
+      "url": "https://s.shopee.com.br/5LD5Zi6uNi",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 984,
+      "seller": "Abella Tech",
+      "category": "Casa e organização"
     },
     {
       "id": "40179335828",
@@ -387,7 +401,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra13-mbmlv84kuejg25",
       "url": "https://s.shopee.com.br/4qGo2fdsyS",
       "rating": 4.9,
-      "salesCount": 1719,
+      "salesCount": 1742,
       "seller": "KEEP SHOP",
       "category": "Beleza"
     },
@@ -417,6 +431,20 @@
       "salesCount": 519,
       "seller": "Wa Magazine PP",
       "category": "Casa e organização"
+    },
+    {
+      "id": "23398299096",
+      "title": "Sutiã em Renda com Bojo - Modelo Tradicional - Sustentação - Soutien - Sutia - Sutian - Moda Íntima",
+      "price": 22.77,
+      "originalPrice": 39.26,
+      "discountPercent": 42,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me98bk31ep6o81",
+      "url": "https://s.shopee.com.br/W7q4qB5ZZ",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 384,
+      "seller": "Velvet Intimate",
+      "category": "Moda"
     },
     {
       "id": "22593191479",
