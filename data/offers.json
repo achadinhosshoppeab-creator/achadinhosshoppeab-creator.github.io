@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T13:59:36.868Z",
+  "updatedAt": "2026-10-30T14:20:14.471Z",
   "offers": [
     {
       "id": "20042293295",
@@ -118,21 +118,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "23524387565",
-      "title": "[OFFICIAL] SKIN1004 madagascar tone brightening capsule ampoule 30ml,50ml,100ml",
-      "price": 46.98,
-      "originalPrice": 126.97,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-823qx-mp98g129uwaob3",
-      "url": "https://s.shopee.com.br/40hfVtPA0C",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1761,
-      "official": true,
-      "seller": "koksara.kbeauty",
-      "category": "Beleza"
-    },
-    {
       "id": "58205100450",
       "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
       "price": 37.96,
@@ -200,20 +185,6 @@
       "salesCount": 4577,
       "official": true,
       "seller": "Adora ",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "18857098349",
-      "title": "Kit 10 Removedor De Pêlos Pet Máquina De Lavar Roupa",
-      "price": 16.99,
-      "originalPrice": 49.97,
-      "discountPercent": 66,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825au-mt6a42tv5ds15c",
-      "url": "https://s.shopee.com.br/AUv9FqzwZf",
-      "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 1225,
-      "seller": "BIG MO",
       "category": "Pet e bebê"
     },
     {
@@ -633,6 +604,19 @@
       "category": "Cozinha"
     },
     {
+      "id": "58207572793",
+      "title": "Luminária Retrô de Mesa LED Recarregável com Cúpula Transparente e Controle por Toque Dourada",
+      "price": 52,
+      "originalPrice": 100,
+      "discountPercent": 48,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zm-mm89tcutvnyg28",
+      "url": "https://s.shopee.com.br/9APlfLt24S",
+      "rating": 4.9,
+      "salesCount": 716,
+      "seller": "DeinShop",
+      "category": "Casa e organização"
+    },
+    {
       "id": "18240846440",
       "title": "KIT 10/20/30 Estojo Multiuso Bolsinha Nylon Papelaria Colorido Necessaire 13 X 23CM Estojos de Lápis Equipamento Escolar",
       "price": 24.99,
@@ -644,6 +628,21 @@
       "rating": 4.9,
       "salesCount": 1263,
       "seller": "BIG MO",
+      "category": "Beleza"
+    },
+    {
+      "id": "23524387565",
+      "title": "[OFFICIAL] SKIN1004 madagascar tone brightening capsule ampoule 30ml,50ml,100ml",
+      "price": 89.97,
+      "originalPrice": 173.02,
+      "discountPercent": 48,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-823qx-mp98g129uwaob3",
+      "url": "https://s.shopee.com.br/40hfVtPA0C",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 1761,
+      "official": true,
+      "seller": "koksara.kbeauty",
       "category": "Beleza"
     },
     {
@@ -684,19 +683,6 @@
       "salesCount": 1940,
       "seller": "eradino",
       "category": "Moda"
-    },
-    {
-      "id": "58207572793",
-      "title": "Luminária Retrô de Mesa LED Recarregável com Cúpula Transparente e Controle por Toque Dourada",
-      "price": 54,
-      "originalPrice": 100,
-      "discountPercent": 46,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zm-mm89tcutvnyg28",
-      "url": "https://s.shopee.com.br/9APlfLt24S",
-      "rating": 4.9,
-      "salesCount": 716,
-      "seller": "DeinShop",
-      "category": "Casa e organização"
     },
     {
       "id": "53616416772",
@@ -1636,7 +1622,7 @@
       "price": 49.25,
       "originalPrice": 73.51,
       "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258o-msbwr4svgah18a",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ap-muxl7oc8nytj62",
       "url": "https://s.shopee.com.br/9V2c408pOn",
       "rating": 4.9,
       "salesCount": 1710,
@@ -2415,6 +2401,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23597982563",
+      "title": "Conjunto Potes Vidro Hermético Mantimentos Marmita 640ml",
+      "price": 28.99,
+      "originalPrice": 74.33,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zuc-mky6lkqdrncw9a",
+      "url": "https://s.shopee.com.br/3B8arCHS5s",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1302,
+      "seller": "Life Hack Homeware",
+      "category": "Casa e organização"
+    },
+    {
       "id": "19253571158",
       "title": "Mini Controle Teclado Air Mouse Wireless 2.4 Ghz -pc,game",
       "price": 34.3,
@@ -2845,7 +2845,7 @@
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258b-mr9etewst7np93",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258h-mr9fqpp9k17093",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
