@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-30T16:45:07.231Z",
+  "updatedAt": "2026-10-30T17:05:56.795Z",
   "offers": [
+    {
+      "id": "23293653518",
+      "title": "20 Peças Mini Led Lanterna Portátil Para Camping Iluminação Reutilizável",
+      "price": 37.99,
+      "originalPrice": 80.83,
+      "discountPercent": 53,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ap-mtbyq10nnvuyf3",
+      "url": "https://s.shopee.com.br/7Aejnv8mlE",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 596,
+      "seller": "mrecearia",
+      "category": "Ferramentas"
+    },
     {
       "id": "44110609035",
       "title": "2026 Mais Recente Smartwatch S10 Pro Relógio Série 10 2.08 Polegadas Sem Fio Bluetooth Esportes ALKF",
@@ -82,15 +96,30 @@
       "rating": 4.9,
       "salesCount": 382,
       "seller": "FZZYSTAR.store",
-      "category": "Beleza",
+      "category": "Beleza"
+    },
+    {
+      "id": "23194642345",
+      "title": "Brinquedo Blocos De Montar Infantil Educativo Castela",
+      "price": 39.99,
+      "originalPrice": 102.54,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257x-mge6oytai9scf8",
+      "url": "https://s.shopee.com.br/1qdDS7T5Yh",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1134,
+      "official": true,
+      "seller": "Mais Barato Brinquedos",
+      "category": "Pet e bebê",
       "hot": true
     },
     {
       "id": "18299268001",
       "title": "Saco Plástico PP Transparente Com Aba Adesiva 100 Un Saquinho Para Embalagem de Roupas e Artesanatos",
-      "price": 16.64,
-      "originalPrice": 41.6,
-      "discountPercent": 60,
+      "price": 16.97,
+      "originalPrice": 43.51,
+      "discountPercent": 61,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mrbvqlt9xnuu1f",
       "url": "https://s.shopee.com.br/AUv9mjCiCv",
       "hasVariantPrices": true,
@@ -101,18 +130,31 @@
       "hot": true
     },
     {
-      "id": "23094631884",
-      "title": "Kit Terapia Capilar Loca Cosmetics - Óleo Coco + Ricino + Alecrim 60ml OU 3 Óleos + Pente Aplicador",
-      "price": 27.99,
-      "originalPrice": 39.99,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mugvntynlczk9c",
-      "url": "https://s.shopee.com.br/2VssfNFWtq",
+      "id": "43508591985",
+      "title": "Comedouro com Bebedouro Alimentador Automático Pet 2 em 1 Água e Ração Bebedouro Cachorro Gato",
+      "price": 55.5,
+      "originalPrice": 120.65,
+      "discountPercent": 54,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc7q5lorcstc6a",
+      "url": "https://s.shopee.com.br/7fb0Ot0JAZ",
+      "rating": 4.9,
+      "salesCount": 98,
+      "seller": "Hannover Home",
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "23298844166",
+      "title": "Carrinho de Equilíbrio Infantil  4 Rodas Sem Pedal | Brinquedo para Aprender Andar | Assento Confortável",
+      "price": 70.99,
+      "originalPrice": 197.19,
+      "discountPercent": 64,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mtqbequ9nvgi3c",
+      "url": "https://s.shopee.com.br/80DqnS5c2j",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1624,
-      "seller": "Valorosa Beauty Hair",
-      "category": "Beleza"
+      "salesCount": 1469,
+      "seller": "Nexus Shop#",
+      "category": "Pet e bebê"
     },
     {
       "id": "58204153704",
@@ -156,6 +198,20 @@
       "official": true,
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza"
+    },
+    {
+      "id": "58215217873",
+      "title": "Carrinho de Polícia Infantil a Pilha Brinquedo com Luz Som Educativo para Crianças",
+      "price": 25.99,
+      "originalPrice": 49.98,
+      "discountPercent": 48,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ax-mr8v314hclc196",
+      "url": "https://s.shopee.com.br/20wdeQSSDk",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 881,
+      "seller": "IVANI TOYS",
+      "category": "Pet e bebê"
     },
     {
       "id": "23593332489",
@@ -241,6 +297,20 @@
       "hot": true
     },
     {
+      "id": "23893519387",
+      "title": "Electro Nest Lanterna Recarregável USB Portátil LED Luz Forte Com Resistente A Água Super Brilhante HW04",
+      "price": 20.99,
+      "originalPrice": 34.98,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mas4puexv5hr9c",
+      "url": "https://s.shopee.com.br/3B8b2ZO0sK",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 788,
+      "seller": "Electro Nest",
+      "category": "Ferramentas"
+    },
+    {
       "id": "58259278839",
       "title": "Kit Biotina Pura + Colágeno Hidrolisado + Ácido Hialurônico Alta Concentração Pele Unhas e Cabelos",
       "price": 24.5,
@@ -254,6 +324,63 @@
       "seller": "Aureum Vitae",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "21071530577",
+      "title": "Varal De Chão Roupa Calcinha Grade 3 Andares Dobrável Portátil",
+      "price": 67.99,
+      "originalPrice": 79.99,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7augbm6ixf693",
+      "url": "https://s.shopee.com.br/1LguKyiW73",
+      "rating": 4.9,
+      "salesCount": 4309,
+      "official": true,
+      "seller": "Na Web Group De Marcas",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "20397984704",
+      "title": "Aromatizador Automática Difusor de Essencia Aroma e Umidificador de Ar Multifuncional （Dois estilos）F2/E2",
+      "price": 30.98,
+      "originalPrice": 58.45,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mu65qk72q0ow39",
+      "url": "https://s.shopee.com.br/4qGp1e7i1a",
+      "hasVariantPrices": true,
+      "rating": 4.5,
+      "salesCount": 553,
+      "seller": "Brasil Mart",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58263386699",
+      "title": "Difusor de Aromas Elétrico com Umidificador e Desodorizador USB-C",
+      "price": 26.09,
+      "originalPrice": 76.74,
+      "discountPercent": 66,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mtosb9jeja4ha1",
+      "url": "https://s.shopee.com.br/5q9MDU3tzv",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 266,
+      "seller": "Pepe_Shop",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "22892640371",
+      "title": "Essência Mundo para Difusor Aromatizador de Ambientes Via Aroma - 10ml",
+      "price": 15.9,
+      "originalPrice": 24.84,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824gq-me655xx1454y9c",
+      "url": "https://s.shopee.com.br/6fiTD10jJA",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 334,
+      "official": true,
+      "seller": "Via Aroma",
+      "category": "Casa e organização"
     },
     {
       "id": "58200475144",
@@ -307,21 +434,6 @@
       "rating": 4.8,
       "salesCount": 1082,
       "seller": "AuraShop Cuidado que a casa merece",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "22097353011",
-      "title": "Cadeira Escritório Giratória Mesh Altura Ajustável Apoio Para Lombar Com Rodinhas Corporativa",
-      "price": 169.9,
-      "originalPrice": 377.56,
-      "discountPercent": 55,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjq0oe3dxrsxfc",
-      "url": "https://s.shopee.com.br/1BZ40fqQa",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 419,
-      "official": true,
-      "seller": "Led Tools Oficial",
       "category": "Casa e organização"
     },
     {
@@ -407,6 +519,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "22899205713",
+      "title": "Fonte Bebedouro para Gatos e Cães H2o Plus",
+      "price": 35.9,
+      "originalPrice": 59.83,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mpxzyubpnp4y23",
+      "url": "https://s.shopee.com.br/7Aejny2DBW",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 83,
+      "seller": "Vale Eletro Shop",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "40179335828",
       "title": "Kit 04 Cadeira Allegra Escritório Área Interna/Externa Gourmert Varanda Sala de Jantar Promoção Envio Imediato",
       "price": 248.6,
@@ -418,6 +544,19 @@
       "salesCount": 885,
       "seller": "Wa Magazine PP",
       "category": "Casa e organização"
+    },
+    {
+      "id": "20299308391",
+      "title": "Lanterna Tática Sofirn SP35T 3800 Lúmens LED Com Porta Recarregável USBC Perfuração De Fraldas 21700 Mastigação",
+      "price": 219.9,
+      "originalPrice": 431.18,
+      "discountPercent": 49,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lnccf4iqxw2jdb",
+      "url": "https://s.shopee.com.br/7fb0Oq6skP",
+      "rating": 4.9,
+      "salesCount": 465,
+      "seller": "Sofirn BR Official Store",
+      "category": "Ferramentas"
     },
     {
       "id": "22398906461",
@@ -474,6 +613,20 @@
       "official": true,
       "seller": "Krokodilus Oficial",
       "category": "Moda"
+    },
+    {
+      "id": "23393921614",
+      "title": "30 Peças Lanterna Mini Led Portátil Para Camping Iluminação Reutilizável",
+      "price": 43.99,
+      "originalPrice": 81.46,
+      "discountPercent": 46,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134275-7r98o-m8vq2estdbbl2c",
+      "url": "https://s.shopee.com.br/2gCKRePutH",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 744,
+      "seller": "mrecearia",
+      "category": "Ferramentas"
     },
     {
       "id": "23194187468",
@@ -567,6 +720,20 @@
       "rating": 4.9,
       "salesCount": 1797,
       "seller": "MovicPets",
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "58214951580",
+      "title": "Comedouro Bebedouro com Dispenser 1kg 1,5 Litros Dupla Função Cães e Gatos Pet para Ração Água",
+      "price": 19.9,
+      "originalPrice": 28.43,
+      "discountPercent": 30,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mr1nahlvre9wca",
+      "url": "https://s.shopee.com.br/6fiTD347CP",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 76,
+      "seller": "GreenStore",
       "category": "Pet e bebê"
     },
     {
