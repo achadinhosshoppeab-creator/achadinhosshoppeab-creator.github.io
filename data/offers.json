@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T23:53:11.827Z",
+  "updatedAt": "2026-10-30T00:14:03.393Z",
   "offers": [
     {
       "id": "20042293295",
@@ -30,20 +30,6 @@
       "category": "Beleza"
     },
     {
-      "id": "58255119188",
-      "title": "Espelho Decorativo Cantinho Do Café Em Acrílico com Xícara",
-      "price": 19.99,
-      "originalPrice": 68.93,
-      "discountPercent": 71,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261g-mkmj4gexwp355d",
-      "url": "https://s.shopee.com.br/8VA6FR7BUo",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 129,
-      "seller": "Cora Carolina",
-      "category": "Casa e organização"
-    },
-    {
       "id": "29564832567",
       "title": "Medicube PDRN Pink Peptide Serum 10ml 30ml / Ultra Light PDRN Pink Peptide Serum 30ml",
       "price": 45.49,
@@ -70,19 +56,6 @@
       "salesCount": 2408,
       "seller": "Bordados e Corte a Laser",
       "category": "Presentes e papelaria"
-    },
-    {
-      "id": "43676855421",
-      "title": "Kit 2 Pares Chinelo + Sandália Feminina Ortopédica Palmilha Massageadora Casual Leve Macio Confortável Sola de Eva",
-      "price": 65.99,
-      "originalPrice": 199.97,
-      "discountPercent": 67,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mr8ttbi683ye5d",
-      "url": "https://s.shopee.com.br/50aE511TSy",
-      "rating": 4.8,
-      "salesCount": 1510,
-      "seller": "Ploomer Premium",
-      "category": "Beleza"
     },
     {
       "id": "41721001761",
@@ -439,6 +412,19 @@
       "category": "Casa e organização"
     },
     {
+      "id": "58254799009",
+      "title": "Kit 5 KG Alvejante Poderoso com Percarbonato de Sódio - Tira Manchas Roupas Brancas e Coloridas",
+      "price": 37.18,
+      "originalPrice": 79.11,
+      "discountPercent": 53,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke9dzuzwsn686",
+      "url": "https://s.shopee.com.br/3VlQJhk1r0",
+      "rating": 4.8,
+      "salesCount": 1057,
+      "seller": "GF Agro Soltuion",
+      "category": "Casa e organização"
+    },
+    {
       "id": "22795743014",
       "title": "Mouse Pad Grande Couro Bege Claro Feltro Costurado Básico",
       "price": 18.9,
@@ -520,7 +506,8 @@
       "rating": 4.8,
       "salesCount": 4935,
       "seller": "HACKBERRY",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "29424706558",
@@ -972,6 +959,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23998316312",
+      "title": "155L/180L/195L Caixa Multifuncional De Armazenamento De Grande Capacidade Para Colchas E Roupas Domésticas",
+      "price": 23.99,
+      "originalPrice": 104.3,
+      "discountPercent": 77,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mskyp8zm718k5a",
+      "url": "https://s.shopee.com.br/80DpfyKNCJ",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 1621,
+      "seller": "Jonny Home",
+      "category": "Casa e organização"
+    },
+    {
       "id": "58263519901",
       "title": "Kit Capilar Óleo Extraordinário NEW HAIR Profissional 1L Salão + Óleo Extraordinário 100ml NEW HAIR",
       "price": 67.9,
@@ -1065,6 +1066,20 @@
       "rating": 4.8,
       "salesCount": 503,
       "seller": "RAPIDAO NET",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "23998504188",
+      "title": "Rodo Tira Pelo Limpa Vidro Silicone Secos e Molhados Uso Duplo",
+      "price": 20.99,
+      "originalPrice": 83.96,
+      "discountPercent": 75,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mm5fq3i0gkjqa2",
+      "url": "https://s.shopee.com.br/1Lgvjiwx62",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1421,
+      "seller": "EXEED SHOPPING",
       "category": "Casa e organização"
     },
     {
@@ -1446,19 +1461,6 @@
       "salesCount": 1699,
       "seller": "ATITUDE ÚNICA MODA FEMININA",
       "category": "Moda"
-    },
-    {
-      "id": "58206703806",
-      "title": "Capinha de silicone macia para iPhone 13 11 12 14 15 16 17 pro max 14 15 16 plus 17 air Padrão bíblico",
-      "price": 17.9,
-      "originalPrice": 59.67,
-      "discountPercent": 70,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvw-mml8yukuutqgf3",
-      "url": "https://s.shopee.com.br/W7oijAUC8",
-      "rating": 4.8,
-      "salesCount": 627,
-      "seller": "Capa Protetora Top",
-      "category": "Eletrônicos"
     },
     {
       "id": "22693482091",
@@ -2146,6 +2148,20 @@
       "category": "Beleza"
     },
     {
+      "id": "19898262315",
+      "title": "Espelho Redondo Decorativo 60x60cm Premium Moderno Para Decoração Banheiro Sala Quarto Lavabo Alta Qualidade",
+      "price": 27.89,
+      "originalPrice": 38.74,
+      "discountPercent": 28,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjbt0wdf5z4675",
+      "url": "https://s.shopee.com.br/W7nLQZr2g",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 691,
+      "seller": "LARDOCELAR DECOR",
+      "category": "Casa e organização"
+    },
+    {
       "id": "58261766323",
       "title": "Kit 5 Rodinhas Cadeira Escritório Gamer Rodízio 50mm Pino 11mm Não Risca Piso Silenciosa Nylon PU Universal Cinza",
       "price": 21.89,
@@ -2170,6 +2186,19 @@
       "salesCount": 3585,
       "seller": "RD ECOM",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "22399278329",
+      "title": "Kit Completo de 5 Peças para Limpeza Vassoura + Rodo + Pá  +balde e Rodo Conjunto de esfregão -S7",
+      "price": 159.99,
+      "originalPrice": 499.97,
+      "discountPercent": 68,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mu4lz0b691xef2",
+      "url": "https://s.shopee.com.br/30p9imlvrx",
+      "rating": 4.5,
+      "salesCount": 894,
+      "seller": "JONALISSA SHOP",
+      "category": "Casa e organização"
     },
     {
       "id": "41022402072",
@@ -2485,6 +2514,19 @@
       "salesCount": 821,
       "seller": "shopwithus",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "55108506021",
+      "title": "Espelho Decorativo Orgânico Nuvem 70x50cm Instalação Rápida",
+      "price": 57.98,
+      "originalPrice": 148.67,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mq4y8emjcs1vd6",
+      "url": "https://s.shopee.com.br/BUwwob7ia",
+      "rating": 4.9,
+      "salesCount": 744,
+      "seller": "Global Shop21",
+      "category": "Casa e organização"
     },
     {
       "id": "19253571158",
@@ -3335,6 +3377,33 @@
       "category": "Casa e organização"
     },
     {
+      "id": "19599890018",
+      "title": "Escova Elétrica de Limpeza 5 em 1 Sem Fio Recarregável Multiuso para Cozinha Banheiro Azulejo",
+      "price": 31.6,
+      "originalPrice": 70.22,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj98stjusbnq22",
+      "url": "https://s.shopee.com.br/2gCJKAnCXv",
+      "rating": 4.8,
+      "salesCount": 1021,
+      "seller": "LAR LEVE SHOP",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58262098897",
+      "title": "Capa Microfibra chão Reutilizável para Rodo e Vassoura Limpeza Cozinha/Móveis Cantos de Paredes",
+      "price": 16.48,
+      "originalPrice": 36.62,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-msrsg5mrdix01c",
+      "url": "https://s.shopee.com.br/1W0Lw1wJl5",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 944,
+      "seller": "VidaBom",
+      "category": "Casa e organização"
+    },
+    {
       "id": "23594541990",
       "title": "Selfie Stick Tripé 1.8M/2M/1.7M, 4 Eixos 360° Rotação Anti-tremor+ Controle Bluetooth Sem Fio para Vlog",
       "price": 49.98,
@@ -3430,6 +3499,20 @@
       "rating": 4.9,
       "salesCount": 966,
       "seller": "MM Plásticos",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58267278388",
+      "title": "KIT 3 Caixas Organizadora Grande Com Tampa Transparente E Sem Tampa Dobrável Resistente Sapateira",
+      "price": 52.9,
+      "originalPrice": 151.14,
+      "discountPercent": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-msk1kbd4g4qub2",
+      "url": "https://s.shopee.com.br/6fiS5WPRsq",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 230,
+      "seller": "LojiniHome",
       "category": "Casa e organização"
     },
     {
@@ -3836,20 +3919,6 @@
       "category": "Cozinha"
     },
     {
-      "id": "20398185214",
-      "title": "Sapateira Organizadora com 9 Prateleiras para Organizar Sapatos Calçados Chinelos Roupas Objetos 24 Pares - Black",
-      "price": 54.99,
-      "originalPrice": 203.67,
-      "discountPercent": 73,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratk-ma318jb4a6ng62",
-      "url": "https://s.shopee.com.br/9zyslEtlem",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2378,
-      "seller": "ZSZ_brasil",
-      "category": "Moda"
-    },
-    {
       "id": "22992868060",
       "title": "Umidificador De Ar Com Grande Capacidade Para Casa/Escritório Com Atmosfera Led Luz Noturna Lâmpada Casa Para Quarto",
       "price": 16.99,
@@ -3877,6 +3946,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "20398185214",
+      "title": "Sapateira Organizadora com 9 Prateleiras para Organizar Sapatos Calçados Chinelos Roupas Objetos 24 Pares - Black",
+      "price": 54.99,
+      "originalPrice": 203.67,
+      "discountPercent": 73,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratk-ma318jb4a6ng62",
+      "url": "https://s.shopee.com.br/9zyslEtlem",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2378,
+      "seller": "ZSZ_brasil",
+      "category": "Moda"
+    },
+    {
       "id": "22594718147",
       "title": "2 Em 1 Vestir Quebra-Cabeça Magnético Crianças 3D Escrita Magnética Tábua De Desenho",
       "price": 59.49,
@@ -3901,6 +3984,20 @@
       "rating": 4.9,
       "salesCount": 2955,
       "seller": "Reusarte Shop",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "22997996599",
+      "title": "Espelho Redondo Decorativo Lapidado Vidro 60cm 50cm 40cm 30cm Sala Quarto Banheiro Hall",
+      "price": 28.89,
+      "originalPrice": 60.19,
+      "discountPercent": 52,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mm6jikncxou843",
+      "url": "https://s.shopee.com.br/qkdk2YaMm",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 762,
+      "seller": "Eddias Home",
       "category": "Casa e organização"
     },
     {
@@ -4039,102 +4136,6 @@
       "official": true,
       "seller": "Beleza Renovada Oficial",
       "category": "Beleza"
-    },
-    {
-      "id": "22094263350",
-      "title": "1 a 10 Metros Fita Mangueira de LED 5050 para Decoração 110V ou 220V Branco Frio/Quente Com Conector",
-      "price": 18.77,
-      "originalPrice": 34.76,
-      "discountPercent": 46,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyf-mch8o56lezpwc6",
-      "url": "https://s.shopee.com.br/3B8YWLOKzG",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2793,
-      "seller": "LUZORA",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "25946709329",
-      "title": "ULTRA HIDRATAÇÃO EFEITO TEIA COM ÓLEOS MARROQUINOS - OURO MARROQUINO - FINA MARIA PROFISSIONAL",
-      "price": 38.9,
-      "originalPrice": 79.39,
-      "discountPercent": 51,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258h-mr1ynaykoao016",
-      "url": "https://s.shopee.com.br/9fM2GJCao4",
-      "rating": 4.9,
-      "salesCount": 31200,
-      "seller": "Distribuidora Oficial Fina Maria",
-      "category": "Beleza"
-    },
-    {
-      "id": "18698826077",
-      "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
-      "price": 149,
-      "originalPrice": 338.64,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
-      "url": "https://s.shopee.com.br/8fTVbN1grU",
-      "rating": 4.9,
-      "salesCount": 1216,
-      "official": true,
-      "seller": "Eletricario Loja Oficial",
-      "category": "Ferramentas"
-    },
-    {
-      "id": "46007151632",
-      "title": "Pendente Triplo Lustre Luminária Aramado Tulipa Cabo Cristal 1 Metro",
-      "price": 59.2,
-      "originalPrice": 80,
-      "discountPercent": 26,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mlqzwskv8d8ke3",
-      "url": "https://s.shopee.com.br/1143wN1adf",
-      "rating": 4.8,
-      "salesCount": 318,
-      "seller": "PJ DECORAÇÕES ",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "21998277686",
-      "title": "Kit 20 Unidades Bebedouros Automáticos Aves Galinhas Codornas",
-      "price": 34.89,
-      "originalPrice": 89.46,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mmccxdwf9uyo8e",
-      "url": "https://s.shopee.com.br/6VP0UVFAa4",
-      "rating": 4.9,
-      "salesCount": 1116,
-      "seller": "WGECOMM",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "23893120291",
-      "title": "Kit 10 Fita Isolante 19mm 5m Rolo Resistente Fogo Umidade Hella",
-      "price": 16.93,
-      "originalPrice": 23.85,
-      "discountPercent": 29,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rffa-m3ck1byt9ww684",
-      "url": "https://s.shopee.com.br/3VlOuzaQBu",
-      "rating": 4.9,
-      "salesCount": 1032,
-      "official": true,
-      "seller": "Ampec",
-      "category": "Ferramentas"
-    },
-    {
-      "id": "22297158685",
-      "title": "Umidificador Atomizador De Ar Doméstico Portátil Umidificador 200ml ANJGG",
-      "price": 15.99,
-      "originalPrice": 79.95,
-      "discountPercent": 80,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259g-mfziriko5yxb36",
-      "url": "https://s.shopee.com.br/5q9JhFaBQM",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2978,
-      "seller": "ANJ.GG store",
-      "category": "Casa e organização",
-      "hot": true
     }
   ]
 }
