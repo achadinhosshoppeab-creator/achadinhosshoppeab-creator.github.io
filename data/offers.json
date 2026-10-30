@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T13:39:03.132Z",
+  "updatedAt": "2026-10-30T13:59:36.868Z",
   "offers": [
     {
       "id": "20042293295",
@@ -706,6 +706,7 @@
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-ms5l9in9msqt7f",
       "url": "https://s.shopee.com.br/70LH5O19XI",
+      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 5054,
       "seller": "Fonte Boa Casa",
