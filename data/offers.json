@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-10-30T00:34:48.796Z",
+  "updatedAt": "2026-10-30T00:55:27.090Z",
   "offers": [
+    {
+      "id": "20042293295",
+      "title": "10 Folhas Artificial Verde Planta, Folhas Artificiais Para Decoração, Folhagens Artificiais Para Decoração",
+      "price": 17.99,
+      "originalPrice": 81.77,
+      "discountPercent": 78,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ba-mqztqvju0qh32e",
+      "url": "https://s.shopee.com.br/8pmvGl3j5R",
+      "rating": 4.9,
+      "salesCount": 1275,
+      "seller": "Vida Criativa ",
+      "category": "Casa e organização"
+    },
     {
       "id": "27620799823",
       "title": "Numbuzin No.9 NAD Bio Lifting Essence 2types 30ml/50ml",
@@ -246,6 +259,19 @@
       "hot": true
     },
     {
+      "id": "58264079626",
+      "title": "Jogo De Tabuleiro Infantil Educativo Em Lona 45x45cm Com Dado e Pinos Resistente",
+      "price": 19.9,
+      "originalPrice": 49.75,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqjadrojjbiba5",
+      "url": "https://s.shopee.com.br/1BYC9HqQW",
+      "rating": 4.8,
+      "salesCount": 489,
+      "seller": "Tem de Tudo Decora",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "21499198919",
       "title": "1/2/5 Pcs Carteiras Fibra De Carbono Porta-Cartões Masculina Marca Preta Mágica Tripla De Couro",
       "price": 16.5,
@@ -412,19 +438,6 @@
       "category": "Eletrônicos"
     },
     {
-      "id": "19299847502",
-      "title": "Kit Decorativo Com 6 Vasos Para Suculentas, Cactus e Plantas Artificiais ou Naturais",
-      "price": 23.87,
-      "originalPrice": 64.51,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjvoz0c8n8qu99",
-      "url": "https://s.shopee.com.br/3VlQL7jxDx",
-      "rating": 4.8,
-      "salesCount": 102,
-      "seller": "Muniz Company",
-      "category": "Casa e organização"
-    },
-    {
       "id": "44110609035",
       "title": "2026 Mais Recente Smartwatch S10 Pro Relógio Série 10 2.08 Polegadas Sem Fio Bluetooth Esportes ALKF",
       "price": 42.99,
@@ -493,7 +506,8 @@
       "rating": 4.8,
       "salesCount": 4935,
       "seller": "HACKBERRY",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "29424706558",
@@ -714,6 +728,19 @@
       "category": "Moda"
     },
     {
+      "id": "42629343558",
+      "title": "Jogo da memoria sonoro e visual,memory game tipo genius luz e som Pura Nostalgia",
+      "price": 17,
+      "originalPrice": 51.52,
+      "discountPercent": 67,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262q-mlyxl7ut40ece9",
+      "url": "https://s.shopee.com.br/W7on4FwPf",
+      "rating": 4.9,
+      "salesCount": 395,
+      "seller": "BRINQUE E PENSE",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "58207572793",
       "title": "Luminária Retrô de Mesa LED Recarregável com Cúpula Transparente e Controle por Toque Dourada",
       "price": 54,
@@ -794,20 +821,6 @@
       "salesCount": 3549,
       "seller": "SHR ELETRONICOS",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "22591222586",
-      "title": "KIT 2 Baralho Conjunto Cartão de Jogo Dourado 24k Prova D'água Promoção",
-      "price": 23.99,
-      "originalPrice": 47.98,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lgsqbykc2hor1b",
-      "url": "https://s.shopee.com.br/2LZRWqNGWl",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1435,
-      "seller": "REAL MO",
-      "category": "Pet e bebê"
     },
     {
       "id": "58266694509",
@@ -933,6 +946,19 @@
       "category": "Moda"
     },
     {
+      "id": "21699242351",
+      "title": "2 conjunto Baralho Cartão de Jogo Dourado 24k Prova D'água Promoção",
+      "price": 22.99,
+      "originalPrice": 44.21,
+      "discountPercent": 48,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltx7v54enazp65",
+      "url": "https://s.shopee.com.br/60SlLAv0G8",
+      "rating": 4.9,
+      "salesCount": 166,
+      "seller": "RISESHOP_brasil",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "58258677338",
       "title": "Porta Retrato Decoração Sala Quadro de Fotos Porta Retrato Parede Decorativo Mdf 40x70 Árvore Molduras Foto Família",
       "price": 16,
@@ -970,6 +996,20 @@
       "salesCount": 4915,
       "seller": "GRISEL MODAS",
       "category": "Moda"
+    },
+    {
+      "id": "23799026606",
+      "title": "Jogo Stop Caça Palavras Brinquedo Responde Rápido Português",
+      "price": 55.98,
+      "originalPrice": 243.39,
+      "discountPercent": 77,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257t-mfxmyk2msbns23",
+      "url": "https://s.shopee.com.br/4fxNkj04xk",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 210,
+      "seller": "VoLog Loja",
+      "category": "Pet e bebê"
     },
     {
       "id": "23398865735",
@@ -1108,19 +1148,6 @@
       "salesCount": 812,
       "seller": "Super Vida_BR",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "58266747188",
-      "title": "Nc-10 Sérum com 10% de Niacinamida e 1% de Zinco PCA com alta eficácia contra acnes 4678",
-      "price": 24.9,
-      "originalPrice": 118.57,
-      "discountPercent": 79,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258y-ms7effpra9zc4a",
-      "url": "https://s.shopee.com.br/5VWTIeJRxc",
-      "rating": 4.9,
-      "salesCount": 1191,
-      "seller": "VICTORIA BAZAR EIRELI",
-      "category": "Beleza"
     },
     {
       "id": "21999323729",
@@ -1450,6 +1477,20 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "23693606002",
+      "title": "Bonsai Artificial Plástico Realista Natural Pinho Bonsai para Decorações",
+      "price": 17.98,
+      "originalPrice": 89.9,
+      "discountPercent": 80,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m6pupa3kdjxs6c",
+      "url": "https://s.shopee.com.br/AKbj3Vy12c",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1469,
+      "seller": "osiriloko",
+      "category": "Casa e organização"
+    },
+    {
       "id": "21499491641",
       "title": "Mop C/ cabo de 140 cm + 2 Refis - Rodinhas e Cesto Em Inox - Balde Centrífuga - CH",
       "price": 59.9,
@@ -1474,6 +1515,19 @@
       "rating": 4.8,
       "salesCount": 1164,
       "seller": "lovelife1c1.br",
+      "category": "Beleza"
+    },
+    {
+      "id": "58266747188",
+      "title": "Nc-10 Sérum com 10% de Niacinamida e 1% de Zinco PCA com alta eficácia contra acnes 4678",
+      "price": 29.99,
+      "originalPrice": 119.96,
+      "discountPercent": 75,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258y-ms7effpra9zc4a",
+      "url": "https://s.shopee.com.br/5VWTIeJRxc",
+      "rating": 4.9,
+      "salesCount": 1191,
+      "seller": "VICTORIA BAZAR EIRELI",
       "category": "Beleza"
     },
     {
@@ -1518,20 +1572,6 @@
       "official": true,
       "seller": "Salon Line",
       "category": "Beleza"
-    },
-    {
-      "id": "23199359161",
-      "title": "Porta Pincéis De Maquiagem Decorativo Corações Almofadados Organizador Moderno Fosco",
-      "price": 19.97,
-      "originalPrice": 64.42,
-      "discountPercent": 69,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zuc-ml27jlzrzw1tb5",
-      "url": "https://s.shopee.com.br/2LZSwz2LnB",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 403,
-      "seller": "CR3D BRINDES E DECORAÇÃO LTDA.",
-      "category": "Casa e organização"
     },
     {
       "id": "58259403968",
@@ -2035,34 +2075,6 @@
       "salesCount": 382,
       "seller": "FZZYSTAR.store",
       "category": "Beleza"
-    },
-    {
-      "id": "48412637441",
-      "title": "Plantas Para Aquário Artificial - Kit 20 Unidades - Mais Vida e Beleza Para Seu Aquário",
-      "price": 16.89,
-      "originalPrice": 41.2,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mps6q80hei2o77",
-      "url": "https://s.shopee.com.br/8AXFthRyyK",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 482,
-      "seller": "Heros Easy Store",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58261062245",
-      "title": "Kit Escultura e Vaso Decorativo – Ideal para Plantas Artificiais e Arranjos Decorativos para seu lar",
-      "price": 24.9,
-      "originalPrice": 69.17,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lo-mqyu9mfsjwn9f2",
-      "url": "https://s.shopee.com.br/8VA6IJQiIQ",
-      "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 351,
-      "seller": "3DIMENSOES DECOR",
-      "category": "Casa e organização"
     },
     {
       "id": "50160899989",
@@ -2871,6 +2883,20 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "23199140933",
+      "title": "Planta Decorativa: Vasos Trançado Marrom + Pendentes Artificial Folhas De Bambu",
+      "price": 20.89,
+      "originalPrice": 49.74,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgfhxy1flv5z73",
+      "url": "https://s.shopee.com.br/LoN98Z3S8",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1038,
+      "seller": "Kardía",
+      "category": "Casa e organização"
+    },
+    {
       "id": "58263203459",
       "title": "Kit Limpa Vidro Magnético Prático Dupla Face Rodo Mágico Janelas",
       "price": 24.88,
@@ -2932,7 +2958,7 @@
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7reqd-m8azulf99rip90",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82600-mlbw7dkwakudc3",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -3131,6 +3157,19 @@
       "category": "Moda"
     },
     {
+      "id": "58208027058",
+      "title": "Jogo de Xadrez Magnético Tabuleiro Estratégia Lógica",
+      "price": 29.8,
+      "originalPrice": 69.3,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mmir22alysxw80",
+      "url": "https://s.shopee.com.br/3g4qYt3szS",
+      "rating": 4.7,
+      "salesCount": 212,
+      "seller": "Tudo Bom ",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "23498810233",
       "title": "Kit Jornal Pet Higiênico 50/100/150/200 Folhas Biodegradável Atóxico Não Mancha",
       "price": 17.8,
@@ -3296,6 +3335,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "58203212212",
+      "title": "Vaso Polietileno + Planta Artificial Jiboia Follhas Grande Decoracao Jardim",
+      "price": 66.9,
+      "originalPrice": 148.67,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfu8i6hejnl3c",
+      "url": "https://s.shopee.com.br/60SjtYEVpc",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2111,
+      "seller": "Zestos",
+      "category": "Casa e organização"
+    },
+    {
       "id": "58251353658",
       "title": "Varal De Chão Com Abas Dobrável Aço Secalux 12kg Varal de Apartamento Retratil",
       "price": 59.9,
@@ -3338,20 +3391,6 @@
       "category": "Moda"
     },
     {
-      "id": "58217930618",
-      "title": "Xadrez Magnético Jogo de Xadrez Magnético Jogos De Tabuleiro Jogo Magnético Jogos Educativos 32 Esferas Com Ímã Portátil",
-      "price": 25.66,
-      "originalPrice": 57.02,
-      "discountPercent": 55,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mszb90a5o6iu28",
-      "url": "https://s.shopee.com.br/LoN9AUsaR",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 1306,
-      "seller": "Mercado Elite",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "23794773040",
       "title": "Protetor Adesivo Arranhador para Gato – Evite Danos em Sofás e Móveis",
       "price": 17.9,
@@ -3392,6 +3431,20 @@
       "official": true,
       "seller": "Astgn X Basike",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "58202085853",
+      "title": "Porta Escovas e Creme Dental com Tampa e Organizador para Banheiro Higiênico",
+      "price": 15.8,
+      "originalPrice": 21.07,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mrbng35iy49101",
+      "url": "https://s.shopee.com.br/4Vdw6nNf9L",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 966,
+      "seller": "MM Plásticos",
+      "category": "Casa e organização"
     },
     {
       "id": "23998775294",
@@ -3502,32 +3555,6 @@
       "rating": 4.8,
       "salesCount": 883,
       "seller": "ArtWall",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "21533616694",
-      "title": "Kit 3 Mini Vasinhos com Planta FLOR artificial Enfeite Bob Robert para Decoração Casa vaso de plástico tamanho mini 6 cm",
-      "price": 20.98,
-      "originalPrice": 34.39,
-      "discountPercent": 39,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23030-4cb0m6tksdovc0",
-      "url": "https://s.shopee.com.br/1W0LxRrMUv",
-      "rating": 4.7,
-      "salesCount": 627,
-      "seller": "SempreLima Decoração",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "22398043564",
-      "title": "Kit 3 Mini Vasinhos com Planta artificial INCLUSA Bob Dog Robert para Lembrancinha Decoração decorativo Casa de plástico",
-      "price": 22.97,
-      "originalPrice": 49.93,
-      "discountPercent": 54,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mraigrzz8a2taf",
-      "url": "https://s.shopee.com.br/9pfTslLdao",
-      "rating": 4.9,
-      "salesCount": 327,
-      "seller": "SempreLima Decoração",
       "category": "Casa e organização"
     },
     {
@@ -3806,21 +3833,6 @@
       "salesCount": 1521,
       "seller": "LUIZ STORE  BR",
       "category": "Ferramentas"
-    },
-    {
-      "id": "21099836557",
-      "title": "Processador Triturador De Alimentos New Oggi Mallory Cor Preto",
-      "price": 66.99,
-      "originalPrice": 117.53,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwm-mc2jv1qmrooz0e",
-      "url": "https://s.shopee.com.br/1LguN2wjqx",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3670,
-      "official": true,
-      "seller": "Tudão Tech  Ltda",
-      "category": "Cozinha"
     },
     {
       "id": "20398185214",
@@ -4121,21 +4133,6 @@
       "official": true,
       "seller": "Ampec",
       "category": "Ferramentas"
-    },
-    {
-      "id": "22297158685",
-      "title": "Umidificador Atomizador De Ar Doméstico Portátil Umidificador 200ml ANJGG",
-      "price": 15.99,
-      "originalPrice": 79.95,
-      "discountPercent": 80,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259g-mfziriko5yxb36",
-      "url": "https://s.shopee.com.br/5q9JhFaBQM",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2978,
-      "seller": "ANJ.GG store",
-      "category": "Casa e organização",
-      "hot": true
     }
   ]
 }
