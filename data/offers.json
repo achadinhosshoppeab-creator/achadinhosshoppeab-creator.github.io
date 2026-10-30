@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T12:36:57.708Z",
+  "updatedAt": "2026-10-30T12:57:41.909Z",
   "offers": [
     {
       "id": "20042293295",
@@ -706,7 +706,6 @@
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-ms5l9in9msqt7f",
       "url": "https://s.shopee.com.br/70LH5O19XI",
-      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 5054,
       "seller": "Fonte Boa Casa",
@@ -741,20 +740,6 @@
       "category": "Moda"
     },
     {
-      "id": "19499571684",
-      "title": "Extra grosso Organizador De Guarda-Roupa Dobrável Para Roupas E Calças Grande Dura Alto Qualidade",
-      "price": 19.29,
-      "originalPrice": 96.45,
-      "discountPercent": 80,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m45k6a93pmph36",
-      "url": "https://s.shopee.com.br/4B17vvg7wp",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 469,
-      "seller": "SUPERMERCADO RJ",
-      "category": "Casa e organização"
-    },
-    {
       "id": "53465088216",
       "title": "Body Splash Feminino Morango 180ml Perfume Corporal Cheiroso Fixação Longa Fragrância Doce Gourmand Blow Girl",
       "price": 28.9,
@@ -765,19 +750,6 @@
       "rating": 4.8,
       "salesCount": 755,
       "seller": "Blow Girl Oficial",
-      "category": "Beleza"
-    },
-    {
-      "id": "58262515173",
-      "title": "Paleta de Sombras Rosa Tropical 15 Cores Alta Pigmentação Matte e Glitter",
-      "price": 48.9,
-      "originalPrice": 108.67,
-      "discountPercent": 55,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824jl-mpi2yo1fkyrw69",
-      "url": "https://s.shopee.com.br/1qdD9eJoDB",
-      "rating": 4.9,
-      "salesCount": 58,
-      "seller": "Rosa Tropical",
       "category": "Beleza"
     },
     {
@@ -1959,6 +1931,20 @@
       "category": "Beleza"
     },
     {
+      "id": "22598903793",
+      "title": "Kit Rotina Skin Care Sérum Tudo em 1 Multifunção Sabonete e creme hidratante facial",
+      "price": 112.9,
+      "originalPrice": 161.29,
+      "discountPercent": 30,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mqm8j2nwk26b75",
+      "url": "https://s.shopee.com.br/906NiH4qEQ",
+      "rating": 4.9,
+      "salesCount": 213,
+      "official": true,
+      "seller": "KOKESHI OFICIAL",
+      "category": "Beleza"
+    },
+    {
       "id": "14494160625",
       "title": "Kit Shampoo + Condicionador SOS Bomba Original Salon Line 200ml",
       "price": 19.95,
@@ -2825,6 +2811,21 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23099869803",
+      "title": "Kit Clareador Facial Completo Hidrabene – Sabonete, Sérum Multicorretivo, Hidratante e Protetor Solar FPS 70",
+      "price": 99.9,
+      "originalPrice": 237.86,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mu9bv5wfqps110",
+      "url": "https://s.shopee.com.br/9zyuu712CS",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 251,
+      "official": true,
+      "seller": "Hidrabene ",
+      "category": "Beleza"
+    },
+    {
       "id": "58254155069",
       "title": "Kit com 3 Máscaras SOS Hidratação: Ultra Cachos + Turbinada + Bio-Reconstrução Salon Line",
       "price": 58.7,
@@ -2858,7 +2859,7 @@
       "price": 59,
       "originalPrice": 140.48,
       "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvx-mimqxns395oicb",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zto-mimqzrbp86is9a",
       "url": "https://s.shopee.com.br/8fTV4TlxDL",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -2948,20 +2949,6 @@
       "salesCount": 446,
       "seller": "LojaZini",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "58254036883",
-      "title": "Batom Mágico SACE LADY  hidratante labial de longa duração brilho",
-      "price": 55.99,
-      "originalPrice": 130.21,
-      "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mr6rlefcuj2f30",
-      "url": "https://s.shopee.com.br/9V2eHjqcbP",
-      "rating": 4.8,
-      "salesCount": 98,
-      "official": true,
-      "seller": "SACE LADY Brasil",
-      "category": "Beleza"
     },
     {
       "id": "18999784319",
@@ -3194,20 +3181,6 @@
       "category": "Eletrônicos"
     },
     {
-      "id": "23094631884",
-      "title": "Kit Terapia Capilar Loca Cosmetics - Óleo Coco + Ricino + Alecrim 60ml OU 3 Óleos + Pente Aplicador",
-      "price": 27.69,
-      "originalPrice": 40.13,
-      "discountPercent": 31,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mugvntynlczk9c",
-      "url": "https://s.shopee.com.br/2VssfNFWtq",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1624,
-      "seller": "Valorosa Beauty Hair",
-      "category": "Beleza"
-    },
-    {
       "id": "3958758961",
       "title": "óculos de sol hexagonal masculino feminino com lente preta escura armação metal geométrico blogueira",
       "price": 16.9,
@@ -3374,6 +3347,20 @@
       "official": true,
       "seller": "Inova Loja Oficial",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "23094631884",
+      "title": "Kit Terapia Capilar Loca Cosmetics - Óleo Coco + Ricino + Alecrim 60ml OU 3 Óleos + Pente Aplicador",
+      "price": 27.99,
+      "originalPrice": 39.99,
+      "discountPercent": 30,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mugvntynlczk9c",
+      "url": "https://s.shopee.com.br/2VssfNFWtq",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1624,
+      "seller": "Valorosa Beauty Hair",
+      "category": "Beleza"
     },
     {
       "id": "22394494115",
@@ -3873,19 +3860,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "19397732017",
-      "title": "Guarda Chuva Para Brisa Carro Protetor Parasol Tapa Sol Automotivo Retratil Dobravel Protecao UV Termico Com Capa",
-      "price": 19.89,
-      "originalPrice": 60.27,
-      "discountPercent": 67,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-munucxdisirn0c",
-      "url": "https://s.shopee.com.br/9fM2GJ3nFA",
-      "rating": 4.8,
-      "salesCount": 2240,
-      "seller": "SLX loja",
-      "category": "Beleza"
-    },
-    {
       "id": "43882953952",
       "title": "Kit 6 Frascos Organizadores Banheiro 500ml Âmbar com Pump, Shampoo Condicionador Sabonete Máscara Sabonete Facial Íntimo",
       "price": 39.9,
@@ -4130,6 +4104,34 @@
       "rating": 4.7,
       "salesCount": 957,
       "seller": "MAWI 3D",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "23798670714",
+      "title": "Fita LED RGB 3528 5M 300 LEDs IP65 à Prova D'Água com Fonte Inclusa – Iluminação Colorida e Flexível",
+      "price": 16.99,
+      "originalPrice": 33.98,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra0r-mbe0liual91f04",
+      "url": "https://s.shopee.com.br/3qOFJZLndK",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2305,
+      "seller": "TMR E-commerce",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58269531963",
+      "title": "Kit Coala Coleção de Lançamentos - Limpadores Perfumados Coala 500ml",
+      "price": 29.9,
+      "originalPrice": 59.8,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mts5kylhkpoh2a",
+      "url": "https://s.shopee.com.br/60Sm34vSJa",
+      "rating": 4.9,
+      "salesCount": 4110,
+      "official": true,
+      "seller": "Coala Essências Oficial",
       "category": "Casa e organização"
     }
   ]
