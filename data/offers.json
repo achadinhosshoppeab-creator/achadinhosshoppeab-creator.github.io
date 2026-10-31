@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T14:35:03.608Z",
+  "updatedAt": "2026-10-31T14:56:18.340Z",
   "offers": [
     {
       "id": "54558362287",
@@ -141,20 +141,6 @@
       "official": true,
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza"
-    },
-    {
-      "id": "46306153826",
-      "title": "Espelho Para Banheiro Redondo Penteadeira Decorativo Sala Quarto Hall Adnet Costurado 60cm Sem Alça",
-      "price": 21.9,
-      "originalPrice": 39.82,
-      "discountPercent": 45,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mqfdsob63ri9c3",
-      "url": "https://s.shopee.com.br/6L5cATXxVr",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 697,
-      "seller": "Eddias Home",
-      "category": "Casa e organização"
     },
     {
       "id": "23898813796",
@@ -305,20 +291,6 @@
       "seller": "Brincakids",
       "category": "Pet e bebê",
       "hot": true
-    },
-    {
-      "id": "22398906461",
-      "title": "Kit Pancake Branco + Batom  Preto Halloween Maquiagem Artística Bruxa Festa Fantasia Colormake",
-      "price": 15.3,
-      "originalPrice": 19.98,
-      "discountPercent": 23.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mshcold93shxfc",
-      "url": "https://s.shopee.com.br/AAIMZSPyTV",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1408,
-      "seller": "Loja do Abençoado F",
-      "category": "Beleza"
     },
     {
       "id": "22298568813",
