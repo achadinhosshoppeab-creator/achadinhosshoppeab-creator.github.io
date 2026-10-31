@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T16:42:36.040Z",
+  "updatedAt": "2026-10-31T17:03:51.309Z",
   "offers": [
     {
       "id": "54558362287",
@@ -15,6 +15,19 @@
       "seller": "Adora ",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "50206145135",
+      "title": "KIT  02 pares Tenis Feminino Escolar Academia Original FREEDOM Corrida Caminhada PROMOCAO ROSA PINK + VERDE AGUA",
+      "price": 89.9,
+      "originalPrice": 169.62,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mujb92vyelts4c",
+      "url": "https://s.shopee.com.br/5fpxbueZJu",
+      "rating": 4.9,
+      "salesCount": 333,
+      "seller": "Cirandinha Shoes",
+      "category": "Moda"
     },
     {
       "id": "58206578231",
@@ -72,6 +85,20 @@
       "category": "Beleza"
     },
     {
+      "id": "22693075529",
+      "title": "Tênis Meia Feminino Kross Slip-On Confortável Leve Esportivo Academia Casual Caminhada Corrida",
+      "price": 29.99,
+      "originalPrice": 68.16,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3fqmfkm9qnp13",
+      "url": "https://s.shopee.com.br/7puSBtWJv9",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 530,
+      "seller": "Tênis Kross",
+      "category": "Moda"
+    },
+    {
       "id": "58254949260",
       "title": "Tapple Stop – Jogo de Tabuleiro Trava Letras com Temporizador – Versão GRANDE 24cm – Português",
       "price": 38.9,
@@ -115,6 +142,19 @@
       "hot": true
     },
     {
+      "id": "23197987887",
+      "title": "Tenis Feminino Escolar Academia Original FREEDOM Corrida Caminhada Lançamento Feminino BRANCO PINK",
+      "price": 45.9,
+      "originalPrice": 80.53,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1regd7muqp6f9",
+      "url": "https://s.shopee.com.br/3LS2pcnS3d",
+      "rating": 4.8,
+      "salesCount": 280,
+      "seller": "Cirandinha Shoes",
+      "category": "Moda"
+    },
+    {
       "id": "58216416889",
       "title": "Jogo de Tabuleiro Educativo Pense Rápido 24cm com Cartas em Português",
       "price": 38.9,
@@ -141,6 +181,20 @@
       "official": true,
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza"
+    },
+    {
+      "id": "23498371808",
+      "title": "Kit 2 Tênis Feminino  Branco Preto Ping Coração Casual Confortável",
+      "price": 50.9,
+      "originalPrice": 121.19,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aj-mfww5b4iy0b2c3",
+      "url": "https://s.shopee.com.br/40hjcqkuhh",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 307,
+      "seller": "BARUC ON-LINE CALÇADOS ",
+      "category": "Moda"
     },
     {
       "id": "46306153826",
@@ -293,6 +347,19 @@
       "category": "Casa e organização"
     },
     {
+      "id": "14234121012",
+      "title": "Tênis Ortopédico sapato feminino P/Esporão Original Leve tenis femenino",
+      "price": 39.89,
+      "originalPrice": 79.78,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mp83lxfe8u12b2",
+      "url": "https://s.shopee.com.br/6VP4bRbOd1",
+      "rating": 4.8,
+      "salesCount": 395,
+      "seller": "Shop Catita",
+      "category": "Moda"
+    },
+    {
       "id": "58251465024",
       "title": "Brinquedo Lousa Magnética 3 em 1 Infantil Quebra Cabeça Magnético de Feições Madeira Educativo Pedagógico com Canetinha",
       "price": 59.49,
@@ -348,6 +415,20 @@
       "category": "Beleza"
     },
     {
+      "id": "22799427240",
+      "title": "Tenis Infantil Feminino Menina De Velcro Confortavel com solado Leve, Macio e Antiderrapante",
+      "price": 49.99,
+      "originalPrice": 79.35,
+      "discountPercent": 37,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mou3pj3e87wj09",
+      "url": "https://s.shopee.com.br/4LKa1Sje1n",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 310,
+      "seller": "Wizze Calçados",
+      "category": "Moda"
+    },
+    {
       "id": "22593191479",
       "title": "Kit Organizadores Acrílico Cristal Modular Para Geladeiras Gavetas e Maquiagens",
       "price": 33.9,
@@ -374,6 +455,19 @@
       "salesCount": 1742,
       "seller": "KEEP SHOP",
       "category": "Beleza"
+    },
+    {
+      "id": "22494423084",
+      "title": "Tenis Sapatenis Masculino Feminino Sports Campsio Todo Preto Casual Skate Confortavel Leve Macio Top",
+      "price": 79.9,
+      "originalPrice": 119.25,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mtpnknl2qi2p9c",
+      "url": "https://s.shopee.com.br/4Ve0Dlj0go",
+      "rating": 4.9,
+      "salesCount": 335,
+      "seller": "THG SHOES_",
+      "category": "Moda"
     },
     {
       "id": "22298568813",
