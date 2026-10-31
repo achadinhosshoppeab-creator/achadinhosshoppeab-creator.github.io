@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T14:13:50.734Z",
+  "updatedAt": "2026-10-31T14:35:03.608Z",
   "offers": [
     {
       "id": "54558362287",
@@ -305,6 +305,20 @@
       "seller": "Brincakids",
       "category": "Pet e bebê",
       "hot": true
+    },
+    {
+      "id": "22398906461",
+      "title": "Kit Pancake Branco + Batom  Preto Halloween Maquiagem Artística Bruxa Festa Fantasia Colormake",
+      "price": 15.3,
+      "originalPrice": 19.98,
+      "discountPercent": 23.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mshcold93shxfc",
+      "url": "https://s.shopee.com.br/AAIMZSPyTV",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1408,
+      "seller": "Loja do Abençoado F",
+      "category": "Beleza"
     },
     {
       "id": "22298568813",
