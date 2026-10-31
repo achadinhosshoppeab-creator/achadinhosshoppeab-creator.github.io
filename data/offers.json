@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T17:25:00.668Z",
+  "updatedAt": "2026-10-31T17:46:21.045Z",
   "offers": [
     {
       "id": "54558362287",
@@ -27,8 +27,7 @@
       "rating": 4.9,
       "salesCount": 2701,
       "seller": "Bela Beleza Oficial",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "18297829933",
@@ -86,6 +85,19 @@
       "hot": true
     },
     {
+      "id": "18829346428",
+      "title": "Kit Acessórios Banheiro Papeleira + Saboneteira Aço Inox Conjunto Completo",
+      "price": 19,
+      "originalPrice": 31.15,
+      "discountPercent": 39,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lj-mqxeojyd2mmfaf",
+      "url": "https://s.shopee.com.br/2LZVgiRNgp",
+      "rating": 4.8,
+      "salesCount": 200,
+      "seller": "CS acabamentos",
+      "category": "Casa e organização"
+    },
+    {
       "id": "18299268001",
       "title": "Saco Plástico PP Transparente Com Aba Adesiva 100 Un Saquinho Para Embalagem de Roupas e Artesanatos",
       "price": 16.97,
@@ -115,6 +127,19 @@
       "hot": true
     },
     {
+      "id": "22398660144",
+      "title": "Saboneteira Luxo Com Vidro Incolor 8mm P/ Banheiro/Lavabo",
+      "price": 29.9,
+      "originalPrice": 65,
+      "discountPercent": 54,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820mh-mqxl7qmu2cxwc0",
+      "url": "https://s.shopee.com.br/1BNYIZVp3i",
+      "rating": 4.9,
+      "salesCount": 208,
+      "seller": "CASA FORTE ACABAMENTOS",
+      "category": "Casa e organização"
+    },
+    {
       "id": "58216416889",
       "title": "Jogo de Tabuleiro Educativo Pense Rápido 24cm com Cartas em Português",
       "price": 38.9,
@@ -129,18 +154,31 @@
       "hot": true
     },
     {
-      "id": "22093231630",
-      "title": "Sabonete Facial em Gel Pele de Porcelana 190ml Kokeshi",
-      "price": 42.09,
-      "originalPrice": 49.9,
-      "discountPercent": 15.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mrszxvch3f2d73",
-      "url": "https://s.shopee.com.br/1BWkXeJrl",
+      "id": "41683451322",
+      "title": "Kit 5 Esmalte Impala Coleção Cacau Show 5 cores - Lançamento",
+      "price": 46.27,
+      "originalPrice": 87.3,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mrq8ve7egzyf97",
+      "url": "https://s.shopee.com.br/BV16kqp9i",
       "rating": 4.9,
-      "salesCount": 728,
-      "official": true,
-      "seller": "KOKESHI OFICIAL",
+      "salesCount": 625,
+      "seller": "Monamor Cosméticos",
       "category": "Beleza"
+    },
+    {
+      "id": "18766470949",
+      "title": "KIT 5 Esmaltes Gel COM ANVISA VAL: 12/26 Led Uv Zem Nail Gel Soak Off Color Coat 10ml Uv/Led Novas Cores",
+      "price": 19.99,
+      "originalPrice": 99.95,
+      "discountPercent": 80,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23030-et92nrzwmdova5",
+      "url": "https://s.shopee.com.br/8AXIdSMMv0",
+      "rating": 4.9,
+      "salesCount": 815,
+      "seller": "TINTINNAILCENTER",
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "46306153826",
@@ -155,6 +193,33 @@
       "salesCount": 697,
       "seller": "Eddias Home",
       "category": "Casa e organização"
+    },
+    {
+      "id": "58207410313",
+      "title": "Kit Francesinha Esmalte em Gel Dafu Sem TPO/HEMA Branco Renda + Puríssimo Nails Unhas Designer",
+      "price": 43.98,
+      "originalPrice": 79.96,
+      "discountPercent": 45,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mqleq5qou4uaf3",
+      "url": "https://s.shopee.com.br/LoRJ3qBoj",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 704,
+      "seller": "KASH OFICIAL",
+      "category": "Beleza"
+    },
+    {
+      "id": "22594886953",
+      "title": "Fita Líquida Anti-Borrado Cora 10ml",
+      "price": 16.03,
+      "originalPrice": 30.25,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mqwm4tetl2bo44",
+      "url": "https://s.shopee.com.br/1LgyUtmNn5",
+      "rating": 4.9,
+      "salesCount": 565,
+      "seller": "BejuVariedades",
+      "category": "Beleza"
     },
     {
       "id": "23898813796",
@@ -183,6 +248,21 @@
       "salesCount": 3289,
       "seller": "BRILLIA",
       "category": "Casa e organização"
+    },
+    {
+      "id": "18698032904",
+      "title": "Vestido Infantil Menina Princesa Vermelho  Natal Listrado Barrado Varias Cores para Festas De Natal",
+      "price": 33.9,
+      "originalPrice": 102.73,
+      "discountPercent": 67,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-musm60a0v20yb6",
+      "url": "https://s.shopee.com.br/30pCTy2nDD",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1967,
+      "seller": "Florenzza kids",
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "20999494647",
@@ -303,8 +383,21 @@
       "rating": 4.9,
       "salesCount": 1222,
       "seller": "Brincakids",
-      "category": "Pet e bebê",
-      "hot": true
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "22499544921",
+      "title": "Porta Sabonete Líquido Dispenser Saboneteira Alcool Gel Bmax",
+      "price": 27.9,
+      "originalPrice": 39.86,
+      "discountPercent": 30,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mt6v4ucvqmmc09",
+      "url": "https://s.shopee.com.br/2Vsvt1QkLq",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 282,
+      "seller": "AUREA LUX COSMETICOS",
+      "category": "Casa e organização"
     },
     {
       "id": "22298654389",
