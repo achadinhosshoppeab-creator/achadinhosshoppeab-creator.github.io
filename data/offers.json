@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T04:47:02.741Z",
+  "updatedAt": "2026-10-31T06:53:11.342Z",
   "offers": [
     {
       "id": "23394239273",
@@ -195,6 +195,20 @@
       "seller": "Aureum Vitae",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "23198735870",
+      "title": "1 a 10 Metros Fita Mangueira de LED 5050 para Decoração Com Conector 110V ou 220V Branco Frio/Quente",
+      "price": 19.77,
+      "originalPrice": 31.77,
+      "discountPercent": 37.8,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvx-mch98dk3g6zu79",
+      "url": "https://s.shopee.com.br/3LRyieNheD",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 3289,
+      "seller": "BRILLIA",
+      "category": "Casa e organização"
     },
     {
       "id": "20999494647",
