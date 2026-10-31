@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T03:44:40.462Z",
+  "updatedAt": "2026-10-31T04:15:59.623Z",
   "offers": [
     {
       "id": "23394239273",
@@ -101,6 +101,19 @@
       "hot": true
     },
     {
+      "id": "14241654483",
+      "title": "Amplificador De Imagem Da Tela Do Celular Ampliada Lupa 3d Tela",
+      "price": 16.98,
+      "originalPrice": 29.79,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b2-musyns3rhqm886",
+      "url": "https://s.shopee.com.br/9KjF7udlri",
+      "rating": 4.6,
+      "salesCount": 2932,
+      "seller": "MAX MO (Atacado & Varejo)",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "22093231630",
       "title": "Sabonete Facial em Gel Pele de Porcelana 190ml Kokeshi",
       "price": 42.09,
@@ -113,6 +126,20 @@
       "official": true,
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza"
+    },
+    {
+      "id": "23097284836",
+      "title": "GS 2 Em 1 Kit Clip De Lente Do Telefone Móvel Externo HD Macro 37mm 49UV 0.45x Super Grande Angular 12.5x Da Câmera",
+      "price": 19.98,
+      "originalPrice": 76.85,
+      "discountPercent": 74,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-lylii0zdrz8l3e",
+      "url": "https://s.shopee.com.br/AAIM7RabAp",
+      "rating": 4.8,
+      "salesCount": 3743,
+      "seller": "Victoria.vida",
+      "category": "Eletrônicos",
+      "hot": true
     },
     {
       "id": "20998101213",
@@ -224,19 +251,6 @@
       "category": "Moda"
     },
     {
-      "id": "58205605828",
-      "title": "Protetor Solar FPS 70 SunCare UVA+UVB Toque Seco Resistente à Água 150ml",
-      "price": 22,
-      "originalPrice": 30.3,
-      "discountPercent": 27.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mq9jfhtd0mpt16",
-      "url": "https://s.shopee.com.br/7faxsdBPJ6",
-      "rating": 4.8,
-      "salesCount": 1630,
-      "seller": "Universo Cosmetico",
-      "category": "Beleza"
-    },
-    {
       "id": "22593191349",
       "title": "Kit com 7 Organizadores Acrílico Cristal Modular Para Geladeiras Gavetas e Maquiagens",
       "price": 33.9,
@@ -262,8 +276,7 @@
       "rating": 4.8,
       "salesCount": 445,
       "seller": "MOCHILA FASHION",
-      "category": "Eletrônicos",
-      "hot": true
+      "category": "Eletrônicos"
     },
     {
       "id": "50802620838",
