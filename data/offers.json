@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T19:32:47.851Z",
+  "updatedAt": "2026-10-31T19:54:06.776Z",
   "offers": [
     {
       "id": "54558362287",
@@ -17,35 +17,6 @@
       "hot": true
     },
     {
-      "id": "22698367077",
-      "title": "Cadeira Gamer Roxa com Almofadas Cervical/Lombar - Conforto Ergonômico, Reclinável 120°, Braço 1D, Suporta 150kg, Tecido",
-      "price": 469.42,
-      "originalPrice": 2040.96,
-      "discountPercent": 77,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m804sx1eolqpf0",
-      "url": "https://s.shopee.com.br/6VP4JyXwBz",
-      "rating": 4.9,
-      "salesCount": 88,
-      "official": true,
-      "seller": " VIE IDÉALE",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "55952920735",
-      "title": "Coleira Para Prevenção De Pulgas E Carrapatos-Ajustável À Prova D'água, Cães Gatos, Veterinários",
-      "price": 19.9,
-      "originalPrice": 66.33,
-      "discountPercent": 70,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mi45d6jmwv7of3",
-      "url": "https://s.shopee.com.br/80DsYQlKt7",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 636,
-      "seller": "kimi.br",
-      "category": "Pet e bebê",
-      "hot": true
-    },
-    {
       "id": "58206578231",
       "title": "Óleo Extraordinário 100ml NEW HAIR + Máscara Extraordinário 300g NEW HAIR | Fio sedoso e protegido",
       "price": 27.49,
@@ -59,21 +30,6 @@
       "category": "Beleza"
     },
     {
-      "id": "13073924275",
-      "title": "Peitoral Mais a Guia para Cachorro Coleira Para Caes E Gatos Colete Regulavel Super Confortavel Pet",
-      "price": 15.99,
-      "originalPrice": 39.98,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/73ed1beb9fd4cd6d5d83f5d97768a40c",
-      "url": "https://s.shopee.com.br/AAIN8Pd5Ui",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 457,
-      "seller": "Mega Store Leve",
-      "category": "Pet e bebê",
-      "hot": true
-    },
-    {
       "id": "18297829933",
       "title": "Perfume Grace Midnight Feminino Frasco Antigo Hinode 100ml",
       "price": 67.96,
@@ -82,7 +38,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mspjvyi96xhh07",
       "url": "https://s.shopee.com.br/7fb1arZDNf",
       "rating": 4.9,
-      "salesCount": 694,
+      "salesCount": 779,
       "official": true,
       "seller": "Hinode ",
       "category": "Beleza"
@@ -129,64 +85,6 @@
       "hot": true
     },
     {
-      "id": "22694180181",
-      "title": "Cadeira Gamer Profissional Ajustável, Reclinável e Confortável para Escritório e Estudos -F19",
-      "price": 403.95,
-      "originalPrice": 1553.65,
-      "discountPercent": 74,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-muljqv5hyo7440",
-      "url": "https://s.shopee.com.br/8VA8heQK8Z",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 66,
-      "official": true,
-      "seller": " KODI",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "23694084596",
-      "title": "Cadeira Gamer Profissional - Reclinável, Ajustável e Confortável para Escritório e Estudos-F19",
-      "price": 403.99,
-      "originalPrice": 1496.26,
-      "discountPercent": 73,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mukoyf5uregw16",
-      "url": "https://s.shopee.com.br/6L5e7fYZWw",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 133,
-      "official": true,
-      "seller": " KODI",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "23694084540",
-      "title": "Cadeira Escritório Gamer Ergonômica Reclinável Confortável Com Rodinha E Apoio Para Os Pés-F19",
-      "price": 402.99,
-      "originalPrice": 1492.56,
-      "discountPercent": 73,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-muugo0mtq8sh41",
-      "url": "https://s.shopee.com.br/7KyBJVUlVE",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 52,
-      "seller": "ZAKKA BAZAR  LTDA",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "58254948793",
-      "title": "Barra De Luminária Led Rgb Para Monitor Computador Tela Regulavel Com Fundo De Toque",
-      "price": 67.99,
-      "originalPrice": 206.03,
-      "discountPercent": 67,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkj86lk3dcld90",
-      "url": "https://s.shopee.com.br/1W0OoSfxbt",
-      "rating": 4.9,
-      "salesCount": 1395,
-      "seller": "A casa iluminada",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "18299268001",
       "title": "Saco Plástico PP Transparente Com Aba Adesiva 100 Un Saquinho Para Embalagem de Roupas e Artesanatos",
       "price": 16.97,
@@ -196,10 +94,23 @@
       "url": "https://s.shopee.com.br/AUv9mjCiCv",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 2613,
+      "salesCount": 2591,
       "seller": "Embala Commerce",
       "category": "Presentes e papelaria",
       "hot": true
+    },
+    {
+      "id": "48954595405",
+      "title": "Paleta de Sombras Dear Diary linha Blow - Ruby Rose",
+      "price": 54.98,
+      "originalPrice": 78.54,
+      "discountPercent": 30,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262p-mjelxrze17ur9c",
+      "url": "https://s.shopee.com.br/1W0Opweket",
+      "rating": 4.9,
+      "salesCount": 216,
+      "seller": "Lemmi Store",
+      "category": "Beleza"
     },
     {
       "id": "58209744424",
@@ -210,10 +121,38 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mt7nfngerrwmf8",
       "url": "https://s.shopee.com.br/5AtgcJe9TN",
       "rating": 4.8,
-      "salesCount": 3106,
+      "salesCount": 3146,
       "seller": "Mundo-Mix BR",
       "category": "Pet e bebê",
       "hot": true
+    },
+    {
+      "id": "22297075220",
+      "title": "My Life Paleta Mosaic 28 Cores Com Glitter MY8551",
+      "price": 20.99,
+      "originalPrice": 48.81,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3maygo782ew90",
+      "url": "https://s.shopee.com.br/60SoCDNcX4",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 97,
+      "seller": "deusa da sol",
+      "category": "Beleza"
+    },
+    {
+      "id": "23993172309",
+      "title": "GOKOCO Secador De Cabelo Com 5 Em 1 GD023 Escova Magnético Multifuncional De Alta Velocidade Com Alisar Enrolar Hot Air",
+      "price": 459,
+      "originalPrice": 997.83,
+      "discountPercent": 54,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mstkvazichz879",
+      "url": "https://s.shopee.com.br/1W0Opwdijr",
+      "rating": 4.9,
+      "salesCount": 203,
+      "official": true,
+      "seller": "GOKOCO Offical Shop.BR",
+      "category": "Beleza"
     },
     {
       "id": "58216416889",
@@ -224,9 +163,23 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-ms112hohsm4m32",
       "url": "https://s.shopee.com.br/7puRnDU04A",
       "rating": 4.9,
-      "salesCount": 1200,
+      "salesCount": 1234,
       "seller": "Mundo-Mix BR",
       "category": "Pet e bebê",
+      "hot": true
+    },
+    {
+      "id": "40960844313",
+      "title": "Paleta de Sombras POPFEEL 54 Cores - Tons Terrosos e Arco-Íris Versáteis para Maquiagem Colorida de Festa, Tamanho",
+      "price": 35.54,
+      "originalPrice": 177.7,
+      "discountPercent": 80,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qd-mp4mvxq0rh8vc3",
+      "url": "https://s.shopee.com.br/9fM6Yx9f5g",
+      "rating": 4.7,
+      "salesCount": 106,
+      "seller": "Choice Oficial",
+      "category": "Beleza",
       "hot": true
     },
     {
@@ -244,6 +197,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "22399409519",
+      "title": "Modelador de cabelo com Escova Secadora Alisadora Eletrica 3 Em 1 Bivolt Alisa Modela Com Led Anti Friz",
+      "price": 98.99,
+      "originalPrice": 197.98,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mr91b7oeosg435",
+      "url": "https://s.shopee.com.br/3LS31JWk18",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 281,
+      "seller": "Lumah Store",
+      "category": "Beleza"
+    },
+    {
       "id": "23898813796",
       "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
       "price": 44.9,
@@ -252,37 +219,10 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mq228ungk5c142",
       "url": "https://s.shopee.com.br/3g4rGo3w0C",
       "rating": 4.8,
-      "salesCount": 1694,
+      "salesCount": 1712,
       "official": true,
       "seller": "Barbour's Beauty",
       "category": "Beleza"
-    },
-    {
-      "id": "23593847044",
-      "title": "Mordedor para Bebê - Massageador Geladinho de Gengiva com Água da Buba",
-      "price": 17.9,
-      "originalPrice": 44.75,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md1682fp988xee",
-      "url": "https://s.shopee.com.br/6q1vAHceDH",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 120,
-      "seller": "A-Z Distribuidora",
-      "category": "Beleza"
-    },
-    {
-      "id": "18699584357",
-      "title": "3 Formas de Picolé de Silicone com 150 Palitos Forminha de Silicone Molde para Sorvete e Geladinho Caseiro",
-      "price": 40.39,
-      "originalPrice": 60.28,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg4-m3iahb0mpm5ce2",
-      "url": "https://s.shopee.com.br/AUvDX1uRnA",
-      "rating": 4.9,
-      "salesCount": 673,
-      "seller": "LOJADALOLLA",
-      "category": "Cozinha"
     },
     {
       "id": "23198735870",
@@ -307,22 +247,9 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94h5if2845ed2",
       "url": "https://s.shopee.com.br/6fiQgnOlmZ",
       "rating": 4.8,
-      "salesCount": 1401,
+      "salesCount": 1381,
       "seller": "Kuàilè Bijux",
       "category": "Beleza"
-    },
-    {
-      "id": "58211242353",
-      "title": "Coleira Peitoral para cachorro pequenos e médios com guia para pet colete confortável",
-      "price": 21.83,
-      "originalPrice": 29.9,
-      "discountPercent": 27,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mok9iezo775xc0",
-      "url": "https://s.shopee.com.br/9zyww6diph",
-      "rating": 4.9,
-      "salesCount": 470,
-      "seller": "PETLINY PET CENTER",
-      "category": "Pet e bebê"
     },
     {
       "id": "22593191349",
@@ -333,49 +260,10 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m04jnjrh1jgdc7",
       "url": "https://s.shopee.com.br/8fTXgji9P4",
       "rating": 4.8,
-      "salesCount": 1091,
+      "salesCount": 1094,
       "seller": "AuraShop Cuidado que a casa merece",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "18597582275",
-      "title": "Mordedor Chupeta Massageador De Gengiva - Buba + 4 Meses",
-      "price": 19.9,
-      "originalPrice": 39.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqe1g9mae59j0a",
-      "url": "https://s.shopee.com.br/6fiUxydHYE",
-      "rating": 4.9,
-      "salesCount": 162,
-      "seller": "A-Z Distribuidora",
-      "category": "Beleza"
-    },
-    {
-      "id": "58255122154",
-      "title": "Travesseiro ALTO ORTOPEDICO Magnético Massageador Confortável Soft Infravermelho Terapeutico Luxo",
-      "price": 24.87,
-      "originalPrice": 40.11,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfn91u89s8ow3e",
-      "url": "https://s.shopee.com.br/7VHbxVa6rL",
-      "rating": 4.5,
-      "salesCount": 165,
-      "seller": "ZAFFIO PREMIUM",
-      "category": "Beleza"
-    },
-    {
-      "id": "22093597265",
-      "title": "Guia Coleira de Malha Flexível com Colete Peitoral Ajustável para Cão Cachorro Gato Animais",
-      "price": 15.7,
-      "originalPrice": 29.62,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meqdintsjif465",
-      "url": "https://s.shopee.com.br/AUvDX1booo",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 454,
-      "seller": "My Petzz",
-      "category": "Pet e bebê"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "23997823258",
@@ -392,6 +280,19 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "24317469184",
+      "title": "Paleta De Sombras De Floco De Neve De Natal Com Brilho De 9 Cores DIKALU-Maquiagem Para Olhos Totalmente Pérola E Diaman",
+      "price": 20.9,
+      "originalPrice": 32.66,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pf-mp4mi4r9vcwb54",
+      "url": "https://s.shopee.com.br/AKbnMB77jk",
+      "rating": 4.9,
+      "salesCount": 115,
+      "seller": "Choice Oficial",
+      "category": "Beleza"
+    },
+    {
       "id": "50802620838",
       "title": "Kit 10 Organizadores Acrílico Cristal Modular Para Geladeiras Maquiagens Gavetas Armarios",
       "price": 44.9,
@@ -405,20 +306,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "23694699980",
-      "title": "expositor acrílico para doces 5 camadas transparente para mesa chocolates chicletes perfumes",
-      "price": 27.66,
-      "originalPrice": 55.32,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mt0gvqnjteyu8c",
-      "url": "https://s.shopee.com.br/1LgycCEi5R",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 802,
-      "seller": "Dream Box Casa",
-      "category": "Casa e organização"
-    },
-    {
       "id": "40980557860",
       "title": "Shampoo Para Cavalo Good Horse Vitamina A - 700 ML",
       "price": 15.41,
@@ -427,38 +314,10 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mnr3wmvkts7637",
       "url": "https://s.shopee.com.br/3VlPRsLMEl",
       "rating": 4.9,
-      "salesCount": 955,
+      "salesCount": 1015,
       "official": true,
       "seller": "mypetone",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "58261816431",
-      "title": "Massageador Facial Golfinho LED | Fototerapia, Hidratação e Rejuvenescimento",
-      "price": 28.92,
-      "originalPrice": 62.87,
-      "discountPercent": 54,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mozil7l89m2t62",
-      "url": "https://s.shopee.com.br/6AmEN3fBZD",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 66,
-      "seller": "Facil Store",
-      "category": "Beleza"
-    },
-    {
-      "id": "22322003698",
-      "title": "Capa de Volante Universal com Massageador Proteção e Conforto  Gol Fox Fiesta Uno Palio Celta Parati",
-      "price": 28,
-      "originalPrice": 38.89,
-      "discountPercent": 28,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mo4fjg915fr45f",
-      "url": "https://s.shopee.com.br/5VWXZphiv9",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 58,
-      "seller": "frm Engenharia_Ecomerce",
-      "category": "Beleza"
     },
     {
       "id": "54857767078",
@@ -469,22 +328,9 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mpm9dmjlux36be",
       "url": "https://s.shopee.com.br/5VWX2JtuQE",
       "rating": 4.7,
-      "salesCount": 1767,
+      "salesCount": 1762,
       "seller": "A.R.S Alumínios",
       "category": "Cozinha"
-    },
-    {
-      "id": "58202042148",
-      "title": "Cadeira ergonômica inclinável escritório gamer estofado mesh giratória rodinhas suporte lombar e cabeça braço rebatível",
-      "price": 309.7,
-      "originalPrice": 595.58,
-      "discountPercent": 48,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mqqrmkw4il8h9b",
-      "url": "https://s.shopee.com.br/6fiUWHXIr2",
-      "rating": 4.9,
-      "salesCount": 95,
-      "seller": "Marfer Casa e Decoração",
-      "category": "Eletrônicos"
     },
     {
       "id": "23099041114",
@@ -524,50 +370,21 @@
       "rating": 4.9,
       "salesCount": 1242,
       "seller": "Brincakids",
-      "category": "Pet e bebê"
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
-      "id": "23993808942",
-      "title": "Lâmpada Pôr do Sol Sunset USB 16 Cores LED Projetor com Controle Remoto para Quartoe Decoração",
-      "price": 27.32,
-      "originalPrice": 42.03,
-      "discountPercent": 35,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mpspn008ecqpf7",
-      "url": "https://s.shopee.com.br/3B8cnWZcE7",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1722,
-      "seller": "HOMING.",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "41878934545",
-      "title": "Cadeira Gamer Cor Rosa Ergonômica Reclinável Estofado Couro Sintético Confortável Para Longas Sessões",
-      "price": 394.69,
-      "originalPrice": 704.8,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mus7t29dt2ps8c",
-      "url": "https://s.shopee.com.br/8KqiVLQxTW",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 67,
-      "official": true,
-      "seller": "Led Tools Oficial",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "58214078754",
-      "title": "Cadeira Gamer Giratória Profissional Escritório Ergonômica Reclinável Confortável Apoio Para Pés",
-      "price": 389.9,
-      "originalPrice": 549.15,
-      "discountPercent": 29,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mqjgw91r162qba",
-      "url": "https://s.shopee.com.br/8fTYtxPgnc",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 53,
-      "seller": "ALVES VIRTUALLOJAS IMPORTADOS",
-      "category": "Eletrônicos"
+      "id": "22893558290",
+      "title": "Escova Secadora Pet 110V- 2 EM 1 Seca Remove Pelos Cachorro Coelho Gato ，Baixo Ruído!",
+      "price": 55.99,
+      "originalPrice": 109.78,
+      "discountPercent": 49,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h7-mprsov15ob9nb3",
+      "url": "https://s.shopee.com.br/2BG5dAbBO3",
+      "rating": 4.8,
+      "salesCount": 223,
+      "seller": "JinLaiLai",
+      "category": "Beleza"
     },
     {
       "id": "22298654389",
@@ -579,7 +396,7 @@
       "url": "https://s.shopee.com.br/AAIMtpQ9cZ",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 1727,
+      "salesCount": 1585,
       "seller": "Rosa Glam",
       "category": "Beleza"
     },
@@ -597,47 +414,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58212612074",
-      "title": "【OFERTA RELÂMPAGO】Kit 3 Formas Silicone para Air Fryer Antiaderente Reutilizável Forno Microondas",
-      "price": 16.89,
-      "originalPrice": 26.81,
-      "discountPercent": 37,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mukv4umvn8xu5f",
-      "url": "https://s.shopee.com.br/80DsYR3xrn",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 530,
-      "seller": "MVI Utilidades",
-      "category": "Cozinha"
-    },
-    {
-      "id": "50106155167",
-      "title": "Kit 2 Formas de Gelo Silicone com Tampa Antiderramamento",
-      "price": 15.89,
-      "originalPrice": 26.93,
-      "discountPercent": 41,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mtxrpqdvehohf2",
-      "url": "https://s.shopee.com.br/9V2gLByFow",
-      "rating": 4.8,
-      "salesCount": 761,
-      "seller": "Angel Universe",
-      "category": "Cozinha"
-    },
-    {
-      "id": "58203542062",
-      "title": "Colar Elizabetano Cão Cirúrgico – Premium Tamanhos N1 a N7",
-      "price": 15.9,
-      "originalPrice": 26.5,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjmdqa4qe0hv34",
-      "url": "https://s.shopee.com.br/8pmzXxiACK",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 588,
-      "seller": "Haishop_lampadas",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "22593191479",
       "title": "Kit Organizadores Acrílico Cristal Modular Para Geladeiras Gavetas e Maquiagens",
       "price": 33.9,
@@ -652,6 +428,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23194187468",
+      "title": "Massageador Elétrico Profissional Muscular Pistola Portátil Original c/ 6 Níveis e 4 Ponteiras",
+      "price": 33.88,
+      "originalPrice": 49.82,
+      "discountPercent": 32,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra13-mbmlv84kuejg25",
+      "url": "https://s.shopee.com.br/4qGo2fdsyS",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1760,
+      "seller": "KEEP SHOP",
+      "category": "Beleza"
+    },
+    {
       "id": "22298568813",
       "title": "[Versão portuguesa] Usaopoly Medoosi Jogo Tabuleiro De Palavras de Palavras -Quick Interativo Brinquedo Para Pais Filhos",
       "price": 36.9,
@@ -661,22 +451,9 @@
       "url": "https://s.shopee.com.br/5q9NPXbc7y",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1297,
+      "salesCount": 1264,
       "seller": "MEDOOSI-BR",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "23893060416",
-      "title": "Kit 2 Forma Molde Para Sorvete Picolé Silicone C/ Tampa mais 100 Palitos 6 Sorvete",
-      "price": 34.9,
-      "originalPrice": 49.86,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mr0jz436sjk4c4",
-      "url": "https://s.shopee.com.br/8Kqix32hBp",
-      "rating": 4.8,
-      "salesCount": 588,
-      "seller": "líder comércios",
-      "category": "Cozinha"
     },
     {
       "id": "22894246754",
