@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T00:46:35.827Z",
+  "updatedAt": "2026-10-31T01:07:48.819Z",
   "offers": [
     {
       "id": "44110609035",
@@ -87,19 +87,6 @@
       "hot": true
     },
     {
-      "id": "22299439144",
-      "title": "Kit Banho Corporal Blow Girl Morango com Creme 3 Itens Sabonete Liquido 200ml Esfoliante 525g Hidratante 320ml",
-      "price": 81,
-      "originalPrice": 135,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mujm8zg3dm2p0c",
-      "url": "https://s.shopee.com.br/9APohG3oh8",
-      "rating": 4.9,
-      "salesCount": 198,
-      "seller": "Blow Girl Oficial",
-      "category": "Beleza"
-    },
-    {
       "id": "58204153704",
       "title": "Kit Shampoo + Condicionador + Creme para Pentear 300ml SOS Cachos Kids Hidratação Salon Line",
       "price": 46.1,
@@ -181,34 +168,6 @@
       "salesCount": 697,
       "seller": "Eddias Home",
       "category": "Casa e organização"
-    },
-    {
-      "id": "15913210091",
-      "title": "Travesseiro Cabeça Chata para recem nascido anatômico",
-      "price": 17.24,
-      "originalPrice": 36.68,
-      "discountPercent": 53,
-      "imageUrl": "https://cf.shopee.com.br/file/5fd3463064b6c82f4893422f6f125dd3",
-      "url": "https://s.shopee.com.br/1LgxMscO9b",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2063,
-      "seller": "BABY IBITINGA",
-      "category": "Pet e bebê",
-      "hot": true
-    },
-    {
-      "id": "23994061112",
-      "title": "Sapatinho de bebê - Sapatilha Boneca Feminina Batizado",
-      "price": 26.49,
-      "originalPrice": 35.8,
-      "discountPercent": 26,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-muj3u9287x8i46",
-      "url": "https://s.shopee.com.br/50aFjcOQib",
-      "rating": 4.9,
-      "salesCount": 1362,
-      "seller": "Sassá Baby Confecções",
-      "category": "Pet e bebê"
     },
     {
       "id": "23898813796",
@@ -347,7 +306,8 @@
       "rating": 4.8,
       "salesCount": 984,
       "seller": "Abella Tech",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "40179335828",
@@ -432,21 +392,6 @@
       "category": "Beleza"
     },
     {
-      "id": "22498771408",
-      "title": "Pijama Infantil Bebe Menina Manga Longa Escolha Seu Modelo, Estampas Fofas e Conforto Infantil Feminino Frio Inverno l15",
-      "price": 32.9,
-      "originalPrice": 59.82,
-      "discountPercent": 45,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-moy75vaj22gz90",
-      "url": "https://s.shopee.com.br/4B18k5RbPO",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1326,
-      "official": true,
-      "seller": "Poloinfantil.store",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "45466593909",
       "title": "4 Cadeira de Jantar Gruvyer Nude Escritorio Area Goumet Reforçada Resistente Envio Rapido Promoção!!",
       "price": 245.99,
@@ -458,20 +403,6 @@
       "salesCount": 519,
       "seller": "Wa Magazine PP",
       "category": "Casa e organização"
-    },
-    {
-      "id": "23098233187",
-      "title": "Cesto Organizador Brinquedos Roupas Infantil Dobrável Criança Menino Menina Interativo",
-      "price": 18.99,
-      "originalPrice": 32.74,
-      "discountPercent": 42,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mojvhecw5q866c",
-      "url": "https://s.shopee.com.br/W7qNLfYqW",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1627,
-      "seller": "Mimi Kids",
-      "category": "Pet e bebê"
     },
     {
       "id": "22593191479",
@@ -511,20 +442,6 @@
       "rating": 4.9,
       "salesCount": 1552,
       "seller": "Spotlight 82",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "21498283171",
-      "title": "Manta Cobertor de Bebê c/ Naninha Para Menina Menino Infantil Mantinha Premium 02 Peça",
-      "price": 33.96,
-      "originalPrice": 49.94,
-      "discountPercent": 32,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mr6bw9pe3p53fd",
-      "url": "https://s.shopee.com.br/5AtfvvNnNc",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1195,
-      "seller": "lojaenxovaisparabebe",
       "category": "Pet e bebê"
     },
     {
