@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T20:15:24.805Z",
+  "updatedAt": "2026-10-31T20:36:34.437Z",
   "offers": [
     {
       "id": "54558362287",
@@ -27,7 +27,8 @@
       "rating": 4.9,
       "salesCount": 2613,
       "seller": "Bela Beleza Oficial",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "18297829933",
@@ -128,76 +129,6 @@
       "hot": true
     },
     {
-      "id": "22899362047",
-      "title": "Caderno De Desenho 50 Fls (100 Páginas ) espessado Sketchbook Capa Dura Preta",
-      "price": 16.9,
-      "originalPrice": 31.89,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-ml9s1nqgzz0lcd",
-      "url": "https://s.shopee.com.br/9APpzY7pUM",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 444,
-      "seller": "AUE PAPEL CRIATIVO",
-      "category": "Presentes e papelaria"
-    },
-    {
-      "id": "58205066315",
-      "title": "Mochila Feminina Escolar, Impermeável Bolsa grande de couro da moda Transversal & Costas para Viagem Trabalh",
-      "price": 59,
-      "originalPrice": 168.57,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu8-mkkuui4viq68fe",
-      "url": "https://s.shopee.com.br/LoRTJtcOa",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 161,
-      "seller": "SCH LOJA",
-      "category": "Presentes e papelaria"
-    },
-    {
-      "id": "58205622618",
-      "title": "Kit 3 Cadernos de desenho aquarela / Sketchbook Capa Dura Papel Holler",
-      "price": 33.9,
-      "originalPrice": 59.47,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-muwk48xi5p1c9f",
-      "url": "https://s.shopee.com.br/70LLPZG4t1",
-      "rating": 5,
-      "salesCount": 210,
-      "seller": "AUE PAPEL CRIATIVO",
-      "category": "Presentes e papelaria"
-    },
-    {
-      "id": "58259895331",
-      "title": "Kit Desenho A3 Caderno 30 Folhas + 12 Canetas Técnicas Para Desenho Arte Sketch",
-      "price": 25.99,
-      "originalPrice": 70.24,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mnoainh37g1s08",
-      "url": "https://s.shopee.com.br/8pmzaw96AG",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 477,
-      "seller": "CHICGET ",
-      "category": "Presentes e papelaria",
-      "hot": true
-    },
-    {
-      "id": "19499180827",
-      "title": "Mochila Bolsa Grande 45 L Notebook 17 Masculina Básica Escolar",
-      "price": 31.9,
-      "originalPrice": 60.19,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjkhkvumb9qabe",
-      "url": "https://s.shopee.com.br/9KjGBrLM8E",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 201,
-      "seller": "AB Representações",
-      "category": "Presentes e papelaria"
-    },
-    {
       "id": "46306153826",
       "title": "Espelho Para Banheiro Redondo Penteadeira Decorativo Sala Quarto Hall Adnet Costurado 60cm Sem Alça",
       "price": 21.9,
@@ -210,20 +141,6 @@
       "salesCount": 702,
       "seller": "Eddias Home",
       "category": "Casa e organização"
-    },
-    {
-      "id": "56652827803",
-      "title": "JAMI JAMI Mochila Feminina Escolar Universitária De Viagem Moda Casual Unissex X218",
-      "price": 59.99,
-      "originalPrice": 149.98,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b6-mrc4uwk86l1j4c",
-      "url": "https://s.shopee.com.br/1W0OrSpB1z",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 102,
-      "seller": "Jami Ling",
-      "category": "Presentes e papelaria"
     },
     {
       "id": "23898813796",
@@ -240,19 +157,6 @@
       "category": "Beleza"
     },
     {
-      "id": "20897971771",
-      "title": "Mochila viral Laptop Viagem Escolar À Prova D'água Executiva Notebook",
-      "price": 101.99,
-      "originalPrice": 199.98,
-      "discountPercent": 49,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3xk6q2i1tf989",
-      "url": "https://s.shopee.com.br/8pmzawNG8x",
-      "rating": 4.7,
-      "salesCount": 358,
-      "seller": "S.X.Z.SHOP.BRAZIL",
-      "category": "Presentes e papelaria"
-    },
-    {
       "id": "23198735870",
       "title": "1 a 10 Metros Fita Mangueira de LED 5050 para Decoração Com Conector 110V ou 220V Branco Frio/Quente",
       "price": 19.77,
@@ -265,21 +169,6 @@
       "salesCount": 3148,
       "seller": "BRILLIA",
       "category": "Casa e organização"
-    },
-    {
-      "id": "19497735239",
-      "title": "Mochila Infantil Escolar de Tigre e Coelho Confortável e Resistente Meninos e Meninas",
-      "price": 33.99,
-      "originalPrice": 99.97,
-      "discountPercent": 66,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mslhgj37943qed",
-      "url": "https://s.shopee.com.br/LoQitc5mj",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 354,
-      "seller": "Ulife Bolsas Mochilas",
-      "category": "Presentes e papelaria",
-      "hot": true
     },
     {
       "id": "20999494647",
@@ -309,34 +198,6 @@
       "hot": true
     },
     {
-      "id": "21597737914",
-      "title": "Mochila Escolar Nylon Camuflada Tática Acampamento Viagem Grande",
-      "price": 39.99,
-      "originalPrice": 90.89,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx4-lyv7qo7hqgfe65",
-      "url": "https://s.shopee.com.br/qki4EriNf",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 173,
-      "seller": "M Flowerr",
-      "category": "Presentes e papelaria"
-    },
-    {
-      "id": "22998302388",
-      "title": "Galocha infantil Feminina Bota De Chuva Meninas Leve e Confortável",
-      "price": 27.99,
-      "originalPrice": 59.55,
-      "discountPercent": 53,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zts-ml4z5v9285ja51",
-      "url": "https://s.shopee.com.br/5q9O1PdUB5",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 53,
-      "seller": "RENLI BABY OFICIAL",
-      "category": "Moda"
-    },
-    {
       "id": "23997823258",
       "title": "Mochila de viagem unissex Alça de aço reforçada com portas USB e para fones de ouvido D8109",
       "price": 55.99,
@@ -349,20 +210,6 @@
       "salesCount": 445,
       "seller": "MOCHILA FASHION",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "22997993467",
-      "title": "Mochila Feminina viral Laptop Viagem Escolar À Prova D'água Executiva Notebook Impermeável expansível",
-      "price": 96.89,
-      "originalPrice": 197.73,
-      "discountPercent": 51,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m21cuks30mvl0f",
-      "url": "https://s.shopee.com.br/8AXIniPnUt",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 275,
-      "seller": "nicoly.shop.br",
-      "category": "Presentes e papelaria"
     },
     {
       "id": "50802620838",
@@ -442,20 +289,8 @@
       "rating": 4.9,
       "salesCount": 1242,
       "seller": "Brincakids",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "23694779205",
-      "title": "Mochila Escolar Infantil Sonic Menino Grande Reforçada Material Escolar",
-      "price": 39.99,
-      "originalPrice": 71.41,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mrrfn6mjnnyc3c",
-      "url": "https://s.shopee.com.br/9pfWmmJS7J",
-      "rating": 4.8,
-      "salesCount": 232,
-      "seller": "HBDR STORE",
-      "category": "Presentes e papelaria"
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "22298654389",
@@ -497,20 +332,6 @@
       "salesCount": 840,
       "seller": "AuraShop Cuidado que a casa merece",
       "category": "Casa e organização"
-    },
-    {
-      "id": "23194187468",
-      "title": "Massageador Elétrico Profissional Muscular Pistola Portátil Original c/ 6 Níveis e 4 Ponteiras",
-      "price": 33.88,
-      "originalPrice": 49.82,
-      "discountPercent": 32,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra13-mbmlv84kuejg25",
-      "url": "https://s.shopee.com.br/4qGo2fdsyS",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1760,
-      "seller": "KEEP SHOP",
-      "category": "Beleza"
     },
     {
       "id": "22298568813",
