@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T12:07:17.848Z",
+  "updatedAt": "2026-10-31T12:49:26.091Z",
   "offers": [
     {
       "id": "54558362287",
@@ -15,6 +15,20 @@
       "seller": "Adora ",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "22698367077",
+      "title": "Cadeira Gamer Roxa com Almofadas Cervical/Lombar - Conforto Ergonômico, Reclinável 120°, Braço 1D, Suporta 150kg, Tecido",
+      "price": 469.42,
+      "originalPrice": 2040.96,
+      "discountPercent": 77,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m804sx1eolqpf0",
+      "url": "https://s.shopee.com.br/6VP4JyXwBz",
+      "rating": 4.9,
+      "salesCount": 92,
+      "official": true,
+      "seller": " VIE IDÉALE",
+      "category": "Eletrônicos"
     },
     {
       "id": "58206578231",
@@ -86,6 +100,50 @@
       "hot": true
     },
     {
+      "id": "22694180181",
+      "title": "Cadeira Gamer Profissional Ajustável, Reclinável e Confortável para Escritório e Estudos -F19",
+      "price": 403.95,
+      "originalPrice": 1553.65,
+      "discountPercent": 74,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-muljqv5hyo7440",
+      "url": "https://s.shopee.com.br/8VA8heQK8Z",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 61,
+      "official": true,
+      "seller": " KODI",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "23694084596",
+      "title": "Cadeira Gamer Profissional - Reclinável, Ajustável e Confortável para Escritório e Estudos-F19",
+      "price": 403.99,
+      "originalPrice": 1496.26,
+      "discountPercent": 73,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mukoyf5uregw16",
+      "url": "https://s.shopee.com.br/6L5e7fYZWw",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 96,
+      "official": true,
+      "seller": " KODI",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "23694084540",
+      "title": "Cadeira Escritório Gamer Ergonômica Reclinável Confortável Com Rodinha E Apoio Para Os Pés-F19",
+      "price": 402.99,
+      "originalPrice": 1492.56,
+      "discountPercent": 73,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-muugo0mtq8sh41",
+      "url": "https://s.shopee.com.br/7KyBJVUlVE",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 52,
+      "seller": "ZAKKA BAZAR  LTDA",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "18299268001",
       "title": "Saco Plástico PP Transparente Com Aba Adesiva 100 Un Saquinho Para Embalagem de Roupas e Artesanatos",
       "price": 16.97,
@@ -112,21 +170,6 @@
       "salesCount": 3106,
       "seller": "Mundo-Mix BR",
       "category": "Pet e bebê",
-      "hot": true
-    },
-    {
-      "id": "41919952056",
-      "title": "Hoygi Retinal Eye Cream Suave Nutritivo Firmador Hidratante Cuidados Com Os Olhos",
-      "price": 16.63,
-      "originalPrice": 46.19,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82619-mjl7s667d7uq27",
-      "url": "https://s.shopee.com.br/6q1ubMomLh",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1509,
-      "seller": "Choice Oficial",
-      "category": "Beleza",
       "hot": true
     },
     {
@@ -240,6 +283,19 @@
       "hot": true
     },
     {
+      "id": "20997621307",
+      "title": "Aspirador de pó portátil 110v , filtro lavável, carregamento USB, limpador de pó elétrico portátil PRONTA ENTREGA",
+      "price": 79.99,
+      "originalPrice": 190.45,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb5vjg0i5k0f96",
+      "url": "https://s.shopee.com.br/8VA8heUedk",
+      "rating": 4.8,
+      "salesCount": 296,
+      "seller": "LAR INOVA",
+      "category": "Ferramentas"
+    },
+    {
       "id": "23997823258",
       "title": "Mochila de viagem unissex Alça de aço reforçada com portas USB e para fones de ouvido D8109",
       "price": 55.99,
@@ -294,6 +350,19 @@
       "category": "Cozinha"
     },
     {
+      "id": "58202042148",
+      "title": "Cadeira ergonômica inclinável escritório gamer estofado mesh giratória rodinhas suporte lombar e cabeça braço rebatível",
+      "price": 309.7,
+      "originalPrice": 595.58,
+      "discountPercent": 48,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mqqrmkw4il8h9b",
+      "url": "https://s.shopee.com.br/6fiUWHXIr2",
+      "rating": 4.9,
+      "salesCount": 93,
+      "seller": "Marfer Casa e Decoração",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "23099041114",
       "title": "Vela Aromática Perfumada Pote de Vidro Decorado Tampa Luxo Aromaterapia Decoração Casa",
       "price": 34.9,
@@ -331,7 +400,8 @@
       "rating": 4.9,
       "salesCount": 1222,
       "seller": "Brincakids",
-      "category": "Pet e bebê"
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "40179335828",
@@ -345,6 +415,35 @@
       "salesCount": 894,
       "seller": "Wa Magazine PP",
       "category": "Casa e organização"
+    },
+    {
+      "id": "41878934545",
+      "title": "Cadeira Gamer Cor Rosa Ergonômica Reclinável Estofado Couro Sintético Confortável Para Longas Sessões",
+      "price": 394.69,
+      "originalPrice": 704.8,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mus7t29dt2ps8c",
+      "url": "https://s.shopee.com.br/8KqiVLQxTW",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 67,
+      "official": true,
+      "seller": "Led Tools Oficial",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "58214078754",
+      "title": "Cadeira Gamer Giratória Profissional Escritório Ergonômica Reclinável Confortável Apoio Para Pés",
+      "price": 389.9,
+      "originalPrice": 549.15,
+      "discountPercent": 29,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mqjgw91r162qba",
+      "url": "https://s.shopee.com.br/8fTYtxPgnc",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 55,
+      "seller": "ALVES VIRTUALLOJAS IMPORTADOS",
+      "category": "Eletrônicos"
     },
     {
       "id": "22398906461",
@@ -416,6 +515,20 @@
       "category": "Beleza"
     },
     {
+      "id": "58206371517",
+      "title": "100 Peças Capa Protetora De Filtro De Aspirador De Pó Descartável-Tecido Não Lavável Para Portátil",
+      "price": 19.99,
+      "originalPrice": 33.32,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mleq0evusoav01",
+      "url": "https://s.shopee.com.br/70LKutaMgL",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 513,
+      "seller": "jvch21my_o",
+      "category": "Ferramentas"
+    },
+    {
       "id": "22593191479",
       "title": "Kit Organizadores Acrílico Cristal Modular Para Geladeiras Gavetas e Maquiagens",
       "price": 33.9,
@@ -428,20 +541,6 @@
       "salesCount": 821,
       "seller": "AuraShop Cuidado que a casa merece",
       "category": "Casa e organização"
-    },
-    {
-      "id": "23194187468",
-      "title": "Massageador Elétrico Profissional Muscular Pistola Portátil Original c/ 6 Níveis e 4 Ponteiras",
-      "price": 33.88,
-      "originalPrice": 49.82,
-      "discountPercent": 32,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra13-mbmlv84kuejg25",
-      "url": "https://s.shopee.com.br/4qGo2fdsyS",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1742,
-      "seller": "KEEP SHOP",
-      "category": "Beleza"
     },
     {
       "id": "22894246754",
