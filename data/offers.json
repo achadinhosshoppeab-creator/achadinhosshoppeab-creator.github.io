@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T17:46:21.045Z",
+  "updatedAt": "2026-10-31T18:07:46.385Z",
   "offers": [
     {
       "id": "54558362287",
@@ -85,19 +85,6 @@
       "hot": true
     },
     {
-      "id": "18829346428",
-      "title": "Kit Acessórios Banheiro Papeleira + Saboneteira Aço Inox Conjunto Completo",
-      "price": 19,
-      "originalPrice": 31.15,
-      "discountPercent": 39,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lj-mqxeojyd2mmfaf",
-      "url": "https://s.shopee.com.br/2LZVgiRNgp",
-      "rating": 4.8,
-      "salesCount": 200,
-      "seller": "CS acabamentos",
-      "category": "Casa e organização"
-    },
-    {
       "id": "18299268001",
       "title": "Saco Plástico PP Transparente Com Aba Adesiva 100 Un Saquinho Para Embalagem de Roupas e Artesanatos",
       "price": 16.97,
@@ -127,16 +114,32 @@
       "hot": true
     },
     {
-      "id": "22398660144",
-      "title": "Saboneteira Luxo Com Vidro Incolor 8mm P/ Banheiro/Lavabo",
-      "price": 29.9,
-      "originalPrice": 65,
-      "discountPercent": 54,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820mh-mqxl7qmu2cxwc0",
-      "url": "https://s.shopee.com.br/1BNYIZVp3i",
+      "id": "52112263864",
+      "title": "Bonsai Artificial Decoração Zen Planta Realista Dragão Verde Vaso Escuro com Pedras",
+      "price": 32.99,
+      "originalPrice": 99.97,
+      "discountPercent": 67,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mpierp0nbklc24",
+      "url": "https://s.shopee.com.br/W7rWofbC2",
       "rating": 4.9,
-      "salesCount": 208,
-      "seller": "CASA FORTE ACABAMENTOS",
+      "salesCount": 483,
+      "seller": "osiriloko",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "49852252762",
+      "title": "Kit Buquês Com Limões Sicilianos Artificiais Realistas Amarelo",
+      "price": 17.9,
+      "originalPrice": 38.09,
+      "discountPercent": 53,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8227q-mhkojohx5rlv66",
+      "url": "https://s.shopee.com.br/20wfJZZt9N",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 391,
+      "official": true,
+      "seller": "Agiani Decor",
       "category": "Casa e organização"
     },
     {
@@ -154,31 +157,32 @@
       "hot": true
     },
     {
-      "id": "41683451322",
-      "title": "Kit 5 Esmalte Impala Coleção Cacau Show 5 cores - Lançamento",
-      "price": 46.27,
-      "originalPrice": 87.3,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mrq8ve7egzyf97",
-      "url": "https://s.shopee.com.br/BV16kqp9i",
+      "id": "40070102352",
+      "title": "Planta Bonsai Nuvem Artificial –  Folhas Rosa Vibrante em Vaso Branco Retangular",
+      "price": 22,
+      "originalPrice": 55,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meu33y329s039e",
+      "url": "https://s.shopee.com.br/11487jdhB5",
       "rating": 4.9,
-      "salesCount": 625,
-      "seller": "Monamor Cosméticos",
-      "category": "Beleza"
+      "salesCount": 435,
+      "seller": "osiriloko",
+      "category": "Casa e organização",
+      "hot": true
     },
     {
-      "id": "18766470949",
-      "title": "KIT 5 Esmaltes Gel COM ANVISA VAL: 12/26 Led Uv Zem Nail Gel Soak Off Color Coat 10ml Uv/Led Novas Cores",
-      "price": 19.99,
-      "originalPrice": 99.95,
-      "discountPercent": 80,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23030-et92nrzwmdova5",
-      "url": "https://s.shopee.com.br/8AXIdSMMv0",
-      "rating": 4.9,
-      "salesCount": 815,
-      "seller": "TINTINNAILCENTER",
-      "category": "Beleza",
-      "hot": true
+      "id": "43151855386",
+      "title": "Planta Artificial Palmeira Com Vaso Origami Polietileno",
+      "price": 72.54,
+      "originalPrice": 134.33,
+      "discountPercent": 46,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ravp-ma2wc2hwxil844",
+      "url": "https://s.shopee.com.br/1BavthVCv",
+      "rating": 4.8,
+      "salesCount": 407,
+      "official": true,
+      "seller": "Agiani Decor",
+      "category": "Casa e organização"
     },
     {
       "id": "46306153826",
@@ -193,33 +197,6 @@
       "salesCount": 697,
       "seller": "Eddias Home",
       "category": "Casa e organização"
-    },
-    {
-      "id": "58207410313",
-      "title": "Kit Francesinha Esmalte em Gel Dafu Sem TPO/HEMA Branco Renda + Puríssimo Nails Unhas Designer",
-      "price": 43.98,
-      "originalPrice": 79.96,
-      "discountPercent": 45,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mqleq5qou4uaf3",
-      "url": "https://s.shopee.com.br/LoRJ3qBoj",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 704,
-      "seller": "KASH OFICIAL",
-      "category": "Beleza"
-    },
-    {
-      "id": "22594886953",
-      "title": "Fita Líquida Anti-Borrado Cora 10ml",
-      "price": 16.03,
-      "originalPrice": 30.25,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mqwm4tetl2bo44",
-      "url": "https://s.shopee.com.br/1LgyUtmNn5",
-      "rating": 4.9,
-      "salesCount": 565,
-      "seller": "BejuVariedades",
-      "category": "Beleza"
     },
     {
       "id": "23898813796",
@@ -248,21 +225,6 @@
       "salesCount": 3289,
       "seller": "BRILLIA",
       "category": "Casa e organização"
-    },
-    {
-      "id": "18698032904",
-      "title": "Vestido Infantil Menina Princesa Vermelho  Natal Listrado Barrado Varias Cores para Festas De Natal",
-      "price": 33.9,
-      "originalPrice": 102.73,
-      "discountPercent": 67,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-musm60a0v20yb6",
-      "url": "https://s.shopee.com.br/30pCTy2nDD",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1967,
-      "seller": "Florenzza kids",
-      "category": "Moda",
-      "hot": true
     },
     {
       "id": "20999494647",
@@ -386,17 +348,16 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "22499544921",
-      "title": "Porta Sabonete Líquido Dispenser Saboneteira Alcool Gel Bmax",
-      "price": 27.9,
-      "originalPrice": 39.86,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mt6v4ucvqmmc09",
-      "url": "https://s.shopee.com.br/2Vsvt1QkLq",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 282,
-      "seller": "AUREA LUX COSMETICOS",
+      "id": "48014964797",
+      "title": "Kit 2 Plantas Pendente Artificial Decorativa com Vaso Pronta para Decorar Acabamento Realista",
+      "price": 48.99,
+      "originalPrice": 65.32,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mr6l1z86m03p85",
+      "url": "https://s.shopee.com.br/8AXIeuCPdk",
+      "rating": 4.8,
+      "salesCount": 237,
+      "seller": "osiriloko",
       "category": "Casa e organização"
     },
     {
@@ -441,6 +402,19 @@
       "category": "Beleza"
     },
     {
+      "id": "42275366956",
+      "title": "Camisa Polo Fina Para Cachorro E Gato , Camiseta Listrada Com Gola Redonda , Casaco De Duas Pernas , Roupas Animais De E",
+      "price": 19,
+      "originalPrice": 30.16,
+      "discountPercent": 37,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258p-mfuyp80x258ra7",
+      "url": "https://s.shopee.com.br/6VP4fsi4Y2",
+      "rating": 4.9,
+      "salesCount": 576,
+      "seller": "wolistore.br",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "22593191479",
       "title": "Kit Organizadores Acrílico Cristal Modular Para Geladeiras Gavetas e Maquiagens",
       "price": 33.9,
@@ -467,6 +441,20 @@
       "salesCount": 1742,
       "seller": "KEEP SHOP",
       "category": "Beleza"
+    },
+    {
+      "id": "28927852965",
+      "title": "Colete Salva-Vidas Cachorro Para Cães Animais De Estimação Pequenos Grandes Natação Seguro Reflexivo",
+      "price": 44.99,
+      "originalPrice": 61.63,
+      "discountPercent": 27,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd57-m6ryk7ypqs213c",
+      "url": "https://s.shopee.com.br/1Bavw6okC",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 222,
+      "seller": "CDDMPET",
+      "category": "Pet e bebê"
     },
     {
       "id": "22298568813",
