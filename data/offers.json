@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T02:42:48.580Z",
+  "updatedAt": "2026-10-31T03:13:47.916Z",
   "offers": [
     {
       "id": "23394239273",
@@ -13,21 +13,6 @@
       "salesCount": 527,
       "seller": "ManufaturaPrecisa",
       "category": "Ferramentas",
-      "hot": true
-    },
-    {
-      "id": "58267057460",
-      "title": "Capa de Almofada 40x40 Kit 2 Unidades Linho Textura Quadriculada Decorativa Sofá Sala Quarto",
-      "price": 21.91,
-      "originalPrice": 70.68,
-      "discountPercent": 69,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mse694rwpeyvee",
-      "url": "https://s.shopee.com.br/1LgxUoabOS",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 501,
-      "seller": "Sofá & Sala",
-      "category": "Casa e organização",
       "hot": true
     },
     {
@@ -156,6 +141,19 @@
       "category": "Casa e organização"
     },
     {
+      "id": "22198802267",
+      "title": "Kit faca de corte 13 artesanato estilete de precisão- Ideal para Artesanato, Artesão e Modelismo",
+      "price": 18.58,
+      "originalPrice": 37.16,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mczt1nnpdvr557",
+      "url": "https://s.shopee.com.br/9KjF3e1I6v",
+      "rating": 4.9,
+      "salesCount": 663,
+      "seller": "Global Mall",
+      "category": "Cozinha"
+    },
+    {
       "id": "46306153826",
       "title": "Espelho Para Banheiro Redondo Penteadeira Decorativo Sala Quarto Hall Adnet Costurado 60cm Sem Alça",
       "price": 21.9,
@@ -167,19 +165,6 @@
       "rating": 4.8,
       "salesCount": 697,
       "seller": "Eddias Home",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58259030575",
-      "title": "Kit 4 Capas de Almofada 40x40 Suede Luxo Decorativa para Sofá Sala Quarto Macia com Zíper ENVIO FULL",
-      "price": 38.89,
-      "originalPrice": 69.45,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81ztt-mn4txvflfhmr91",
-      "url": "https://s.shopee.com.br/1W0Nh7Zy3V",
-      "rating": 4.9,
-      "salesCount": 418,
-      "seller": "RC STORE DECORA",
       "category": "Casa e organização"
     },
     {
@@ -212,18 +197,17 @@
       "hot": true
     },
     {
-      "id": "23399662695",
-      "title": "Kit com 6 Capas de Almofada de Linho 40x40 Linho Premium Decorativa Zíper Sofá Sala Quarto",
-      "price": 68.99,
-      "originalPrice": 130.17,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-ms2vsh292tqcb6",
-      "url": "https://s.shopee.com.br/906Ocu7Ppt",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 476,
-      "seller": "VISIO DECORE ",
-      "category": "Casa e organização"
+      "id": "20999494647",
+      "title": "Difusor de Cachos Ar Universal para Secador de Cabelo",
+      "price": 19,
+      "originalPrice": 23.99,
+      "discountPercent": 20.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94h5if2845ed2",
+      "url": "https://s.shopee.com.br/6fiQgnOlmZ",
+      "rating": 4.8,
+      "salesCount": 1401,
+      "seller": "Kuàilè Bijux",
+      "category": "Beleza"
     },
     {
       "id": "58200475144",
@@ -267,20 +251,6 @@
       "hot": true
     },
     {
-      "id": "23593664397",
-      "title": "Kit de Capa de Almofada Linho Bordada Aplicada Decorativa - Escolha Sua Combinação",
-      "price": 49.9,
-      "originalPrice": 70.28,
-      "discountPercent": 29,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwzyt5u6i9xc8",
-      "url": "https://s.shopee.com.br/BV06ff2lN",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 401,
-      "seller": "Bordalize",
-      "category": "Casa e organização"
-    },
-    {
       "id": "23997823258",
       "title": "Mochila de viagem unissex Alça de aço reforçada com portas USB e para fones de ouvido D8109",
       "price": 55.99,
@@ -292,7 +262,8 @@
       "rating": 4.8,
       "salesCount": 445,
       "seller": "MOCHILA FASHION",
-      "category": "Eletrônicos"
+      "category": "Eletrônicos",
+      "hot": true
     },
     {
       "id": "50802620838",
@@ -392,20 +363,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "23394690451",
-      "title": "Principia Kit Completo Peles Sensíveis c/ Gel de Limpeza GL-02 + Creme Hidratante CH-01 + Protetor Solar PS-01 FPS 60",
-      "price": 93.99,
-      "originalPrice": 113.23,
-      "discountPercent": 17,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh9d339f89af1c",
-      "url": "https://s.shopee.com.br/AAIIrE1tEN",
-      "rating": 4.9,
-      "salesCount": 2361,
-      "official": true,
-      "seller": "Principia Skincare",
-      "category": "Beleza"
-    },
-    {
       "id": "21298000067",
       "title": "Tenis Vizzano Feminino Casual Moda 1444.100",
       "price": 116.6,
@@ -420,47 +377,6 @@
       "category": "Moda"
     },
     {
-      "id": "23194187468",
-      "title": "Massageador Elétrico Profissional Muscular Pistola Portátil Original c/ 6 Níveis e 4 Ponteiras",
-      "price": 29.79,
-      "originalPrice": 49.65,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra13-mbmlv84kuejg25",
-      "url": "https://s.shopee.com.br/4qGo2fdsyS",
-      "rating": 4.9,
-      "salesCount": 1742,
-      "seller": "KEEP SHOP",
-      "category": "Beleza"
-    },
-    {
-      "id": "58251853082",
-      "title": "Kit 3 Peças Cama Posta 1 Peseira e 2 Capas de Almofada Decorativa Flannel Elegante Chique Casa Rica",
-      "price": 49.9,
-      "originalPrice": 70.28,
-      "discountPercent": 29,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820l4-mujmggjjry0w69",
-      "url": "https://s.shopee.com.br/1BZuMfg6K",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 443,
-      "seller": "Andrade Prime Enxovais",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58267033764",
-      "title": "Kit 2 Capas de Almofada Natalina Lisa Suede 45x45cm com Zíper Invisível Decorativa",
-      "price": 18.4,
-      "originalPrice": 30.16,
-      "discountPercent": 39,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-msdhwimd6hon23",
-      "url": "https://s.shopee.com.br/qkgttcVPZ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 361,
-      "seller": "casa_viva",
-      "category": "Casa e organização"
-    },
-    {
       "id": "45466593909",
       "title": "4 Cadeira de Jantar Gruvyer Nude Escritorio Area Goumet Reforçada Resistente Envio Rapido Promoção!!",
       "price": 245.99,
@@ -472,6 +388,20 @@
       "salesCount": 519,
       "seller": "Wa Magazine PP",
       "category": "Casa e organização"
+    },
+    {
+      "id": "22997647570",
+      "title": "Escova secador Modeladora Taiff Oval Easy Pink Original",
+      "price": 164.99,
+      "originalPrice": 199.99,
+      "discountPercent": 17.5,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
+      "url": "https://s.shopee.com.br/5LD36JY1SH",
+      "rating": 4.9,
+      "salesCount": 672,
+      "official": true,
+      "seller": "Beleza Renovada Oficial",
+      "category": "Beleza"
     },
     {
       "id": "22593191479",
@@ -514,6 +444,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "22894246754",
+      "title": "BODY SPLASH MASCULINO BARBARIUS 200ML - PRIMACIAL PERFUME AMADEIRADO",
+      "price": 34.9,
+      "originalPrice": 45.9,
+      "discountPercent": 24,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mukmdt0eigw203",
+      "url": "https://s.shopee.com.br/LoN99uiZz",
+      "rating": 4.7,
+      "salesCount": 1794,
+      "official": true,
+      "seller": "Primacial",
+      "category": "Beleza"
+    },
+    {
       "id": "20598461061",
       "title": "Cortina Voil Gaze De Linho 3,00 x 2,20/2,30/2,40/2,50/2,60/2,70/2,80 C/forro Blackout Grosso Original",
       "price": 199.9,
@@ -525,20 +469,6 @@
       "rating": 4.9,
       "salesCount": 1604,
       "seller": "Kaluros ",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23799188673",
-      "title": "kit 1400 Toalhas Umedecidas Bebê Limpinho",
-      "price": 59.99,
-      "originalPrice": 71.99,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mspv9fbn4npg06",
-      "url": "https://s.shopee.com.br/9zytBmgmji",
-      "rating": 4.9,
-      "salesCount": 4644,
-      "official": true,
-      "seller": "Droga Clara",
       "category": "Casa e organização"
     }
   ]
