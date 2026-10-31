@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-31T00:04:41.010Z",
+  "updatedAt": "2026-10-31T00:25:17.170Z",
   "offers": [
+    {
+      "id": "22598515911",
+      "title": "Pelúcia Dinossauro T-Rex Fofo 30cm - Brinquedo Macio Infantil e Adulto - Verde, Azul, Vermelho",
+      "price": 24.49,
+      "originalPrice": 69.97,
+      "discountPercent": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9rgatm4qtqa70",
+      "url": "https://s.shopee.com.br/1LgxLQ3O07",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 322,
+      "seller": "Ariani Utilidades",
+      "category": "Pet e bebê"
+    },
     {
       "id": "44110609035",
       "title": "2026 Mais Recente Smartwatch S10 Pro Relógio Série 10 2.08 Polegadas Sem Fio Bluetooth Esportes ALKF",
@@ -116,18 +130,18 @@
       "hot": true
     },
     {
-      "id": "25287628574",
-      "title": "Fone de Ouvido Sem Fio Bluetooth Gamer RS-29 Com Led Jogo e Música H'maston Original",
-      "price": 42.99,
-      "originalPrice": 113.13,
-      "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mu7je1eo7klce3",
-      "url": "https://s.shopee.com.br/4Vdz5njHhq",
+      "id": "22997380264",
+      "title": "Pantufa feminina Aberta Em Pelúcia de Alta Qualidade",
+      "price": 36.9,
+      "originalPrice": 80.22,
+      "discountPercent": 54,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mm80hxckvimfc8",
+      "url": "https://s.shopee.com.br/8AXHTydN7x",
       "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 223,
-      "seller": "VITTORIA SHOPPING",
-      "category": "Eletrônicos"
+      "rating": 4.9,
+      "salesCount": 784,
+      "seller": "LIAMELLE",
+      "category": "Pet e bebê"
     },
     {
       "id": "22093231630",
@@ -142,6 +156,21 @@
       "official": true,
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza"
+    },
+    {
+      "id": "23898395204",
+      "title": "kit 6 unis Chaveiro Com Pingente De Urso Ttedy De Pelúcia cor aleatorio",
+      "price": 15.99,
+      "originalPrice": 59.22,
+      "discountPercent": 73,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8rm8mq5up3lbd",
+      "url": "https://s.shopee.com.br/gRGYC5vLn",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 437,
+      "seller": "MOMO SHOP",
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "20998101213",
@@ -182,6 +211,20 @@
       "salesCount": 697,
       "seller": "Eddias Home",
       "category": "Casa e organização"
+    },
+    {
+      "id": "58265385886",
+      "title": "Brinquedo De Jesus Pelucia Que Brilha E Respira E Toca Música 38cm Boneco Para Criança Dormir",
+      "price": 69.95,
+      "originalPrice": 118.56,
+      "discountPercent": 41,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ar-mrbwlhwumyv590",
+      "url": "https://s.shopee.com.br/7VHagkfuTl",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1221,
+      "seller": "Gss Variedade",
+      "category": "Pet e bebê"
     },
     {
       "id": "23898813796",
@@ -227,19 +270,6 @@
       "category": "Moda"
     },
     {
-      "id": "21198268414",
-      "title": "BASIKE Carregador Portátil 20000mAh - Carregamento Rápido 22.5W Power Bank Carregador Saída dupla",
-      "price": 199.99,
-      "originalPrice": 298.49,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mst7bfnjndon89",
-      "url": "https://s.shopee.com.br/5VWTpV65WF",
-      "rating": 4.9,
-      "salesCount": 2207,
-      "seller": "Basike oficial",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "58205605828",
       "title": "Protetor Solar FPS 70 SunCare UVA+UVB Toque Seco Resistente à Água 150ml",
       "price": 22,
@@ -263,23 +293,21 @@
       "rating": 4.8,
       "salesCount": 1091,
       "seller": "AuraShop Cuidado que a casa merece",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
-      "id": "48115954670",
-      "title": "Fone de Ouvido Gamer Attack Shark L80PRO 3 em 1 2.4G/BT5.3/Com Fio Drivers 40mm HiFi Ultra-Baixa Latência 20ms",
-      "price": 174.06,
-      "originalPrice": 238.44,
-      "discountPercent": 27,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134253-82591-mrrvue5x2ccme4",
-      "url": "https://s.shopee.com.br/1146vMwboN",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 126,
-      "official": true,
-      "seller": "Brand Choice",
-      "category": "Eletrônicos"
+      "id": "23819619280",
+      "title": "kit 12 Chaveiros com Pingente Ursinho Urso de Pelúcia Pequeno cor aleatorio",
+      "price": 30.88,
+      "originalPrice": 79.18,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg1-m9qq0ogl1gw007",
+      "url": "https://s.shopee.com.br/8VA7sac6S3",
+      "rating": 4.8,
+      "salesCount": 631,
+      "seller": "FELIZ SHOP",
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "23997823258",
@@ -294,6 +322,19 @@
       "salesCount": 445,
       "seller": "MOCHILA FASHION",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "58214064306",
+      "title": "Centopéia Espiral Bichinho Pelúcia Brinquedo Carrinho Berço Bebê Conforto com Chocalho de Pendurar Sensorial",
+      "price": 31.6,
+      "originalPrice": 50.16,
+      "discountPercent": 37,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mqiayec3xs774d",
+      "url": "https://s.shopee.com.br/1BNX9741Kq",
+      "rating": 4.9,
+      "salesCount": 503,
+      "seller": "Acahe Variedades",
+      "category": "Pet e bebê"
     },
     {
       "id": "50802620838",
@@ -337,6 +378,19 @@
       "hot": true
     },
     {
+      "id": "23694663832",
+      "title": "Kit 2 Canetas Gel Apagável Crazy Fluffles 0,7mm Divertidas, Criativas e com Pelúcia Rosa e Azul BRW",
+      "price": 34.9,
+      "originalPrice": 52.09,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgs96x65iww4f6",
+      "url": "https://s.shopee.com.br/2LZUXFzZyD",
+      "rating": 5,
+      "salesCount": 375,
+      "seller": "Monkey Market Papelaria",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "18499252377",
       "title": "Fita LED 3528 SUPER LED ULTRA RGB 5M até 15M 12V 300 LEDS | 16 CORES IP20 Pronta Entrega Com e Sem Fonte",
       "price": 17.5,
@@ -348,8 +402,7 @@
       "rating": 4.8,
       "salesCount": 984,
       "seller": "Abella Tech",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "40179335828",
@@ -407,6 +460,20 @@
       "category": "Beleza"
     },
     {
+      "id": "19698526209",
+      "title": "Kit 12 Chaveiros Grande Ursinho de Pelúcia Enviar várias cores Sentados 12cm",
+      "price": 49.99,
+      "originalPrice": 94.32,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfi0-m9gdt345kwwh6a",
+      "url": "https://s.shopee.com.br/7AekI8hB9f",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1278,
+      "seller": "FELIZ SHOP",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "21298000067",
       "title": "Tenis Vizzano Feminino Casual Moda 1444.100",
       "price": 116.6,
@@ -419,19 +486,6 @@
       "official": true,
       "seller": "Krokodilus Oficial",
       "category": "Moda"
-    },
-    {
-      "id": "58266646623",
-      "title": "Fone de Ouvido Bluetooth Q88PRO Ear Clip Borboleta 5.4 Sem Fio Gamer Baixa Latência Bateria 24H",
-      "price": 58.8,
-      "originalPrice": 99.66,
-      "discountPercent": 41,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-ms5fmt1keq6f44",
-      "url": "https://s.shopee.com.br/W7qKRyVpC",
-      "rating": 4.9,
-      "salesCount": 163,
-      "seller": "Esportivo Relógio",
-      "category": "Eletrônicos"
     },
     {
       "id": "23194187468",
@@ -447,6 +501,20 @@
       "category": "Beleza"
     },
     {
+      "id": "22899162730",
+      "title": "Bebê Boneca Reborn Menina com Acessórios Pode Dar Banho",
+      "price": 149.93,
+      "originalPrice": 199.91,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-ms9s7vkbzyf8d9",
+      "url": "https://s.shopee.com.br/9pfVT2X1kR",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 399,
+      "seller": "Mundo Kids.",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "45466593909",
       "title": "4 Cadeira de Jantar Gruvyer Nude Escritorio Area Goumet Reforçada Resistente Envio Rapido Promoção!!",
       "price": 245.99,
@@ -458,6 +526,20 @@
       "salesCount": 519,
       "seller": "Wa Magazine PP",
       "category": "Casa e organização"
+    },
+    {
+      "id": "22594535413",
+      "title": "Enfeite de Natal Pelúcia Kit 10/12 Unidades Variadas Papai Noel Rena Boneco Neve Árvore Natal Pendentes Natalinos Luxo",
+      "price": 49.29,
+      "originalPrice": 78.24,
+      "discountPercent": 37,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfud9ritd2pz15",
+      "url": "https://s.shopee.com.br/BUzxH7pMk",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 396,
+      "seller": "MVIMPORTADOSVARIEDADES",
+      "category": "Pet e bebê"
     },
     {
       "id": "22593191479",
@@ -485,20 +567,6 @@
       "salesCount": 1732,
       "seller": "MIGARO",
       "category": "Beleza"
-    },
-    {
-      "id": "17129073233",
-      "title": "Headphone Fone de ouvido Gamer com Microfone para PC Notebook Celular PS4 entrada P3 LC-848 Marca XTRAD",
-      "price": 44.96,
-      "originalPrice": 70.25,
-      "discountPercent": 36,
-      "imageUrl": "https://cf.shopee.com.br/file/9e9771d8c189339a75f0f6f3a400736b",
-      "url": "https://s.shopee.com.br/3VlRtxn5jY",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 263,
-      "seller": "Ankco Shop",
-      "category": "Eletrônicos"
     },
     {
       "id": "58261388401",
