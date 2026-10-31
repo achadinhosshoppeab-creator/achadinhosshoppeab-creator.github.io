@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T11:45:59.969Z",
+  "updatedAt": "2026-10-31T12:07:17.848Z",
   "offers": [
     {
       "id": "54558362287",
@@ -17,20 +17,6 @@
       "hot": true
     },
     {
-      "id": "23198887934",
-      "title": "Kit 3 Body Splash Cheiro de Rica Kokeshi Floral 3x200ml",
-      "price": 68.9,
-      "originalPrice": 149.78,
-      "discountPercent": 54,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meg5e4k8n2f701",
-      "url": "https://s.shopee.com.br/1147hXiH3U",
-      "rating": 4.8,
-      "salesCount": 524,
-      "official": true,
-      "seller": "KOKESHI OFICIAL",
-      "category": "Beleza"
-    },
-    {
       "id": "58206578231",
       "title": "Óleo Extraordinário 100ml NEW HAIR + Máscara Extraordinário 300g NEW HAIR | Fio sedoso e protegido",
       "price": 27.49,
@@ -41,34 +27,8 @@
       "rating": 4.9,
       "salesCount": 2701,
       "seller": "Bela Beleza Oficial",
-      "category": "Beleza"
-    },
-    {
-      "id": "22598692881",
-      "title": "BODY SPLASH FEMININO INVERSE 200ML - PRIMACIAL PERFUME AMBAR FLORAL",
-      "price": 42.9,
-      "originalPrice": 70.33,
-      "discountPercent": 39,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mukoqlfbm0oz7d",
-      "url": "https://s.shopee.com.br/1W0OISgN2R",
-      "rating": 4.9,
-      "salesCount": 743,
-      "official": true,
-      "seller": "Primacial",
-      "category": "Beleza"
-    },
-    {
-      "id": "53663766640",
-      "title": "Body Splash Vanilla Baunilha 200ml SWISS BEAUTY Sofisticação e Longa Duração",
-      "price": 23.9,
-      "originalPrice": 39.83,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mqhox0ki6hhd34",
-      "url": "https://s.shopee.com.br/AUvC6JTu3e",
-      "rating": 4.8,
-      "salesCount": 919,
-      "seller": "Bela Beleza Oficial",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "18297829933",
@@ -123,21 +83,6 @@
       "salesCount": 1981,
       "seller": "Tudo Bom ",
       "category": "Pet e bebê",
-      "hot": true
-    },
-    {
-      "id": "22594160172",
-      "title": "Copo garrafa Térmica Inox 1200ml Parede Dupla tampa Canudo Premium",
-      "price": 33.99,
-      "originalPrice": 99.97,
-      "discountPercent": 66,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ravt-mb2w188hbv4yb0",
-      "url": "https://s.shopee.com.br/7Ael2qidLO",
-      "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 989,
-      "seller": "Boa sorte vem",
-      "category": "Cozinha",
       "hot": true
     },
     {
@@ -199,20 +144,6 @@
       "hot": true
     },
     {
-      "id": "20498034472",
-      "title": "ESSENCIA DE PERFUME FEMININA DE 10ML IMPORTADA CONCENTRADA ALTA FIXAÇÃO DURADOURA",
-      "price": 19.7,
-      "originalPrice": 26.62,
-      "discountPercent": 26,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mm2d3uhpxedi54",
-      "url": "https://s.shopee.com.br/6VP4FeNP3y",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 205,
-      "seller": "Contratipos Premium",
-      "category": "Beleza"
-    },
-    {
       "id": "22093231630",
       "title": "Sabonete Facial em Gel Pele de Porcelana 190ml Kokeshi",
       "price": 42.09,
@@ -227,19 +158,6 @@
       "category": "Beleza"
     },
     {
-      "id": "20998101213",
-      "title": "Kit 3 Heras Ramas Artificial Pendente Real Ao Toque 6 Metros Verde Planta Trepadeira Folhagem",
-      "price": 18.99,
-      "originalPrice": 35.83,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7req3-m8ax16wfd9yf0d",
-      "url": "https://s.shopee.com.br/2Vsrj7RpwN",
-      "rating": 4.6,
-      "salesCount": 1003,
-      "seller": "Kardía",
-      "category": "Casa e organização"
-    },
-    {
       "id": "46306153826",
       "title": "Espelho Para Banheiro Redondo Penteadeira Decorativo Sala Quarto Hall Adnet Costurado 60cm Sem Alça",
       "price": 21.9,
@@ -252,21 +170,6 @@
       "salesCount": 697,
       "seller": "Eddias Home",
       "category": "Casa e organização"
-    },
-    {
-      "id": "22694639165",
-      "title": "Capa para copos térmicos Com Alça De Ombro Perfeita Para Transporte",
-      "price": 19.91,
-      "originalPrice": 60.33,
-      "discountPercent": 67,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg7n72zf37k7ad",
-      "url": "https://s.shopee.com.br/6L5e3Jlo2B",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 821,
-      "seller": "Otimo.bolsas.mochilas",
-      "category": "Cozinha",
-      "hot": true
     },
     {
       "id": "20997746336",
@@ -333,34 +236,8 @@
       "rating": 4.8,
       "salesCount": 1091,
       "seller": "AuraShop Cuidado que a casa merece",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "53610044881",
-      "title": "Perfume Masculino Importado Inspirado Fragrância Elegante Longa Duração miniatura carro presente",
-      "price": 59.99,
-      "originalPrice": 139.51,
-      "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mr0if2f5r8ck7a",
-      "url": "https://s.shopee.com.br/5VWX3oRD5o",
-      "rating": 4.8,
-      "salesCount": 202,
-      "seller": "Maria Bonita Brand ",
-      "category": "Beleza"
-    },
-    {
-      "id": "23898928538",
-      "title": "caneca Garrafa Térmica Vacuum Bottle Inox 500ml + 3 Xícaras Bebidas Fria ou Quente",
-      "price": 27.49,
-      "originalPrice": 56.1,
-      "discountPercent": 51,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824gu-mf53b0ii7mko02",
-      "url": "https://s.shopee.com.br/8fTYpbcvIr",
-      "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 654,
-      "seller": "zapshop2",
-      "category": "Cozinha"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "23997823258",
@@ -442,20 +319,6 @@
       "salesCount": 984,
       "seller": "Abella Tech",
       "category": "Casa e organização"
-    },
-    {
-      "id": "23498738268",
-      "title": "BODY SPLASH MASCULINO MIDTOWN 200ML - PRIMACIAL PERFUME FRESCO AMADEIRADO",
-      "price": 34.9,
-      "originalPrice": 69.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mujgl30uuhvk54",
-      "url": "https://s.shopee.com.br/1BNXtqhdiX",
-      "rating": 4.8,
-      "salesCount": 542,
-      "official": true,
-      "seller": "Primacial",
-      "category": "Beleza"
     },
     {
       "id": "58251465024",
@@ -553,19 +416,6 @@
       "category": "Beleza"
     },
     {
-      "id": "19298031267",
-      "title": "Perfume Feminino Importado Original sofisticado cheiroso Brand Collection 177- Mas vendido 25ml",
-      "price": 59,
-      "originalPrice": 100,
-      "discountPercent": 41,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mu9ir5m6crghc2",
-      "url": "https://s.shopee.com.br/9APpQYDFek",
-      "rating": 4.8,
-      "salesCount": 111,
-      "seller": "Maria Bonita Perfumes",
-      "category": "Beleza"
-    },
-    {
       "id": "22593191479",
       "title": "Kit Organizadores Acrílico Cristal Modular Para Geladeiras Gavetas e Maquiagens",
       "price": 33.9,
@@ -592,19 +442,6 @@
       "salesCount": 1742,
       "seller": "KEEP SHOP",
       "category": "Beleza"
-    },
-    {
-      "id": "58261388401",
-      "title": "Jogo Stop Interativo Educativo Basta Palavras 24cm Com 36 Cards Dupla Face 2 A 6 Jogadores Portugues",
-      "price": 34.99,
-      "originalPrice": 49.99,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rq-mopgr0b3zlse85",
-      "url": "https://s.shopee.com.br/3VlSdFkUrD",
-      "rating": 4.9,
-      "salesCount": 1552,
-      "seller": "Spotlight 82",
-      "category": "Pet e bebê"
     },
     {
       "id": "22894246754",
