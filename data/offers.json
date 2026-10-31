@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-31T16:21:17.969Z",
+  "updatedAt": "2026-10-31T16:42:36.040Z",
   "offers": [
-    {
-      "id": "22997323467",
-      "title": "Kit 10/05 Calcinhas de Algodão Feminina Tanga Vies Adulto Lisa",
-      "price": 26.9,
-      "originalPrice": 89.67,
-      "discountPercent": 70,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb96x5nulmt91",
-      "url": "https://s.shopee.com.br/1W0ObNLmLm",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1644,
-      "seller": "Amazile Store",
-      "category": "Moda",
-      "hot": true
-    },
     {
       "id": "54558362287",
       "title": "Body Splash Feminino Shine Agapis Beauty 200ml Fragrância Sedutora Alta Fixação",
@@ -42,48 +27,8 @@
       "rating": 4.9,
       "salesCount": 2701,
       "seller": "Bela Beleza Oficial",
-      "category": "Beleza"
-    },
-    {
-      "id": "4893739569",
-      "title": "Kit 10 Calcinhas de Algodão Feminina Adulto Tanga Lisas Cos Largo",
-      "price": 48.9,
-      "originalPrice": 80.16,
-      "discountPercent": 39,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mn9e150092bo66",
-      "url": "https://s.shopee.com.br/BV10vQr3O",
-      "rating": 4.8,
-      "salesCount": 2001,
-      "seller": "AMD Comércio",
-      "category": "Moda"
-    },
-    {
-      "id": "23998169868",
-      "title": "Kit 5 Calcinha Fio Dental Algodão  Conforto Cotton Feminina",
-      "price": 24.98,
-      "originalPrice": 40.29,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m72b6gedy8g774",
-      "url": "https://s.shopee.com.br/2BG5ObJEzq",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1863,
-      "seller": "Demila-Confecções",
-      "category": "Moda"
-    },
-    {
-      "id": "58253786518",
-      "title": "Kit Calcinhas Cinta Modeladora Compressão Cós Alto Redutora De Medidas Confortável",
-      "price": 25.99,
-      "originalPrice": 60.44,
-      "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-ms5spnagkves65",
-      "url": "https://s.shopee.com.br/11480SNgMT",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 2066,
-      "seller": "Daffine.Oficial",
-      "category": "Moda"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "18297829933",
@@ -156,20 +101,6 @@
       "hot": true
     },
     {
-      "id": "20967589028",
-      "title": "Conjunto Calcinha Efeito Lipo e sutia cortininha MODA PRAIA gringa Tiktok",
-      "price": 39,
-      "originalPrice": 60,
-      "discountPercent": 35,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820la-mubgwztwxvyb0b",
-      "url": "https://s.shopee.com.br/40hjZyCGGO",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 140,
-      "seller": "closetdanathyy2",
-      "category": "Moda"
-    },
-    {
       "id": "58209744424",
       "title": "Jogo Educativo de Tabuleiro Pense Rápido 24cm, Cartas em Português, Funciona com e Sem Pilha",
       "price": 38.8,
@@ -194,7 +125,8 @@
       "rating": 4.9,
       "salesCount": 1200,
       "seller": "Mundo-Mix BR",
-      "category": "Pet e bebê"
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "22093231630",
@@ -211,21 +143,6 @@
       "category": "Beleza"
     },
     {
-      "id": "21799382992",
-      "title": "Kit 5 até 10 Calcinha Infantil com Forro algodão Estampada De 1 a 9 Anos Conforto meninas criança",
-      "price": 16.9,
-      "originalPrice": 42.25,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mq8azmxbdse970",
-      "url": "https://s.shopee.com.br/gRHbqOx2R",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2015,
-      "seller": "Fashion_4you",
-      "category": "Moda",
-      "hot": true
-    },
-    {
       "id": "46306153826",
       "title": "Espelho Para Banheiro Redondo Penteadeira Decorativo Sala Quarto Hall Adnet Costurado 60cm Sem Alça",
       "price": 21.9,
@@ -240,21 +157,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "40222122589",
-      "title": "Kit Calcinhas Cinta Modeladora Suplex Plus Size Pós Parto e Cirúrgico Alta Pressão Moda Intima",
-      "price": 26.98,
-      "originalPrice": 79.35,
-      "discountPercent": 66,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h7-mf6s8t2302ktb5",
-      "url": "https://s.shopee.com.br/2LZVauIber",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1777,
-      "seller": "Rosa de Mello Atacado & Varejo",
-      "category": "Moda",
-      "hot": true
-    },
-    {
       "id": "23898813796",
       "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
       "price": 44.9,
@@ -267,34 +169,6 @@
       "official": true,
       "seller": "Barbour's Beauty",
       "category": "Beleza"
-    },
-    {
-      "id": "22994329845",
-      "title": "Kit 2 Sutia Top com bojo Sem Costura Confortavel Fitness e Academia Cores sortidas",
-      "price": 29.98,
-      "originalPrice": 99.93,
-      "discountPercent": 70,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdo6wgv3in699e",
-      "url": "https://s.shopee.com.br/4Ve0AtAMFX",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 85,
-      "seller": "ZONGHA LOJA ONLINE",
-      "category": "Moda"
-    },
-    {
-      "id": "22594450567",
-      "title": "Kit Top Faixa  Cropped feminino de renda com bojo Sutiâ  Blusinha",
-      "price": 26.32,
-      "originalPrice": 71.14,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf4mma429xj94a",
-      "url": "https://s.shopee.com.br/4B19mHBcvR",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 157,
-      "seller": "Miuviu.com",
-      "category": "Moda"
     },
     {
       "id": "23198735870",
@@ -324,34 +198,6 @@
       "category": "Beleza"
     },
     {
-      "id": "13257315583",
-      "title": "Kit 10 Calcinha Infantil De 01 a 12 Anos 100% Algodão",
-      "price": 32.99,
-      "originalPrice": 64.69,
-      "discountPercent": 49,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6jzuiebbfr35",
-      "url": "https://s.shopee.com.br/qkho9OJhS",
-      "rating": 4.6,
-      "salesCount": 2092,
-      "seller": "Up Intimates",
-      "category": "Moda"
-    },
-    {
-      "id": "19199547689",
-      "title": "Kit 10/5 Calcinhas 100% Algodao Basica dia a dia Conforto Calcinhas Lisas",
-      "price": 29,
-      "originalPrice": 70.73,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk12vp5cxn9c15",
-      "url": "https://s.shopee.com.br/1gJongL90n",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1794,
-      "seller": "Essencial-Lingerie",
-      "category": "Moda",
-      "hot": true
-    },
-    {
       "id": "22593191349",
       "title": "Kit com 7 Organizadores Acrílico Cristal Modular Para Geladeiras Gavetas e Maquiagens",
       "price": 33.9,
@@ -362,7 +208,8 @@
       "rating": 4.8,
       "salesCount": 1091,
       "seller": "AuraShop Cuidado que a casa merece",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "23997823258",
@@ -404,20 +251,6 @@
       "official": true,
       "seller": "mypetone",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "22698657383",
-      "title": "5/10 Par Sutia Adesivo adesivo para seios kit sutia Seios Peitos Invisivel caixa embalagem requintada",
-      "price": 35.98,
-      "originalPrice": 78.22,
-      "discountPercent": 54,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rasx-mb3jp5hio90061",
-      "url": "https://s.shopee.com.br/4LKZyaAzaU",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 128,
-      "seller": "VAULT NET COMERCIAL E DISTRIBUIDORA",
-      "category": "Moda"
     },
     {
       "id": "54857767078",
@@ -470,21 +303,8 @@
       "rating": 4.9,
       "salesCount": 1222,
       "seller": "Brincakids",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "22298568813",
-      "title": "[Versão portuguesa] Usaopoly Medoosi Jogo Tabuleiro De Palavras de Palavras -Quick Interativo Brinquedo Para Pais Filhos",
-      "price": 36.9,
-      "originalPrice": 59,
-      "discountPercent": 37.5,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mrl7eli8uebr51",
-      "url": "https://s.shopee.com.br/5q9NPXbc7y",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1297,
-      "seller": "MEDOOSI-BR",
-      "category": "Pet e bebê"
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "22298654389",
@@ -554,6 +374,20 @@
       "salesCount": 1742,
       "seller": "KEEP SHOP",
       "category": "Beleza"
+    },
+    {
+      "id": "22298568813",
+      "title": "[Versão portuguesa] Usaopoly Medoosi Jogo Tabuleiro De Palavras de Palavras -Quick Interativo Brinquedo Para Pais Filhos",
+      "price": 36.9,
+      "originalPrice": 47.95,
+      "discountPercent": 23,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mrl7eli8uebr51",
+      "url": "https://s.shopee.com.br/5q9NPXbc7y",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1297,
+      "seller": "MEDOOSI-BR",
+      "category": "Pet e bebê"
     },
     {
       "id": "22894246754",
