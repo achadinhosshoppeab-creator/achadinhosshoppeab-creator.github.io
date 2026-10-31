@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T02:11:39.229Z",
+  "updatedAt": "2026-10-31T02:42:48.580Z",
   "offers": [
     {
       "id": "23394239273",
@@ -13,6 +13,21 @@
       "salesCount": 527,
       "seller": "ManufaturaPrecisa",
       "category": "Ferramentas",
+      "hot": true
+    },
+    {
+      "id": "58267057460",
+      "title": "Capa de Almofada 40x40 Kit 2 Unidades Linho Textura Quadriculada Decorativa Sofá Sala Quarto",
+      "price": 21.91,
+      "originalPrice": 70.68,
+      "discountPercent": 69,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mse694rwpeyvee",
+      "url": "https://s.shopee.com.br/1LgxUoabOS",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 501,
+      "seller": "Sofá & Sala",
+      "category": "Casa e organização",
       "hot": true
     },
     {
@@ -155,6 +170,19 @@
       "category": "Casa e organização"
     },
     {
+      "id": "58259030575",
+      "title": "Kit 4 Capas de Almofada 40x40 Suede Luxo Decorativa para Sofá Sala Quarto Macia com Zíper ENVIO FULL",
+      "price": 38.89,
+      "originalPrice": 69.45,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81ztt-mn4txvflfhmr91",
+      "url": "https://s.shopee.com.br/1W0Nh7Zy3V",
+      "rating": 4.9,
+      "salesCount": 418,
+      "seller": "RC STORE DECORA",
+      "category": "Casa e organização"
+    },
+    {
       "id": "23898813796",
       "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
       "price": 44.9,
@@ -182,6 +210,20 @@
       "seller": "Aureum Vitae",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "23399662695",
+      "title": "Kit com 6 Capas de Almofada de Linho 40x40 Linho Premium Decorativa Zíper Sofá Sala Quarto",
+      "price": 68.99,
+      "originalPrice": 130.17,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-ms2vsh292tqcb6",
+      "url": "https://s.shopee.com.br/906Ocu7Ppt",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 476,
+      "seller": "VISIO DECORE ",
+      "category": "Casa e organização"
     },
     {
       "id": "58200475144",
@@ -225,6 +267,20 @@
       "hot": true
     },
     {
+      "id": "23593664397",
+      "title": "Kit de Capa de Almofada Linho Bordada Aplicada Decorativa - Escolha Sua Combinação",
+      "price": 49.9,
+      "originalPrice": 70.28,
+      "discountPercent": 29,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwzyt5u6i9xc8",
+      "url": "https://s.shopee.com.br/BV06ff2lN",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 401,
+      "seller": "Bordalize",
+      "category": "Casa e organização"
+    },
+    {
       "id": "23997823258",
       "title": "Mochila de viagem unissex Alça de aço reforçada com portas USB e para fones de ouvido D8109",
       "price": 55.99,
@@ -236,8 +292,7 @@
       "rating": 4.8,
       "salesCount": 445,
       "seller": "MOCHILA FASHION",
-      "category": "Eletrônicos",
-      "hot": true
+      "category": "Eletrônicos"
     },
     {
       "id": "50802620838",
@@ -376,6 +431,34 @@
       "salesCount": 1742,
       "seller": "KEEP SHOP",
       "category": "Beleza"
+    },
+    {
+      "id": "58251853082",
+      "title": "Kit 3 Peças Cama Posta 1 Peseira e 2 Capas de Almofada Decorativa Flannel Elegante Chique Casa Rica",
+      "price": 49.9,
+      "originalPrice": 70.28,
+      "discountPercent": 29,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820l4-mujmggjjry0w69",
+      "url": "https://s.shopee.com.br/1BZuMfg6K",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 443,
+      "seller": "Andrade Prime Enxovais",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58267033764",
+      "title": "Kit 2 Capas de Almofada Natalina Lisa Suede 45x45cm com Zíper Invisível Decorativa",
+      "price": 18.4,
+      "originalPrice": 30.16,
+      "discountPercent": 39,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-msdhwimd6hon23",
+      "url": "https://s.shopee.com.br/qkgttcVPZ",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 361,
+      "seller": "casa_viva",
+      "category": "Casa e organização"
     },
     {
       "id": "45466593909",
