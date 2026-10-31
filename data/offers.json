@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T01:50:20.738Z",
+  "updatedAt": "2026-10-31T02:11:39.229Z",
   "offers": [
     {
       "id": "23394239273",
@@ -55,21 +55,6 @@
       "official": true,
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza"
-    },
-    {
-      "id": "21498313388",
-      "title": "Calça Jeans Baggy Balão Reta Masculina Preta Boca Larga 100% Jeans Bag Sk8 Streetwear Tecido Premium",
-      "price": 69.95,
-      "originalPrice": 194.31,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mnbkltfxga2o29",
-      "url": "https://s.shopee.com.br/5VWWOuZHq6",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1922,
-      "seller": "Alvemi",
-      "category": "Moda",
-      "hot": true
     },
     {
       "id": "18299268001",
@@ -170,20 +155,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "22894296494",
-      "title": "Calça Jeans Feminino Plus Size Marmorizada Cintura Alta Modelagem Levanta Bumbum Com Lycra Strech E Elastano Premium",
-      "price": 49.8,
-      "originalPrice": 90.55,
-      "discountPercent": 45,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhfplqtdfcx35",
-      "url": "https://s.shopee.com.br/6L5dORW79J",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1767,
-      "seller": "Beluxx Denim",
-      "category": "Moda"
-    },
-    {
       "id": "23898813796",
       "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
       "price": 44.9,
@@ -265,7 +236,8 @@
       "rating": 4.8,
       "salesCount": 445,
       "seller": "MOCHILA FASHION",
-      "category": "Eletrônicos"
+      "category": "Eletrônicos",
+      "hot": true
     },
     {
       "id": "50802620838",
@@ -295,6 +267,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "23194371381",
+      "title": "Escova De Limpeza 5 em 1 Ajustável Janela Banheiro e Cozinha Ferramenta Recarregável",
+      "price": 25.96,
+      "originalPrice": 56.43,
+      "discountPercent": 54,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mt5cn6iv6txhb6",
+      "url": "https://s.shopee.com.br/AUvBZGyHOZ",
+      "rating": 4.5,
+      "salesCount": 2029,
+      "seller": "Fuxi Store",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
       "id": "18499252377",
       "title": "Fita LED 3528 SUPER LED ULTRA RGB 5M até 15M 12V 300 LEDS | 16 CORES IP20 Pronta Entrega Com e Sem Fonte",
       "price": 17.5,
@@ -307,21 +293,6 @@
       "salesCount": 984,
       "seller": "Abella Tech",
       "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "22393103808",
-      "title": "Calça Feminina Jeans 44 ao 54 plus size Direto Da Fabrica Skinny Cintura Alta com Elastano Premiun",
-      "price": 49.9,
-      "originalPrice": 99.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhfd0qn5q03p7d",
-      "url": "https://s.shopee.com.br/6VP3akVToK",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1798,
-      "seller": "Inove jeans",
-      "category": "Moda",
       "hot": true
     },
     {
@@ -445,20 +416,6 @@
       "salesCount": 1732,
       "seller": "MIGARO",
       "category": "Beleza"
-    },
-    {
-      "id": "56604917708",
-      "title": "Calça Feminina Jeans Flare Cós e Cintura Alta Levanta Bumbum Com Lycra Elastano Bolsos Traseiros Pronta Entrega Promoção",
-      "price": 67.98,
-      "originalPrice": 99.97,
-      "discountPercent": 32,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mpb5mf0c72f7ef",
-      "url": "https://s.shopee.com.br/7puRBCQP6S",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2299,
-      "seller": "MPJEANS",
-      "category": "Moda"
     },
     {
       "id": "58261388401",
