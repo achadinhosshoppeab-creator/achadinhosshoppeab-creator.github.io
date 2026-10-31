@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-10-31T10:32:36.121Z",
+  "updatedAt": "2026-10-31T11:03:49.074Z",
   "offers": [
+    {
+      "id": "54558362287",
+      "title": "Body Splash Feminino Shine Agapis Beauty 200ml Fragrância Sedutora Alta Fixação",
+      "price": 19.9,
+      "originalPrice": 49.75,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mrhgn8jhurk40c",
+      "url": "https://s.shopee.com.br/40hjE7nAob",
+      "rating": 4.7,
+      "salesCount": 3881,
+      "official": true,
+      "seller": "Adora ",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "58206578231",
+      "title": "Óleo Extraordinário 100ml NEW HAIR + Máscara Extraordinário 300g NEW HAIR | Fio sedoso e protegido",
+      "price": 27.49,
+      "originalPrice": 49.98,
+      "discountPercent": 45,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mlm4terbm0p074",
+      "url": "https://s.shopee.com.br/3qOJ1qsQoN",
+      "rating": 4.9,
+      "salesCount": 2701,
+      "seller": "Bela Beleza Oficial",
+      "category": "Beleza",
+      "hot": true
+    },
     {
       "id": "18297829933",
       "title": "Perfume Grace Midnight Feminino Frasco Antigo Hinode 100ml",
@@ -8,7 +37,7 @@
       "originalPrice": 101.94,
       "discountPercent": 33.3,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mspjvyi96xhh07",
-      "url": "https://s.shopee.com.br/3B8YWKXTM1",
+      "url": "https://s.shopee.com.br/7fb1arZDNf",
       "rating": 4.9,
       "salesCount": 694,
       "official": true,
@@ -26,8 +55,7 @@
       "rating": 4.8,
       "salesCount": 1553,
       "seller": "Nutryx Importação",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "21678240017",
@@ -42,6 +70,20 @@
       "official": true,
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza"
+    },
+    {
+      "id": "58254949260",
+      "title": "Tapple Stop – Jogo de Tabuleiro Trava Letras com Temporizador – Versão GRANDE 24cm – Português",
+      "price": 38.9,
+      "originalPrice": 111.14,
+      "discountPercent": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mnl60sxzo1ds0b",
+      "url": "https://s.shopee.com.br/4Vdzp5ggpJ",
+      "rating": 4.8,
+      "salesCount": 1981,
+      "seller": "Tudo Bom ",
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "18299268001",
@@ -59,18 +101,18 @@
       "hot": true
     },
     {
-      "id": "58204153704",
-      "title": "Kit Shampoo + Condicionador + Creme para Pentear 300ml SOS Cachos Kids Hidratação Salon Line",
-      "price": 46.1,
-      "originalPrice": 64.93,
-      "discountPercent": 29,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-msr3shcqrz0n32",
-      "url": "https://s.shopee.com.br/7VHXgKGRSb",
-      "rating": 4.9,
-      "salesCount": 1229,
-      "official": true,
-      "seller": "Salon Line",
-      "category": "Beleza"
+      "id": "58209744424",
+      "title": "Jogo Educativo de Tabuleiro Pense Rápido 24cm, Cartas em Português, Funciona com e Sem Pilha",
+      "price": 38.8,
+      "originalPrice": 110.86,
+      "discountPercent": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mt7nfngerrwmf8",
+      "url": "https://s.shopee.com.br/5AtgcJe9TN",
+      "rating": 4.8,
+      "salesCount": 3106,
+      "seller": "Mundo-Mix BR",
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "41919952056",
@@ -79,12 +121,26 @@
       "originalPrice": 46.19,
       "discountPercent": 64,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82619-mjl7s667d7uq27",
-      "url": "https://s.shopee.com.br/5VWTdoinTQ",
+      "url": "https://s.shopee.com.br/6q1ubMomLh",
       "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 1509,
       "seller": "Choice Oficial",
       "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "58216416889",
+      "title": "Jogo de Tabuleiro Educativo Pense Rápido 24cm com Cartas em Português",
+      "price": 38.9,
+      "originalPrice": 92.62,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-ms112hohsm4m32",
+      "url": "https://s.shopee.com.br/7puRnDU04A",
+      "rating": 4.9,
+      "salesCount": 1200,
+      "seller": "Mundo-Mix BR",
+      "category": "Pet e bebê",
       "hot": true
     },
     {
@@ -115,32 +171,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58210582239",
-      "title": "Luminária de Leitura de Clipe LED Amiga dos Olhos, Portátil Recarregável para Estudo e Viagens",
-      "price": 45.99,
-      "originalPrice": 104.52,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822zq-mo6ipuqkynlyd9",
-      "url": "https://s.shopee.com.br/BUwwrzLk2",
-      "rating": 5,
-      "salesCount": 56,
-      "seller": "Vida Simples e Boa",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "22198802267",
-      "title": "Kit faca de corte 13 artesanato estilete de precisão- Ideal para Artesanato, Artesão e Modelismo",
-      "price": 18.58,
-      "originalPrice": 37.16,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mczt1nnpdvr557",
-      "url": "https://s.shopee.com.br/9KjF3e1I6v",
-      "rating": 4.9,
-      "salesCount": 663,
-      "seller": "Global Mall",
-      "category": "Cozinha"
-    },
-    {
       "id": "46306153826",
       "title": "Espelho Para Banheiro Redondo Penteadeira Decorativo Sala Quarto Hall Adnet Costurado 60cm Sem Alça",
       "price": 21.9,
@@ -155,6 +185,19 @@
       "category": "Casa e organização"
     },
     {
+      "id": "20997746336",
+      "title": "Comedouro Bebedouro Para Cachorro Gato 1,5 Litros Para Ração ou Água Vasilha Pet",
+      "price": 28.9,
+      "originalPrice": 48.98,
+      "discountPercent": 41,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd53-lwkc251i5xs90d",
+      "url": "https://s.shopee.com.br/LoQrOaKVO",
+      "rating": 4.8,
+      "salesCount": 677,
+      "seller": "Pet Tobby",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "23898813796",
       "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
       "price": 44.9,
@@ -167,35 +210,6 @@
       "official": true,
       "seller": "Barbour's Beauty",
       "category": "Beleza"
-    },
-    {
-      "id": "58259278839",
-      "title": "Kit Biotina Pura + Colágeno Hidrolisado + Ácido Hialurônico Alta Concentração Pele Unhas e Cabelos",
-      "price": 24.5,
-      "originalPrice": 70,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-msmsg3dizchx77",
-      "url": "https://s.shopee.com.br/1BX3au1da",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1819,
-      "seller": "Aureum Vitae",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "18597993608",
-      "title": "Kit 2 Formas de Silicone Quadrada 20x20cm Assadeira Air Fryer e Forno Forma para Fritadeira Elétrica com Alça",
-      "price": 29.88,
-      "originalPrice": 48.19,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mukubqhbp1q9e6",
-      "url": "https://s.shopee.com.br/1W0ODOsss0",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 453,
-      "seller": "Life Hack Homeware",
-      "category": "Cozinha"
     },
     {
       "id": "23198735870",
@@ -225,19 +239,6 @@
       "category": "Beleza"
     },
     {
-      "id": "22599042883",
-      "title": "BASIKE 2026 Carregador Portátil 20000mAh - Carregamento Rápido 22.5W Power Bank Carregador Saída dupla",
-      "price": 199.99,
-      "originalPrice": 298.49,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mst7bfnhmbd1a8",
-      "url": "https://s.shopee.com.br/8VA8U1kgbv",
-      "rating": 4.9,
-      "salesCount": 2234,
-      "seller": "Basike oficial",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "22593191349",
       "title": "Kit com 7 Organizadores Acrílico Cristal Modular Para Geladeiras Gavetas e Maquiagens",
       "price": 33.9,
@@ -263,22 +264,7 @@
       "rating": 4.8,
       "salesCount": 445,
       "seller": "MOCHILA FASHION",
-      "category": "Eletrônicos",
-      "hot": true
-    },
-    {
-      "id": "42019159450",
-      "title": "Kit 2 Formas de silicone de dinossauro para chocolate e biscoitos-sem BPA, ótimas para sobremesas e bolos",
-      "price": 21.9,
-      "originalPrice": 49.77,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-msz1mfg2z6yx3f",
-      "url": "https://s.shopee.com.br/1Lgy15tWCz",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 452,
-      "seller": "Damai222.br",
-      "category": "Cozinha"
+      "category": "Eletrônicos"
     },
     {
       "id": "50802620838",
@@ -308,32 +294,17 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "23194371381",
-      "title": "Escova De Limpeza 5 em 1 Ajustável Janela Banheiro e Cozinha Ferramenta Recarregável",
-      "price": 25.96,
-      "originalPrice": 56.43,
-      "discountPercent": 54,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mt5cn6iv6txhb6",
-      "url": "https://s.shopee.com.br/AUvBZGyHOZ",
-      "rating": 4.5,
-      "salesCount": 2029,
-      "seller": "Fuxi Store",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "18499184847",
-      "title": "Kit 12 Forminhas 7x4.5x3.5 cm de Silicone Mini Pudim Bolo Forma Assadeira Redonda Antiaderente Torta Cupcake",
-      "price": 16.5,
-      "originalPrice": 27.05,
-      "discountPercent": 39,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx4-mdg8cea4zelge6",
-      "url": "https://s.shopee.com.br/1gJoPhsFX5",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 441,
-      "seller": "Master Atacadista",
-      "category": "Cozinha"
+      "id": "23099041114",
+      "title": "Vela Aromática Perfumada Pote de Vidro Decorado Tampa Luxo Aromaterapia Decoração Casa",
+      "price": 34.9,
+      "originalPrice": 60.17,
+      "discountPercent": 42,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825bb-mrku4hvskbnpa2",
+      "url": "https://s.shopee.com.br/4Vdzp42XAS",
+      "rating": 4.8,
+      "salesCount": 257,
+      "seller": "Loja MixMania",
+      "category": "Casa e organização"
     },
     {
       "id": "18499252377",
@@ -347,22 +318,20 @@
       "rating": 4.8,
       "salesCount": 984,
       "seller": "Abella Tech",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
-      "id": "18497753762",
-      "title": "Forma Assadeira de Silicone Grande com Furo Bolo, Tortas e Pudim Antiaderente Mousse Forno 21x9",
-      "price": 17.9,
-      "originalPrice": 33.15,
-      "discountPercent": 46,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyf7018ludd196",
-      "url": "https://s.shopee.com.br/906P9BQKeZ",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 325,
-      "seller": "Mais tem",
-      "category": "Cozinha"
+      "id": "58251465024",
+      "title": "Brinquedo Lousa Magnética 3 em 1 Infantil Quebra Cabeça Magnético de Feições Madeira Educativo Pedagógico com Canetinha",
+      "price": 59.49,
+      "originalPrice": 118.98,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-msm9h2039hjbdd",
+      "url": "https://s.shopee.com.br/6VP4ClTv8v",
+      "rating": 4.9,
+      "salesCount": 1222,
+      "seller": "Brincakids",
+      "category": "Pet e bebê"
     },
     {
       "id": "40179335828",
@@ -384,7 +353,7 @@
       "originalPrice": 19.98,
       "discountPercent": 23.4,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mshcold93shxfc",
-      "url": "https://s.shopee.com.br/4B17No8lQc",
+      "url": "https://s.shopee.com.br/AAIMZSPyTV",
       "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 1408,
@@ -398,7 +367,7 @@
       "originalPrice": 59,
       "discountPercent": 37.5,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mrl7eli8uebr51",
-      "url": "https://s.shopee.com.br/8VA4sAzn1B",
+      "url": "https://s.shopee.com.br/5q9NPXbc7y",
       "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 1297,
@@ -406,18 +375,18 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "21298000067",
-      "title": "Tenis Vizzano Feminino Casual Moda 1444.100",
-      "price": 116.6,
-      "originalPrice": 201.03,
-      "discountPercent": 42,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259d-mrpvjgt0vw2049",
-      "url": "https://s.shopee.com.br/7AejPmjvmv",
-      "rating": 5,
-      "salesCount": 1775,
-      "official": true,
-      "seller": "Krokodilus Oficial",
-      "category": "Moda"
+      "id": "22298654389",
+      "title": "ANA1108 Conjunto De Pincéis De Maquiagem Profissional De 8 Unidades De Contém Pincel De Pó",
+      "price": 17.99,
+      "originalPrice": 32.12,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8227a-mhci7hcbkiyx9f",
+      "url": "https://s.shopee.com.br/30pC2JiPAT",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1727,
+      "seller": "Rosa Glam",
+      "category": "Beleza"
     },
     {
       "id": "45466593909",
@@ -439,7 +408,7 @@
       "originalPrice": 199.99,
       "discountPercent": 17.5,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
-      "url": "https://s.shopee.com.br/5LD36JY1SH",
+      "url": "https://s.shopee.com.br/6AmDo6kMDq",
       "rating": 4.9,
       "salesCount": 672,
       "official": true,
@@ -475,26 +444,13 @@
       "category": "Beleza"
     },
     {
-      "id": "58266272545",
-      "title": "Kit Hidratante Nivea Milk 400ml cada Pele Seca a Extrasseca",
-      "price": 44.01,
-      "originalPrice": 69.86,
-      "discountPercent": 37,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mrx2uimjk4qt1b",
-      "url": "https://s.shopee.com.br/1qdBV7NhMC",
-      "rating": 4.9,
-      "salesCount": 1732,
-      "seller": "MIGARO",
-      "category": "Beleza"
-    },
-    {
       "id": "58261388401",
       "title": "Jogo Stop Interativo Educativo Basta Palavras 24cm Com 36 Cards Dupla Face 2 A 6 Jogadores Portugues",
       "price": 34.99,
       "originalPrice": 49.99,
       "discountPercent": 30,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rq-mopgr0b3zlse85",
-      "url": "https://s.shopee.com.br/1gJkjcPnsZ",
+      "url": "https://s.shopee.com.br/3VlSdFkUrD",
       "rating": 4.9,
       "salesCount": 1552,
       "seller": "Spotlight 82",
