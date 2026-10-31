@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T13:52:28.767Z",
+  "updatedAt": "2026-10-31T14:13:50.734Z",
   "offers": [
     {
       "id": "54558362287",
@@ -285,7 +285,7 @@
       "originalPrice": 35.71,
       "discountPercent": 51,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwh98hxpqto5fe",
-      "url": "https://s.shopee.com.br/5LD5Zi6uNi",
+      "url": "https://s.shopee.com.br/LoR4RqzQa",
       "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 984,
@@ -305,47 +305,6 @@
       "seller": "Brincakids",
       "category": "Pet e bebê",
       "hot": true
-    },
-    {
-      "id": "40179335828",
-      "title": "Kit 04 Cadeira Allegra Escritório Área Interna/Externa Gourmert Varanda Sala de Jantar Promoção Envio Imediato",
-      "price": 248.6,
-      "originalPrice": 452,
-      "discountPercent": 45,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-msjugtb82zgne9",
-      "url": "https://s.shopee.com.br/7fay3DniuF",
-      "rating": 4.7,
-      "salesCount": 894,
-      "seller": "Wa Magazine PP",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "47702868379",
-      "title": "Mochila Feminina De Grande Capacidade À Prova D’água – Couro PU Minimalista Antifurto Para Viagem/Trabalho/Escola",
-      "price": 48.99,
-      "originalPrice": 80.31,
-      "discountPercent": 39,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mi2p7t5gh536ee",
-      "url": "https://s.shopee.com.br/AUvD9eOqP6",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1145,
-      "seller": "Xinoney.br",
-      "category": "Moda"
-    },
-    {
-      "id": "22398906461",
-      "title": "Kit Pancake Branco + Batom  Preto Halloween Maquiagem Artística Bruxa Festa Fantasia Colormake",
-      "price": 15.3,
-      "originalPrice": 19.98,
-      "discountPercent": 23.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mshcold93shxfc",
-      "url": "https://s.shopee.com.br/AAIMZSPyTV",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1408,
-      "seller": "Loja do Abençoado F",
-      "category": "Beleza"
     },
     {
       "id": "22298568813",
