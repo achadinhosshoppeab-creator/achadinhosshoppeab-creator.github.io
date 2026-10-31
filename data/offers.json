@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T18:07:46.385Z",
+  "updatedAt": "2026-10-31T18:29:01.730Z",
   "offers": [
     {
       "id": "54558362287",
@@ -27,7 +27,8 @@
       "rating": 4.9,
       "salesCount": 2701,
       "seller": "Bela Beleza Oficial",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "18297829933",
@@ -114,35 +115,6 @@
       "hot": true
     },
     {
-      "id": "52112263864",
-      "title": "Bonsai Artificial Decoração Zen Planta Realista Dragão Verde Vaso Escuro com Pedras",
-      "price": 32.99,
-      "originalPrice": 99.97,
-      "discountPercent": 67,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mpierp0nbklc24",
-      "url": "https://s.shopee.com.br/W7rWofbC2",
-      "rating": 4.9,
-      "salesCount": 483,
-      "seller": "osiriloko",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "49852252762",
-      "title": "Kit Buquês Com Limões Sicilianos Artificiais Realistas Amarelo",
-      "price": 17.9,
-      "originalPrice": 38.09,
-      "discountPercent": 53,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8227q-mhkojohx5rlv66",
-      "url": "https://s.shopee.com.br/20wfJZZt9N",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 391,
-      "official": true,
-      "seller": "Agiani Decor",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58216416889",
       "title": "Jogo de Tabuleiro Educativo Pense Rápido 24cm com Cartas em Português",
       "price": 38.9,
@@ -155,34 +127,6 @@
       "seller": "Mundo-Mix BR",
       "category": "Pet e bebê",
       "hot": true
-    },
-    {
-      "id": "40070102352",
-      "title": "Planta Bonsai Nuvem Artificial –  Folhas Rosa Vibrante em Vaso Branco Retangular",
-      "price": 22,
-      "originalPrice": 55,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meu33y329s039e",
-      "url": "https://s.shopee.com.br/11487jdhB5",
-      "rating": 4.9,
-      "salesCount": 435,
-      "seller": "osiriloko",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "43151855386",
-      "title": "Planta Artificial Palmeira Com Vaso Origami Polietileno",
-      "price": 72.54,
-      "originalPrice": 134.33,
-      "discountPercent": 46,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ravp-ma2wc2hwxil844",
-      "url": "https://s.shopee.com.br/1BavthVCv",
-      "rating": 4.8,
-      "salesCount": 407,
-      "official": true,
-      "seller": "Agiani Decor",
-      "category": "Casa e organização"
     },
     {
       "id": "46306153826",
@@ -345,20 +289,8 @@
       "rating": 4.9,
       "salesCount": 1222,
       "seller": "Brincakids",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "48014964797",
-      "title": "Kit 2 Plantas Pendente Artificial Decorativa com Vaso Pronta para Decorar Acabamento Realista",
-      "price": 48.99,
-      "originalPrice": 65.32,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mr6l1z86m03p85",
-      "url": "https://s.shopee.com.br/8AXIeuCPdk",
-      "rating": 4.8,
-      "salesCount": 237,
-      "seller": "osiriloko",
-      "category": "Casa e organização"
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "22298654389",
@@ -388,33 +320,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "22997647570",
-      "title": "Escova secador Modeladora Taiff Oval Easy Pink Original",
-      "price": 164.99,
-      "originalPrice": 199.99,
-      "discountPercent": 17.5,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
-      "url": "https://s.shopee.com.br/6AmDo6kMDq",
-      "rating": 4.9,
-      "salesCount": 672,
-      "official": true,
-      "seller": "Beleza Renovada Oficial",
-      "category": "Beleza"
-    },
-    {
-      "id": "42275366956",
-      "title": "Camisa Polo Fina Para Cachorro E Gato , Camiseta Listrada Com Gola Redonda , Casaco De Duas Pernas , Roupas Animais De E",
-      "price": 19,
-      "originalPrice": 30.16,
-      "discountPercent": 37,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258p-mfuyp80x258ra7",
-      "url": "https://s.shopee.com.br/6VP4fsi4Y2",
-      "rating": 4.9,
-      "salesCount": 576,
-      "seller": "wolistore.br",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "22593191479",
       "title": "Kit Organizadores Acrílico Cristal Modular Para Geladeiras Gavetas e Maquiagens",
       "price": 33.9,
@@ -441,20 +346,6 @@
       "salesCount": 1742,
       "seller": "KEEP SHOP",
       "category": "Beleza"
-    },
-    {
-      "id": "28927852965",
-      "title": "Colete Salva-Vidas Cachorro Para Cães Animais De Estimação Pequenos Grandes Natação Seguro Reflexivo",
-      "price": 44.99,
-      "originalPrice": 61.63,
-      "discountPercent": 27,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd57-m6ryk7ypqs213c",
-      "url": "https://s.shopee.com.br/1Bavw6okC",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 222,
-      "seller": "CDDMPET",
-      "category": "Pet e bebê"
     },
     {
       "id": "22298568813",
