@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T18:29:01.730Z",
+  "updatedAt": "2026-10-31T19:11:23.235Z",
   "offers": [
     {
       "id": "54558362287",
@@ -66,7 +66,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mrvgs50iy8zr1f",
       "url": "https://s.shopee.com.br/6AmA5piWOH",
       "rating": 4.9,
-      "salesCount": 6750,
+      "salesCount": 6587,
       "official": true,
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza"
@@ -198,6 +198,20 @@
       "hot": true
     },
     {
+      "id": "22698738537",
+      "title": "OLEO PARA MASSAGEM CORPORAL SENSUAL TÂNTRICA LA PASSION",
+      "price": 25.2,
+      "originalPrice": 49.41,
+      "discountPercent": 49,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mce8iv3brqw0a6",
+      "url": "https://s.shopee.com.br/7VHbw4WORs",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 573,
+      "seller": "VELUDO INTIMO",
+      "category": "Beleza"
+    },
+    {
       "id": "23997823258",
       "title": "Mochila de viagem unissex Alça de aço reforçada com portas USB e para fones de ouvido D8109",
       "price": 55.99,
@@ -210,6 +224,20 @@
       "salesCount": 445,
       "seller": "MOCHILA FASHION",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "23398747829",
+      "title": "Kit 50/40/30/20/10 Máscara Labial Pink Cristal Hidratante para Lábios | Cuidados Labiais",
+      "price": 15.5,
+      "originalPrice": 24.6,
+      "discountPercent": 37,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-muvhjo9x1r0h87",
+      "url": "https://s.shopee.com.br/2BG5aGqhGK",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 1660,
+      "seller": "SUMARS",
+      "category": "Beleza"
     },
     {
       "id": "50802620838",
@@ -274,7 +302,7 @@
       "url": "https://s.shopee.com.br/LoR4RqzQa",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 984,
+      "salesCount": 1001,
       "seller": "Abella Tech",
       "category": "Casa e organização"
     },
@@ -287,7 +315,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-msm9h2039hjbdd",
       "url": "https://s.shopee.com.br/6VP4ClTv8v",
       "rating": 4.9,
-      "salesCount": 1222,
+      "salesCount": 1242,
       "seller": "Brincakids",
       "category": "Pet e bebê",
       "hot": true
@@ -360,6 +388,20 @@
       "salesCount": 1297,
       "seller": "MEDOOSI-BR",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "22293524016",
+      "title": "Lavadora de Alta Pressão Desentupidora 2100 libras - Combate Turbo Ultra 2600 Wap",
+      "price": 969.9,
+      "originalPrice": 1328.63,
+      "discountPercent": 27,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ad-mtbvvg62e96udd",
+      "url": "https://s.shopee.com.br/1LgyaiywtH",
+      "rating": 4.9,
+      "salesCount": 203,
+      "official": true,
+      "seller": "Dutra Máquinas",
+      "category": "Casa e organização"
     },
     {
       "id": "22894246754",
