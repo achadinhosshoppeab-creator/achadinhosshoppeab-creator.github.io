@@ -1,20 +1,6 @@
 {
-  "updatedAt": "2026-10-31T09:30:45.323Z",
+  "updatedAt": "2026-10-31T10:01:48.098Z",
   "offers": [
-    {
-      "id": "23394239273",
-      "title": "Kit Jogo Broca Escariadora 8 Peças Madeira Piloto Chanfro para Madeira Aço HSS 3 a 10mm",
-      "price": 25.9,
-      "originalPrice": 95.93,
-      "discountPercent": 73,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvx-mchapvnkvmbb21",
-      "url": "https://s.shopee.com.br/8pmvGnBifg",
-      "rating": 4.8,
-      "salesCount": 527,
-      "seller": "ManufaturaPrecisa",
-      "category": "Ferramentas",
-      "hot": true
-    },
     {
       "id": "18297829933",
       "title": "Perfume Grace Midnight Feminino Frasco Antigo Hinode 100ml",
@@ -224,18 +210,19 @@
       "category": "Beleza"
     },
     {
-      "id": "58200475144",
-      "title": "CALÇA PANTALONA DE ALFAIATARIA  FEMININA COM CINTO CINTURA ALTA ELEGANTE. no",
-      "price": 29.99,
-      "originalPrice": 39.99,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mguzzbhpmfb8d8",
-      "url": "https://s.shopee.com.br/1gJlGUowkA",
+      "id": "41817447559",
+      "title": "HYUNDAI M100 Bluetooth 5.4 Fones De Ouvido Sem Fio Com Tela Sensível Ao Toque Microfone Chamada Redução De Ruído Abertos",
+      "price": 69.99,
+      "originalPrice": 189.16,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-me8caixm3ev8a7",
+      "url": "https://s.shopee.com.br/5q9NLDzFHg",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1951,
-      "seller": "BNT MODAS",
-      "category": "Moda"
+      "salesCount": 294,
+      "official": true,
+      "seller": "Monster Audio Store",
+      "category": "Eletrônicos"
     },
     {
       "id": "22599042883",
@@ -249,19 +236,6 @@
       "salesCount": 2234,
       "seller": "Basike oficial",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "58214925648",
-      "title": "Kit 2 Óculos de Sol Infantil Menino Menina Preto Rosa Modelo Moderno Unissex",
-      "price": 29.19,
-      "originalPrice": 39.99,
-      "discountPercent": 27,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259n-mudsbvie8e879a",
-      "url": "https://s.shopee.com.br/1gJoLU2FlL",
-      "rating": 4.9,
-      "salesCount": 112,
-      "seller": "BL Surprises",
-      "category": "Moda"
     },
     {
       "id": "22593191349",
@@ -289,8 +263,22 @@
       "rating": 4.8,
       "salesCount": 445,
       "seller": "MOCHILA FASHION",
-      "category": "Eletrônicos",
-      "hot": true
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "43411675759",
+      "title": "Lenovo LE208 Fones De Ouvido Para Jogos Bluetooth De Baixa Latência IPX5 À Prova D'água Qualidade De Som HIFI",
+      "price": 49.99,
+      "originalPrice": 92.57,
+      "discountPercent": 46,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md4h42449lhn8a",
+      "url": "https://s.shopee.com.br/7fb1WasGYr",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 611,
+      "official": true,
+      "seller": "transformersaudio.br",
+      "category": "Eletrônicos"
     },
     {
       "id": "50802620838",
@@ -334,6 +322,20 @@
       "hot": true
     },
     {
+      "id": "8885713107",
+      "title": "Tapete Sanitário Canino Higiênico Banheiro Adestração Preto",
+      "price": 17.99,
+      "originalPrice": 38.28,
+      "discountPercent": 53,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rasf-mashjtp3swae51",
+      "url": "https://s.shopee.com.br/4B19MAaODO",
+      "rating": 4.9,
+      "salesCount": 1082,
+      "seller": "UNISHOP OFICIAL",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
       "id": "18499252377",
       "title": "Fita LED 3528 SUPER LED ULTRA RGB 5M até 15M 12V 300 LEDS | 16 CORES IP20 Pronta Entrega Com e Sem Fonte",
       "price": 17.5,
@@ -345,6 +347,35 @@
       "rating": 4.8,
       "salesCount": 984,
       "seller": "Abella Tech",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "23293474452",
+      "title": "Tapete Sanitário Lavável Banheiro Cachorro + Adestrador Educador Educa Dog Xixi Sim e Não Petliz",
+      "price": 17.59,
+      "originalPrice": 29.81,
+      "discountPercent": 41,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvg-m1h5z3m8me6g6f",
+      "url": "https://s.shopee.com.br/4LKZYTZksP",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1242,
+      "seller": "Petcon",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "20197108672",
+      "title": "Jogo de Banheiro de Pedras Conjunto Tapetes 3 Peças",
+      "price": 29.98,
+      "originalPrice": 59.96,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mo4ewdsf3z7lb5",
+      "url": "https://s.shopee.com.br/1W0OBGkXcc",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1401,
+      "seller": "Cozinha em Casa",
       "category": "Casa e organização",
       "hot": true
     },
@@ -402,6 +433,21 @@
       "official": true,
       "seller": "Krokodilus Oficial",
       "category": "Moda"
+    },
+    {
+      "id": "48715801728",
+      "title": "Tapete Higiênico 50x60 cm 50 até 200 Unidades Super Absorvente Descartável Cães Filhotes Xixi Pratitudo",
+      "price": 47.9,
+      "originalPrice": 88.7,
+      "discountPercent": 46,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mrqgfo3iakg7f7",
+      "url": "https://s.shopee.com.br/50aGLhXDWT",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1426,
+      "official": true,
+      "seller": "Pratitudo Essencial",
+      "category": "Casa e organização"
     },
     {
       "id": "45466593909",
@@ -466,7 +512,7 @@
       "discountPercent": 37,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mrx2uimjk4qt1b",
       "url": "https://s.shopee.com.br/1qdBV7NhMC",
-      "rating": 5,
+      "rating": 4.9,
       "salesCount": 1732,
       "seller": "MIGARO",
       "category": "Beleza"
