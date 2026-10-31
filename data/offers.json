@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T19:54:06.776Z",
+  "updatedAt": "2026-10-31T20:15:24.805Z",
   "offers": [
     {
       "id": "54558362287",
@@ -100,19 +100,6 @@
       "hot": true
     },
     {
-      "id": "48954595405",
-      "title": "Paleta de Sombras Dear Diary linha Blow - Ruby Rose",
-      "price": 54.98,
-      "originalPrice": 78.54,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262p-mjelxrze17ur9c",
-      "url": "https://s.shopee.com.br/1W0Opweket",
-      "rating": 4.9,
-      "salesCount": 216,
-      "seller": "Lemmi Store",
-      "category": "Beleza"
-    },
-    {
       "id": "58209744424",
       "title": "Jogo Educativo de Tabuleiro Pense Rápido 24cm, Cartas em Português, Funciona com e Sem Pilha",
       "price": 38.8,
@@ -125,34 +112,6 @@
       "seller": "Mundo-Mix BR",
       "category": "Pet e bebê",
       "hot": true
-    },
-    {
-      "id": "22297075220",
-      "title": "My Life Paleta Mosaic 28 Cores Com Glitter MY8551",
-      "price": 20.99,
-      "originalPrice": 48.81,
-      "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3maygo782ew90",
-      "url": "https://s.shopee.com.br/60SoCDNcX4",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 97,
-      "seller": "deusa da sol",
-      "category": "Beleza"
-    },
-    {
-      "id": "23993172309",
-      "title": "GOKOCO Secador De Cabelo Com 5 Em 1 GD023 Escova Magnético Multifuncional De Alta Velocidade Com Alisar Enrolar Hot Air",
-      "price": 459,
-      "originalPrice": 997.83,
-      "discountPercent": 54,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mstkvazichz879",
-      "url": "https://s.shopee.com.br/1W0Opwdijr",
-      "rating": 4.9,
-      "salesCount": 203,
-      "official": true,
-      "seller": "GOKOCO Offical Shop.BR",
-      "category": "Beleza"
     },
     {
       "id": "58216416889",
@@ -169,18 +128,74 @@
       "hot": true
     },
     {
-      "id": "40960844313",
-      "title": "Paleta de Sombras POPFEEL 54 Cores - Tons Terrosos e Arco-Íris Versáteis para Maquiagem Colorida de Festa, Tamanho",
-      "price": 35.54,
-      "originalPrice": 177.7,
-      "discountPercent": 80,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qd-mp4mvxq0rh8vc3",
-      "url": "https://s.shopee.com.br/9fM6Yx9f5g",
-      "rating": 4.7,
-      "salesCount": 106,
-      "seller": "Choice Oficial",
-      "category": "Beleza",
+      "id": "22899362047",
+      "title": "Caderno De Desenho 50 Fls (100 Páginas ) espessado Sketchbook Capa Dura Preta",
+      "price": 16.9,
+      "originalPrice": 31.89,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-ml9s1nqgzz0lcd",
+      "url": "https://s.shopee.com.br/9APpzY7pUM",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 444,
+      "seller": "AUE PAPEL CRIATIVO",
+      "category": "Presentes e papelaria"
+    },
+    {
+      "id": "58205066315",
+      "title": "Mochila Feminina Escolar, Impermeável Bolsa grande de couro da moda Transversal & Costas para Viagem Trabalh",
+      "price": 59,
+      "originalPrice": 168.57,
+      "discountPercent": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu8-mkkuui4viq68fe",
+      "url": "https://s.shopee.com.br/LoRTJtcOa",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 161,
+      "seller": "SCH LOJA",
+      "category": "Presentes e papelaria"
+    },
+    {
+      "id": "58205622618",
+      "title": "Kit 3 Cadernos de desenho aquarela / Sketchbook Capa Dura Papel Holler",
+      "price": 33.9,
+      "originalPrice": 59.47,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-muwk48xi5p1c9f",
+      "url": "https://s.shopee.com.br/70LLPZG4t1",
+      "rating": 5,
+      "salesCount": 210,
+      "seller": "AUE PAPEL CRIATIVO",
+      "category": "Presentes e papelaria"
+    },
+    {
+      "id": "58259895331",
+      "title": "Kit Desenho A3 Caderno 30 Folhas + 12 Canetas Técnicas Para Desenho Arte Sketch",
+      "price": 25.99,
+      "originalPrice": 70.24,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mnoainh37g1s08",
+      "url": "https://s.shopee.com.br/8pmzaw96AG",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 477,
+      "seller": "CHICGET ",
+      "category": "Presentes e papelaria",
       "hot": true
+    },
+    {
+      "id": "19499180827",
+      "title": "Mochila Bolsa Grande 45 L Notebook 17 Masculina Básica Escolar",
+      "price": 31.9,
+      "originalPrice": 60.19,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjkhkvumb9qabe",
+      "url": "https://s.shopee.com.br/9KjGBrLM8E",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 201,
+      "seller": "AB Representações",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "46306153826",
@@ -197,18 +212,18 @@
       "category": "Casa e organização"
     },
     {
-      "id": "22399409519",
-      "title": "Modelador de cabelo com Escova Secadora Alisadora Eletrica 3 Em 1 Bivolt Alisa Modela Com Led Anti Friz",
-      "price": 98.99,
-      "originalPrice": 197.98,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mr91b7oeosg435",
-      "url": "https://s.shopee.com.br/3LS31JWk18",
+      "id": "56652827803",
+      "title": "JAMI JAMI Mochila Feminina Escolar Universitária De Viagem Moda Casual Unissex X218",
+      "price": 59.99,
+      "originalPrice": 149.98,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b6-mrc4uwk86l1j4c",
+      "url": "https://s.shopee.com.br/1W0OrSpB1z",
       "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 281,
-      "seller": "Lumah Store",
-      "category": "Beleza"
+      "rating": 4.9,
+      "salesCount": 102,
+      "seller": "Jami Ling",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "23898813796",
@@ -225,6 +240,19 @@
       "category": "Beleza"
     },
     {
+      "id": "20897971771",
+      "title": "Mochila viral Laptop Viagem Escolar À Prova D'água Executiva Notebook",
+      "price": 101.99,
+      "originalPrice": 199.98,
+      "discountPercent": 49,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3xk6q2i1tf989",
+      "url": "https://s.shopee.com.br/8pmzawNG8x",
+      "rating": 4.7,
+      "salesCount": 358,
+      "seller": "S.X.Z.SHOP.BRAZIL",
+      "category": "Presentes e papelaria"
+    },
+    {
       "id": "23198735870",
       "title": "1 a 10 Metros Fita Mangueira de LED 5050 para Decoração Com Conector 110V ou 220V Branco Frio/Quente",
       "price": 19.77,
@@ -237,6 +265,21 @@
       "salesCount": 3148,
       "seller": "BRILLIA",
       "category": "Casa e organização"
+    },
+    {
+      "id": "19497735239",
+      "title": "Mochila Infantil Escolar de Tigre e Coelho Confortável e Resistente Meninos e Meninas",
+      "price": 33.99,
+      "originalPrice": 99.97,
+      "discountPercent": 66,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mslhgj37943qed",
+      "url": "https://s.shopee.com.br/LoQitc5mj",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 354,
+      "seller": "Ulife Bolsas Mochilas",
+      "category": "Presentes e papelaria",
+      "hot": true
     },
     {
       "id": "20999494647",
@@ -266,6 +309,34 @@
       "hot": true
     },
     {
+      "id": "21597737914",
+      "title": "Mochila Escolar Nylon Camuflada Tática Acampamento Viagem Grande",
+      "price": 39.99,
+      "originalPrice": 90.89,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx4-lyv7qo7hqgfe65",
+      "url": "https://s.shopee.com.br/qki4EriNf",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 173,
+      "seller": "M Flowerr",
+      "category": "Presentes e papelaria"
+    },
+    {
+      "id": "22998302388",
+      "title": "Galocha infantil Feminina Bota De Chuva Meninas Leve e Confortável",
+      "price": 27.99,
+      "originalPrice": 59.55,
+      "discountPercent": 53,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zts-ml4z5v9285ja51",
+      "url": "https://s.shopee.com.br/5q9O1PdUB5",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 53,
+      "seller": "RENLI BABY OFICIAL",
+      "category": "Moda"
+    },
+    {
       "id": "23997823258",
       "title": "Mochila de viagem unissex Alça de aço reforçada com portas USB e para fones de ouvido D8109",
       "price": 55.99,
@@ -280,17 +351,18 @@
       "category": "Eletrônicos"
     },
     {
-      "id": "24317469184",
-      "title": "Paleta De Sombras De Floco De Neve De Natal Com Brilho De 9 Cores DIKALU-Maquiagem Para Olhos Totalmente Pérola E Diaman",
-      "price": 20.9,
-      "originalPrice": 32.66,
-      "discountPercent": 36,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pf-mp4mi4r9vcwb54",
-      "url": "https://s.shopee.com.br/AKbnMB77jk",
-      "rating": 4.9,
-      "salesCount": 115,
-      "seller": "Choice Oficial",
-      "category": "Beleza"
+      "id": "22997993467",
+      "title": "Mochila Feminina viral Laptop Viagem Escolar À Prova D'água Executiva Notebook Impermeável expansível",
+      "price": 96.89,
+      "originalPrice": 197.73,
+      "discountPercent": 51,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m21cuks30mvl0f",
+      "url": "https://s.shopee.com.br/8AXIniPnUt",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 275,
+      "seller": "nicoly.shop.br",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "50802620838",
@@ -370,21 +442,20 @@
       "rating": 4.9,
       "salesCount": 1242,
       "seller": "Brincakids",
-      "category": "Pet e bebê",
-      "hot": true
+      "category": "Pet e bebê"
     },
     {
-      "id": "22893558290",
-      "title": "Escova Secadora Pet 110V- 2 EM 1 Seca Remove Pelos Cachorro Coelho Gato ，Baixo Ruído!",
-      "price": 55.99,
-      "originalPrice": 109.78,
-      "discountPercent": 49,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h7-mprsov15ob9nb3",
-      "url": "https://s.shopee.com.br/2BG5dAbBO3",
+      "id": "23694779205",
+      "title": "Mochila Escolar Infantil Sonic Menino Grande Reforçada Material Escolar",
+      "price": 39.99,
+      "originalPrice": 71.41,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mrrfn6mjnnyc3c",
+      "url": "https://s.shopee.com.br/9pfWmmJS7J",
       "rating": 4.8,
-      "salesCount": 223,
-      "seller": "JinLaiLai",
-      "category": "Beleza"
+      "salesCount": 232,
+      "seller": "HBDR STORE",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "22298654389",
