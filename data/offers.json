@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T14:56:18.340Z",
+  "updatedAt": "2026-10-31T15:17:34.689Z",
   "offers": [
     {
       "id": "54558362287",
@@ -129,6 +129,20 @@
       "hot": true
     },
     {
+      "id": "43280282877",
+      "title": "Escova De Banho Pet Silicone Massageador Com Porta Shampoo De Cão Gato Lava Pelos",
+      "price": 23.79,
+      "originalPrice": 69.97,
+      "discountPercent": 66,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mnktvqsuxhc072",
+      "url": "https://s.shopee.com.br/20wf7vJYcw",
+      "rating": 4.9,
+      "salesCount": 302,
+      "seller": "Melhores coisas",
+      "category": "Pet e bebê",
+      "hot": true
+    },
+    {
       "id": "22093231630",
       "title": "Sabonete Facial em Gel Pele de Porcelana 190ml Kokeshi",
       "price": 42.09,
@@ -141,6 +155,20 @@
       "official": true,
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza"
+    },
+    {
+      "id": "46306153826",
+      "title": "Espelho Para Banheiro Redondo Penteadeira Decorativo Sala Quarto Hall Adnet Costurado 60cm Sem Alça",
+      "price": 21.9,
+      "originalPrice": 39.82,
+      "discountPercent": 45,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mqfdsob63ri9c3",
+      "url": "https://s.shopee.com.br/6L5cATXxVr",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 697,
+      "seller": "Eddias Home",
+      "category": "Casa e organização"
     },
     {
       "id": "23898813796",
@@ -289,8 +317,7 @@
       "rating": 4.9,
       "salesCount": 1222,
       "seller": "Brincakids",
-      "category": "Pet e bebê",
-      "hot": true
+      "category": "Pet e bebê"
     },
     {
       "id": "22298568813",
