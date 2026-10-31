@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T03:13:47.916Z",
+  "updatedAt": "2026-10-31T03:44:40.462Z",
   "offers": [
     {
       "id": "23394239273",
@@ -416,6 +416,20 @@
       "salesCount": 821,
       "seller": "AuraShop Cuidado que a casa merece",
       "category": "Casa e organização"
+    },
+    {
+      "id": "23194187468",
+      "title": "Massageador Elétrico Profissional Muscular Pistola Portátil Original c/ 6 Níveis e 4 Ponteiras",
+      "price": 33.88,
+      "originalPrice": 49.82,
+      "discountPercent": 32,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra13-mbmlv84kuejg25",
+      "url": "https://s.shopee.com.br/4qGo2fdsyS",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1742,
+      "seller": "KEEP SHOP",
+      "category": "Beleza"
     },
     {
       "id": "58266272545",
