@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T11:03:49.074Z",
+  "updatedAt": "2026-10-31T11:24:47.948Z",
   "offers": [
     {
       "id": "54558362287",
@@ -23,7 +23,7 @@
       "originalPrice": 49.98,
       "discountPercent": 45,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mlm4terbm0p074",
-      "url": "https://s.shopee.com.br/3qOJ1qsQoN",
+      "url": "https://s.shopee.com.br/2LZVF5xO3I",
       "rating": 4.9,
       "salesCount": 2701,
       "seller": "Bela Beleza Oficial",
@@ -292,6 +292,19 @@
       "official": true,
       "seller": "mypetone",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "54857767078",
+      "title": "Jogo De Panelas 10 Peças Antiaderente Conjunto com Tampas de Vidro e Kit de Utensílios Marfim",
+      "price": 197.89,
+      "originalPrice": 347.18,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mpm9dmjlux36be",
+      "url": "https://s.shopee.com.br/5VWX2JtuQE",
+      "rating": 4.7,
+      "salesCount": 1767,
+      "seller": "A.R.S Alumínios",
+      "category": "Cozinha"
     },
     {
       "id": "23099041114",
