@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T20:36:34.437Z",
+  "updatedAt": "2026-10-31T20:57:51.675Z",
   "offers": [
     {
       "id": "54558362287",
@@ -129,6 +129,19 @@
       "hot": true
     },
     {
+      "id": "58209289563",
+      "title": "Camiseta Fitness Feminina Tule Leve e Respirável Academia Soltinha Não Marca o Corpo Treino Estilo",
+      "price": 22.98,
+      "originalPrice": 45.06,
+      "discountPercent": 49,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnbqadf2uo7673",
+      "url": "https://s.shopee.com.br/AAINEI62RE",
+      "rating": 4.9,
+      "salesCount": 1137,
+      "seller": "SHOPPF",
+      "category": "Moda"
+    },
+    {
       "id": "46306153826",
       "title": "Espelho Para Banheiro Redondo Penteadeira Decorativo Sala Quarto Hall Adnet Costurado 60cm Sem Alça",
       "price": 21.9,
@@ -141,6 +154,19 @@
       "salesCount": 702,
       "seller": "Eddias Home",
       "category": "Casa e organização"
+    },
+    {
+      "id": "58206016415",
+      "title": "Blusa Academia feminina Oval ) Regata Veste Legging Camisão Tapa Bumbum Camiseta Tule Roupas de Academia Dry Fit Treino",
+      "price": 24.98,
+      "originalPrice": 35.69,
+      "discountPercent": 30,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mn7auvc8gnpcf5",
+      "url": "https://s.shopee.com.br/80DseJEHq1",
+      "rating": 4.8,
+      "salesCount": 719,
+      "seller": "GlowBrand2.0",
+      "category": "Moda"
     },
     {
       "id": "23898813796",
@@ -182,6 +208,34 @@
       "salesCount": 1381,
       "seller": "Kuàilè Bijux",
       "category": "Beleza"
+    },
+    {
+      "id": "22999194989",
+      "title": "Conjunto Poli Top e Short  com Bolso Fitness para Academia Treino Zero Transparência",
+      "price": 49.44,
+      "originalPrice": 74.91,
+      "discountPercent": 34,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8225f-mhc7728ziadk73",
+      "url": "https://s.shopee.com.br/8AXIqcDeV2",
+      "rating": 4.6,
+      "salesCount": 924,
+      "seller": "FEMME FIT",
+      "category": "Moda"
+    },
+    {
+      "id": "22497648129",
+      "title": "Top Fitness Feminino Lupo Top Power Poliamida Sem Costura Alta Sustentação Sem Bojo Academia Diário",
+      "price": 39.99,
+      "originalPrice": 70.16,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9of7btjnyux0c",
+      "url": "https://s.shopee.com.br/5VWXfiNnuG",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1217,
+      "official": true,
+      "seller": "Osure",
+      "category": "Moda"
     },
     {
       "id": "22593191349",
@@ -291,6 +345,33 @@
       "seller": "Brincakids",
       "category": "Pet e bebê",
       "hot": true
+    },
+    {
+      "id": "58260683875",
+      "title": "Top Fitness Esportivo Feminino Alta Sustentação Ajustável Jump Zíper Frontal",
+      "price": 67.9,
+      "originalPrice": 99.85,
+      "discountPercent": 32,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mo8lmx6b9eddd7",
+      "url": "https://s.shopee.com.br/8pmzdqB796",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1305,
+      "seller": "Use Basic Feminino",
+      "category": "Moda"
+    },
+    {
+      "id": "58257481510",
+      "title": "Top Esportivo Alta Sustentação Ajustavel Ziper Frontal Jump Corrida Academia Fitness",
+      "price": 69.9,
+      "originalPrice": 99.86,
+      "discountPercent": 30,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mm6wglm4gzk411",
+      "url": "https://s.shopee.com.br/9APq2S9qTC",
+      "rating": 4.9,
+      "salesCount": 1064,
+      "seller": "Use Basic Feminino",
+      "category": "Moda"
     },
     {
       "id": "22298654389",
