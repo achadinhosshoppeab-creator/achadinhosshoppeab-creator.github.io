@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T15:17:34.689Z",
+  "updatedAt": "2026-10-31T15:38:45.061Z",
   "offers": [
     {
       "id": "54558362287",
@@ -125,20 +125,6 @@
       "rating": 4.9,
       "salesCount": 1200,
       "seller": "Mundo-Mix BR",
-      "category": "Pet e bebê",
-      "hot": true
-    },
-    {
-      "id": "43280282877",
-      "title": "Escova De Banho Pet Silicone Massageador Com Porta Shampoo De Cão Gato Lava Pelos",
-      "price": 23.79,
-      "originalPrice": 69.97,
-      "discountPercent": 66,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mnktvqsuxhc072",
-      "url": "https://s.shopee.com.br/20wf7vJYcw",
-      "rating": 4.9,
-      "salesCount": 302,
-      "seller": "Melhores coisas",
       "category": "Pet e bebê",
       "hot": true
     },
@@ -317,7 +303,8 @@
       "rating": 4.9,
       "salesCount": 1222,
       "seller": "Brincakids",
-      "category": "Pet e bebê"
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "22298568813",
