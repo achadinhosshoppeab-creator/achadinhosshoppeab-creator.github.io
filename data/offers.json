@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T06:53:11.342Z",
+  "updatedAt": "2026-10-31T08:59:24.758Z",
   "offers": [
     {
       "id": "23394239273",
@@ -72,6 +72,20 @@
       "hot": true
     },
     {
+      "id": "23192308959",
+      "title": "Mochila Feminina Escolar Impermeável Grande Bolsa Feminina Faculdade Trabalho Moda Premium",
+      "price": 43.9,
+      "originalPrice": 118.65,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-msgpp6w9y0hy0a",
+      "url": "https://s.shopee.com.br/1qdEVeWNk8",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 329,
+      "seller": "vem.br",
+      "category": "Presentes e papelaria"
+    },
+    {
       "id": "58204153704",
       "title": "Kit Shampoo + Condicionador + Creme para Pentear 300ml SOS Cachos Kids Hidratação Salon Line",
       "price": 46.1,
@@ -99,6 +113,20 @@
       "seller": "Choice Oficial",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "22893348141",
+      "title": "Mochila Escolar Feminina Juvenil Básica Bolsa Faculdade Reforçada Diversas Cores",
+      "price": 51.9,
+      "originalPrice": 120.7,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfey-m3p4618jwtgb58",
+      "url": "https://s.shopee.com.br/gRH7Vap6t",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 349,
+      "seller": "Fk Comercial",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "22093231630",
@@ -168,6 +196,49 @@
       "category": "Casa e organização"
     },
     {
+      "id": "58203344681",
+      "title": "JAMI JAMI Mochila Retrô Americana Impermeável para Escolar com Vários Compartimentos Resistente e Unissex X236",
+      "price": 54.99,
+      "originalPrice": 130.93,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mtmd17mq41s37c",
+      "url": "https://s.shopee.com.br/8pmyqW5jXC",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 380,
+      "seller": "Jami Vitor",
+      "category": "Presentes e papelaria"
+    },
+    {
+      "id": "22292871862",
+      "title": "Mochila Feminina Escolar Passeio Coreano Grande Capacidade Com Chaveiro Impermeável",
+      "price": 56.9,
+      "originalPrice": 118.54,
+      "discountPercent": 52,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ls74wpwwp1k405",
+      "url": "https://s.shopee.com.br/80Drqz8uDz",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 482,
+      "seller": "S.X.Z.SHOP.BRAZIL",
+      "category": "Presentes e papelaria"
+    },
+    {
+      "id": "58252993537",
+      "title": "Mochila Escolar Infantil Menino Menina - Animais  anjgg",
+      "price": 28.99,
+      "originalPrice": 99.97,
+      "discountPercent": 71,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260d-mja0az1qzlzbc8",
+      "url": "https://s.shopee.com.br/8fTYeD6MsB",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 407,
+      "seller": "ANJ.GG store",
+      "category": "Presentes e papelaria",
+      "hot": true
+    },
+    {
       "id": "23898813796",
       "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
       "price": 44.9,
@@ -197,6 +268,35 @@
       "hot": true
     },
     {
+      "id": "22698081358",
+      "title": "Kit Mochila e Infantil Escolar com Estampa de Urso Conforto Resistência e Qualidade Ideal para Escola e Passeios",
+      "price": 36.48,
+      "originalPrice": 98.59,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcvoyivgepf6d3",
+      "url": "https://s.shopee.com.br/906P2p56CD",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 391,
+      "seller": "Otimo.bolsas.mochilas",
+      "category": "Presentes e papelaria"
+    },
+    {
+      "id": "22193121826",
+      "title": "Mochila Feminina Escolar Grande Impermeável Bolsa Faculdade Trabalho Viagem Moderna",
+      "price": 41.99,
+      "originalPrice": 131.22,
+      "discountPercent": 68,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mnpx0f25q77kfc",
+      "url": "https://s.shopee.com.br/9zywEf1IAZ",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 343,
+      "seller": "ME MERCADO",
+      "category": "Presentes e papelaria",
+      "hot": true
+    },
+    {
       "id": "23198735870",
       "title": "1 a 10 Metros Fita Mangueira de LED 5050 para Decoração Com Conector 110V ou 220V Branco Frio/Quente",
       "price": 19.77,
@@ -211,6 +311,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "19497735239",
+      "title": "Mochila Infantil Escolar de Tigre e Coelho Confortável e Resistente Meninos e Meninas",
+      "price": 33.99,
+      "originalPrice": 99.97,
+      "discountPercent": 66,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mslhgj37943qed",
+      "url": "https://s.shopee.com.br/LoQitc5mj",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 348,
+      "seller": "Ulife Bolsas Mochilas",
+      "category": "Presentes e papelaria"
+    },
+    {
       "id": "20999494647",
       "title": "Difusor de Cachos Ar Universal para Secador de Cabelo",
       "price": 19,
@@ -222,6 +336,20 @@
       "salesCount": 1401,
       "seller": "Kuàilè Bijux",
       "category": "Beleza"
+    },
+    {
+      "id": "58260932338",
+      "title": "Kit Com 4 Peças De Mochila Escolar Grande Unissex, Estilo Campus, Mochila Casual E Impermeável",
+      "price": 41.99,
+      "originalPrice": 119.97,
+      "discountPercent": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822zn-moewdqz9wetrab",
+      "url": "https://s.shopee.com.br/AKbmdH01Ub",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 351,
+      "seller": "JOYBELLA ",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "58200475144",
@@ -248,8 +376,36 @@
       "rating": 4.8,
       "salesCount": 1091,
       "seller": "AuraShop Cuidado que a casa merece",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "18697789300",
+      "title": "Cesto Grande Com Tampa Organizador de Brinquedo Roupas Sujas Multiuso Dobrável  Bichinhos Infantil",
+      "price": 17.99,
+      "originalPrice": 39.98,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxm-lz6745398kte26",
+      "url": "https://s.shopee.com.br/3LS2INW5MT",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1574,
+      "seller": "Sholovi Oficial",
       "category": "Casa e organização",
       "hot": true
+    },
+    {
+      "id": "19363914187",
+      "title": "Mochila Escolar Pequena Infantil Desenhos Séries  Super Sonic",
+      "price": 19.96,
+      "originalPrice": 49.9,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22110-ryrs7tbc56jvaf",
+      "url": "https://s.shopee.com.br/qkhJoaBlu",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 299,
+      "seller": "Geek Skin LTDA",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "23997823258",
@@ -263,8 +419,7 @@
       "rating": 4.8,
       "salesCount": 445,
       "seller": "MOCHILA FASHION",
-      "category": "Eletrônicos",
-      "hot": true
+      "category": "Eletrônicos"
     },
     {
       "id": "50802620838",
@@ -308,6 +463,34 @@
       "hot": true
     },
     {
+      "id": "23298897887",
+      "title": "Mochila Unissex Nylon Impermeável Casual Mochila De Média Capacidade Para Campus Bolsa Escolar Para Computad",
+      "price": 35.95,
+      "originalPrice": 76.49,
+      "discountPercent": 53,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b4-mfxnn9skebync1",
+      "url": "https://s.shopee.com.br/9KjFRR3pWN",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 438,
+      "seller": "Bellamira",
+      "category": "Presentes e papelaria"
+    },
+    {
+      "id": "18899871787",
+      "title": "Mochila Unissex De Grande Capacidade Com Vários Compartimentos Para Campus Bolsa Escolar À Prova D'Água Para Computado",
+      "price": 35.95,
+      "originalPrice": 76.49,
+      "discountPercent": 53,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82253-mhpn0vlrkjr8df",
+      "url": "https://s.shopee.com.br/1BaKHdMSh",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 357,
+      "seller": "Bellamira",
+      "category": "Presentes e papelaria"
+    },
+    {
       "id": "18499252377",
       "title": "Fita LED 3528 SUPER LED ULTRA RGB 5M até 15M 12V 300 LEDS | 16 CORES IP20 Pronta Entrega Com e Sem Fonte",
       "price": 17.5,
@@ -319,8 +502,7 @@
       "rating": 4.8,
       "salesCount": 984,
       "seller": "Abella Tech",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "40179335828",
@@ -405,6 +587,19 @@
       "category": "Beleza"
     },
     {
+      "id": "43269417973",
+      "title": "Kit 6 Caixa Organizadora com Tampa 17 L 4,5 L 2 L Cesto Grande em Plástico para Organização",
+      "price": 79.9,
+      "originalPrice": 109.45,
+      "discountPercent": 27,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mt56am6x0qo6c9",
+      "url": "https://s.shopee.com.br/4fxPspR0er",
+      "rating": 4.8,
+      "salesCount": 1410,
+      "seller": "RV-ECOMMERCE",
+      "category": "Casa e organização"
+    },
+    {
       "id": "22593191479",
       "title": "Kit Organizadores Acrílico Cristal Modular Para Geladeiras Gavetas e Maquiagens",
       "price": 33.9,
@@ -457,6 +652,20 @@
       "salesCount": 1552,
       "seller": "Spotlight 82",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "58250456981",
+      "title": "Conjunto de Caixa Livro Decorativa Organizadora Para Joias e Documentos 3pcs Papel",
+      "price": 35.99,
+      "originalPrice": 49.99,
+      "discountPercent": 28,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ei-mgtfuawymia4e4",
+      "url": "https://s.shopee.com.br/4LKZUDSHKl",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1480,
+      "seller": "PANORA VARIEDADES",
+      "category": "Casa e organização"
     },
     {
       "id": "22894246754",
