@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T13:10:33.161Z",
+  "updatedAt": "2026-10-31T13:31:34.301Z",
   "offers": [
     {
       "id": "54558362287",
@@ -27,21 +27,6 @@
       "rating": 4.9,
       "salesCount": 2701,
       "seller": "Bela Beleza Oficial",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "18297829933",
-      "title": "Perfume Grace Midnight Feminino Frasco Antigo Hinode 100ml",
-      "price": 67.96,
-      "originalPrice": 101.94,
-      "discountPercent": 33.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mspjvyi96xhh07",
-      "url": "https://s.shopee.com.br/7fb1arZDNf",
-      "rating": 4.9,
-      "salesCount": 694,
-      "official": true,
-      "seller": "Hinode ",
       "category": "Beleza"
     },
     {
@@ -115,6 +100,36 @@
       "hot": true
     },
     {
+      "id": "58252421843",
+      "title": "Brinquedo Maleta De Atividades Motora Sensorial Educativo Montessori",
+      "price": 49.49,
+      "originalPrice": 137.47,
+      "discountPercent": 64,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-muoagt0szy8062",
+      "url": "https://s.shopee.com.br/5AtgmSeI2n",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1741,
+      "seller": "Sítio do Bebê",
+      "category": "Pet e bebê",
+      "hot": true
+    },
+    {
+      "id": "41919952056",
+      "title": "Hoygi Retinal Eye Cream Suave Nutritivo Firmador Hidratante Cuidados Com Os Olhos",
+      "price": 16.63,
+      "originalPrice": 46.19,
+      "discountPercent": 64,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82619-mjl7s667d7uq27",
+      "url": "https://s.shopee.com.br/6q1ubMomLh",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1509,
+      "seller": "Choice Oficial",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
       "id": "58216416889",
       "title": "Jogo de Tabuleiro Educativo Pense Rápido 24cm com Cartas em Português",
       "price": 38.9,
@@ -171,6 +186,20 @@
       "category": "Beleza"
     },
     {
+      "id": "57401868667",
+      "title": "Escova para Camurça e Nobuck com Borracha Flexível para Limpar Sapatos Tênis Botas e Bolsas Portátil e Lavável 1 Unidade",
+      "price": 27.99,
+      "originalPrice": 60.85,
+      "discountPercent": 54,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257v-mt4u8pgevhfr57",
+      "url": "https://s.shopee.com.br/906PLTi6VI",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 168,
+      "seller": "Bewiles Creative Hub｜BR",
+      "category": "Casa e organização"
+    },
+    {
       "id": "23198735870",
       "title": "1 a 10 Metros Fita Mangueira de LED 5050 para Decoração Com Conector 110V ou 220V Branco Frio/Quente",
       "price": 19.77,
@@ -210,6 +239,20 @@
       "seller": "AuraShop Cuidado que a casa merece",
       "category": "Casa e organização",
       "hot": true
+    },
+    {
+      "id": "58213009667",
+      "title": "MAIMEITE Prancha Cabelo Profissional 230º Chapinha Nano Titanium bivolt",
+      "price": 74.99,
+      "originalPrice": 159.55,
+      "discountPercent": 53,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mr2hih9mgnb8d6",
+      "url": "https://s.shopee.com.br/4fxQBUcw8a",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 564,
+      "seller": "MAIMEITE.vida",
+      "category": "Beleza"
     },
     {
       "id": "23997823258",
@@ -303,8 +346,7 @@
       "rating": 4.9,
       "salesCount": 1222,
       "seller": "Brincakids",
-      "category": "Pet e bebê",
-      "hot": true
+      "category": "Pet e bebê"
     },
     {
       "id": "40179335828",
