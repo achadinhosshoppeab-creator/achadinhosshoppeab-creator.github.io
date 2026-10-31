@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T23:44:05.578Z",
+  "updatedAt": "2026-10-31T00:04:41.010Z",
   "offers": [
     {
       "id": "44110609035",
@@ -114,6 +114,20 @@
       "seller": "Choice Oficial",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "25287628574",
+      "title": "Fone de Ouvido Sem Fio Bluetooth Gamer RS-29 Com Led Jogo e Música H'maston Original",
+      "price": 42.99,
+      "originalPrice": 113.13,
+      "discountPercent": 62,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mu7je1eo7klce3",
+      "url": "https://s.shopee.com.br/4Vdz5njHhq",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 223,
+      "seller": "VITTORIA SHOPPING",
+      "category": "Eletrônicos"
     },
     {
       "id": "22093231630",
@@ -253,6 +267,21 @@
       "hot": true
     },
     {
+      "id": "48115954670",
+      "title": "Fone de Ouvido Gamer Attack Shark L80PRO 3 em 1 2.4G/BT5.3/Com Fio Drivers 40mm HiFi Ultra-Baixa Latência 20ms",
+      "price": 174.06,
+      "originalPrice": 238.44,
+      "discountPercent": 27,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134253-82591-mrrvue5x2ccme4",
+      "url": "https://s.shopee.com.br/1146vMwboN",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 126,
+      "official": true,
+      "seller": "Brand Choice",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "23997823258",
       "title": "Mochila de viagem unissex Alça de aço reforçada com portas USB e para fones de ouvido D8109",
       "price": 55.99,
@@ -265,21 +294,6 @@
       "salesCount": 445,
       "seller": "MOCHILA FASHION",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "9830388367",
-      "title": "Mochila Maternidade Bolsa Mamãe Bebê Multifunção",
-      "price": 30.99,
-      "originalPrice": 70.43,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbnb-lnu59twuc1wo61",
-      "url": "https://s.shopee.com.br/7puR2UBYVw",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1446,
-      "seller": "ANJ.GG store",
-      "category": "Moda",
-      "hot": true
     },
     {
       "id": "50802620838",
@@ -334,7 +348,8 @@
       "rating": 4.8,
       "salesCount": 984,
       "seller": "Abella Tech",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "40179335828",
@@ -406,6 +421,19 @@
       "category": "Moda"
     },
     {
+      "id": "58266646623",
+      "title": "Fone de Ouvido Bluetooth Q88PRO Ear Clip Borboleta 5.4 Sem Fio Gamer Baixa Latência Bateria 24H",
+      "price": 58.8,
+      "originalPrice": 99.66,
+      "discountPercent": 41,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-ms5fmt1keq6f44",
+      "url": "https://s.shopee.com.br/W7qKRyVpC",
+      "rating": 4.9,
+      "salesCount": 163,
+      "seller": "Esportivo Relógio",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "23194187468",
       "title": "Massageador Elétrico Profissional Muscular Pistola Portátil Original c/ 6 Níveis e 4 Ponteiras",
       "price": 29.79,
@@ -457,6 +485,20 @@
       "salesCount": 1732,
       "seller": "MIGARO",
       "category": "Beleza"
+    },
+    {
+      "id": "17129073233",
+      "title": "Headphone Fone de ouvido Gamer com Microfone para PC Notebook Celular PS4 entrada P3 LC-848 Marca XTRAD",
+      "price": 44.96,
+      "originalPrice": 70.25,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/9e9771d8c189339a75f0f6f3a400736b",
+      "url": "https://s.shopee.com.br/3VlRtxn5jY",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 263,
+      "seller": "Ankco Shop",
+      "category": "Eletrônicos"
     },
     {
       "id": "58261388401",
