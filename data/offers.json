@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T04:19:35.833Z",
+  "updatedAt": "2026-11-01T07:59:50.574Z",
   "offers": [
     {
       "id": "54558362287",
@@ -45,20 +45,6 @@
       "category": "Beleza"
     },
     {
-      "id": "58210997361",
-      "title": "Protetor Solar Corporal FPS 70 150ml Toque Seco Resistente à Água Proteção UVA e UVB",
-      "price": 19,
-      "originalPrice": 35.9,
-      "discountPercent": 47.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mpxsgrjyul1c20",
-      "url": "https://s.shopee.com.br/1W0PKOQ3CX",
-      "rating": 4.8,
-      "salesCount": 1523,
-      "seller": "Nutryx Importação",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
       "id": "58254949260",
       "title": "Tapple Stop – Jogo de Tabuleiro Trava Letras com Temporizador – Versão GRANDE 24cm – Português",
       "price": 38.9,
@@ -100,6 +86,19 @@
       "salesCount": 2116,
       "official": true,
       "seller": "GLORY OF SEOUL",
+      "category": "Beleza"
+    },
+    {
+      "id": "58210997361",
+      "title": "Protetor Solar Corporal FPS 70 150ml Toque Seco Resistente à Água Proteção UVA e UVB",
+      "price": 19,
+      "originalPrice": 29.45,
+      "discountPercent": 35.5,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mpxsgrjyul1c20",
+      "url": "https://s.shopee.com.br/1W0PKOQ3CX",
+      "rating": 4.8,
+      "salesCount": 1523,
+      "seller": "Nutryx Importação",
       "category": "Beleza"
     },
     {
@@ -309,7 +308,8 @@
       "rating": 4.8,
       "salesCount": 1585,
       "seller": "Rosa Glam",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "45466593909",
