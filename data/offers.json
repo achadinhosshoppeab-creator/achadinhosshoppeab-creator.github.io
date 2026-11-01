@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T20:18:58.941Z",
+  "updatedAt": "2026-11-01T20:40:11.394Z",
   "offers": [
     {
       "id": "54558362287",
@@ -119,6 +119,19 @@
       "hot": true
     },
     {
+      "id": "58207617587",
+      "title": "Kit 2 Caixas Marca Texto BRW 24 Unidades Fluorescente Neon Ponta Chanfrada 1-4mm Escolar Original",
+      "price": 27,
+      "originalPrice": 45,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258w-mq7zrxn95bsy75",
+      "url": "https://s.shopee.com.br/8fTb1Dy9W4",
+      "rating": 5,
+      "salesCount": 185,
+      "seller": "O Mundo da Papelaria",
+      "category": "Presentes e papelaria"
+    },
+    {
       "id": "58210997361",
       "title": "Protetor Solar Corporal FPS 70 150ml Toque Seco Resistente à Água Proteção UVA e UVB",
       "price": 19,
@@ -184,6 +197,19 @@
       "salesCount": 1591,
       "seller": "Universo Cosmetico",
       "category": "Beleza"
+    },
+    {
+      "id": "22898285712",
+      "title": "Caneta Marca texto Jocar Office Quadrado 6 Cores Tom Pastel",
+      "price": 27,
+      "originalPrice": 39.71,
+      "discountPercent": 32,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m71g3a89kv9j55",
+      "url": "https://s.shopee.com.br/9V2i0kuypB",
+      "rating": 5,
+      "salesCount": 180,
+      "seller": "LOGDA ECOMM",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "58251465024",
