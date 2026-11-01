@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T20:40:11.394Z",
+  "updatedAt": "2026-11-01T21:01:39.521Z",
   "offers": [
     {
       "id": "54558362287",
@@ -17,6 +17,35 @@
       "hot": true
     },
     {
+      "id": "23992649270",
+      "title": "1/2/3 Pcs Umidificador Atomizador de Ar Portátil para Casa Umidificador 200ml ming",
+      "price": 16.99,
+      "originalPrice": 36.93,
+      "discountPercent": 54,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mmin9beed2is80",
+      "url": "https://s.shopee.com.br/9KjHpsYrWL",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 712,
+      "seller": "RISESHOP_brasil",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "23493734287",
+      "title": "Perfume Masculino Empire HINODE 100ml",
+      "price": 99.95,
+      "originalPrice": 199.9,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mspkcyvxa80496",
+      "url": "https://s.shopee.com.br/9KjHR78AAN",
+      "rating": 4.9,
+      "salesCount": 206,
+      "official": true,
+      "seller": "Hinode ",
+      "category": "Beleza"
+    },
+    {
       "id": "58206578231",
       "title": "Óleo Extraordinário 100ml NEW HAIR + Máscara Extraordinário 300g NEW HAIR | Fio sedoso e protegido",
       "price": 27.49,
@@ -27,8 +56,21 @@
       "rating": 4.9,
       "salesCount": 2515,
       "seller": "Bela Beleza Oficial",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
+    },
+    {
+      "id": "23998130993",
+      "title": "Perfume Masculino 521 Vip Black Deo Colônia 15ml - Alta Fixação Perfume de bolsa",
+      "price": 32.5,
+      "originalPrice": 50,
+      "discountPercent": 35,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mqm1eluyew3kb0",
+      "url": "https://s.shopee.com.br/8AXKRi5TGV",
+      "rating": 4.9,
+      "salesCount": 132,
+      "official": true,
+      "seller": "Amakha Paris",
+      "category": "Beleza"
     },
     {
       "id": "18297829933",
@@ -56,6 +98,48 @@
       "rating": 4.5,
       "salesCount": 970,
       "seller": "BENTO’S DECOR",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "22298847016",
+      "title": "Cabo P10 P10 Mono Guitarra Violão Baixo Cavaquinho Caixa Som Amplificador - Disponível 5 e 10 Metros",
+      "price": 25.42,
+      "originalPrice": 39.11,
+      "discountPercent": 35,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdm5991wrb2p64",
+      "url": "https://s.shopee.com.br/4Ve250IcdL",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 139,
+      "seller": "VEM PRA CA ACESSÓRIOS",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "24194076610",
+      "title": "Luminária De Teto Cristal Simplicidade Moderna Corredor Sala De Estar Varanda Quarto",
+      "price": 39,
+      "originalPrice": 125.81,
+      "discountPercent": 69,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m8lpxzvlztv657",
+      "url": "https://s.shopee.com.br/8Kqke2GsNY",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 212,
+      "seller": "Luz & Estilo Loja",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "58201054679",
+      "title": "Ventilador de Teto 60W LED Lâmpada Controle Remoto Luminária Economica de Energia 6 lâminas Bivolt",
+      "price": 49.99,
+      "originalPrice": 151.48,
+      "discountPercent": 67,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhipvmfvcc8xa9",
+      "url": "https://s.shopee.com.br/7KyDSCKgPS",
+      "rating": 4.8,
+      "salesCount": 254,
+      "seller": "JUNGE TECH LTDA",
       "category": "Casa e organização",
       "hot": true
     },
@@ -75,6 +159,47 @@
       "category": "Beleza"
     },
     {
+      "id": "58259866569",
+      "title": "KIT 5 PERFUMES MASCULINO IMPORTADO 100ML",
+      "price": 99,
+      "originalPrice": 220,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820nx-mng8avql81s054",
+      "url": "https://s.shopee.com.br/9KjHpr11ta",
+      "rating": 4.6,
+      "salesCount": 130,
+      "seller": "ZORZA STORE",
+      "category": "Beleza"
+    },
+    {
+      "id": "18598312729",
+      "title": "Porta Maquiagem Make Cosméticos Multiuso Perfume Prateleira 3 Andares 4 Gavetas Organização Completa",
+      "price": 47.99,
+      "originalPrice": 99.98,
+      "discountPercent": 52,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zue-mkl9jdl6iku802",
+      "url": "https://s.shopee.com.br/2gCNtcpNDZ",
+      "rating": 4.8,
+      "salesCount": 1096,
+      "official": true,
+      "seller": "Oi Vida Oficial",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "22499675933",
+      "title": "Perfume Masculino Black Eau de Parfum Fragrância Intensa Elegante.Co",
+      "price": 162.99,
+      "originalPrice": 543.3,
+      "discountPercent": 70,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258o-mujfqcc0740762",
+      "url": "https://s.shopee.com.br/AUvFDzwaWr",
+      "rating": 4.6,
+      "salesCount": 123,
+      "seller": "XHL.ELETRÔNICO",
+      "category": "Beleza"
+    },
+    {
       "id": "23898813796",
       "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
       "price": 39.9,
@@ -86,6 +211,19 @@
       "salesCount": 1744,
       "official": true,
       "seller": "Barbour's Beauty",
+      "category": "Beleza"
+    },
+    {
+      "id": "22598794881",
+      "title": "Kit 3 Body Spray Masculino Malbeck + Essencialle + Kayak 200ml | Perfume Amadeirado",
+      "price": 50,
+      "originalPrice": 89.29,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mra9cd42wtmu26",
+      "url": "https://s.shopee.com.br/qkjiEXO8t",
+      "rating": 4.6,
+      "salesCount": 190,
+      "seller": "JADE.Shop01",
       "category": "Beleza"
     },
     {
@@ -115,21 +253,36 @@
       "rating": 4.8,
       "salesCount": 707,
       "seller": "Eddias Home",
-      "category": "Casa e organização",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "22294063536",
+      "title": "Moedor De Tempero 210ML Com Regulador Sal Pimenta Porta Condimentos Especiarias De Vidro",
+      "price": 15.99,
+      "originalPrice": 49.97,
+      "discountPercent": 68,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mo430e78hqf85e",
+      "url": "https://s.shopee.com.br/8fTb2cYllT",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 457,
+      "seller": "MaisKCompra Store",
+      "category": "Cozinha",
       "hot": true
     },
     {
-      "id": "58207617587",
-      "title": "Kit 2 Caixas Marca Texto BRW 24 Unidades Fluorescente Neon Ponta Chanfrada 1-4mm Escolar Original",
-      "price": 27,
-      "originalPrice": 45,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258w-mq7zrxn95bsy75",
-      "url": "https://s.shopee.com.br/8fTb1Dy9W4",
-      "rating": 5,
-      "salesCount": 185,
-      "seller": "O Mundo da Papelaria",
-      "category": "Presentes e papelaria"
+      "id": "45403003827",
+      "title": "MAYSHOWX1 Suporte Para Bandeja De Cílios , Ferramentas De Extensão De Plástico Com Clipe , Organizador Essencial De Maqu",
+      "price": 35.99,
+      "originalPrice": 85.69,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259e-mtcfxxjjeubrc3",
+      "url": "https://s.shopee.com.br/LoT7NoWGA",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 126,
+      "seller": "mayshowx1.br",
+      "category": "Ferramentas"
     },
     {
       "id": "58210997361",
@@ -158,6 +311,33 @@
       "category": "Beleza"
     },
     {
+      "id": "27269655589",
+      "title": "Lanterna De Mergulho Sofirn SD05 3000 Lúmens Subaquática 100 Metros À Prova D'água IPX8 Usando Xhp50.2 LED Para",
+      "price": 150.99,
+      "originalPrice": 377.48,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lss19qm31mfx99",
+      "url": "https://s.shopee.com.br/80DuFPZsBk",
+      "rating": 4.9,
+      "salesCount": 56,
+      "official": true,
+      "seller": "Sofirn Flashlight Official Store",
+      "category": "Ferramentas"
+    },
+    {
+      "id": "58215038449",
+      "title": "Perfume Asad Eau de Parfum Masculino 100ml",
+      "price": 99.9,
+      "originalPrice": 138.75,
+      "discountPercent": 28,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258w-mr5fxwgg4veq2f",
+      "url": "https://s.shopee.com.br/9V2i2A0OYd",
+      "rating": 4.8,
+      "salesCount": 133,
+      "seller": "PANDA G7",
+      "category": "Beleza"
+    },
+    {
       "id": "23198735870",
       "title": "1 a 10 Metros Fita Mangueira de LED 5050 para Decoração Com Conector 110V ou 220V Branco Frio/Quente",
       "price": 19.77,
@@ -169,8 +349,48 @@
       "rating": 4.8,
       "salesCount": 2955,
       "seller": "BRILLIA",
-      "category": "Casa e organização",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "49616494185",
+      "title": "Porta Condimentos Giratório 12 Potes 85ml Organizador De Temperos Preto Cozinha Moderno",
+      "price": 43.9,
+      "originalPrice": 99.77,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-ms77019l46pw88",
+      "url": "https://s.shopee.com.br/9fM8ESUxjZ",
+      "rating": 4.9,
+      "salesCount": 580,
+      "seller": "MISTER PROMOÇÃO",
+      "category": "Cozinha",
       "hot": true
+    },
+    {
+      "id": "22196865352",
+      "title": "Lanterna Tática Sofirn SF26 Luz EDC Brilhante Recarregável Max 2000 Lumens , SFT40 Pequena LED Com Interruptor De Cauda",
+      "price": 203.99,
+      "originalPrice": 463.61,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lpag61ycl8bg96",
+      "url": "https://s.shopee.com.br/8AXKRiZEqn",
+      "rating": 5,
+      "salesCount": 56,
+      "official": true,
+      "seller": "Sofirn Flashlight Official Store",
+      "category": "Ferramentas"
+    },
+    {
+      "id": "56966488206",
+      "title": "Soundbar e Caixa de Som 50W Bluetooth Potente Premium Home Theater TV PC Gamer Kapbom",
+      "price": 99.96,
+      "originalPrice": 169.42,
+      "discountPercent": 41,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-ms7gkfyagv7rdd",
+      "url": "https://s.shopee.com.br/BV2v2Z7Qb",
+      "rating": 4.7,
+      "salesCount": 98,
+      "seller": "PARAÍSO ELETRÔNICOS",
+      "category": "Eletrônicos"
     },
     {
       "id": "54857767078",
@@ -186,6 +406,47 @@
       "category": "Cozinha"
     },
     {
+      "id": "23099347731",
+      "title": "Porta Temperos Giratório 12 Potes de Vidro com Tampa Dosadora Condimentos",
+      "price": 42.9,
+      "originalPrice": 79.44,
+      "discountPercent": 46,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mngppk021rlt11",
+      "url": "https://s.shopee.com.br/7fb3qmcZnN",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 338,
+      "seller": "carvalhocunhautilidades",
+      "category": "Cozinha"
+    },
+    {
+      "id": "58268914149",
+      "title": "Perfume Árabe Asad Zanzibar 100ml EDP Masculino Importado 100% Original",
+      "price": 122.99,
+      "originalPrice": 201.62,
+      "discountPercent": 39,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mti8jynitm9se0",
+      "url": "https://s.shopee.com.br/AKbp1gxDro",
+      "rating": 4.8,
+      "salesCount": 117,
+      "seller": "lip bunny",
+      "category": "Beleza"
+    },
+    {
+      "id": "48867461785",
+      "title": "Carregador Portátil Para Celular iPhone Android 10000 mAh com 4 Cabos Integrados Power Bank 22.5W Turbo Rápido",
+      "price": 59.9,
+      "originalPrice": 98.2,
+      "discountPercent": 39,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mt195y1gb5dw46",
+      "url": "https://s.shopee.com.br/9fM8EUyxCs",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 668,
+      "seller": "KWN IMPORTS",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "58205605828",
       "title": "Protetor Solar FPS 70 SunCare UVA+UVB Toque Seco Resistente à Água 150ml",
       "price": 19,
@@ -197,19 +458,6 @@
       "salesCount": 1591,
       "seller": "Universo Cosmetico",
       "category": "Beleza"
-    },
-    {
-      "id": "22898285712",
-      "title": "Caneta Marca texto Jocar Office Quadrado 6 Cores Tom Pastel",
-      "price": 27,
-      "originalPrice": 39.71,
-      "discountPercent": 32,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m71g3a89kv9j55",
-      "url": "https://s.shopee.com.br/9V2i0kuypB",
-      "rating": 5,
-      "salesCount": 180,
-      "seller": "LOGDA ECOMM",
-      "category": "Presentes e papelaria"
     },
     {
       "id": "58251465024",
@@ -227,6 +475,46 @@
       "hot": true
     },
     {
+      "id": "50302293450",
+      "title": "Perfume Azzaro Pour Homme Eau de Toilette Azzaro Perfume Masculino 100ml",
+      "price": 239.9,
+      "originalPrice": 436.18,
+      "discountPercent": 45,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8225f-mhmiopi8fbig88",
+      "url": "https://s.shopee.com.br/AAIOpNxrCp",
+      "rating": 4.9,
+      "salesCount": 129,
+      "seller": "Lafayette Store",
+      "category": "Beleza"
+    },
+    {
+      "id": "40928694943",
+      "title": "[Dhiint] Apitos De Árbitro De Futebol Com Caixa De Cordão Plástico Som Grande Basquete Equipamento De Trein",
+      "price": 20.95,
+      "originalPrice": 38.09,
+      "discountPercent": 45,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82606-mkjs3u88wm4o44",
+      "url": "https://s.shopee.com.br/3qOLHmL9z1",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 167,
+      "seller": "Dhiinto Casa e Decoração Loja",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "23597424619",
+      "title": "Mini Rodo Esfregão Absorvente Portátil Limpeza Multifuncional Mesa Janela",
+      "price": 15.69,
+      "originalPrice": 28.02,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcc7-ltb8mvlocoa2d4",
+      "url": "https://s.shopee.com.br/9pfYQnkMeP",
+      "rating": 4.5,
+      "salesCount": 1280,
+      "seller": "kellyspace",
+      "category": "Casa e organização"
+    },
+    {
       "id": "22298654389",
       "title": "ANA1108 Conjunto De Pincéis De Maquiagem Profissional De 8 Unidades De Contém Pincel De Pó",
       "price": 17.99,
@@ -238,8 +526,7 @@
       "rating": 4.8,
       "salesCount": 1450,
       "seller": "Rosa Glam",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "45466593909",
@@ -255,6 +542,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "22093889231",
+      "title": "Calça Jeans Femenina Com Elastano Skinny Cintura Alta",
+      "price": 49.9,
+      "originalPrice": 80.48,
+      "discountPercent": 38,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mn4ct5hrkhdtdf",
+      "url": "https://s.shopee.com.br/6fiWf0ZPDL",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1637,
+      "seller": "ROUTEJEANS",
+      "category": "Moda"
+    },
+    {
       "id": "23791517291",
       "title": "Kit 40 Cabide Infantil Veludo Slim Antideslizante Ultrafino",
       "price": 62.85,
@@ -267,6 +568,20 @@
       "official": true,
       "seller": "Na Web Group De Marcas",
       "category": "Casa e organização"
+    },
+    {
+      "id": "19199230296",
+      "title": "kit de ferramentas reforçada preto base profissional 14-23 Pol caixa organizadora grande",
+      "price": 46.9,
+      "originalPrice": 73.28,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-msc7wlvwdngn4e",
+      "url": "https://s.shopee.com.br/1BNa6ulLZP",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 163,
+      "seller": "HONEST SHOP_N.B",
+      "category": "Ferramentas"
     },
     {
       "id": "22428942973",
@@ -309,8 +624,7 @@
       "salesCount": 3089,
       "official": true,
       "seller": "Alumínio Nacional",
-      "category": "Cozinha",
-      "hot": true
+      "category": "Cozinha"
     },
     {
       "id": "21499499348",
