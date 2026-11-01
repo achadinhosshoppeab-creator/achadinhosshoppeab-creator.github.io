@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T03:16:57.561Z",
+  "updatedAt": "2026-11-01T03:48:00.423Z",
   "offers": [
     {
       "id": "54558362287",
@@ -56,6 +56,20 @@
       "salesCount": 1523,
       "seller": "Nutryx Importação",
       "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "58254949260",
+      "title": "Tapple Stop – Jogo de Tabuleiro Trava Letras com Temporizador – Versão GRANDE 24cm – Português",
+      "price": 38.9,
+      "originalPrice": 111.14,
+      "discountPercent": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mnl60sxzo1ds0b",
+      "url": "https://s.shopee.com.br/4Vdzp5ggpJ",
+      "rating": 4.8,
+      "salesCount": 1979,
+      "seller": "Tudo Bom ",
+      "category": "Pet e bebê",
       "hot": true
     },
     {
@@ -280,8 +294,7 @@
       "rating": 4.8,
       "salesCount": 1585,
       "seller": "Rosa Glam",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "45466593909",
