@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T11:29:48.614Z",
+  "updatedAt": "2026-11-01T11:50:52.704Z",
   "offers": [
     {
       "id": "54558362287",
@@ -29,20 +29,6 @@
       "seller": "Bela Beleza Oficial",
       "category": "Beleza",
       "hot": true
-    },
-    {
-      "id": "18297829933",
-      "title": "Perfume Grace Midnight Feminino Frasco Antigo Hinode 100ml",
-      "price": 67.96,
-      "originalPrice": 101.94,
-      "discountPercent": 33.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mspjvyi96xhh07",
-      "url": "https://s.shopee.com.br/7KyCH5GtAD",
-      "rating": 4.9,
-      "salesCount": 779,
-      "official": true,
-      "seller": "Hinode ",
-      "category": "Beleza"
     },
     {
       "id": "27438255053",
