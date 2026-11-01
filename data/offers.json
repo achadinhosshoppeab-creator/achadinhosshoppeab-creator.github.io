@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T03:48:00.423Z",
+  "updatedAt": "2026-11-01T04:19:35.833Z",
   "offers": [
     {
       "id": "54558362287",
@@ -115,6 +115,21 @@
       "official": true,
       "seller": "Barbour's Beauty",
       "category": "Beleza"
+    },
+    {
+      "id": "23593332489",
+      "title": "Espelho Lopazzi Base Reta Corpo Inteiro 170x70 Com Suporte de Chão Moldura Alumínio Quarto Sala Decorativo",
+      "price": 419.9,
+      "originalPrice": 539,
+      "discountPercent": 22.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7taq0e5d7ys2c",
+      "url": "https://s.shopee.com.br/1gJpWfTf2t",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 615,
+      "official": true,
+      "seller": "Loja Lopazzi",
+      "category": "Casa e organização"
     },
     {
       "id": "46306153826",
