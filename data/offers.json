@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T18:33:22.268Z",
+  "updatedAt": "2026-11-01T18:54:29.271Z",
   "offers": [
     {
       "id": "54558362287",
@@ -14,6 +14,21 @@
       "official": true,
       "seller": "Adora ",
       "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "58254273333",
+      "title": "Watersy Garrafa Térmica 128oz/3,78L Inox 304 com Canudo Anti Vazamento para Esporte Viagem Camping",
+      "price": 109.99,
+      "originalPrice": 439.96,
+      "discountPercent": 75,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-modrrrc5oxdz8d",
+      "url": "https://s.shopee.com.br/AUvF5GpmC6",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 117,
+      "seller": " WATERSY_LH",
+      "category": "Cozinha",
       "hot": true
     },
     {
@@ -74,6 +89,21 @@
       "category": "Beleza"
     },
     {
+      "id": "58254004504",
+      "title": "Garrafa Termica 350ml Bico Duplo Desenho + Nome Personalizado  - Presente - Escola - Aulas infantil",
+      "price": 39.5,
+      "originalPrice": 75.96,
+      "discountPercent": 48,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mok8btdn7y832a",
+      "url": "https://s.shopee.com.br/6AmFvJ6Gz6",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 174,
+      "seller": "Imoto Personalizados",
+      "category": "Cozinha",
+      "hot": true
+    },
+    {
       "id": "23593332489",
       "title": "Espelho Lopazzi Base Reta Corpo Inteiro 170x70 Com Suporte de Chão Moldura Alumínio Quarto Sala Decorativo",
       "price": 419.9,
@@ -102,6 +132,20 @@
       "seller": "Eddias Home",
       "category": "Casa e organização",
       "hot": true
+    },
+    {
+      "id": "20531195858",
+      "title": "Cesto Fruteira De Chão Modular 4 Andares Organizador Fruteira utensilios quarto casa Detalhe Vazado",
+      "price": 71.21,
+      "originalPrice": 127.16,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mqg9twwcgfsxe2",
+      "url": "https://s.shopee.com.br/6fiWWELy4J",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 86,
+      "seller": "Produtos Giotto",
+      "category": "Cozinha"
     },
     {
       "id": "23198735870",
@@ -155,8 +199,7 @@
       "rating": 4.7,
       "salesCount": 1762,
       "seller": "A.R.S Alumínios",
-      "category": "Cozinha",
-      "hot": true
+      "category": "Cozinha"
     },
     {
       "id": "58205605828",
@@ -185,6 +228,20 @@
       "seller": "Brincakids",
       "category": "Pet e bebê",
       "hot": true
+    },
+    {
+      "id": "58212823758",
+      "title": "Cortador Fatiador de Legumes e Verduras Utensilios Cozinha Prático Fácil Rápido",
+      "price": 16.89,
+      "originalPrice": 25.98,
+      "discountPercent": 35,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mqb0atq1u29t7e",
+      "url": "https://s.shopee.com.br/1Lh0AQgGsl",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 425,
+      "seller": "Lilico Store",
+      "category": "Cozinha"
     },
     {
       "id": "22898980977",
@@ -227,6 +284,20 @@
       "salesCount": 488,
       "seller": "Wa Magazine PP",
       "category": "Casa e organização"
+    },
+    {
+      "id": "19597749132",
+      "title": "Porta Talheres Tampa 6 Divisórias Gaveta Plástico Garfo Faca Colher Organizador Utensilios Cozinha",
+      "price": 27.89,
+      "originalPrice": 43.58,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfex-m3v6d3txtvh979",
+      "url": "https://s.shopee.com.br/8AXKIzGG1S",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 123,
+      "seller": "Ambienta",
+      "category": "Cozinha"
     },
     {
       "id": "23791517291",
@@ -283,8 +354,7 @@
       "salesCount": 2915,
       "official": true,
       "seller": "Alumínio Nacional",
-      "category": "Cozinha",
-      "hot": true
+      "category": "Cozinha"
     },
     {
       "id": "21499499348",
