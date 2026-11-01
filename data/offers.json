@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T11:08:54.965Z",
+  "updatedAt": "2026-11-01T11:29:48.614Z",
   "offers": [
     {
       "id": "54558362287",
@@ -45,35 +45,6 @@
       "category": "Beleza"
     },
     {
-      "id": "58254949260",
-      "title": "Tapple Stop – Jogo de Tabuleiro Trava Letras com Temporizador – Versão GRANDE 24cm – Português",
-      "price": 38.9,
-      "originalPrice": 111.14,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mnl60sxzo1ds0b",
-      "url": "https://s.shopee.com.br/4Vdzp5ggpJ",
-      "rating": 4.8,
-      "salesCount": 1979,
-      "seller": "Tudo Bom ",
-      "category": "Pet e bebê",
-      "hot": true
-    },
-    {
-      "id": "18299268001",
-      "title": "Saco Plástico PP Transparente Com Aba Adesiva 100 Un Saquinho Para Embalagem de Roupas e Artesanatos",
-      "price": 16.97,
-      "originalPrice": 43.51,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mrbvqlt9xnuu1f",
-      "url": "https://s.shopee.com.br/8fTZrZK0ex",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2591,
-      "seller": "Embala Commerce",
-      "category": "Presentes e papelaria",
-      "hot": true
-    },
-    {
       "id": "27438255053",
       "title": "Ampola LILYEVE Grow:Turn Exosome Brush , 6 Tipos (30ml , 100ml , Prime Cápsula De Colágeno Rosa Ácido Hialurônico Azul Ouro 5X 100ml)",
       "price": 57.99,
@@ -99,7 +70,8 @@
       "rating": 4.8,
       "salesCount": 1523,
       "seller": "Nutryx Importação",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "23898813796",
@@ -142,7 +114,8 @@
       "rating": 4.8,
       "salesCount": 702,
       "seller": "Eddias Home",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "23198735870",
@@ -156,7 +129,8 @@
       "rating": 4.8,
       "salesCount": 3148,
       "seller": "BRILLIA",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "20999494647",
@@ -172,20 +146,6 @@
       "category": "Beleza"
     },
     {
-      "id": "22593191349",
-      "title": "Kit com 7 Organizadores Acrílico Cristal Modular Para Geladeiras Gavetas e Maquiagens",
-      "price": 33.9,
-      "originalPrice": 70.63,
-      "discountPercent": 52,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m04jnjrh1jgdc7",
-      "url": "https://s.shopee.com.br/9KjGeleHJa",
-      "rating": 4.8,
-      "salesCount": 1094,
-      "seller": "AuraShop Cuidado que a casa merece",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "54857767078",
       "title": "Jogo De Panelas 10 Peças Antiaderente Conjunto com Tampas de Vidro e Kit de Utensílios Marfim",
       "price": 188.09,
@@ -197,33 +157,6 @@
       "salesCount": 1762,
       "seller": "A.R.S Alumínios",
       "category": "Cozinha"
-    },
-    {
-      "id": "50802620838",
-      "title": "Kit 10 Organizadores Acrílico Cristal Modular Para Geladeiras Maquiagens Gavetas Armarios",
-      "price": 44.9,
-      "originalPrice": 59.87,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8227k-mhvhuh6oiyo18c",
-      "url": "https://s.shopee.com.br/9V2gr4ddyd",
-      "rating": 4.7,
-      "salesCount": 1267,
-      "seller": "AuraShop Cuidado que a casa merece",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "40980557860",
-      "title": "Shampoo Para Cavalo Good Horse Vitamina A - 700 ML",
-      "price": 15.41,
-      "originalPrice": 23.71,
-      "discountPercent": 35,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mnr3wmvkts7637",
-      "url": "https://s.shopee.com.br/4qGrIXBvUX",
-      "rating": 4.9,
-      "salesCount": 1015,
-      "official": true,
-      "seller": "mypetone",
-      "category": "Pet e bebê"
     },
     {
       "id": "18698826077",
@@ -309,20 +242,6 @@
       "rating": 4.9,
       "salesCount": 488,
       "seller": "Wa Magazine PP",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "22593191479",
-      "title": "Kit Organizadores Acrílico Cristal Modular Para Geladeiras Gavetas e Maquiagens",
-      "price": 33.9,
-      "originalPrice": 47.75,
-      "discountPercent": 29,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0omurfd5okg73",
-      "url": "https://s.shopee.com.br/9zyxRzbjxm",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 840,
-      "seller": "AuraShop Cuidado que a casa merece",
       "category": "Casa e organização"
     },
     {
