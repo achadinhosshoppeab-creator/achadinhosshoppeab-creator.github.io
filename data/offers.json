@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T16:47:27.973Z",
+  "updatedAt": "2026-11-01T17:08:38.664Z",
   "offers": [
     {
       "id": "54558362287",
@@ -156,6 +156,19 @@
       "salesCount": 1762,
       "seller": "A.R.S Alumínios",
       "category": "Cozinha"
+    },
+    {
+      "id": "58205605828",
+      "title": "Protetor Solar FPS 70 SunCare UVA+UVB Toque Seco Resistente à Água 150ml",
+      "price": 19,
+      "originalPrice": 23,
+      "discountPercent": 17.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mq9jfhtd0mpt16",
+      "url": "https://s.shopee.com.br/80Dt4L1J0h",
+      "rating": 4.8,
+      "salesCount": 1610,
+      "seller": "Universo Cosmetico",
+      "category": "Beleza"
     },
     {
       "id": "18499252377",
