@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T16:26:05.435Z",
+  "updatedAt": "2026-11-01T16:47:27.973Z",
   "offers": [
     {
       "id": "54558362287",
@@ -104,20 +104,6 @@
       "hot": true
     },
     {
-      "id": "58216660065",
-      "title": "Teclado Gamer IP98 Wireless 98 Teclas, Triplo Modo 2.4G Bluetooth USB-C, RGB com Knob, Silencioso Anti-Ghosting",
-      "price": 125.8,
-      "originalPrice": 322.56,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-ms53hlrnugw476",
-      "url": "https://s.shopee.com.br/7fb3XsjdJr",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 77,
-      "seller": "Kriativo",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "23198735870",
       "title": "1 a 10 Metros Fita Mangueira de LED 5050 para Decoração Com Conector 110V ou 220V Branco Frio/Quente",
       "price": 19.77,
@@ -157,21 +143,6 @@
       "salesCount": 1381,
       "seller": "Kuàilè Bijux",
       "category": "Beleza"
-    },
-    {
-      "id": "21999897032",
-      "title": "Kit Teclado Mecânico Gamer Switch Blue RGB + Mouse 3200DPI Anti-Ghosting PC - ESCOLHA POR MODELO",
-      "price": 128.99,
-      "originalPrice": 234.53,
-      "discountPercent": 45,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ga-mfmztjda8e8c69",
-      "url": "https://s.shopee.com.br/3B8eBc0lRt",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 112,
-      "official": true,
-      "seller": "Oi Vida Oficial",
-      "category": "Eletrônicos"
     },
     {
       "id": "54857767078",
@@ -315,20 +286,6 @@
       "seller": "Alumínio Nacional",
       "category": "Cozinha",
       "hot": true
-    },
-    {
-      "id": "22894246754",
-      "title": "BODY SPLASH MASCULINO BARBARIUS 200ML - PRIMACIAL PERFUME AMADEIRADO",
-      "price": 34.9,
-      "originalPrice": 45.9,
-      "discountPercent": 24,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mukmdt0eigw203",
-      "url": "https://s.shopee.com.br/50aI0ld1kW",
-      "rating": 4.7,
-      "salesCount": 1773,
-      "official": true,
-      "seller": "Primacial",
-      "category": "Beleza"
     },
     {
       "id": "21499499348",
