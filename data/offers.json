@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T16:04:42.348Z",
+  "updatedAt": "2026-11-01T16:26:05.435Z",
   "offers": [
     {
       "id": "54558362287",
@@ -104,6 +104,20 @@
       "hot": true
     },
     {
+      "id": "58216660065",
+      "title": "Teclado Gamer IP98 Wireless 98 Teclas, Triplo Modo 2.4G Bluetooth USB-C, RGB com Knob, Silencioso Anti-Ghosting",
+      "price": 125.8,
+      "originalPrice": 322.56,
+      "discountPercent": 61,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-ms53hlrnugw476",
+      "url": "https://s.shopee.com.br/7fb3XsjdJr",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 77,
+      "seller": "Kriativo",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "23198735870",
       "title": "1 a 10 Metros Fita Mangueira de LED 5050 para Decoração Com Conector 110V ou 220V Branco Frio/Quente",
       "price": 19.77,
@@ -145,6 +159,21 @@
       "category": "Beleza"
     },
     {
+      "id": "21999897032",
+      "title": "Kit Teclado Mecânico Gamer Switch Blue RGB + Mouse 3200DPI Anti-Ghosting PC - ESCOLHA POR MODELO",
+      "price": 128.99,
+      "originalPrice": 234.53,
+      "discountPercent": 45,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ga-mfmztjda8e8c69",
+      "url": "https://s.shopee.com.br/3B8eBc0lRt",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 112,
+      "official": true,
+      "seller": "Oi Vida Oficial",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "54857767078",
       "title": "Jogo De Panelas 10 Peças Antiaderente Conjunto com Tampas de Vidro e Kit de Utensílios Marfim",
       "price": 188.09,
@@ -156,20 +185,6 @@
       "salesCount": 1762,
       "seller": "A.R.S Alumínios",
       "category": "Cozinha"
-    },
-    {
-      "id": "18698826077",
-      "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
-      "price": 109.9,
-      "originalPrice": 149,
-      "discountPercent": 26.2,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
-      "url": "https://s.shopee.com.br/3qOK6hKPJp",
-      "rating": 4.9,
-      "salesCount": 1170,
-      "official": true,
-      "seller": "Eletricario Loja Oficial",
-      "category": "Ferramentas"
     },
     {
       "id": "18499252377",
