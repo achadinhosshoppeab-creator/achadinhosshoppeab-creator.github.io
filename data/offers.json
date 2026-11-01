@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T19:58:03.541Z",
+  "updatedAt": "2026-11-01T20:18:58.941Z",
   "offers": [
     {
       "id": "54558362287",
@@ -25,7 +25,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mlm4terbm0p074",
       "url": "https://s.shopee.com.br/4qGrIWL86c",
       "rating": 4.9,
-      "salesCount": 2613,
+      "salesCount": 2515,
       "seller": "Bela Beleza Oficial",
       "category": "Beleza",
       "hot": true
@@ -199,20 +199,6 @@
       "seller": "Brincakids",
       "category": "Pet e bebê",
       "hot": true
-    },
-    {
-      "id": "22898980977",
-      "title": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
-      "price": 69.82,
-      "originalPrice": 83.69,
-      "discountPercent": 16.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mm1wtgtq87408a",
-      "url": "https://s.shopee.com.br/7VHczn6R16",
-      "rating": 4.9,
-      "salesCount": 4218,
-      "official": true,
-      "seller": "Principia Skincare",
-      "category": "Beleza"
     },
     {
       "id": "22298654389",
