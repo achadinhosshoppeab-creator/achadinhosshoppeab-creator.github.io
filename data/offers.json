@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T13:15:20.515Z",
+  "updatedAt": "2026-11-01T13:36:26.436Z",
   "offers": [
     {
       "id": "54558362287",
@@ -14,21 +14,6 @@
       "official": true,
       "seller": "Adora ",
       "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "58217339703",
-      "title": "Chinelo Babuche Adulto Unissex Mais Leve Macia Super Confortável",
-      "price": 24.8,
-      "originalPrice": 99.2,
-      "discountPercent": 75,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-modzm383mx37af",
-      "url": "https://s.shopee.com.br/7puTX8Iqu6",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 199,
-      "seller": "JGecommerce",
-      "category": "Moda",
       "hot": true
     },
     {
@@ -85,20 +70,8 @@
       "rating": 4.8,
       "salesCount": 1523,
       "seller": "Nutryx Importação",
-      "category": "Beleza"
-    },
-    {
-      "id": "22893666562",
-      "title": "Sandália Chinelo   KASPER Original Leve Macio e Confortavel Promoção",
-      "price": 57.95,
-      "originalPrice": 99.91,
-      "discountPercent": 42,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkdwee2chzwjb4",
-      "url": "https://s.shopee.com.br/5LD8YXSMyf",
-      "rating": 4.9,
-      "salesCount": 217,
-      "seller": "KASPER CALÇADOS LTDA",
-      "category": "Moda"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "23898813796",
@@ -143,20 +116,6 @@
       "seller": "Eddias Home",
       "category": "Casa e organização",
       "hot": true
-    },
-    {
-      "id": "21171699393",
-      "title": "Sandalia Rasteirinha Feminina Chinelo Macio Tira Larga Tecido Floral Confortavel",
-      "price": 34.9,
-      "originalPrice": 69.8,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mrk96821jtaf37",
-      "url": "https://s.shopee.com.br/7VHd8WK7a0",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 228,
-      "seller": "Ella Shoes ns",
-      "category": "Moda"
     },
     {
       "id": "23198735870",
@@ -327,20 +286,6 @@
       "salesCount": 2163,
       "seller": "Rosa de Mello Atacado & Varejo",
       "category": "Moda"
-    },
-    {
-      "id": "22997581085",
-      "title": "Protetor Solar Facial Acnezil FPS 30 Oil Control 60g",
-      "price": 17.78,
-      "originalPrice": 25.79,
-      "discountPercent": 31.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd3n-lw5vik3i483va6",
-      "url": "https://s.shopee.com.br/8pn03ry8Jm",
-      "rating": 4.9,
-      "salesCount": 1934,
-      "official": true,
-      "seller": "Droga Clara",
-      "category": "Beleza"
     },
     {
       "id": "13111211968",
