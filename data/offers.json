@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T21:32:56.973Z",
+  "updatedAt": "2026-11-02T21:53:40.403Z",
   "offers": [
     {
       "id": "57757791848",
@@ -44,8 +44,22 @@
       "salesCount": 1914,
       "official": true,
       "seller": "GLORY OF SEOUL",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
+    },
+    {
+      "id": "23593332489",
+      "title": "Espelho Lopazzi Base Reta Corpo Inteiro 170x70 Com Suporte de Chão Moldura Alumínio Quarto Sala Decorativo",
+      "price": 419.9,
+      "originalPrice": 538.95,
+      "discountPercent": 22.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7taq0e5d7ys2c",
+      "url": "https://s.shopee.com.br/1gJpWfTf2t",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 616,
+      "official": true,
+      "seller": "Loja Lopazzi",
+      "category": "Casa e organização"
     },
     {
       "id": "19197157965",
@@ -61,6 +75,20 @@
       "official": true,
       "seller": "koksara.kbeauty",
       "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "54857767078",
+      "title": "Jogo De Panelas 10 Peças Antiaderente Conjunto com Tampas de Vidro e Kit de Utensílios Marfim",
+      "price": 188.09,
+      "originalPrice": 348.31,
+      "discountPercent": 46,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mpm9dmjlux36be",
+      "url": "https://s.shopee.com.br/9pfXFfpheF",
+      "rating": 4.7,
+      "salesCount": 1685,
+      "seller": "A.R.S Alumínios",
+      "category": "Cozinha",
       "hot": true
     },
     {
@@ -90,8 +118,7 @@
       "rating": 4.9,
       "salesCount": 918,
       "seller": "MAIS LEGAL SHOP",
-      "category": "Eletrônicos",
-      "hot": true
+      "category": "Eletrônicos"
     },
     {
       "id": "22298654389",
@@ -123,6 +150,21 @@
       "category": "Casa e organização"
     },
     {
+      "id": "22428942973",
+      "title": "Bota Feminina Western Texana Cano Curto Bordada",
+      "price": 89.69,
+      "originalPrice": 117.57,
+      "discountPercent": 23.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23030-3sx1l4b1j8nvde",
+      "url": "https://s.shopee.com.br/6fiVTtjykF",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 406,
+      "official": true,
+      "seller": "GiGiL",
+      "category": "Moda"
+    },
+    {
       "id": "25343192866",
       "title": "Kit Conjuntos Short Dool Pijama Baby MICRO ESTAMPADO Feminino Roupa De Dormir Noite Fresquinho",
       "price": 32.99,
@@ -135,6 +177,21 @@
       "salesCount": 2106,
       "seller": "Rosa de Mello Atacado & Varejo",
       "category": "Moda",
+      "hot": true
+    },
+    {
+      "id": "13111211968",
+      "title": "Frigideira Panquequeira Antiaderente 22Cm Nacional",
+      "price": 28.82,
+      "originalPrice": 39.2,
+      "discountPercent": 26.5,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mqp6rxqq8ohv77",
+      "url": "https://s.shopee.com.br/qkiX8NxuO",
+      "rating": 4.9,
+      "salesCount": 3206,
+      "official": true,
+      "seller": "Alumínio Nacional",
+      "category": "Cozinha",
       "hot": true
     }
   ]
