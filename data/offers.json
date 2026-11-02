@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T00:54:08.586Z",
+  "updatedAt": "2026-11-02T02:18:24.699Z",
   "offers": [
     {
       "id": "54558362287",
@@ -161,21 +161,6 @@
       "category": "Beleza"
     },
     {
-      "id": "23198735870",
-      "title": "1 a 10 Metros Fita Mangueira de LED 5050 para Decoração Com Conector 110V ou 220V Branco Frio/Quente",
-      "price": 19.77,
-      "originalPrice": 29.035,
-      "discountPercent": 31.9,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvx-mch98dk3g6zu79",
-      "url": "https://s.shopee.com.br/5fpyI29pv8",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2955,
-      "seller": "BRILLIA",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "54857767078",
       "title": "Jogo De Panelas 10 Peças Antiaderente Conjunto com Tampas de Vidro e Kit de Utensílios Marfim",
       "price": 188.09,
@@ -187,6 +172,20 @@
       "salesCount": 1738,
       "seller": "A.R.S Alumínios",
       "category": "Cozinha"
+    },
+    {
+      "id": "23198735870",
+      "title": "1 a 10 Metros Fita Mangueira de LED 5050 para Decoração Com Conector 110V ou 220V Branco Frio/Quente",
+      "price": 19.77,
+      "originalPrice": 26.3,
+      "discountPercent": 24.8,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvx-mch98dk3g6zu79",
+      "url": "https://s.shopee.com.br/5fpyI29pv8",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2955,
+      "seller": "BRILLIA",
+      "category": "Casa e organização"
     },
     {
       "id": "58205605828",
@@ -238,7 +237,7 @@
       "originalPrice": 396.76,
       "discountPercent": 38,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-ms9rmjvgsnwle0",
-      "url": "https://s.shopee.com.br/906Qm8SpJS",
+      "url": "https://s.shopee.com.br/40hlpsXYcn",
       "rating": 4.9,
       "salesCount": 455,
       "seller": "Wa Magazine PP",
@@ -299,7 +298,8 @@
       "salesCount": 3089,
       "official": true,
       "seller": "Alumínio Nacional",
-      "category": "Cozinha"
+      "category": "Cozinha",
+      "hot": true
     }
   ]
 }
