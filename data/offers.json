@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T03:20:27.440Z",
+  "updatedAt": "2026-11-02T03:52:10.396Z",
   "offers": [
     {
       "id": "54558362287",
@@ -17,17 +17,18 @@
       "hot": true
     },
     {
-      "id": "58206578231",
-      "title": "Óleo Extraordinário 100ml NEW HAIR + Máscara Extraordinário 300g NEW HAIR | Fio sedoso e protegido",
-      "price": 27.49,
-      "originalPrice": 49.98,
-      "discountPercent": 45,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mlm4terbm0p074",
-      "url": "https://s.shopee.com.br/4qGrIWL86c",
+      "id": "58254273333",
+      "title": "Watersy Garrafa Térmica 128oz/3,78L Inox 304 com Canudo Anti Vazamento para Esporte Viagem Camping",
+      "price": 109.99,
+      "originalPrice": 439.96,
+      "discountPercent": 75,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-modrrrc5oxdz8d",
+      "url": "https://s.shopee.com.br/AUvF5GpmC6",
+      "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 2515,
-      "seller": "Bela Beleza Oficial",
-      "category": "Beleza",
+      "salesCount": 119,
+      "seller": " WATERSY_LH",
+      "category": "Cozinha",
       "hot": true
     },
     {
@@ -41,20 +42,6 @@
       "hasVariantPrices": true,
       "rating": 5,
       "salesCount": 2116,
-      "official": true,
-      "seller": "GLORY OF SEOUL",
-      "category": "Beleza"
-    },
-    {
-      "id": "55263300334",
-      "title": "[NEW] DR.REJUALL Advanced PDRN Copper Peptide Serum, 30mL",
-      "price": 110.99,
-      "originalPrice": 140,
-      "discountPercent": 20.7,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825an-mridtggdlki418",
-      "url": "https://s.shopee.com.br/1gJpWhOSD8",
-      "rating": 5,
-      "salesCount": 1589,
       "official": true,
       "seller": "GLORY OF SEOUL",
       "category": "Beleza"
@@ -101,6 +88,21 @@
       "official": true,
       "seller": "Barbour's Beauty",
       "category": "Beleza"
+    },
+    {
+      "id": "58254004504",
+      "title": "Garrafa Termica 350ml Bico Duplo Desenho + Nome Personalizado  - Presente - Escola - Aulas infantil",
+      "price": 39.5,
+      "originalPrice": 75.96,
+      "discountPercent": 48,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mok8btdn7y832a",
+      "url": "https://s.shopee.com.br/6AmFvJ6Gz6",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 167,
+      "seller": "Imoto Personalizados",
+      "category": "Cozinha",
+      "hot": true
     },
     {
       "id": "23593332489",
@@ -185,8 +187,7 @@
       "rating": 4.7,
       "salesCount": 1738,
       "seller": "A.R.S Alumínios",
-      "category": "Cozinha",
-      "hot": true
+      "category": "Cozinha"
     },
     {
       "id": "23198735870",
@@ -340,19 +341,6 @@
       "salesCount": 2140,
       "seller": "Rosa de Mello Atacado & Varejo",
       "category": "Moda"
-    },
-    {
-      "id": "53713695082",
-      "title": "B5 Creme Protetor Solar – Hidratante, Hidratante, Nutritivo, Melhora a Pele Vermelha Rachada 100ml",
-      "price": 31.2,
-      "originalPrice": 38.09,
-      "discountPercent": 18.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259l-muswqiabmjnk94",
-      "url": "https://s.shopee.com.br/8fTZrYylel",
-      "rating": 4.8,
-      "salesCount": 1380,
-      "seller": "Choice Oficial",
-      "category": "Beleza"
     },
     {
       "id": "13111211968",
