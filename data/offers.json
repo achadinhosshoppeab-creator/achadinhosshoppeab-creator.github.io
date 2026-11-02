@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T19:24:10.351Z",
+  "updatedAt": "2026-11-02T19:45:34.614Z",
   "offers": [
     {
       "id": "57757791848",
@@ -10,7 +10,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825a9-mrux2xtlrls12f",
       "url": "https://s.shopee.com.br/1qdHtIMUFF",
       "rating": 5,
-      "salesCount": 1779,
+      "salesCount": 1757,
       "official": true,
       "seller": "koksara.kbeauty",
       "category": "Beleza",
@@ -71,7 +71,7 @@
       "url": "https://s.shopee.com.br/1gJpWfTf2t",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 611,
+      "salesCount": 616,
       "official": true,
       "seller": "Loja Lopazzi",
       "category": "Casa e organização"
@@ -86,7 +86,7 @@
       "url": "https://s.shopee.com.br/4B19QSqPKt",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1813,
+      "salesCount": 1762,
       "official": true,
       "seller": "koksara.kbeauty",
       "category": "Beleza",
@@ -159,7 +159,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6qu5cyuvfhs36",
       "url": "https://s.shopee.com.br/3B8dJRWLW5",
       "rating": 5,
-      "salesCount": 178,
+      "salesCount": 175,
       "official": true,
       "seller": "Na Web Group De Marcas",
       "category": "Casa e organização"
