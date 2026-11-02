@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T08:02:27.732Z",
+  "updatedAt": "2026-11-02T08:33:38.624Z",
   "offers": [
     {
       "id": "54558362287",
@@ -17,35 +17,6 @@
       "hot": true
     },
     {
-      "id": "23994610712",
-      "title": "Kit Máscaras Colágeno Trata Olheiras Adesivo Antirrugas Gel Pads Skin Care Tratamento Olhos",
-      "price": 21.98,
-      "originalPrice": 40.7,
-      "discountPercent": 46,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgdru0cw579j9d",
-      "url": "https://s.shopee.com.br/1qdHdPWifD",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1524,
-      "seller": "Monamor Cosméticos",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "18599922423",
-      "title": "Kit Skin Care Geleia de colágeno e olhos de gueixa kokeshi",
-      "price": 39.9,
-      "originalPrice": 57,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mna1ftruvb412d",
-      "url": "https://s.shopee.com.br/9KjIZC4ARs",
-      "rating": 4.9,
-      "salesCount": 973,
-      "official": true,
-      "seller": "KOKESHI OFICIAL",
-      "category": "Beleza"
-    },
-    {
       "id": "28867680104",
       "title": "[NEW] NUMBUZIN No.9 NAD BIO Lifting Sil Essence 30ml, 50ml",
       "price": 65.99,
@@ -59,20 +30,6 @@
       "official": true,
       "seller": "GLORY OF SEOUL",
       "category": "Beleza"
-    },
-    {
-      "id": "23594223237",
-      "title": "Kit Antioleosidade Skin Care – Limpeza, Controle da Oleosidade e Proteção Solar Diária",
-      "price": 59.89,
-      "originalPrice": 139.28,
-      "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc647wvwbmw793",
-      "url": "https://s.shopee.com.br/8fTbly6hng",
-      "rating": 4.9,
-      "salesCount": 978,
-      "seller": "JM Cosmético ",
-      "category": "Beleza",
-      "hot": true
     },
     {
       "id": "18297829933",
@@ -149,19 +106,6 @@
       "hot": true
     },
     {
-      "id": "58210997361",
-      "title": "Protetor Solar Corporal FPS 70 150ml Toque Seco Resistente à Água Proteção UVA e UVB",
-      "price": 19,
-      "originalPrice": 23,
-      "discountPercent": 17.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mpxsgrjyul1c20",
-      "url": "https://s.shopee.com.br/1W0PKOQ3CX",
-      "rating": 4.8,
-      "salesCount": 1476,
-      "seller": "Nutryx Importação",
-      "category": "Beleza"
-    },
-    {
       "id": "20999494647",
       "title": "Difusor de Cachos Ar Universal para Secador de Cabelo",
       "price": 19,
@@ -175,20 +119,6 @@
       "category": "Beleza"
     },
     {
-      "id": "58200183117",
-      "title": "Principia Kit Antissinais Dia e Noite c/ Vitamina VC-10 + Sérum Retinol Rn-0,3",
-      "price": 106.84,
-      "originalPrice": 152.63,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mmsy97ndvhmp77",
-      "url": "https://s.shopee.com.br/5LD9nqJOZE",
-      "rating": 4.9,
-      "salesCount": 729,
-      "official": true,
-      "seller": "Principia Skincare",
-      "category": "Beleza"
-    },
-    {
       "id": "54857767078",
       "title": "Jogo De Panelas 10 Peças Antiaderente Conjunto com Tampas de Vidro e Kit de Utensílios Marfim",
       "price": 188.09,
@@ -199,7 +129,8 @@
       "rating": 4.7,
       "salesCount": 1738,
       "seller": "A.R.S Alumínios",
-      "category": "Cozinha"
+      "category": "Cozinha",
+      "hot": true
     },
     {
       "id": "23198735870",
@@ -213,7 +144,8 @@
       "rating": 4.8,
       "salesCount": 2955,
       "seller": "BRILLIA",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "25583979154",
@@ -284,21 +216,6 @@
       "category": "Beleza"
     },
     {
-      "id": "58213967420",
-      "title": "Sérum Principia Mix-02 5% Cafeína + Ácido Tranexâmico - Skincare Anti-Olheiras",
-      "price": 36.98,
-      "originalPrice": 66.04,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mqg0lkb36ewxc8",
-      "url": "https://s.shopee.com.br/9V2ilV3X6v",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 800,
-      "seller": "VELORA Beauty",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
       "id": "22298654389",
       "title": "ANA1108 Conjunto De Pincéis De Maquiagem Profissional De 8 Unidades De Contém Pincel De Pó",
       "price": 17.99,
@@ -367,7 +284,8 @@
       "rating": 4.7,
       "salesCount": 2140,
       "seller": "Rosa de Mello Atacado & Varejo",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "13111211968",
