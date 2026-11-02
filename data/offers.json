@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T08:33:38.624Z",
+  "updatedAt": "2026-11-02T09:05:15.075Z",
   "offers": [
     {
       "id": "54558362287",
@@ -13,6 +13,20 @@
       "salesCount": 2990,
       "official": true,
       "seller": "Adora ",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "58206578231",
+      "title": "Óleo Extraordinário 100ml NEW HAIR + Máscara Extraordinário 300g NEW HAIR | Fio sedoso e protegido",
+      "price": 27.49,
+      "originalPrice": 49.98,
+      "discountPercent": 45,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mlm4terbm0p074",
+      "url": "https://s.shopee.com.br/4qGrIWL86c",
+      "rating": 4.9,
+      "salesCount": 2515,
+      "seller": "Bela Beleza Oficial",
       "category": "Beleza",
       "hot": true
     },
@@ -144,8 +158,7 @@
       "rating": 4.8,
       "salesCount": 2955,
       "seller": "BRILLIA",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "25583979154",
