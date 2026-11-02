@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T03:52:10.396Z",
+  "updatedAt": "2026-11-02T04:23:30.768Z",
   "offers": [
     {
       "id": "54558362287",
@@ -14,21 +14,6 @@
       "official": true,
       "seller": "Adora ",
       "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "58254273333",
-      "title": "Watersy Garrafa Térmica 128oz/3,78L Inox 304 com Canudo Anti Vazamento para Esporte Viagem Camping",
-      "price": 109.99,
-      "originalPrice": 439.96,
-      "discountPercent": 75,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-modrrrc5oxdz8d",
-      "url": "https://s.shopee.com.br/AUvF5GpmC6",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 119,
-      "seller": " WATERSY_LH",
-      "category": "Cozinha",
       "hot": true
     },
     {
@@ -88,21 +73,6 @@
       "official": true,
       "seller": "Barbour's Beauty",
       "category": "Beleza"
-    },
-    {
-      "id": "58254004504",
-      "title": "Garrafa Termica 350ml Bico Duplo Desenho + Nome Personalizado  - Presente - Escola - Aulas infantil",
-      "price": 39.5,
-      "originalPrice": 75.96,
-      "discountPercent": 48,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mok8btdn7y832a",
-      "url": "https://s.shopee.com.br/6AmFvJ6Gz6",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 167,
-      "seller": "Imoto Personalizados",
-      "category": "Cozinha",
-      "hot": true
     },
     {
       "id": "23593332489",
@@ -187,7 +157,8 @@
       "rating": 4.7,
       "salesCount": 1738,
       "seller": "A.R.S Alumínios",
-      "category": "Cozinha"
+      "category": "Cozinha",
+      "hot": true
     },
     {
       "id": "23198735870",
@@ -340,7 +311,8 @@
       "rating": 4.7,
       "salesCount": 2140,
       "seller": "Rosa de Mello Atacado & Varejo",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "13111211968",
