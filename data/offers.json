@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T05:57:24.212Z",
+  "updatedAt": "2026-11-02T06:28:43.448Z",
   "offers": [
     {
       "id": "54558362287",
@@ -175,19 +175,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58205605828",
-      "title": "Protetor Solar FPS 70 SunCare UVA+UVB Toque Seco Resistente à Água 150ml",
-      "price": 19,
-      "originalPrice": 23,
-      "discountPercent": 17.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mq9jfhtd0mpt16",
-      "url": "https://s.shopee.com.br/80Dt4L1J0h",
-      "rating": 4.8,
-      "salesCount": 1591,
-      "seller": "Universo Cosmetico",
-      "category": "Beleza"
-    },
-    {
       "id": "25583979154",
       "title": "120 Paleta De Sombra Colorida Mate Maquiagem Altamente Pigmentada Em Pó Longa Duração À Prova D'água",
       "price": 41.19,
@@ -213,6 +200,19 @@
       "official": true,
       "seller": "Eletricario Loja Oficial",
       "category": "Ferramentas"
+    },
+    {
+      "id": "58205605828",
+      "title": "Protetor Solar FPS 70 SunCare UVA+UVB Toque Seco Resistente à Água 150ml",
+      "price": 19,
+      "originalPrice": 22.5,
+      "discountPercent": 15.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mq9jfhtd0mpt16",
+      "url": "https://s.shopee.com.br/80Dt4L1J0h",
+      "rating": 4.8,
+      "salesCount": 1591,
+      "seller": "Universo Cosmetico",
+      "category": "Beleza"
     },
     {
       "id": "58251465024",
