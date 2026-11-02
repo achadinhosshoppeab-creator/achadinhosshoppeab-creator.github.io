@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T13:18:26.424Z",
+  "updatedAt": "2026-11-02T13:39:10.931Z",
   "offers": [
     {
       "id": "54558362287",
@@ -145,8 +145,7 @@
       "rating": 4.8,
       "salesCount": 2955,
       "seller": "BRILLIA",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "18698826077",
@@ -216,6 +215,21 @@
       "salesCount": 917,
       "seller": "MAIS LEGAL SHOP",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "22298654389",
+      "title": "ANA1108 Conjunto De Pincéis De Maquiagem Profissional De 8 Unidades De Contém Pincel De Pó",
+      "price": 17.99,
+      "originalPrice": 32.12,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8227a-mhci7hcbkiyx9f",
+      "url": "https://s.shopee.com.br/AAIMtpQ9cZ",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1450,
+      "seller": "Rosa Glam",
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "23791517291",
