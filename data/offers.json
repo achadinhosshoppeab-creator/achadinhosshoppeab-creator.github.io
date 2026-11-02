@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T10:38:47.593Z",
+  "updatedAt": "2026-11-02T11:09:59.190Z",
   "offers": [
     {
       "id": "54558362287",
@@ -29,7 +29,8 @@
       "salesCount": 2116,
       "official": true,
       "seller": "GLORY OF SEOUL",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "27438255053",
@@ -134,20 +135,6 @@
       "hot": true
     },
     {
-      "id": "25583979154",
-      "title": "120 Paleta De Sombra Colorida Mate Maquiagem Altamente Pigmentada Em Pó Longa Duração À Prova D'água",
-      "price": 41.19,
-      "originalPrice": 60.43,
-      "discountPercent": 31.8,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyl-mcamfjuyaj3r09",
-      "url": "https://s.shopee.com.br/3LS3VjbTiI",
-      "rating": 4.7,
-      "salesCount": 317,
-      "seller": "Choice Oficial",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
       "id": "58205605828",
       "title": "Protetor Solar FPS 70 SunCare UVA+UVB Toque Seco Resistente à Água 150ml",
       "price": 19,
@@ -158,6 +145,19 @@
       "rating": 4.8,
       "salesCount": 1591,
       "seller": "Universo Cosmetico",
+      "category": "Beleza"
+    },
+    {
+      "id": "25583979154",
+      "title": "120 Paleta De Sombra Colorida Mate Maquiagem Altamente Pigmentada Em Pó Longa Duração À Prova D'água",
+      "price": 43.25,
+      "originalPrice": 60.43,
+      "discountPercent": 28.4,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyl-mcamfjuyaj3r09",
+      "url": "https://s.shopee.com.br/3LS3VjbTiI",
+      "rating": 4.7,
+      "salesCount": 317,
+      "seller": "Choice Oficial",
       "category": "Beleza"
     },
     {
@@ -202,6 +202,21 @@
       "official": true,
       "seller": "Na Web Group De Marcas",
       "category": "Casa e organização"
+    },
+    {
+      "id": "22428942973",
+      "title": "Bota Feminina Western Texana Cano Curto Bordada",
+      "price": 89.69,
+      "originalPrice": 117.57,
+      "discountPercent": 23.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23030-3sx1l4b1j8nvde",
+      "url": "https://s.shopee.com.br/6fiVTtjykF",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 452,
+      "official": true,
+      "seller": "GiGiL",
+      "category": "Moda"
     },
     {
       "id": "25343192866",
