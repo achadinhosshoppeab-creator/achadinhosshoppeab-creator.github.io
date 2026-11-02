@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T15:05:47.354Z",
+  "updatedAt": "2026-11-02T15:26:47.728Z",
   "offers": [
     {
       "id": "54558362287",
@@ -30,36 +30,6 @@
       "seller": "koksara.kbeauty",
       "category": "Beleza",
       "hot": true
-    },
-    {
-      "id": "28867680104",
-      "title": "[NEW] NUMBUZIN No.9 NAD BIO Lifting Sil Essence 30ml, 50ml",
-      "price": 65.99,
-      "originalPrice": 92.68,
-      "discountPercent": 28.8,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8257x-mrgvlvtzbjt2da",
-      "url": "https://s.shopee.com.br/1Lgz85Pit2",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 2116,
-      "official": true,
-      "seller": "GLORY OF SEOUL",
-      "category": "Beleza"
-    },
-    {
-      "id": "27438255053",
-      "title": "Ampola LILYEVE Grow:Turn Exosome Brush , 6 Tipos (30ml , 100ml , Prime Cápsula De Colágeno Rosa Ácido Hialurônico Azul Ouro 5X 100ml)",
-      "price": 59.99,
-      "originalPrice": 74.31,
-      "discountPercent": 19.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8259e-mux9uj7d9ce989",
-      "url": "https://s.shopee.com.br/3VlTi4HTUX",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 2026,
-      "official": true,
-      "seller": "GLORY OF SEOUL",
-      "category": "Beleza"
     },
     {
       "id": "23593332489",
@@ -231,6 +201,21 @@
       "official": true,
       "seller": "Na Web Group De Marcas",
       "category": "Casa e organização"
+    },
+    {
+      "id": "22428942973",
+      "title": "Bota Feminina Western Texana Cano Curto Bordada",
+      "price": 89.69,
+      "originalPrice": 117.57,
+      "discountPercent": 23.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23030-3sx1l4b1j8nvde",
+      "url": "https://s.shopee.com.br/6fiVTtjykF",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 452,
+      "official": true,
+      "seller": "GiGiL",
+      "category": "Moda"
     },
     {
       "id": "25343192866",
