@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T11:09:59.190Z",
+  "updatedAt": "2026-11-02T11:31:14.376Z",
   "offers": [
     {
       "id": "54558362287",
@@ -29,8 +29,7 @@
       "salesCount": 2116,
       "official": true,
       "seller": "GLORY OF SEOUL",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "27438255053",
@@ -187,6 +186,20 @@
       "salesCount": 1450,
       "seller": "Rosa Glam",
       "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "19299851392",
+      "title": "Kit Spider - Man Com Máscara E Lançador De Teia",
+      "price": 34.99,
+      "originalPrice": 60.33,
+      "discountPercent": 42,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcwgx1hfad6ac3",
+      "url": "https://s.shopee.com.br/AUvGBiiaEp",
+      "rating": 4.9,
+      "salesCount": 2148,
+      "seller": "xsons toy",
+      "category": "Pet e bebê",
       "hot": true
     },
     {
