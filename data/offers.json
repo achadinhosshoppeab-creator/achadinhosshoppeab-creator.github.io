@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-11-02T22:36:45.300Z",
+  "updatedAt": "2026-11-02T22:57:22.397Z",
   "offers": [
-    {
-      "id": "57757791848",
-      "title": "Medicube PDRN Pink Collagen Volume Multi Balm 10g",
-      "price": 127,
-      "originalPrice": 302.38,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825a9-mrux2xtlrls12f",
-      "url": "https://s.shopee.com.br/1qdHtIMUFF",
-      "rating": 5,
-      "salesCount": 1757,
-      "official": true,
-      "seller": "koksara.kbeauty",
-      "category": "Beleza",
-      "hot": true
-    },
     {
       "id": "21199680918",
       "title": "Pelúcias Gabby’s Dollhouse 27cm – Pandy Paws, Catnip e Almofagato | Fofas e Importadas",
@@ -103,7 +88,8 @@
       "rating": 4.9,
       "salesCount": 918,
       "seller": "MAIS LEGAL SHOP",
-      "category": "Eletrônicos"
+      "category": "Eletrônicos",
+      "hot": true
     },
     {
       "id": "22298654389",
