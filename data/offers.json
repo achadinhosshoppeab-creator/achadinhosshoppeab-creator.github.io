@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T11:31:14.376Z",
+  "updatedAt": "2026-11-02T11:52:34.931Z",
   "offers": [
     {
       "id": "54558362287",
@@ -13,6 +13,21 @@
       "salesCount": 2990,
       "official": true,
       "seller": "Adora ",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "57757791848",
+      "title": "Medicube PDRN Pink Collagen Volume Multi Balm 10g",
+      "price": 127,
+      "originalPrice": 302.38,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825a9-mrux2xtlrls12f",
+      "url": "https://s.shopee.com.br/1qdHtIMUFF",
+      "rating": 5,
+      "salesCount": 1779,
+      "official": true,
+      "seller": "koksara.kbeauty",
       "category": "Beleza",
       "hot": true
     },
@@ -50,7 +65,7 @@
       "id": "23593332489",
       "title": "Espelho Lopazzi Base Reta Corpo Inteiro 170x70 Com Suporte de Chão Moldura Alumínio Quarto Sala Decorativo",
       "price": 419.9,
-      "originalPrice": 538.975,
+      "originalPrice": 538.95,
       "discountPercent": 22.1,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7taq0e5d7ys2c",
       "url": "https://s.shopee.com.br/1gJpWfTf2t",
@@ -119,32 +134,31 @@
       "hot": true
     },
     {
-      "id": "23198735870",
-      "title": "1 a 10 Metros Fita Mangueira de LED 5050 para Decoração Com Conector 110V ou 220V Branco Frio/Quente",
-      "price": 19.77,
-      "originalPrice": 26.3,
-      "discountPercent": 24.8,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvx-mch98dk3g6zu79",
-      "url": "https://s.shopee.com.br/5fpyI29pv8",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2955,
-      "seller": "BRILLIA",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "58205605828",
       "title": "Protetor Solar FPS 70 SunCare UVA+UVB Toque Seco Resistente à Água 150ml",
       "price": 19,
       "originalPrice": 22.5,
       "discountPercent": 15.6,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mq9jfhtd0mpt16",
-      "url": "https://s.shopee.com.br/80Dt4L1J0h",
+      "url": "https://s.shopee.com.br/114AtlTZu2",
       "rating": 4.8,
       "salesCount": 1591,
       "seller": "Universo Cosmetico",
       "category": "Beleza"
+    },
+    {
+      "id": "58251465024",
+      "title": "Brinquedo Lousa Magnética 3 em 1 Infantil Quebra Cabeça Magnético de Feições Madeira Educativo Pedagógico com Canetinha",
+      "price": 59.49,
+      "originalPrice": 118.98,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-msm9h2039hjbdd",
+      "url": "https://s.shopee.com.br/3LS3Vm9rxO",
+      "rating": 4.9,
+      "salesCount": 1236,
+      "seller": "Brincakids",
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "25583979154",
@@ -174,6 +188,20 @@
       "category": "Beleza"
     },
     {
+      "id": "40858672179",
+      "title": "Overboard Infantil 6.5\" - Skate Elétrico com Caixa de Som Bluetooth e Bateria Longa Duração",
+      "price": 519,
+      "originalPrice": 798.46,
+      "discountPercent": 35,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aw-mu1ttz7ajdae46",
+      "url": "https://s.shopee.com.br/3qOMGuGQ5d",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 917,
+      "seller": "MAIS LEGAL SHOP",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "22298654389",
       "title": "ANA1108 Conjunto De Pincéis De Maquiagem Profissional De 8 Unidades De Contém Pincel De Pó",
       "price": 17.99,
@@ -186,20 +214,6 @@
       "salesCount": 1450,
       "seller": "Rosa Glam",
       "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "19299851392",
-      "title": "Kit Spider - Man Com Máscara E Lançador De Teia",
-      "price": 34.99,
-      "originalPrice": 60.33,
-      "discountPercent": 42,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcwgx1hfad6ac3",
-      "url": "https://s.shopee.com.br/AUvGBiiaEp",
-      "rating": 4.9,
-      "salesCount": 2148,
-      "seller": "xsons toy",
-      "category": "Pet e bebê",
       "hot": true
     },
     {
@@ -260,20 +274,6 @@
       "seller": "Alumínio Nacional",
       "category": "Cozinha",
       "hot": true
-    },
-    {
-      "id": "21499499348",
-      "title": "Kit Wella Professionals Invigo Nutri-Enrich Shampoo Condicionador e Válvula (4 produtos)",
-      "price": 249,
-      "originalPrice": 299,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx0-m15pe0s36kro6c",
-      "url": "https://s.shopee.com.br/5Athh8GUX6",
-      "rating": 4.9,
-      "salesCount": 1877,
-      "official": true,
-      "seller": "Evas ",
-      "category": "Beleza"
     }
   ]
 }
