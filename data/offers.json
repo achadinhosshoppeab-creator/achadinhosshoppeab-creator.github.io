@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T23:19:07.741Z",
+  "updatedAt": "2026-11-02T23:39:54.209Z",
   "offers": [
     {
       "id": "57757791848",
@@ -44,8 +44,7 @@
       "salesCount": 1914,
       "official": true,
       "seller": "GLORY OF SEOUL",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "23593332489",
@@ -93,6 +92,21 @@
       "hot": true
     },
     {
+      "id": "23198735870",
+      "title": "1 a 10 Metros Fita Mangueira de LED 5050 para Decoração Com Conector 110V ou 220V Branco Frio/Quente",
+      "price": 19.77,
+      "originalPrice": 26.3,
+      "discountPercent": 24.8,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvx-mch98dk3g6zu79",
+      "url": "https://s.shopee.com.br/5fpyI29pv8",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2777,
+      "seller": "BRILLIA",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
       "id": "40858672179",
       "title": "Overboard Infantil 6.5\" - Skate Elétrico com Caixa de Som Bluetooth e Bateria Longa Duração",
       "price": 519,
@@ -134,6 +148,21 @@
       "official": true,
       "seller": "Na Web Group De Marcas",
       "category": "Casa e organização"
+    },
+    {
+      "id": "22428942973",
+      "title": "Bota Feminina Western Texana Cano Curto Bordada",
+      "price": 89.69,
+      "originalPrice": 117.57,
+      "discountPercent": 23.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23030-3sx1l4b1j8nvde",
+      "url": "https://s.shopee.com.br/6fiVTtjykF",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 406,
+      "official": true,
+      "seller": "GiGiL",
+      "category": "Moda"
     },
     {
       "id": "25343192866",
