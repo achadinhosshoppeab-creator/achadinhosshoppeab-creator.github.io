@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T06:28:43.448Z",
+  "updatedAt": "2026-11-02T07:31:08.306Z",
   "offers": [
     {
       "id": "54558362287",
@@ -106,21 +106,6 @@
       "hot": true
     },
     {
-      "id": "46306153826",
-      "title": "Espelho Para Banheiro Redondo Penteadeira Decorativo Sala Quarto Hall Adnet Costurado 60cm Sem Alça",
-      "price": 21.9,
-      "originalPrice": 39.82,
-      "discountPercent": 45,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mqfdsob63ri9c3",
-      "url": "https://s.shopee.com.br/9pfXFfyZTj",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 707,
-      "seller": "Eddias Home",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "58210997361",
       "title": "Protetor Solar Corporal FPS 70 150ml Toque Seco Resistente à Água Proteção UVA e UVB",
       "price": 19,
@@ -172,7 +157,8 @@
       "rating": 4.8,
       "salesCount": 2955,
       "seller": "BRILLIA",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "25583979154",
