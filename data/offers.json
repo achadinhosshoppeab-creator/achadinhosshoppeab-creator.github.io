@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-11-03T21:29:30.012Z",
+  "updatedAt": "2026-11-03T21:50:38.535Z",
   "offers": [
-    {
-      "id": "23298825465",
-      "title": "Geleia Hidratante My Sweet Delight Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
-      "price": 24.9,
-      "originalPrice": 49.63,
-      "discountPercent": 49.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
-      "url": "https://s.shopee.com.br/4Ve1PqabIQ",
-      "rating": 4.9,
-      "salesCount": 1208,
-      "official": true,
-      "seller": "Barbour's Beauty",
-      "category": "Beleza",
-      "hot": true
-    },
     {
       "id": "21199680918",
       "title": "Pelúcias Gabby’s Dollhouse 27cm – Pandy Paws, Catnip e Almofagato | Fofas e Importadas",
@@ -158,7 +143,8 @@
       "rating": 4.9,
       "salesCount": 1679,
       "seller": "jialian2.br",
-      "category": "Ferramentas"
+      "category": "Ferramentas",
+      "hot": true
     },
     {
       "id": "47208059451",
