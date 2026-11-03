@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T12:56:33.452Z",
+  "updatedAt": "2026-11-03T13:17:31.859Z",
   "offers": [
     {
       "id": "28867680104",
@@ -44,8 +44,7 @@
       "salesCount": 1162,
       "official": true,
       "seller": "Forever Liss",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "27438255053",
@@ -107,6 +106,73 @@
       "seller": "BRILLIA",
       "category": "Casa e organização",
       "hot": true
+    },
+    {
+      "id": "57555992595",
+      "title": "Parafusadeira Furadeira Sem Fio 48V - Carregador Bivolt 110/220V Kit com 1 OU 2 Bateria e Maleta OU caixa de papelão",
+      "price": 115.96,
+      "originalPrice": 173.07,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpuoehq8krgv52",
+      "url": "https://s.shopee.com.br/1gJtJOcJkj",
+      "rating": 4.8,
+      "salesCount": 1378,
+      "seller": "Muse.Mall",
+      "category": "Ferramentas",
+      "hot": true
+    },
+    {
+      "id": "44956025150",
+      "title": "Parafusadeira Furadeira Sem Fio 48V - Bivolt, 2 OU 1 Bateria, Kit Completo, Maleta de Transporte OU caixa de papelão",
+      "price": 115.95,
+      "originalPrice": 173.06,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpuoehq8krgv52",
+      "url": "https://s.shopee.com.br/5AtlQweAic",
+      "rating": 4.9,
+      "salesCount": 457,
+      "seller": "qingm",
+      "category": "Ferramentas"
+    },
+    {
+      "id": "18698826077",
+      "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
+      "price": 109.9,
+      "originalPrice": 149,
+      "discountPercent": 26.2,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
+      "url": "https://s.shopee.com.br/4LKeUISALV",
+      "rating": 4.9,
+      "salesCount": 1049,
+      "official": true,
+      "seller": "Eletricario Loja Oficial",
+      "category": "Ferramentas"
+    },
+    {
+      "id": "46306012672",
+      "title": "Parafusadeira Furadeira Sem Fio 48V - Bivolt, 2 OU 1Bateria, Maleta de Transporte para Uso Doméstico e Profissional",
+      "price": 115.96,
+      "originalPrice": 161.06,
+      "discountPercent": 28,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mrbg8u8cu4u9c4",
+      "url": "https://s.shopee.com.br/2Vt0IvZ93o",
+      "rating": 4.9,
+      "salesCount": 1710,
+      "seller": "jialian2.br",
+      "category": "Ferramentas"
+    },
+    {
+      "id": "47208059451",
+      "title": "Parafusadeira Furadeira 48V Sem Fio com 2 OU 1 Bateria, Acessórios Completos e Maleta de Transporte OU caixa de papelão",
+      "price": 115.96,
+      "originalPrice": 156.7,
+      "discountPercent": 26,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpuoa8cwcwld46",
+      "url": "https://s.shopee.com.br/3qONtNU4MC",
+      "rating": 4.9,
+      "salesCount": 1307,
+      "seller": "Muse.Mall",
+      "category": "Ferramentas"
     },
     {
       "id": "40858672179",
@@ -180,19 +246,6 @@
       "seller": "Rosa de Mello Atacado & Varejo",
       "category": "Moda",
       "hot": true
-    },
-    {
-      "id": "22294564340",
-      "title": "Pula Pula Grande tamanho 1,80m x 1,60m Cama Elástica Infantil Trampolim Playground Desmontável",
-      "price": 477,
-      "originalPrice": 569,
-      "discountPercent": 16.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgjczaogh53b52",
-      "url": "https://s.shopee.com.br/6q1vgB0igR",
-      "rating": 4.9,
-      "salesCount": 2106,
-      "seller": "ELORIA SHOP",
-      "category": "Casa e organização"
     }
   ]
 }
