@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T05:46:54.343Z",
+  "updatedAt": "2026-11-03T06:18:08.653Z",
   "offers": [
     {
       "id": "28867680104",
@@ -32,21 +32,6 @@
       "seller": "GLORY OF SEOUL",
       "category": "Beleza",
       "hot": true
-    },
-    {
-      "id": "23593332489",
-      "title": "Espelho Lopazzi Base Reta Corpo Inteiro 170x70 Com Suporte de Chão Moldura Alumínio Quarto Sala Decorativo",
-      "price": 419.9,
-      "originalPrice": 538.95,
-      "discountPercent": 22.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7taq0e5d7ys2c",
-      "url": "https://s.shopee.com.br/1gJpWfTf2t",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 616,
-      "official": true,
-      "seller": "Loja Lopazzi",
-      "category": "Casa e organização"
     },
     {
       "id": "19197157965",
@@ -92,20 +77,6 @@
       "seller": "BRILLIA",
       "category": "Casa e organização",
       "hot": true
-    },
-    {
-      "id": "18698826077",
-      "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
-      "price": 109.9,
-      "originalPrice": 149,
-      "discountPercent": 26.2,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
-      "url": "https://s.shopee.com.br/3qOK6hKPJp",
-      "rating": 4.9,
-      "salesCount": 1049,
-      "official": true,
-      "seller": "Eletricario Loja Oficial",
-      "category": "Ferramentas"
     },
     {
       "id": "40858672179",
