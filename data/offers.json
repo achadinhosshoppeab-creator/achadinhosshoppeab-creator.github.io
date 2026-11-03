@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T19:42:46.456Z",
+  "updatedAt": "2026-11-03T20:04:42.492Z",
   "offers": [
     {
       "id": "23298825465",
@@ -77,21 +77,6 @@
       "hot": true
     },
     {
-      "id": "23198205483",
-      "title": "Capa Capinha Magnética MagSafe Fosca Antichoque para iPhone 11 12 13 14 15 16 17 18 Pro Max 16E 17E",
-      "price": 20.88,
-      "originalPrice": 32.12,
-      "discountPercent": 35,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-ms05va2pzzlyeb",
-      "url": "https://s.shopee.com.br/9APuC9Etos",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2288,
-      "seller": "vitrine paulista",
-      "category": "Eletrônicos",
-      "hot": true
-    },
-    {
       "id": "23198735870",
       "title": "1 a 10 Metros Fita Mangueira de LED 5050 para Decoração Com Conector 110V ou 220V Branco Frio/Quente",
       "price": 19.77,
@@ -131,7 +116,8 @@
       "rating": 4.9,
       "salesCount": 452,
       "seller": "qingm",
-      "category": "Ferramentas"
+      "category": "Ferramentas",
+      "hot": true
     },
     {
       "id": "18698826077",
@@ -158,7 +144,8 @@
       "rating": 4.9,
       "salesCount": 1679,
       "seller": "jialian2.br",
-      "category": "Ferramentas"
+      "category": "Ferramentas",
+      "hot": true
     },
     {
       "id": "47208059451",
@@ -188,36 +175,6 @@
       "category": "Eletrônicos"
     },
     {
-      "id": "22428942973",
-      "title": "Bota Feminina Western Texana Cano Curto Bordada",
-      "price": 89.69,
-      "originalPrice": 117.57,
-      "discountPercent": 23.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23030-3sx1l4b1j8nvde",
-      "url": "https://s.shopee.com.br/6fiVTtjykF",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 379,
-      "official": true,
-      "seller": "GiGiL",
-      "category": "Moda"
-    },
-    {
-      "id": "13111211968",
-      "title": "Frigideira Panquequeira Antiaderente 22Cm Nacional",
-      "price": 26.97,
-      "originalPrice": 39.2,
-      "discountPercent": 31.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mqp6rxqq8ohv77",
-      "url": "https://s.shopee.com.br/qkiX8NxuO",
-      "rating": 4.9,
-      "salesCount": 3374,
-      "official": true,
-      "seller": "Alumínio Nacional",
-      "category": "Cozinha",
-      "hot": true
-    },
-    {
       "id": "25343192866",
       "title": "Kit Conjuntos Short Dool Pijama Baby MICRO ESTAMPADO Feminino Roupa De Dormir Noite Fresquinho",
       "price": 32.99,
@@ -231,19 +188,6 @@
       "seller": "Rosa de Mello Atacado & Varejo",
       "category": "Moda",
       "hot": true
-    },
-    {
-      "id": "20598461061",
-      "title": "Cortina Voil Gaze De Linho 3,00 x 2,20/2,30/2,40/2,50/2,60/2,70/2,80 C/forro Blackout Grosso Original",
-      "price": 199.9,
-      "originalPrice": 239.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mtqni748srupa7",
-      "url": "https://s.shopee.com.br/5LD7tPBEcL",
-      "rating": 4.9,
-      "salesCount": 1578,
-      "seller": "Kaluros ",
-      "category": "Casa e organização"
     }
   ]
 }
