@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T16:50:08.758Z",
+  "updatedAt": "2026-11-03T17:54:37.714Z",
   "offers": [
     {
       "id": "21199680918",
@@ -62,21 +62,6 @@
       "hot": true
     },
     {
-      "id": "23198205483",
-      "title": "Capa Capinha Magnética MagSafe Fosca Antichoque para iPhone 11 12 13 14 15 16 17 18 Pro Max 16E 17E",
-      "price": 20.88,
-      "originalPrice": 32.12,
-      "discountPercent": 35,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-ms05va2pzzlyeb",
-      "url": "https://s.shopee.com.br/9APuC9Etos",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2288,
-      "seller": "vitrine paulista",
-      "category": "Eletrônicos",
-      "hot": true
-    },
-    {
       "id": "23198735870",
       "title": "1 a 10 Metros Fita Mangueira de LED 5050 para Decoração Com Conector 110V ou 220V Branco Frio/Quente",
       "price": 19.77,
@@ -116,7 +101,8 @@
       "rating": 4.9,
       "salesCount": 457,
       "seller": "qingm",
-      "category": "Ferramentas"
+      "category": "Ferramentas",
+      "hot": true
     },
     {
       "id": "18698826077",
