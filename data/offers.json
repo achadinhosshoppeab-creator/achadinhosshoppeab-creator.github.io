@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T22:12:29.570Z",
+  "updatedAt": "2026-11-03T22:33:35.704Z",
   "offers": [
     {
       "id": "21678240017",
@@ -61,6 +61,20 @@
       "category": "Beleza"
     },
     {
+      "id": "55957404904",
+      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
+      "price": 39.9,
+      "originalPrice": 49.9,
+      "discountPercent": 20,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
+      "url": "https://s.shopee.com.br/7VHcTOGFpE",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 939,
+      "seller": "Lescent",
+      "category": "Beleza"
+    },
+    {
       "id": "27438255053",
       "title": "Ampola LILYEVE Grow:Turn Exosome Brush , 6 Tipos (30ml , 100ml , Prime Cápsula De Colágeno Rosa Ácido Hialurônico Azul Ouro 5X 100ml)",
       "price": 59.99,
@@ -92,6 +106,21 @@
       "hot": true
     },
     {
+      "id": "23198205483",
+      "title": "Capa Capinha Magnética MagSafe Fosca Antichoque para iPhone 11 12 13 14 15 16 17 18 Pro Max 16E 17E",
+      "price": 17.89,
+      "originalPrice": 27.52,
+      "discountPercent": 35,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-ms05va2pzzlyeb",
+      "url": "https://s.shopee.com.br/9APuC9Etos",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2250,
+      "seller": "vitrine paulista",
+      "category": "Eletrônicos",
+      "hot": true
+    },
+    {
       "id": "57555992595",
       "title": "Parafusadeira Furadeira Sem Fio 48V - Carregador Bivolt 110/220V Kit com 1 OU 2 Bateria e Maleta OU caixa de papelão",
       "price": 115.96,
@@ -116,8 +145,7 @@
       "rating": 4.9,
       "salesCount": 452,
       "seller": "qingm",
-      "category": "Ferramentas",
-      "hot": true
+      "category": "Ferramentas"
     },
     {
       "id": "18698826077",
@@ -144,8 +172,7 @@
       "rating": 4.9,
       "salesCount": 1679,
       "seller": "jialian2.br",
-      "category": "Ferramentas",
-      "hot": true
+      "category": "Ferramentas"
     },
     {
       "id": "47208059451",
@@ -175,6 +202,21 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "13111211968",
+      "title": "Frigideira Panquequeira Antiaderente 22Cm Nacional",
+      "price": 26.97,
+      "originalPrice": 39.2,
+      "discountPercent": 31.2,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mqp6rxqq8ohv77",
+      "url": "https://s.shopee.com.br/qkiX8NxuO",
+      "rating": 4.9,
+      "salesCount": 3374,
+      "official": true,
+      "seller": "Alumínio Nacional",
+      "category": "Cozinha",
+      "hot": true
+    },
+    {
       "id": "25343192866",
       "title": "Kit Conjuntos Short Dool Pijama Baby MICRO ESTAMPADO Feminino Roupa De Dormir Noite Fresquinho",
       "price": 32.99,
@@ -188,6 +230,19 @@
       "seller": "Rosa de Mello Atacado & Varejo",
       "category": "Moda",
       "hot": true
+    },
+    {
+      "id": "20598461061",
+      "title": "Cortina Voil Gaze De Linho 3,00 x 2,20/2,30/2,40/2,50/2,60/2,70/2,80 C/forro Blackout Grosso Original",
+      "price": 199.9,
+      "originalPrice": 239.9,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mtqni748srupa7",
+      "url": "https://s.shopee.com.br/5LD7tPBEcL",
+      "rating": 4.9,
+      "salesCount": 1578,
+      "seller": "Kaluros ",
+      "category": "Casa e organização"
     }
   ]
 }
