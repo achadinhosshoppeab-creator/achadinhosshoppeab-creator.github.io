@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-11-03T03:41:47.845Z",
+  "updatedAt": "2026-11-03T04:12:31.301Z",
   "offers": [
-    {
-      "id": "54558362287",
-      "title": "Body Splash Feminino Shine Agapis Beauty 200ml Fragrância Sedutora Alta Fixação",
-      "price": 19.9,
-      "originalPrice": 49.75,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mrhgn8jhurk40c",
-      "url": "https://s.shopee.com.br/60SpCbZDib",
-      "rating": 4.7,
-      "salesCount": 2631,
-      "official": true,
-      "seller": "Adora ",
-      "category": "Beleza",
-      "hot": true
-    },
     {
       "id": "28867680104",
       "title": "[NEW] NUMBUZIN No.9 NAD BIO Lifting Sil Essence 30ml, 50ml",
@@ -45,7 +30,8 @@
       "salesCount": 1914,
       "official": true,
       "seller": "GLORY OF SEOUL",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "23593332489",
