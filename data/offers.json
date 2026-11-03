@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-03T03:10:43.797Z",
+  "updatedAt": "2026-11-03T03:41:47.845Z",
   "offers": [
     {
-      "id": "57757791848",
-      "title": "Medicube PDRN Pink Collagen Volume Multi Balm 10g",
-      "price": 127,
-      "originalPrice": 302.38,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825a9-mrux2xtlrls12f",
-      "url": "https://s.shopee.com.br/1qdHtIMUFF",
-      "rating": 5,
-      "salesCount": 1757,
+      "id": "54558362287",
+      "title": "Body Splash Feminino Shine Agapis Beauty 200ml Fragrância Sedutora Alta Fixação",
+      "price": 19.9,
+      "originalPrice": 49.75,
+      "discountPercent": 60,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mrhgn8jhurk40c",
+      "url": "https://s.shopee.com.br/60SpCbZDib",
+      "rating": 4.7,
+      "salesCount": 2631,
       "official": true,
-      "seller": "koksara.kbeauty",
+      "seller": "Adora ",
       "category": "Beleza",
       "hot": true
     },
@@ -164,21 +164,6 @@
       "official": true,
       "seller": "Na Web Group De Marcas",
       "category": "Casa e organização"
-    },
-    {
-      "id": "22428942973",
-      "title": "Bota Feminina Western Texana Cano Curto Bordada",
-      "price": 89.69,
-      "originalPrice": 117.57,
-      "discountPercent": 23.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23030-3sx1l4b1j8nvde",
-      "url": "https://s.shopee.com.br/6fiVTtjykF",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 406,
-      "official": true,
-      "seller": "GiGiL",
-      "category": "Moda"
     },
     {
       "id": "13111211968",
