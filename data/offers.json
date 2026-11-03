@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T20:46:56.865Z",
+  "updatedAt": "2026-11-03T21:08:27.572Z",
   "offers": [
     {
       "id": "23298825465",
@@ -63,7 +63,7 @@
     {
       "id": "19197157965",
       "title": "FINO Premium Touch Hair Mask 15g, 45g, 230g",
-      "price": 47.99,
+      "price": 48,
       "originalPrice": 124.99,
       "discountPercent": 61.6,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-824h7-mpufo6f0qpky42",
@@ -74,21 +74,6 @@
       "official": true,
       "seller": "koksara.kbeauty",
       "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "23198205483",
-      "title": "Capa Capinha Magnética MagSafe Fosca Antichoque para iPhone 11 12 13 14 15 16 17 18 Pro Max 16E 17E",
-      "price": 20.88,
-      "originalPrice": 32.12,
-      "discountPercent": 35,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-ms05va2pzzlyeb",
-      "url": "https://s.shopee.com.br/9APuC9Etos",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2250,
-      "seller": "vitrine paulista",
-      "category": "Eletrônicos",
       "hot": true
     },
     {
@@ -158,7 +143,8 @@
       "rating": 4.9,
       "salesCount": 1679,
       "seller": "jialian2.br",
-      "category": "Ferramentas"
+      "category": "Ferramentas",
+      "hot": true
     },
     {
       "id": "47208059451",
@@ -186,21 +172,6 @@
       "salesCount": 920,
       "seller": "MAIS LEGAL SHOP",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "22428942973",
-      "title": "Bota Feminina Western Texana Cano Curto Bordada",
-      "price": 89.69,
-      "originalPrice": 117.57,
-      "discountPercent": 23.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23030-3sx1l4b1j8nvde",
-      "url": "https://s.shopee.com.br/6fiVTtjykF",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 379,
-      "official": true,
-      "seller": "GiGiL",
-      "category": "Moda"
     },
     {
       "id": "13111211968",
