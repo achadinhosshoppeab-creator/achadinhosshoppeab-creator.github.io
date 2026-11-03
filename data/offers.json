@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T18:16:11.347Z",
+  "updatedAt": "2026-11-03T18:59:35.739Z",
   "offers": [
     {
       "id": "23298825465",
@@ -59,6 +59,21 @@
       "official": true,
       "seller": "GLORY OF SEOUL",
       "category": "Beleza"
+    },
+    {
+      "id": "23593332489",
+      "title": "Espelho Lopazzi Base Reta Corpo Inteiro 170x70 Com Suporte de Chão Moldura Alumínio Quarto Sala Decorativo",
+      "price": 419.9,
+      "originalPrice": 538.95,
+      "discountPercent": 22.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7taq0e5d7ys2c",
+      "url": "https://s.shopee.com.br/1gJpWfTf2t",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 616,
+      "official": true,
+      "seller": "Loja Lopazzi",
+      "category": "Casa e organização"
     },
     {
       "id": "19197157965",
