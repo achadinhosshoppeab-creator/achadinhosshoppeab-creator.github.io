@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T05:15:30.140Z",
+  "updatedAt": "2026-11-03T05:46:54.343Z",
   "offers": [
     {
       "id": "28867680104",
@@ -16,20 +16,6 @@
       "seller": "GLORY OF SEOUL",
       "category": "Beleza",
       "hot": true
-    },
-    {
-      "id": "18297829933",
-      "title": "Perfume Grace Midnight Feminino Frasco Antigo Hinode 100ml",
-      "price": 67.96,
-      "originalPrice": 84.95,
-      "discountPercent": 20,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mspjvyi96xhh07",
-      "url": "https://s.shopee.com.br/8pn3NkFJzi",
-      "rating": 4.9,
-      "salesCount": 925,
-      "official": true,
-      "seller": "Hinode ",
-      "category": "Beleza"
     },
     {
       "id": "27438255053",
@@ -106,6 +92,20 @@
       "seller": "BRILLIA",
       "category": "Casa e organização",
       "hot": true
+    },
+    {
+      "id": "18698826077",
+      "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
+      "price": 109.9,
+      "originalPrice": 149,
+      "discountPercent": 26.2,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
+      "url": "https://s.shopee.com.br/3qOK6hKPJp",
+      "rating": 4.9,
+      "salesCount": 1049,
+      "official": true,
+      "seller": "Eletricario Loja Oficial",
+      "category": "Ferramentas"
     },
     {
       "id": "40858672179",
