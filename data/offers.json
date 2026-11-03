@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T13:17:31.859Z",
+  "updatedAt": "2026-11-03T13:38:23.160Z",
   "offers": [
     {
       "id": "28867680104",
@@ -122,19 +122,6 @@
       "hot": true
     },
     {
-      "id": "44956025150",
-      "title": "Parafusadeira Furadeira Sem Fio 48V - Bivolt, 2 OU 1 Bateria, Kit Completo, Maleta de Transporte OU caixa de papelão",
-      "price": 115.95,
-      "originalPrice": 173.06,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpuoehq8krgv52",
-      "url": "https://s.shopee.com.br/5AtlQweAic",
-      "rating": 4.9,
-      "salesCount": 457,
-      "seller": "qingm",
-      "category": "Ferramentas"
-    },
-    {
       "id": "18698826077",
       "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
       "price": 109.9,
@@ -201,21 +188,6 @@
       "official": true,
       "seller": "Beleza Renovada Oficial",
       "category": "Beleza"
-    },
-    {
-      "id": "22428942973",
-      "title": "Bota Feminina Western Texana Cano Curto Bordada",
-      "price": 89.69,
-      "originalPrice": 117.57,
-      "discountPercent": 23.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23030-3sx1l4b1j8nvde",
-      "url": "https://s.shopee.com.br/6fiVTtjykF",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 406,
-      "official": true,
-      "seller": "GiGiL",
-      "category": "Moda"
     },
     {
       "id": "13111211968",
