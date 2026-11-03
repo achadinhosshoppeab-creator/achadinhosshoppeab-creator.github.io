@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T13:38:23.160Z",
+  "updatedAt": "2026-11-03T13:59:27.743Z",
   "offers": [
     {
       "id": "28867680104",
@@ -188,6 +188,21 @@
       "official": true,
       "seller": "Beleza Renovada Oficial",
       "category": "Beleza"
+    },
+    {
+      "id": "22428942973",
+      "title": "Bota Feminina Western Texana Cano Curto Bordada",
+      "price": 89.69,
+      "originalPrice": 117.57,
+      "discountPercent": 23.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23030-3sx1l4b1j8nvde",
+      "url": "https://s.shopee.com.br/6fiVTtjykF",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 406,
+      "official": true,
+      "seller": "GiGiL",
+      "category": "Moda"
     },
     {
       "id": "13111211968",
