@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-11-03T00:43:54.935Z",
+  "updatedAt": "2026-11-03T02:39:50.956Z",
   "offers": [
-    {
-      "id": "54558362287",
-      "title": "Body Splash Feminino Shine Agapis Beauty 200ml Fragrância Sedutora Alta Fixação",
-      "price": 19.9,
-      "originalPrice": 49.75,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mrhgn8jhurk40c",
-      "url": "https://s.shopee.com.br/60SpCbZDib",
-      "rating": 4.7,
-      "salesCount": 2631,
-      "official": true,
-      "seller": "Adora ",
-      "category": "Beleza",
-      "hot": true
-    },
     {
       "id": "57757791848",
       "title": "Medicube PDRN Pink Collagen Volume Multi Balm 10g",
@@ -44,7 +29,8 @@
       "salesCount": 1914,
       "official": true,
       "seller": "GLORY OF SEOUL",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "23593332489",
@@ -143,6 +129,7 @@
       "discountPercent": 21.3,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6qu5cyuvfhs36",
       "url": "https://s.shopee.com.br/3B8dJRWLW5",
+      "hasVariantPrices": true,
       "rating": 5,
       "salesCount": 175,
       "official": true,
