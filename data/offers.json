@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T04:12:31.301Z",
+  "updatedAt": "2026-11-03T05:15:30.140Z",
   "offers": [
     {
       "id": "28867680104",
@@ -16,6 +16,20 @@
       "seller": "GLORY OF SEOUL",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "18297829933",
+      "title": "Perfume Grace Midnight Feminino Frasco Antigo Hinode 100ml",
+      "price": 67.96,
+      "originalPrice": 84.95,
+      "discountPercent": 20,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mspjvyi96xhh07",
+      "url": "https://s.shopee.com.br/8pn3NkFJzi",
+      "rating": 4.9,
+      "salesCount": 925,
+      "official": true,
+      "seller": "Hinode ",
+      "category": "Beleza"
     },
     {
       "id": "27438255053",
