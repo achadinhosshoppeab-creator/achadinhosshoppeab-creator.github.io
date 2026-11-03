@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T16:07:41.109Z",
+  "updatedAt": "2026-11-03T16:28:40.731Z",
   "offers": [
     {
       "id": "21199680918",
@@ -106,19 +106,6 @@
       "hot": true
     },
     {
-      "id": "44956025150",
-      "title": "Parafusadeira Furadeira Sem Fio 48V - Bivolt, 2 OU 1 Bateria, Kit Completo, Maleta de Transporte OU caixa de papelão",
-      "price": 115.95,
-      "originalPrice": 173.06,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpuoehq8krgv52",
-      "url": "https://s.shopee.com.br/5AtlQweAic",
-      "rating": 4.9,
-      "salesCount": 457,
-      "seller": "qingm",
-      "category": "Ferramentas"
-    },
-    {
       "id": "18698826077",
       "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
       "price": 109.9,
@@ -174,20 +161,6 @@
       "category": "Eletrônicos"
     },
     {
-      "id": "22997647570",
-      "title": "Escova secador Modeladora Taiff Oval Easy Pink Original",
-      "price": 164.99,
-      "originalPrice": 199.99,
-      "discountPercent": 17.5,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
-      "url": "https://s.shopee.com.br/3qOK6edDYk",
-      "rating": 4.9,
-      "salesCount": 656,
-      "official": true,
-      "seller": "Beleza Renovada Oficial",
-      "category": "Beleza"
-    },
-    {
       "id": "22428942973",
       "title": "Bota Feminina Western Texana Cano Curto Bordada",
       "price": 89.69,
@@ -231,6 +204,19 @@
       "seller": "Rosa de Mello Atacado & Varejo",
       "category": "Moda",
       "hot": true
+    },
+    {
+      "id": "20598461061",
+      "title": "Cortina Voil Gaze De Linho 3,00 x 2,20/2,30/2,40/2,50/2,60/2,70/2,80 C/forro Blackout Grosso Original",
+      "price": 199.9,
+      "originalPrice": 239.9,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mtqni748srupa7",
+      "url": "https://s.shopee.com.br/5LD7tPBEcL",
+      "rating": 4.9,
+      "salesCount": 1589,
+      "seller": "Kaluros ",
+      "category": "Casa e organização"
     }
   ]
 }
