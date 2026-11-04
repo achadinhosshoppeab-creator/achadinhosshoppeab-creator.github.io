@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T00:40:38.007Z",
+  "updatedAt": "2026-11-04T01:02:04.100Z",
   "offers": [
     {
       "id": "21678240017",
@@ -142,7 +142,8 @@
       "rating": 4.9,
       "salesCount": 452,
       "seller": "qingm",
-      "category": "Ferramentas"
+      "category": "Ferramentas",
+      "hot": true
     },
     {
       "id": "18698826077",
@@ -212,21 +213,6 @@
       "official": true,
       "seller": "Alumínio Nacional",
       "category": "Cozinha",
-      "hot": true
-    },
-    {
-      "id": "25343192866",
-      "title": "Kit Conjuntos Short Dool Pijama Baby MICRO ESTAMPADO Feminino Roupa De Dormir Noite Fresquinho",
-      "price": 32.99,
-      "originalPrice": 44.65,
-      "discountPercent": 26.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mqqydqtdu0oz87",
-      "url": "https://s.shopee.com.br/30pD77oum5",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 2072,
-      "seller": "Rosa de Mello Atacado & Varejo",
-      "category": "Moda",
       "hot": true
     },
     {
