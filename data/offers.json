@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T16:09:41.445Z",
+  "updatedAt": "2026-11-04T16:31:03.108Z",
   "offers": [
     {
       "id": "58258154242",
@@ -43,6 +43,21 @@
       "official": true,
       "seller": "Barbour's Beauty",
       "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "21199680918",
+      "title": "Pelúcias Gabby’s Dollhouse 27cm – Pandy Paws, Catnip e Almofagato | Fofas e Importadas",
+      "price": 42.77,
+      "originalPrice": 97.2,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repg-m8lyeccuijv917",
+      "url": "https://s.shopee.com.br/4fxWbDdVTm",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 1556,
+      "seller": "Bonami&Lar",
+      "category": "Pet e bebê",
       "hot": true
     },
     {
@@ -125,12 +140,25 @@
       "originalPrice": 173.07,
       "discountPercent": 33,
       "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpuoehq8krgv52",
-      "url": "https://s.shopee.com.br/4B1Ex474Lz",
+      "url": "https://s.shopee.com.br/9zz37EvsEq",
       "rating": 4.8,
       "salesCount": 1355,
       "seller": "Muse.Mall",
       "category": "Ferramentas",
       "hot": true
+    },
+    {
+      "id": "44956025150",
+      "title": "Parafusadeira Furadeira Sem Fio 48V - Bivolt, 2 OU 1 Bateria, Kit Completo, Maleta de Transporte OU caixa de papelão",
+      "price": 115.95,
+      "originalPrice": 173.06,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpuoehq8krgv52",
+      "url": "https://s.shopee.com.br/AKbtVqzLgS",
+      "rating": 4.9,
+      "salesCount": 452,
+      "seller": "qingm",
+      "category": "Ferramentas"
     },
     {
       "id": "18698826077",
@@ -139,7 +167,7 @@
       "originalPrice": 149,
       "discountPercent": 26.2,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
-      "url": "https://s.shopee.com.br/4LKeUISALV",
+      "url": "https://s.shopee.com.br/7KyHwL61ea",
       "rating": 4.9,
       "salesCount": 1036,
       "official": true,
@@ -195,7 +223,7 @@
       "originalPrice": 156.7,
       "discountPercent": 26,
       "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpuoa8cwcwld46",
-      "url": "https://s.shopee.com.br/3qONtNU4MC",
+      "url": "https://s.shopee.com.br/9KjMK0yPam",
       "rating": 4.9,
       "salesCount": 1235,
       "seller": "Muse.Mall",
@@ -222,7 +250,7 @@
       "originalPrice": 37.9,
       "discountPercent": 22.2,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwzk5edonwn63",
-      "url": "https://s.shopee.com.br/9zyyKB9wrA",
+      "url": "https://s.shopee.com.br/9KjMJv9ygx",
       "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 1199,
@@ -272,8 +300,7 @@
       "rating": 4.6,
       "salesCount": 2188,
       "seller": "Brinquedo Park",
-      "category": "Pet e bebê",
-      "hot": true
+      "category": "Pet e bebê"
     },
     {
       "id": "20598461061",
