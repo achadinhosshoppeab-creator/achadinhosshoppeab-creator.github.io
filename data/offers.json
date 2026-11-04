@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T16:52:17.845Z",
+  "updatedAt": "2026-11-04T17:13:25.617Z",
   "offers": [
     {
       "id": "58258154242",
@@ -134,6 +134,21 @@
       "hot": true
     },
     {
+      "id": "22598549816",
+      "title": "Gel Creme Hidratante Calmante Facial - Calming Cream - Creamy Skincare - 40g",
+      "price": 31.11,
+      "originalPrice": 54.99,
+      "discountPercent": 43.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfbh51pwluyudd",
+      "url": "https://s.shopee.com.br/7VHhHXy10Z",
+      "rating": 5,
+      "salesCount": 4172,
+      "official": true,
+      "seller": "Creamy Skincare",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
       "id": "23794696993",
       "title": "Fio Elétrico Cabo Flexível 2,5mm Fio Selo certificado 20 METROS 50 METROS ROLO 100 METROS",
       "price": 19.49,
@@ -233,8 +248,7 @@
       "rating": 4.6,
       "salesCount": 2188,
       "seller": "Brinquedo Park",
-      "category": "Pet e bebê",
-      "hot": true
+      "category": "Pet e bebê"
     },
     {
       "id": "20598461061",
