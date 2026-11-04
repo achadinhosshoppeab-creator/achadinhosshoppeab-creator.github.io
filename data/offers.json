@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T23:57:43.744Z",
+  "updatedAt": "2026-11-04T00:19:38.304Z",
   "offers": [
     {
       "id": "21678240017",
@@ -106,6 +106,19 @@
       "hot": true
     },
     {
+      "id": "58210997361",
+      "title": "Protetor Solar Corporal FPS 70 150ml Toque Seco Resistente à Água Proteção UVA e UVB",
+      "price": 19,
+      "originalPrice": 23,
+      "discountPercent": 17.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mpxsgrjyul1c20",
+      "url": "https://s.shopee.com.br/20wi5bPlsK",
+      "rating": 4.8,
+      "salesCount": 1341,
+      "seller": "Nutryx Importação",
+      "category": "Beleza"
+    },
+    {
       "id": "23198205483",
       "title": "Capa Capinha Magnética MagSafe Fosca Antichoque para iPhone 11 12 13 14 15 16 17 18 Pro Max 16E 17E",
       "price": 17.89,
@@ -133,6 +146,19 @@
       "seller": "Muse.Mall",
       "category": "Ferramentas",
       "hot": true
+    },
+    {
+      "id": "44956025150",
+      "title": "Parafusadeira Furadeira Sem Fio 48V - Bivolt, 2 OU 1 Bateria, Kit Completo, Maleta de Transporte OU caixa de papelão",
+      "price": 115.95,
+      "originalPrice": 173.06,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpuoehq8krgv52",
+      "url": "https://s.shopee.com.br/8fTeJKpwEI",
+      "rating": 4.9,
+      "salesCount": 452,
+      "seller": "qingm",
+      "category": "Ferramentas"
     },
     {
       "id": "18698826077",
@@ -217,6 +243,19 @@
       "seller": "Rosa de Mello Atacado & Varejo",
       "category": "Moda",
       "hot": true
+    },
+    {
+      "id": "56507328840",
+      "title": "Kit 4 Cadeira Gruvyer Nude p/ Escritório Área Interna Externa Restaurante Mega Promoção Envio Rápido",
+      "price": 256.5,
+      "originalPrice": 328.2,
+      "discountPercent": 21.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mlxsvypadtdwb8",
+      "url": "https://s.shopee.com.br/4qGvYZCdDl",
+      "rating": 4.8,
+      "salesCount": 773,
+      "seller": "JPB  E-commerce",
+      "category": "Casa e organização"
     },
     {
       "id": "20598461061",
