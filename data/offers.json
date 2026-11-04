@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T12:57:34.522Z",
+  "updatedAt": "2026-11-04T13:18:55.673Z",
   "offers": [
     {
       "id": "58258154242",
@@ -87,22 +87,6 @@
       "official": true,
       "seller": "GLORY OF SEOUL",
       "category": "Beleza"
-    },
-    {
-      "id": "19197157965",
-      "title": "FINO Premium Touch Hair Mask 15g, 45g, 230g",
-      "price": 48,
-      "originalPrice": 124.99,
-      "discountPercent": 61.6,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-824h7-mpufo6f0qpky42",
-      "url": "https://s.shopee.com.br/4LKg6fmZKa",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1819,
-      "official": true,
-      "seller": "koksara.kbeauty",
-      "category": "Beleza",
-      "hot": true
     },
     {
       "id": "23593332489",
@@ -206,6 +190,21 @@
       "official": true,
       "seller": "Alumínio Nacional",
       "category": "Cozinha",
+      "hot": true
+    },
+    {
+      "id": "58218280893",
+      "title": "squishy Bolinho Baozi Glitter Caixa Misteriosa Brinquedo 8.5cm/5.5cm Bolinhos Brinquedo De Apertar Sensorial",
+      "price": 16.99,
+      "originalPrice": 21.98,
+      "discountPercent": 22.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mtupxhg1xgqocb",
+      "url": "https://s.shopee.com.br/4fxVuMLjbV",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 2188,
+      "seller": "Brinquedo Park",
+      "category": "Pet e bebê",
       "hot": true
     },
     {
