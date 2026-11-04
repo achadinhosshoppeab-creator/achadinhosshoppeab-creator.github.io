@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T02:35:47.773Z",
+  "updatedAt": "2026-11-04T03:06:58.372Z",
   "offers": [
     {
       "id": "21678240017",
@@ -43,8 +43,7 @@
       "salesCount": 1144,
       "official": true,
       "seller": "Forever Liss",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "55957404904",
@@ -77,20 +76,19 @@
       "hot": true
     },
     {
-      "id": "19197157965",
-      "title": "FINO Premium Touch Hair Mask 15g, 45g, 230g",
-      "price": 48,
-      "originalPrice": 124.99,
-      "discountPercent": 61.6,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-824h7-mpufo6f0qpky42",
-      "url": "https://s.shopee.com.br/9KjKNi6Rr0",
+      "id": "23593332489",
+      "title": "Espelho Lopazzi Base Reta Corpo Inteiro 170x70 Com Suporte de Chão Moldura Alumínio Quarto Sala Decorativo",
+      "price": 339.9,
+      "originalPrice": 419.9,
+      "discountPercent": 19.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7taq0e5d7ys2c",
+      "url": "https://s.shopee.com.br/1gJpWfTf2t",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1819,
+      "salesCount": 647,
       "official": true,
-      "seller": "koksara.kbeauty",
-      "category": "Beleza",
-      "hot": true
+      "seller": "Loja Lopazzi",
+      "category": "Casa e organização"
     },
     {
       "id": "58210997361",
@@ -121,6 +119,37 @@
       "hot": true
     },
     {
+      "id": "23794696993",
+      "title": "Fio Elétrico Cabo Flexível 2,5mm Fio Selo certificado 20 METROS 50 METROS ROLO 100 METROS",
+      "price": 19.49,
+      "originalPrice": 24,
+      "discountPercent": 18.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhnf77mmfb41f1",
+      "url": "https://s.shopee.com.br/5fpyI0wlXu",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 4756,
+      "seller": "FIOFLEXX",
+      "category": "Ferramentas",
+      "hot": true
+    },
+    {
+      "id": "13494334390",
+      "title": "Cílios Fadvan W 4D Extensão De Cílios Alongamento W Novidade Volume Híbrido Maquiagem",
+      "price": 17.99,
+      "originalPrice": 21.99,
+      "discountPercent": 18.2,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md41zddja3uz7d",
+      "url": "https://s.shopee.com.br/9fM73MUL5K",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 3349,
+      "official": true,
+      "seller": "fadvan.br",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
       "id": "40858672179",
       "title": "Overboard Infantil 6.5\" - Skate Elétrico com Caixa de Som Bluetooth e Bateria Longa Duração",
       "price": 519,
@@ -133,21 +162,6 @@
       "salesCount": 920,
       "seller": "MAIS LEGAL SHOP",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "13111211968",
-      "title": "Frigideira Panquequeira Antiaderente 22Cm Nacional",
-      "price": 26.97,
-      "originalPrice": 39.2,
-      "discountPercent": 31.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mqp6rxqq8ohv77",
-      "url": "https://s.shopee.com.br/qkiX8NxuO",
-      "rating": 4.9,
-      "salesCount": 3374,
-      "official": true,
-      "seller": "Alumínio Nacional",
-      "category": "Cozinha",
-      "hot": true
     },
     {
       "id": "25343192866",
@@ -165,6 +179,21 @@
       "hot": true
     },
     {
+      "id": "13111211968",
+      "title": "Frigideira Panquequeira Antiaderente 22Cm Nacional",
+      "price": 28.82,
+      "originalPrice": 39.2,
+      "discountPercent": 26.5,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mqp6rxqq8ohv77",
+      "url": "https://s.shopee.com.br/qkiX8NxuO",
+      "rating": 4.9,
+      "salesCount": 3374,
+      "official": true,
+      "seller": "Alumínio Nacional",
+      "category": "Cozinha",
+      "hot": true
+    },
+    {
       "id": "20598461061",
       "title": "Cortina Voil Gaze De Linho 3,00 x 2,20/2,30/2,40/2,50/2,60/2,70/2,80 C/forro Blackout Grosso Original",
       "price": 199.9,
@@ -172,6 +201,7 @@
       "discountPercent": 16.7,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mtqni748srupa7",
       "url": "https://s.shopee.com.br/5LD7tPBEcL",
+      "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 1578,
       "seller": "Kaluros ",
