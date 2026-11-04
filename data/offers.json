@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T19:21:29.828Z",
+  "updatedAt": "2026-11-04T19:42:47.521Z",
   "offers": [
     {
       "id": "58258154242",
@@ -39,25 +39,10 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
       "url": "https://s.shopee.com.br/8Kqos1p0bU",
       "rating": 4.8,
-      "salesCount": 1208,
+      "salesCount": 1212,
       "official": true,
       "seller": "Barbour's Beauty",
       "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "21199680918",
-      "title": "Pelúcias Gabby’s Dollhouse 27cm – Pandy Paws, Catnip e Almofagato | Fofas e Importadas",
-      "price": 42.77,
-      "originalPrice": 97.2,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repg-m8lyeccuijv917",
-      "url": "https://s.shopee.com.br/4fxWbDdVTm",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1556,
-      "seller": "Bonami&Lar",
-      "category": "Pet e bebê",
       "hot": true
     },
     {
@@ -69,7 +54,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d4no4xycn5ca",
       "url": "https://s.shopee.com.br/5VWdUoi7xz",
       "rating": 4.9,
-      "salesCount": 1144,
+      "salesCount": 1125,
       "official": true,
       "seller": "Forever Liss",
       "category": "Beleza"
@@ -84,7 +69,7 @@
       "url": "https://s.shopee.com.br/7KyH5BrCSo",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 939,
+      "salesCount": 955,
       "seller": "Lescent",
       "category": "Beleza"
     },
@@ -113,7 +98,7 @@
       "url": "https://s.shopee.com.br/2qVriuqf9f",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 647,
+      "salesCount": 686,
       "official": true,
       "seller": "Loja Lopazzi",
       "category": "Casa e organização"
@@ -142,7 +127,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfbh51pwluyudd",
       "url": "https://s.shopee.com.br/7VHhHXy10Z",
       "rating": 4.9,
-      "salesCount": 4172,
+      "salesCount": 4096,
       "official": true,
       "seller": "Creamy Skincare",
       "category": "Beleza",
@@ -172,7 +157,7 @@
       "url": "https://s.shopee.com.br/40hphz37qI",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 4756,
+      "salesCount": 4777,
       "seller": "FIOFLEXX",
       "category": "Ferramentas"
     },
@@ -215,7 +200,7 @@
       "url": "https://s.shopee.com.br/4B1FJRNdcS",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 2143,
+      "salesCount": 2184,
       "seller": "Sunshine82",
       "category": "Pet e bebê",
       "hot": true
@@ -230,7 +215,7 @@
       "url": "https://s.shopee.com.br/9KjMJv9ygx",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1199,
+      "salesCount": 1236,
       "official": true,
       "seller": "DSD Multi Comercio",
       "category": "Casa e organização"
@@ -245,9 +230,10 @@
       "url": "https://s.shopee.com.br/1Lh3wAeImS",
       "hasVariantPrices": true,
       "rating": 4.7,
-      "salesCount": 2072,
+      "salesCount": 2057,
       "seller": "Rosa de Mello Atacado & Varejo",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "13111211968",
@@ -258,7 +244,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mqp6rxqq8ohv77",
       "url": "https://s.shopee.com.br/9fMBrT4Eov",
       "rating": 4.9,
-      "salesCount": 3374,
+      "salesCount": 3578,
       "official": true,
       "seller": "Alumínio Nacional",
       "category": "Cozinha",
@@ -274,7 +260,7 @@
       "url": "https://s.shopee.com.br/4fxVuMLjbV",
       "hasVariantPrices": true,
       "rating": 4.6,
-      "salesCount": 2188,
+      "salesCount": 2162,
       "seller": "Brinquedo Park",
       "category": "Pet e bebê"
     },
@@ -288,7 +274,7 @@
       "url": "https://s.shopee.com.br/4B1FJMhFxZ",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1578,
+      "salesCount": 1576,
       "seller": "Kaluros ",
       "category": "Casa e organização"
     }
