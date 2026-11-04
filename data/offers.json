@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T22:54:56.308Z",
+  "updatedAt": "2026-11-04T23:16:28.018Z",
   "offers": [
     {
       "id": "58258154242",
@@ -43,6 +43,21 @@
       "official": true,
       "seller": "Barbour's Beauty",
       "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "21199680918",
+      "title": "Pelúcias Gabby’s Dollhouse 27cm – Pandy Paws, Catnip e Almofagato | Fofas e Importadas",
+      "price": 42.77,
+      "originalPrice": 97.2,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repg-m8lyeccuijv917",
+      "url": "https://s.shopee.com.br/4fxWbDdVTm",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 1535,
+      "seller": "Bonami&Lar",
+      "category": "Pet e bebê",
       "hot": true
     },
     {
@@ -164,6 +179,46 @@
       "category": "Beleza"
     },
     {
+      "id": "57555992595",
+      "title": "Parafusadeira Furadeira Sem Fio 48V - Carregador Bivolt 110/220V Kit com 1 OU 2 Bateria e Maleta OU caixa de papelão",
+      "price": 115.96,
+      "originalPrice": 173.07,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpuoehq8krgv52",
+      "url": "https://s.shopee.com.br/4qGxPaR1nk",
+      "rating": 4.8,
+      "salesCount": 1352,
+      "seller": "Muse.Mall",
+      "category": "Ferramentas"
+    },
+    {
+      "id": "44956025150",
+      "title": "Parafusadeira Furadeira Sem Fio 48V - Bivolt, 2 OU 1 Bateria, Kit Completo, Maleta de Transporte OU caixa de papelão",
+      "price": 115.95,
+      "originalPrice": 173.06,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpuoehq8krgv52",
+      "url": "https://s.shopee.com.br/AKbtVqzLgS",
+      "rating": 4.9,
+      "salesCount": 449,
+      "seller": "qingm",
+      "category": "Ferramentas"
+    },
+    {
+      "id": "18698826077",
+      "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
+      "price": 109.9,
+      "originalPrice": 149,
+      "discountPercent": 26.2,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
+      "url": "https://s.shopee.com.br/7VHiaUGsOW",
+      "rating": 4.9,
+      "salesCount": 1078,
+      "official": true,
+      "seller": "Eletricario Loja Oficial",
+      "category": "Ferramentas"
+    },
+    {
       "id": "13494334390",
       "title": "Cílios Fadvan W 4D Extensão De Cílios Alongamento W Novidade Volume Híbrido Maquiagem",
       "price": 17.99,
@@ -179,6 +234,32 @@
       "category": "Beleza"
     },
     {
+      "id": "46306012672",
+      "title": "Parafusadeira Furadeira Sem Fio 48V - Bivolt, 2 OU 1Bateria, Maleta de Transporte para Uso Doméstico e Profissional",
+      "price": 115.96,
+      "originalPrice": 161.06,
+      "discountPercent": 28,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mrbg8u8cu4u9c4",
+      "url": "https://s.shopee.com.br/3g501RVTAR",
+      "rating": 4.9,
+      "salesCount": 1667,
+      "seller": "jialian2.br",
+      "category": "Ferramentas"
+    },
+    {
+      "id": "47208059451",
+      "title": "Parafusadeira Furadeira 48V Sem Fio com 2 OU 1 Bateria, Acessórios Completos e Maleta de Transporte OU caixa de papelão",
+      "price": 115.96,
+      "originalPrice": 156.7,
+      "discountPercent": 26,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpuoa8cwcwld46",
+      "url": "https://s.shopee.com.br/50aNbtQOSp",
+      "rating": 4.9,
+      "salesCount": 1194,
+      "seller": "Muse.Mall",
+      "category": "Ferramentas"
+    },
+    {
       "id": "40858672179",
       "title": "Overboard Infantil 6.5\" - Skate Elétrico com Caixa de Som Bluetooth e Bateria Longa Duração",
       "price": 519,
@@ -191,6 +272,21 @@
       "salesCount": 919,
       "seller": "MAIS LEGAL SHOP",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "58219247585",
+      "title": "Cubo Sensorial Antiestresse Squishy Macio e Apertável Rosa Roxo Azul Brinquedo Kit 1 2 3 Unidades",
+      "price": 21.99,
+      "originalPrice": 32.99,
+      "discountPercent": 33.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mu3wriykqeiye5",
+      "url": "https://s.shopee.com.br/4B1FJRNdcS",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2184,
+      "seller": "Sunshine82",
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "42124571795",
@@ -219,8 +315,7 @@
       "rating": 4.7,
       "salesCount": 2057,
       "seller": "Rosa de Mello Atacado & Varejo",
-      "category": "Moda",
-      "hot": true
+      "category": "Moda"
     },
     {
       "id": "13111211968",
@@ -234,8 +329,21 @@
       "salesCount": 3578,
       "official": true,
       "seller": "Alumínio Nacional",
-      "category": "Cozinha",
-      "hot": true
+      "category": "Cozinha"
+    },
+    {
+      "id": "58218280893",
+      "title": "squishy Bolinho Baozi Glitter Caixa Misteriosa Brinquedo 8.5cm/5.5cm Bolinhos Brinquedo De Apertar Sensorial",
+      "price": 16.99,
+      "originalPrice": 21.98,
+      "discountPercent": 22.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mtupxhg1xgqocb",
+      "url": "https://s.shopee.com.br/4fxVuMLjbV",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 2162,
+      "seller": "Brinquedo Park",
+      "category": "Pet e bebê"
     },
     {
       "id": "20598461061",
