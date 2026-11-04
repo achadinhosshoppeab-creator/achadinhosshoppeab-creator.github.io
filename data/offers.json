@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T14:23:00.008Z",
+  "updatedAt": "2026-11-04T14:44:22.939Z",
   "offers": [
     {
       "id": "58258154242",
@@ -146,7 +146,8 @@
       "salesCount": 3349,
       "official": true,
       "seller": "fadvan.br",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "40858672179",
@@ -190,21 +191,6 @@
       "official": true,
       "seller": "Alumínio Nacional",
       "category": "Cozinha",
-      "hot": true
-    },
-    {
-      "id": "58218280893",
-      "title": "squishy Bolinho Baozi Glitter Caixa Misteriosa Brinquedo 8.5cm/5.5cm Bolinhos Brinquedo De Apertar Sensorial",
-      "price": 16.99,
-      "originalPrice": 21.98,
-      "discountPercent": 22.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mtupxhg1xgqocb",
-      "url": "https://s.shopee.com.br/4fxVuMLjbV",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 2188,
-      "seller": "Brinquedo Park",
-      "category": "Pet e bebê",
       "hot": true
     },
     {
