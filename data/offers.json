@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T18:38:47.059Z",
+  "updatedAt": "2026-11-04T19:00:10.373Z",
   "offers": [
     {
       "id": "58258154242",
@@ -132,6 +132,20 @@
       "seller": "Creamy Skincare",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "22997647570",
+      "title": "Escova secador Modeladora Taiff Oval Easy Pink Original",
+      "price": 139.16,
+      "originalPrice": 199.99,
+      "discountPercent": 30.4,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
+      "url": "https://s.shopee.com.br/4fxVuIEPev",
+      "rating": 4.9,
+      "salesCount": 656,
+      "official": true,
+      "seller": "Beleza Renovada Oficial",
+      "category": "Beleza"
     },
     {
       "id": "23794696993",
