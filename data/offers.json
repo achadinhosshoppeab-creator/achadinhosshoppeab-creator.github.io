@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T15:49:02.046Z",
+  "updatedAt": "2026-11-05T16:30:58.583Z",
   "offers": [
     {
       "id": "58258154242",
@@ -89,18 +89,32 @@
       "category": "Beleza"
     },
     {
-      "id": "55957404904",
-      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
-      "price": 39.9,
-      "originalPrice": 49.9,
-      "discountPercent": 20,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
-      "url": "https://s.shopee.com.br/9V2nE1PtQK",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 955,
-      "seller": "Lescent",
+      "id": "58255657495",
+      "title": "Body Splash Afrodite Garden 200ml - AURA Beauty by. Jade Picon",
+      "price": 86.11,
+      "originalPrice": 119,
+      "discountPercent": 27.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mrhc4ue2rz0mba",
+      "url": "https://s.shopee.com.br/2qVtHpnWCT",
+      "rating": 4.9,
+      "salesCount": 1997,
+      "official": true,
+      "seller": "AURA Beauty Club",
       "category": "Beleza"
+    },
+    {
+      "id": "25745811858",
+      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
+      "price": 264.9,
+      "originalPrice": 329.9,
+      "discountPercent": 19.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
+      "url": "https://s.shopee.com.br/9fMDQJlakz",
+      "rating": 4.9,
+      "salesCount": 927,
+      "official": true,
+      "seller": "Na Web Group De Marcas",
+      "category": "Cozinha"
     },
     {
       "id": "23198205483",
@@ -256,21 +270,6 @@
       "hot": true
     },
     {
-      "id": "58219247585",
-      "title": "Cubo Sensorial Antiestresse Squishy Macio e Apertável Rosa Roxo Azul Brinquedo Kit 1 2 3 Unidades",
-      "price": 21.99,
-      "originalPrice": 32.99,
-      "discountPercent": 33.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mu3wriykqeiye5",
-      "url": "https://s.shopee.com.br/5q9VLenAW1",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2184,
-      "seller": "Sunshine82",
-      "category": "Pet e bebê",
-      "hot": true
-    },
-    {
       "id": "42124571795",
       "title": "Organizador de Geladeira para Temperos 2,3L Linha Clear Fresh",
       "price": 29.49,
@@ -297,35 +296,8 @@
       "rating": 4.7,
       "salesCount": 2057,
       "seller": "Rosa de Mello Atacado & Varejo",
-      "category": "Moda"
-    },
-    {
-      "id": "58218280893",
-      "title": "squishy Bolinho Baozi Glitter Caixa Misteriosa Brinquedo 8.5cm/5.5cm Bolinhos Brinquedo De Apertar Sensorial",
-      "price": 16.99,
-      "originalPrice": 21.98,
-      "discountPercent": 22.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mtupxhg1xgqocb",
-      "url": "https://s.shopee.com.br/5AtoYQphrq",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 2162,
-      "seller": "Brinquedo Park",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "48107537821",
-      "title": "Kit 2 Calça Alfaiataria PREMIUM Com Bolso Cintura Alta PROMOÇÃO",
-      "price": 31.9,
-      "originalPrice": 40.9,
-      "discountPercent": 22,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mm3v4n8mj4lj5d",
-      "url": "https://s.shopee.com.br/3g50HN6Tvr",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 4169,
-      "seller": "Ph Modas ",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "20598461061",
