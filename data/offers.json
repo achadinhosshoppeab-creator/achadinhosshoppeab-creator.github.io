@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T18:39:19.574Z",
+  "updatedAt": "2026-11-05T19:00:12.344Z",
   "offers": [
     {
       "id": "21678240017",
@@ -15,6 +15,20 @@
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "56556653787",
+      "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
+      "price": 74.9,
+      "originalPrice": 99.9,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mul5acri4f7l1d",
+      "url": "https://s.shopee.com.br/AAIUbSVdLl",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1390,
+      "seller": "Gaby Reborn",
+      "category": "Pet e bebê"
     },
     {
       "id": "23298825465",
@@ -157,21 +171,6 @@
       "official": true,
       "seller": "Eletricario Loja Oficial",
       "category": "Ferramentas"
-    },
-    {
-      "id": "13494334390",
-      "title": "Cílios Fadvan W 4D Extensão De Cílios Alongamento W Novidade Volume Híbrido Maquiagem",
-      "price": 17.99,
-      "originalPrice": 21.99,
-      "discountPercent": 18.2,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md41zddja3uz7d",
-      "url": "https://s.shopee.com.br/2gCT5RUJOW",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 3496,
-      "official": true,
-      "seller": "fadvan.br",
-      "category": "Beleza"
     },
     {
       "id": "46306012672",
