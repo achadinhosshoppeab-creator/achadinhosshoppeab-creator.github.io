@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:01:20.265Z",
+  "updatedAt": "2026-11-05T11:33:18.793Z",
   "offers": [
     {
       "id": "58258154242",
@@ -14,6 +14,21 @@
       "seller": "MULTIORIENTAL",
       "category": "Casa e organização",
       "hot": true
+    },
+    {
+      "id": "28867680104",
+      "title": "[NEW] NUMBUZIN No.9 NAD BIO Lifting Sil Essence 30ml, 50ml",
+      "price": 63.99,
+      "originalPrice": 92.68,
+      "discountPercent": 31,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8257x-mrgvlvtzbjt2da",
+      "url": "https://s.shopee.com.br/906Wd9qV94",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 2126,
+      "official": true,
+      "seller": "GLORY OF SEOUL",
+      "category": "Beleza"
     },
     {
       "id": "21678240017",
@@ -46,6 +61,35 @@
       "hot": true
     },
     {
+      "id": "21199680918",
+      "title": "Pelúcias Gabby’s Dollhouse 27cm – Pandy Paws, Catnip e Almofagato | Fofas e Importadas",
+      "price": 42.77,
+      "originalPrice": 97.2,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repg-m8lyeccuijv917",
+      "url": "https://s.shopee.com.br/4B1HMb6dxZ",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 1535,
+      "seller": "Bonami&Lar",
+      "category": "Pet e bebê",
+      "hot": true
+    },
+    {
+      "id": "11744649287",
+      "title": "Banho De Verniz Máscara 1Kg Forever Liss",
+      "price": 49.9,
+      "originalPrice": 62.9,
+      "discountPercent": 20.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d4no4xycn5ca",
+      "url": "https://s.shopee.com.br/20wmIIQIKp",
+      "rating": 4.9,
+      "salesCount": 1125,
+      "official": true,
+      "seller": "Forever Liss",
+      "category": "Beleza"
+    },
+    {
       "id": "55957404904",
       "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
       "price": 39.9,
@@ -57,6 +101,21 @@
       "rating": 4.8,
       "salesCount": 955,
       "seller": "Lescent",
+      "category": "Beleza"
+    },
+    {
+      "id": "27438255053",
+      "title": "Ampola LILYEVE Grow:Turn Exosome Brush , 6 Tipos (30ml , 100ml , Prime Cápsula De Colágeno Rosa Ácido Hialurônico Azul Ouro 5X 100ml)",
+      "price": 59.99,
+      "originalPrice": 74.31,
+      "discountPercent": 19.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8259e-mux9uj7d9ce989",
+      "url": "https://s.shopee.com.br/1gJvtgIQ1j",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 1997,
+      "official": true,
+      "seller": "GLORY OF SEOUL",
       "category": "Beleza"
     },
     {
@@ -75,48 +134,19 @@
       "hot": true
     },
     {
-      "id": "22892817609",
-      "title": "LUMAI Kit Jogo de Facas de Cozinha Grandes Zurich Aço Inox - Tratamento Térmico - Faca de Corte Chef",
-      "price": 154.63,
-      "originalPrice": 249.4,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-muy6xxfued4w1c",
-      "url": "https://s.shopee.com.br/1Lh61NOs8Q",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 643,
-      "official": true,
-      "seller": "LUMAI STORE",
-      "category": "Cozinha"
-    },
-    {
-      "id": "23698837101",
-      "title": "Canivete Aço Preto Faca de cozinha para frutas Para Cozinha Pesca Camping Sobrevivência",
-      "price": 19.36,
-      "originalPrice": 45.02,
-      "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7reqe-mduu514xg12a04",
-      "url": "https://s.shopee.com.br/1gJwPzNbSS",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 672,
-      "seller": "Fuxi Store",
-      "category": "Cozinha",
-      "hot": true
-    },
-    {
-      "id": "22997647570",
-      "title": "Escova secador Modeladora Taiff Oval Easy Pink Original",
-      "price": 139.16,
-      "originalPrice": 199.99,
-      "discountPercent": 30.4,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
-      "url": "https://s.shopee.com.br/8VAG2BcV7g",
+      "id": "22598549816",
+      "title": "Gel Creme Hidratante Calmante Facial - Calming Cream - Creamy Skincare - 40g",
+      "price": 31.11,
+      "originalPrice": 54.99,
+      "discountPercent": 43.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfbh51pwluyudd",
+      "url": "https://s.shopee.com.br/1BNfIlFvCz",
       "rating": 4.9,
-      "salesCount": 657,
+      "salesCount": 4096,
       "official": true,
-      "seller": "Beleza Renovada Oficial",
-      "category": "Beleza"
+      "seller": "Creamy Skincare",
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "57555992595",
@@ -125,12 +155,11 @@
       "originalPrice": 173.07,
       "discountPercent": 33,
       "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpuoehq8krgv52",
-      "url": "https://s.shopee.com.br/114FamwEAA",
+      "url": "https://s.shopee.com.br/3LSAR0cQqa",
       "rating": 4.8,
       "salesCount": 1352,
       "seller": "Muse.Mall",
-      "category": "Ferramentas",
-      "hot": true
+      "category": "Ferramentas"
     },
     {
       "id": "44956025150",
@@ -143,8 +172,21 @@
       "rating": 4.9,
       "salesCount": 449,
       "seller": "qingm",
-      "category": "Ferramentas",
-      "hot": true
+      "category": "Ferramentas"
+    },
+    {
+      "id": "18698826077",
+      "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
+      "price": 109.9,
+      "originalPrice": 149,
+      "discountPercent": 26.2,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
+      "url": "https://s.shopee.com.br/60SvbuSHRM",
+      "rating": 4.9,
+      "salesCount": 1078,
+      "official": true,
+      "seller": "Eletricario Loja Oficial",
+      "category": "Ferramentas"
     },
     {
       "id": "13494334390",
@@ -162,6 +204,19 @@
       "category": "Beleza"
     },
     {
+      "id": "46306012672",
+      "title": "Parafusadeira Furadeira Sem Fio 48V - Bivolt, 2 OU 1Bateria, Maleta de Transporte para Uso Doméstico e Profissional",
+      "price": 115.96,
+      "originalPrice": 161.06,
+      "discountPercent": 28,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mrbg8u8cu4u9c4",
+      "url": "https://s.shopee.com.br/2Vt3RTfbXL",
+      "rating": 4.9,
+      "salesCount": 1667,
+      "seller": "jialian2.br",
+      "category": "Ferramentas"
+    },
+    {
       "id": "58205979239",
       "title": "Principia Kit Limpa Hidrata e Protege c/ Gel de Limpeza GL-01 + Creme Hidratante CH-01 + Protetor Cor PS-05 FPS 70",
       "price": 97.97,
@@ -176,6 +231,19 @@
       "category": "Beleza"
     },
     {
+      "id": "47208059451",
+      "title": "Parafusadeira Furadeira 48V Sem Fio com 2 OU 1 Bateria, Acessórios Completos e Maleta de Transporte OU caixa de papelão",
+      "price": 115.96,
+      "originalPrice": 156.7,
+      "discountPercent": 26,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpuoa8cwcwld46",
+      "url": "https://s.shopee.com.br/3qOR1vaWpj",
+      "rating": 4.9,
+      "salesCount": 1194,
+      "seller": "Muse.Mall",
+      "category": "Ferramentas"
+    },
+    {
       "id": "40858672179",
       "title": "Overboard Infantil 6.5\" - Skate Elétrico com Caixa de Som Bluetooth e Bateria Longa Duração",
       "price": 519,
@@ -188,6 +256,21 @@
       "salesCount": 919,
       "seller": "MAIS LEGAL SHOP",
       "category": "Eletrônicos"
+    },
+    {
+      "id": "40358183625",
+      "title": "Bebe Boneca Reborn Realista 100% Silicone Para Presente Promoção",
+      "price": 77.7,
+      "originalPrice": 138.75,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-miucmwj8vcapd5",
+      "url": "https://s.shopee.com.br/4LKhYu60cc",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1331,
+      "seller": "Princesa reborn GM",
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "42124571795",
@@ -205,6 +288,21 @@
       "category": "Casa e organização"
     },
     {
+      "id": "58219247585",
+      "title": "Cubo Sensorial Antiestresse Squishy Macio e Apertável Rosa Roxo Azul Brinquedo Kit 1 2 3 Unidades",
+      "price": 22.99,
+      "originalPrice": 32.99,
+      "discountPercent": 30.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mu3wriykqeiye5",
+      "url": "https://s.shopee.com.br/5q9VLenAW1",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2184,
+      "seller": "Sunshine82",
+      "category": "Pet e bebê",
+      "hot": true
+    },
+    {
       "id": "25343192866",
       "title": "Kit Conjuntos Short Dool Pijama Baby MICRO ESTAMPADO Feminino Roupa De Dormir Noite Fresquinho",
       "price": 32.98,
@@ -216,21 +314,21 @@
       "rating": 4.7,
       "salesCount": 2057,
       "seller": "Rosa de Mello Atacado & Varejo",
-      "category": "Moda",
-      "hot": true
+      "category": "Moda"
     },
     {
-      "id": "22294564340",
-      "title": "Pula Pula Grande tamanho 1,80m x 1,60m Cama Elástica Infantil Trampolim Playground Desmontável",
-      "price": 477,
-      "originalPrice": 569,
-      "discountPercent": 16.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgjczaogh53b52",
-      "url": "https://s.shopee.com.br/W7yVVFDH4",
-      "rating": 4.9,
-      "salesCount": 2077,
-      "seller": "ELORIA SHOP",
-      "category": "Casa e organização"
+      "id": "58218280893",
+      "title": "squishy Bolinho Baozi Glitter Caixa Misteriosa Brinquedo 8.5cm/5.5cm Bolinhos Brinquedo De Apertar Sensorial",
+      "price": 16.99,
+      "originalPrice": 21.98,
+      "discountPercent": 22.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mtupxhg1xgqocb",
+      "url": "https://s.shopee.com.br/5AtoYQphrq",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 2162,
+      "seller": "Brinquedo Park",
+      "category": "Pet e bebê"
     },
     {
       "id": "20598461061",
@@ -245,19 +343,6 @@
       "salesCount": 1576,
       "seller": "Kaluros ",
       "category": "Casa e organização"
-    },
-    {
-      "id": "40671349128",
-      "title": "Kit De Paleta De Maquiagem Profissional , Conjunto De Presente Tudo-Em-Um Para Adolescentes Com Sombra De 24 Cores , Blu",
-      "price": 47.63,
-      "originalPrice": 58.43,
-      "discountPercent": 18.5,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824ix-mf0k20cbxkb223",
-      "url": "https://s.shopee.com.br/9APwpPZpAB",
-      "rating": 4.8,
-      "salesCount": 179,
-      "seller": "Value Choice",
-      "category": "Beleza"
     }
   ]
 }
