@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T18:18:03.523Z",
+  "updatedAt": "2026-11-05T18:39:19.574Z",
   "offers": [
     {
       "id": "21678240017",
@@ -15,20 +15,6 @@
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza",
       "hot": true
-    },
-    {
-      "id": "56556653787",
-      "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
-      "price": 74.9,
-      "originalPrice": 99.9,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mul5acri4f7l1d",
-      "url": "https://s.shopee.com.br/AAIUbSVdLl",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1390,
-      "seller": "Gaby Reborn",
-      "category": "Pet e bebê"
     },
     {
       "id": "23298825465",
