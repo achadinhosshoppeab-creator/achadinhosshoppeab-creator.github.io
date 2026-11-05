@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T01:45:11.767Z",
+  "updatedAt": "2026-11-05T02:06:28.923Z",
   "offers": [
     {
       "id": "58258154242",
@@ -145,6 +145,34 @@
       "salesCount": 657,
       "official": true,
       "seller": "Beleza Renovada Oficial",
+      "category": "Beleza"
+    },
+    {
+      "id": "22693731888",
+      "title": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
+      "price": 352.9,
+      "originalPrice": 458.99,
+      "discountPercent": 23.1,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6",
+      "url": "https://s.shopee.com.br/9APvGYxLnX",
+      "rating": 5,
+      "salesCount": 2713,
+      "official": true,
+      "seller": "Lizze",
+      "category": "Beleza"
+    },
+    {
+      "id": "20199608460",
+      "title": "Secador De Cabelo Profissional Lizze Extreme",
+      "price": 352.9,
+      "originalPrice": 458.99,
+      "discountPercent": 23.1,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rccb-m6hdhdcr7ez62f",
+      "url": "https://s.shopee.com.br/8AXO4mHXo3",
+      "rating": 5,
+      "salesCount": 860,
+      "official": true,
+      "seller": "Lizze",
       "category": "Beleza"
     },
     {
