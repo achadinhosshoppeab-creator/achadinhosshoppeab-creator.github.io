@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T17:35:24.594Z",
+  "updatedAt": "2026-11-05T17:56:56.921Z",
   "offers": [
     {
       "id": "58258154242",
@@ -88,18 +88,18 @@
       "category": "Beleza"
     },
     {
-      "id": "58255657495",
-      "title": "Body Splash Afrodite Garden 200ml - AURA Beauty by. Jade Picon",
-      "price": 86.11,
-      "originalPrice": 119,
-      "discountPercent": 27.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mrhc4ue2rz0mba",
-      "url": "https://s.shopee.com.br/2qVtHpnWCT",
+      "id": "25745811858",
+      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
+      "price": 264.9,
+      "originalPrice": 329.9,
+      "discountPercent": 19.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
+      "url": "https://s.shopee.com.br/9fMDQJlakz",
       "rating": 4.9,
-      "salesCount": 1997,
+      "salesCount": 927,
       "official": true,
-      "seller": "AURA Beauty Club",
-      "category": "Beleza"
+      "seller": "Na Web Group De Marcas",
+      "category": "Cozinha"
     },
     {
       "id": "23198205483",
@@ -186,6 +186,21 @@
       "category": "Ferramentas"
     },
     {
+      "id": "13494334390",
+      "title": "Cílios Fadvan W 4D Extensão De Cílios Alongamento W Novidade Volume Híbrido Maquiagem",
+      "price": 17.99,
+      "originalPrice": 21.99,
+      "discountPercent": 18.2,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md41zddja3uz7d",
+      "url": "https://s.shopee.com.br/2gCT5RUJOW",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 3496,
+      "official": true,
+      "seller": "fadvan.br",
+      "category": "Beleza"
+    },
+    {
       "id": "46306012672",
       "title": "Parafusadeira Furadeira Sem Fio 48V - Bivolt, 2 OU 1Bateria, Maleta de Transporte para Uso Doméstico e Profissional",
       "price": 115.96,
@@ -253,21 +268,6 @@
       "seller": "Sunshine82",
       "category": "Pet e bebê",
       "hot": true
-    },
-    {
-      "id": "42124571795",
-      "title": "Organizador de Geladeira para Temperos 2,3L Linha Clear Fresh",
-      "price": 29.49,
-      "originalPrice": 37.9,
-      "discountPercent": 22.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwzk5edonwn63",
-      "url": "https://s.shopee.com.br/5LDEGNax6x",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1236,
-      "official": true,
-      "seller": "DSD Multi Comercio",
-      "category": "Casa e organização"
     },
     {
       "id": "25343192866",
