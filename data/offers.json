@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T16:52:54.194Z",
+  "updatedAt": "2026-11-05T17:14:15.984Z",
   "offers": [
     {
       "id": "58258154242",
@@ -60,21 +60,6 @@
       "hot": true
     },
     {
-      "id": "21199680918",
-      "title": "Pelúcias Gabby’s Dollhouse 27cm – Pandy Paws, Catnip e Almofagato | Fofas e Importadas",
-      "price": 42.77,
-      "originalPrice": 97.2,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repg-m8lyeccuijv917",
-      "url": "https://s.shopee.com.br/7puZpAeW5b",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1535,
-      "seller": "Bonami&Lar",
-      "category": "Pet e bebê",
-      "hot": true
-    },
-    {
       "id": "11744649287",
       "title": "Banho De Verniz Máscara 1Kg Forever Liss",
       "price": 49.9,
@@ -103,6 +88,20 @@
       "category": "Beleza"
     },
     {
+      "id": "58255657495",
+      "title": "Body Splash Afrodite Garden 200ml - AURA Beauty by. Jade Picon",
+      "price": 86.11,
+      "originalPrice": 119,
+      "discountPercent": 27.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mrhc4ue2rz0mba",
+      "url": "https://s.shopee.com.br/2qVtHpnWCT",
+      "rating": 4.9,
+      "salesCount": 1997,
+      "official": true,
+      "seller": "AURA Beauty Club",
+      "category": "Beleza"
+    },
+    {
       "id": "25745811858",
       "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
       "price": 264.9,
@@ -115,21 +114,6 @@
       "official": true,
       "seller": "Na Web Group De Marcas",
       "category": "Cozinha"
-    },
-    {
-      "id": "23198205483",
-      "title": "Capa Capinha Magnética MagSafe Fosca Antichoque para iPhone 11 12 13 14 15 16 17 18 Pro Max 16E 17E",
-      "price": 17.89,
-      "originalPrice": 27.52,
-      "discountPercent": 35,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-ms05va2pzzlyeb",
-      "url": "https://s.shopee.com.br/1gJvtbyRpI",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2213,
-      "seller": "vitrine paulista",
-      "category": "Eletrônicos",
-      "hot": true
     },
     {
       "id": "22598549816",
@@ -171,7 +155,8 @@
       "rating": 4.8,
       "salesCount": 1352,
       "seller": "Muse.Mall",
-      "category": "Ferramentas"
+      "category": "Ferramentas",
+      "hot": true
     },
     {
       "id": "44956025150",
@@ -184,6 +169,20 @@
       "rating": 4.9,
       "salesCount": 449,
       "seller": "qingm",
+      "category": "Ferramentas"
+    },
+    {
+      "id": "18698826077",
+      "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
+      "price": 109.9,
+      "originalPrice": 149,
+      "discountPercent": 26.2,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
+      "url": "https://s.shopee.com.br/60SvbuSHRM",
+      "rating": 4.9,
+      "salesCount": 1078,
+      "official": true,
+      "seller": "Eletricario Loja Oficial",
       "category": "Ferramentas"
     },
     {
@@ -202,6 +201,19 @@
       "category": "Beleza"
     },
     {
+      "id": "46306012672",
+      "title": "Parafusadeira Furadeira Sem Fio 48V - Bivolt, 2 OU 1Bateria, Maleta de Transporte para Uso Doméstico e Profissional",
+      "price": 115.96,
+      "originalPrice": 161.06,
+      "discountPercent": 28,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mrbg8u8cu4u9c4",
+      "url": "https://s.shopee.com.br/2Vt3RTfbXL",
+      "rating": 4.9,
+      "salesCount": 1667,
+      "seller": "jialian2.br",
+      "category": "Ferramentas"
+    },
+    {
       "id": "58205979239",
       "title": "Principia Kit Limpa Hidrata e Protege c/ Gel de Limpeza GL-01 + Creme Hidratante CH-01 + Protetor Cor PS-05 FPS 70",
       "price": 97.97,
@@ -214,6 +226,19 @@
       "official": true,
       "seller": "Principia Skincare",
       "category": "Beleza"
+    },
+    {
+      "id": "47208059451",
+      "title": "Parafusadeira Furadeira 48V Sem Fio com 2 OU 1 Bateria, Acessórios Completos e Maleta de Transporte OU caixa de papelão",
+      "price": 115.96,
+      "originalPrice": 156.7,
+      "discountPercent": 26,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpuoa8cwcwld46",
+      "url": "https://s.shopee.com.br/3qOR1vaWpj",
+      "rating": 4.9,
+      "salesCount": 1194,
+      "seller": "Muse.Mall",
+      "category": "Ferramentas"
     },
     {
       "id": "47511747472",
@@ -271,7 +296,8 @@
       "rating": 4.7,
       "salesCount": 2057,
       "seller": "Rosa de Mello Atacado & Varejo",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "58218280893",
