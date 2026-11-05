@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T22:11:43.053Z",
+  "updatedAt": "2026-11-05T22:32:33.313Z",
   "offers": [
     {
       "id": "58258154242",
@@ -27,35 +27,6 @@
       "salesCount": 6037,
       "official": true,
       "seller": "KOKESHI OFICIAL",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "56556653787",
-      "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
-      "price": 74.9,
-      "originalPrice": 99.9,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mul5acri4f7l1d",
-      "url": "https://s.shopee.com.br/AAIUbSVdLl",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1328,
-      "seller": "Gaby Reborn",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "23298825465",
-      "title": "Geleia Hidratante My Sweet Delight Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
-      "price": 24.9,
-      "originalPrice": 48.21,
-      "discountPercent": 48.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
-      "url": "https://s.shopee.com.br/1BiWCghi0",
-      "rating": 4.8,
-      "salesCount": 1231,
-      "official": true,
-      "seller": "Barbour's Beauty",
       "category": "Beleza",
       "hot": true
     },
@@ -114,6 +85,21 @@
       "salesCount": 2159,
       "seller": "vitrine paulista",
       "category": "Eletrônicos",
+      "hot": true
+    },
+    {
+      "id": "22598549816",
+      "title": "Gel Creme Hidratante Calmante Facial - Calming Cream - Creamy Skincare - 40g",
+      "price": 31.11,
+      "originalPrice": 54.99,
+      "discountPercent": 43.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfbh51pwluyudd",
+      "url": "https://s.shopee.com.br/1BNfIlFvCz",
+      "rating": 4.9,
+      "salesCount": 3994,
+      "official": true,
+      "seller": "Creamy Skincare",
+      "category": "Beleza",
       "hot": true
     },
     {
@@ -227,21 +213,6 @@
       "category": "Beleza"
     },
     {
-      "id": "58219247585",
-      "title": "Cubo Sensorial Antiestresse Squishy Macio e Apertável Rosa Roxo Azul Brinquedo Kit 1 2 3 Unidades",
-      "price": 21.99,
-      "originalPrice": 32.99,
-      "discountPercent": 33.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mu3wriykqeiye5",
-      "url": "https://s.shopee.com.br/5q9VLenAW1",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2240,
-      "seller": "Sunshine82",
-      "category": "Pet e bebê",
-      "hot": true
-    },
-    {
       "id": "42124571795",
       "title": "Organizador de Geladeira para Temperos 2,3L Linha Clear Fresh",
       "price": 29.49,
@@ -272,20 +243,6 @@
       "hot": true
     },
     {
-      "id": "58218280893",
-      "title": "squishy Bolinho Baozi Glitter Caixa Misteriosa Brinquedo 8.5cm/5.5cm Bolinhos Brinquedo De Apertar Sensorial",
-      "price": 16.99,
-      "originalPrice": 21.98,
-      "discountPercent": 22.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mtupxhg1xgqocb",
-      "url": "https://s.shopee.com.br/5AtoYQphrq",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 2106,
-      "seller": "Brinquedo Park",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "48107537821",
       "title": "Kit 2 Calça Alfaiataria PREMIUM Com Bolso Cintura Alta PROMOÇÃO",
       "price": 31.9,
@@ -297,7 +254,8 @@
       "rating": 4.7,
       "salesCount": 4177,
       "seller": "Ph Modas ",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "20598461061",
