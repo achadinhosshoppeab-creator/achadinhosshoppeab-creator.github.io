@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T19:21:48.270Z",
+  "updatedAt": "2026-11-05T19:42:37.918Z",
   "offers": [
     {
       "id": "58258154242",
@@ -16,6 +16,21 @@
       "hot": true
     },
     {
+      "id": "21678240017",
+      "title": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g",
+      "price": 31.9,
+      "originalPrice": 43.45,
+      "discountPercent": 26.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mrvgs50iy8zr1f",
+      "url": "https://s.shopee.com.br/5q9UrGMAv9",
+      "rating": 4.9,
+      "salesCount": 6037,
+      "official": true,
+      "seller": "KOKESHI OFICIAL",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
       "id": "56556653787",
       "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
       "price": 74.9,
@@ -25,7 +40,7 @@
       "url": "https://s.shopee.com.br/AAIUbSVdLl",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 1390,
+      "salesCount": 1328,
       "seller": "Gaby Reborn",
       "category": "Pet e bebê"
     },
@@ -38,7 +53,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
       "url": "https://s.shopee.com.br/1BiWCghi0",
       "rating": 4.8,
-      "salesCount": 1212,
+      "salesCount": 1231,
       "official": true,
       "seller": "Barbour's Beauty",
       "category": "Beleza",
@@ -53,7 +68,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d4no4xycn5ca",
       "url": "https://s.shopee.com.br/1BNfuKcfRF",
       "rating": 4.9,
-      "salesCount": 1125,
+      "salesCount": 1095,
       "official": true,
       "seller": "Forever Liss",
       "category": "Beleza"
@@ -68,7 +83,7 @@
       "url": "https://s.shopee.com.br/9V2nE1PtQK",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 955,
+      "salesCount": 962,
       "seller": "Lescent",
       "category": "Beleza"
     },
@@ -81,7 +96,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
       "url": "https://s.shopee.com.br/9fMDQJlakz",
       "rating": 4.9,
-      "salesCount": 927,
+      "salesCount": 933,
       "official": true,
       "seller": "Na Web Group De Marcas",
       "category": "Cozinha"
@@ -102,6 +117,21 @@
       "hot": true
     },
     {
+      "id": "22598549816",
+      "title": "Gel Creme Hidratante Calmante Facial - Calming Cream - Creamy Skincare - 40g",
+      "price": 31.11,
+      "originalPrice": 54.99,
+      "discountPercent": 43.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfbh51pwluyudd",
+      "url": "https://s.shopee.com.br/1BNfIlFvCz",
+      "rating": 4.9,
+      "salesCount": 3994,
+      "official": true,
+      "seller": "Creamy Skincare",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
       "id": "22997647570",
       "title": "Escova secador Modeladora Taiff Oval Easy Pink Original",
       "price": 139.16,
@@ -110,7 +140,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
       "url": "https://s.shopee.com.br/2Vt3UdxhvD",
       "rating": 4.9,
-      "salesCount": 657,
+      "salesCount": 658,
       "official": true,
       "seller": "Beleza Renovada Oficial",
       "category": "Beleza"
@@ -124,10 +154,9 @@
       "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpuoehq8krgv52",
       "url": "https://s.shopee.com.br/3LSAR0cQqa",
       "rating": 4.8,
-      "salesCount": 1352,
+      "salesCount": 1333,
       "seller": "Muse.Mall",
-      "category": "Ferramentas",
-      "hot": true
+      "category": "Ferramentas"
     },
     {
       "id": "44956025150",
@@ -151,7 +180,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
       "url": "https://s.shopee.com.br/60SvbuSHRM",
       "rating": 4.9,
-      "salesCount": 1078,
+      "salesCount": 1104,
       "official": true,
       "seller": "Eletricario Loja Oficial",
       "category": "Ferramentas"
@@ -180,7 +209,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mrbg8u8cu4u9c4",
       "url": "https://s.shopee.com.br/2Vt3RTfbXL",
       "rating": 4.9,
-      "salesCount": 1667,
+      "salesCount": 1643,
       "seller": "jialian2.br",
       "category": "Ferramentas"
     },
@@ -207,9 +236,23 @@
       "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpuoa8cwcwld46",
       "url": "https://s.shopee.com.br/3qOR1vaWpj",
       "rating": 4.9,
-      "salesCount": 1194,
+      "salesCount": 1126,
       "seller": "Muse.Mall",
       "category": "Ferramentas"
+    },
+    {
+      "id": "47511747472",
+      "title": "Kit 8 Esmaltes Metálicos Brilho Ativo 8ml Alta Cobertura",
+      "price": 25.67,
+      "originalPrice": 36.9,
+      "discountPercent": 30.4,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258r-mso6sqzt9h50b7",
+      "url": "https://s.shopee.com.br/2BGCUbcVvc",
+      "rating": 4.9,
+      "salesCount": 1136,
+      "seller": "Loja Golden ",
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "58219247585",
@@ -268,8 +311,7 @@
       "rating": 4.6,
       "salesCount": 2106,
       "seller": "Brinquedo Park",
-      "category": "Pet e bebê",
-      "hot": true
+      "category": "Pet e bebê"
     },
     {
       "id": "48107537821",
@@ -283,8 +325,7 @@
       "rating": 4.7,
       "salesCount": 4177,
       "seller": "Ph Modas ",
-      "category": "Moda",
-      "hot": true
+      "category": "Moda"
     },
     {
       "id": "20598461061",
@@ -296,7 +337,7 @@
       "url": "https://s.shopee.com.br/906Wd61KWj",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1576,
+      "salesCount": 1554,
       "seller": "Kaluros ",
       "category": "Casa e organização"
     },
