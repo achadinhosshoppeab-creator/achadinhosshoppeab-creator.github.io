@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T12:16:46.603Z",
+  "updatedAt": "2026-11-05T12:37:42.753Z",
   "offers": [
     {
       "id": "58258154242",
@@ -104,6 +104,21 @@
       "category": "Beleza"
     },
     {
+      "id": "23198205483",
+      "title": "Capa Capinha Magnética MagSafe Fosca Antichoque para iPhone 11 12 13 14 15 16 17 18 Pro Max 16E 17E",
+      "price": 17.89,
+      "originalPrice": 27.52,
+      "discountPercent": 35,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-ms05va2pzzlyeb",
+      "url": "https://s.shopee.com.br/1gJvtbyRpI",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2213,
+      "seller": "vitrine paulista",
+      "category": "Eletrônicos",
+      "hot": true
+    },
+    {
       "id": "22598549816",
       "title": "Gel Creme Hidratante Calmante Facial - Calming Cream - Creamy Skincare - 40g",
       "price": 31.11,
@@ -143,8 +158,7 @@
       "rating": 4.8,
       "salesCount": 1352,
       "seller": "Muse.Mall",
-      "category": "Ferramentas",
-      "hot": true
+      "category": "Ferramentas"
     },
     {
       "id": "44956025150",
@@ -299,20 +313,6 @@
       "salesCount": 2162,
       "seller": "Brinquedo Park",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "48107537821",
-      "title": "Kit 2 Calça Alfaiataria PREMIUM Com Bolso Cintura Alta PROMOÇÃO",
-      "price": 31.9,
-      "originalPrice": 40.9,
-      "discountPercent": 22,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mm3v4n8mj4lj5d",
-      "url": "https://s.shopee.com.br/3g50HN6Tvr",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 4169,
-      "seller": "Ph Modas ",
-      "category": "Moda"
     },
     {
       "id": "20598461061",
