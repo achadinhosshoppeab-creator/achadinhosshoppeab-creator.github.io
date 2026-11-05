@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T17:14:15.984Z",
+  "updatedAt": "2026-11-05T17:35:24.594Z",
   "offers": [
     {
       "id": "58258154242",
@@ -102,18 +102,19 @@
       "category": "Beleza"
     },
     {
-      "id": "25745811858",
-      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
-      "price": 264.9,
-      "originalPrice": 329.9,
-      "discountPercent": 19.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
-      "url": "https://s.shopee.com.br/9fMDQJlakz",
+      "id": "23198205483",
+      "title": "Capa Capinha Magnética MagSafe Fosca Antichoque para iPhone 11 12 13 14 15 16 17 18 Pro Max 16E 17E",
+      "price": 17.89,
+      "originalPrice": 27.52,
+      "discountPercent": 35,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-ms05va2pzzlyeb",
+      "url": "https://s.shopee.com.br/1gJvtbyRpI",
+      "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 927,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Cozinha"
+      "salesCount": 2213,
+      "seller": "vitrine paulista",
+      "category": "Eletrônicos",
+      "hot": true
     },
     {
       "id": "22598549816",
@@ -155,8 +156,7 @@
       "rating": 4.8,
       "salesCount": 1352,
       "seller": "Muse.Mall",
-      "category": "Ferramentas",
-      "hot": true
+      "category": "Ferramentas"
     },
     {
       "id": "44956025150",
@@ -184,21 +184,6 @@
       "official": true,
       "seller": "Eletricario Loja Oficial",
       "category": "Ferramentas"
-    },
-    {
-      "id": "13494334390",
-      "title": "Cílios Fadvan W 4D Extensão De Cílios Alongamento W Novidade Volume Híbrido Maquiagem",
-      "price": 17.99,
-      "originalPrice": 21.99,
-      "discountPercent": 18.2,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md41zddja3uz7d",
-      "url": "https://s.shopee.com.br/2gCT5RUJOW",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 3496,
-      "official": true,
-      "seller": "fadvan.br",
-      "category": "Beleza"
     },
     {
       "id": "46306012672",
