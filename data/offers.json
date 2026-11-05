@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:55:11.249Z",
+  "updatedAt": "2026-11-05T12:16:46.603Z",
   "offers": [
     {
       "id": "58258154242",
@@ -52,7 +52,7 @@
       "originalPrice": 48.92,
       "discountPercent": 49.1,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
-      "url": "https://s.shopee.com.br/8pn6QrHXFb",
+      "url": "https://s.shopee.com.br/1BiWCghi0",
       "rating": 4.8,
       "salesCount": 1212,
       "official": true,
@@ -82,7 +82,7 @@
       "originalPrice": 62.9,
       "discountPercent": 20.7,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d4no4xycn5ca",
-      "url": "https://s.shopee.com.br/20wmIIQIKp",
+      "url": "https://s.shopee.com.br/1BNfuKcfRF",
       "rating": 4.9,
       "salesCount": 1125,
       "official": true,
@@ -102,36 +102,6 @@
       "salesCount": 955,
       "seller": "Lescent",
       "category": "Beleza"
-    },
-    {
-      "id": "27438255053",
-      "title": "Ampola LILYEVE Grow:Turn Exosome Brush , 6 Tipos (30ml , 100ml , Prime Cápsula De Colágeno Rosa Ácido Hialurônico Azul Ouro 5X 100ml)",
-      "price": 59.99,
-      "originalPrice": 74.31,
-      "discountPercent": 19.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8259e-mux9uj7d9ce989",
-      "url": "https://s.shopee.com.br/1gJvtgIQ1j",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1997,
-      "official": true,
-      "seller": "GLORY OF SEOUL",
-      "category": "Beleza"
-    },
-    {
-      "id": "23198205483",
-      "title": "Capa Capinha Magnética MagSafe Fosca Antichoque para iPhone 11 12 13 14 15 16 17 18 Pro Max 16E 17E",
-      "price": 17.89,
-      "originalPrice": 27.52,
-      "discountPercent": 35,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-ms05va2pzzlyeb",
-      "url": "https://s.shopee.com.br/1gJvtbyRpI",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2213,
-      "seller": "vitrine paulista",
-      "category": "Eletrônicos",
-      "hot": true
     },
     {
       "id": "22598549816",
@@ -155,7 +125,7 @@
       "originalPrice": 199.99,
       "discountPercent": 30.4,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
-      "url": "https://s.shopee.com.br/8VAG2BcV7g",
+      "url": "https://s.shopee.com.br/2Vt3UdxhvD",
       "rating": 4.9,
       "salesCount": 657,
       "official": true,
@@ -173,7 +143,8 @@
       "rating": 4.8,
       "salesCount": 1352,
       "seller": "Muse.Mall",
-      "category": "Ferramentas"
+      "category": "Ferramentas",
+      "hot": true
     },
     {
       "id": "44956025150",
@@ -364,7 +335,7 @@
       "originalPrice": 58.43,
       "discountPercent": 18.5,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824ix-mf0k20cbxkb223",
-      "url": "https://s.shopee.com.br/9APwpPZpAB",
+      "url": "https://s.shopee.com.br/AKbup2GcMd",
       "rating": 4.8,
       "salesCount": 179,
       "seller": "Value Choice",
