@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:33:18.793Z",
+  "updatedAt": "2026-11-05T11:55:11.249Z",
   "offers": [
     {
       "id": "58258154242",
@@ -67,7 +67,7 @@
       "originalPrice": 97.2,
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repg-m8lyeccuijv917",
-      "url": "https://s.shopee.com.br/4B1HMb6dxZ",
+      "url": "https://s.shopee.com.br/7puZpAeW5b",
       "hasVariantPrices": true,
       "rating": 5,
       "salesCount": 1535,
@@ -147,6 +147,20 @@
       "seller": "Creamy Skincare",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "22997647570",
+      "title": "Escova secador Modeladora Taiff Oval Easy Pink Original",
+      "price": 139.16,
+      "originalPrice": 199.99,
+      "discountPercent": 30.4,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
+      "url": "https://s.shopee.com.br/8VAG2BcV7g",
+      "rating": 4.9,
+      "salesCount": 657,
+      "official": true,
+      "seller": "Beleza Renovada Oficial",
+      "category": "Beleza"
     },
     {
       "id": "57555992595",
@@ -244,35 +258,6 @@
       "category": "Ferramentas"
     },
     {
-      "id": "40858672179",
-      "title": "Overboard Infantil 6.5\" - Skate Elétrico com Caixa de Som Bluetooth e Bateria Longa Duração",
-      "price": 519,
-      "originalPrice": 798.46,
-      "discountPercent": 35,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aw-mu1ttz7ajdae46",
-      "url": "https://s.shopee.com.br/7KyIe51eJv",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 919,
-      "seller": "MAIS LEGAL SHOP",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "40358183625",
-      "title": "Bebe Boneca Reborn Realista 100% Silicone Para Presente Promoção",
-      "price": 77.7,
-      "originalPrice": 138.75,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-miucmwj8vcapd5",
-      "url": "https://s.shopee.com.br/4LKhYu60cc",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1331,
-      "seller": "Princesa reborn GM",
-      "category": "Pet e bebê",
-      "hot": true
-    },
-    {
       "id": "42124571795",
       "title": "Organizador de Geladeira para Temperos 2,3L Linha Clear Fresh",
       "price": 29.49,
@@ -314,7 +299,21 @@
       "rating": 4.7,
       "salesCount": 2057,
       "seller": "Rosa de Mello Atacado & Varejo",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
+    },
+    {
+      "id": "22294564340",
+      "title": "Pula Pula Grande tamanho 1,80m x 1,60m Cama Elástica Infantil Trampolim Playground Desmontável",
+      "price": 477,
+      "originalPrice": 569,
+      "discountPercent": 16.2,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgjczaogh53b52",
+      "url": "https://s.shopee.com.br/W7yVVFDH4",
+      "rating": 4.9,
+      "salesCount": 2077,
+      "seller": "ELORIA SHOP",
+      "category": "Casa e organização"
     },
     {
       "id": "58218280893",
@@ -331,6 +330,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "48107537821",
+      "title": "Kit 2 Calça Alfaiataria PREMIUM Com Bolso Cintura Alta PROMOÇÃO",
+      "price": 31.9,
+      "originalPrice": 40.9,
+      "discountPercent": 22,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mm3v4n8mj4lj5d",
+      "url": "https://s.shopee.com.br/3g50HN6Tvr",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 4169,
+      "seller": "Ph Modas ",
+      "category": "Moda"
+    },
+    {
       "id": "20598461061",
       "title": "Cortina Voil Gaze De Linho 3,00 x 2,20/2,30/2,40/2,50/2,60/2,70/2,80 C/forro Blackout Grosso Original",
       "price": 199.9,
@@ -343,6 +356,19 @@
       "salesCount": 1576,
       "seller": "Kaluros ",
       "category": "Casa e organização"
+    },
+    {
+      "id": "40671349128",
+      "title": "Kit De Paleta De Maquiagem Profissional , Conjunto De Presente Tudo-Em-Um Para Adolescentes Com Sombra De 24 Cores , Blu",
+      "price": 47.63,
+      "originalPrice": 58.43,
+      "discountPercent": 18.5,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824ix-mf0k20cbxkb223",
+      "url": "https://s.shopee.com.br/9APwpPZpAB",
+      "rating": 4.8,
+      "salesCount": 179,
+      "seller": "Value Choice",
+      "category": "Beleza"
     }
   ]
 }
