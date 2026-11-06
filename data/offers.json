@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T01:21:45.462Z",
+  "updatedAt": "2026-11-06T01:42:07.350Z",
   "offers": [
     {
       "id": "58258154242",
@@ -86,6 +86,20 @@
       "salesCount": 962,
       "seller": "Lescent",
       "category": "Beleza"
+    },
+    {
+      "id": "25745811858",
+      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
+      "price": 264.9,
+      "originalPrice": 329.9,
+      "discountPercent": 19.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
+      "url": "https://s.shopee.com.br/9fMDQJlakz",
+      "rating": 4.9,
+      "salesCount": 933,
+      "official": true,
+      "seller": "Na Web Group De Marcas",
+      "category": "Cozinha"
     },
     {
       "id": "23198205483",
