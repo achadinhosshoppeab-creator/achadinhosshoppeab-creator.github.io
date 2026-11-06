@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T19:00:11.616Z",
+  "updatedAt": "2026-11-06T19:21:58.584Z",
   "offers": [
     {
       "id": "58258154242",
@@ -14,6 +14,20 @@
       "seller": "MULTIORIENTAL",
       "category": "Casa e organização",
       "hot": true
+    },
+    {
+      "id": "56556653787",
+      "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
+      "price": 74.9,
+      "originalPrice": 99.9,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mul5acri4f7l1d",
+      "url": "https://s.shopee.com.br/AAIUbSVdLl",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1328,
+      "seller": "Gaby Reborn",
+      "category": "Pet e bebê"
     },
     {
       "id": "58207914273",
@@ -86,7 +100,7 @@
       "url": "https://s.shopee.com.br/9V2nE1PtQK",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 962,
+      "salesCount": 993,
       "seller": "Lescent",
       "category": "Beleza"
     },
@@ -127,10 +141,23 @@
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6",
       "url": "https://s.shopee.com.br/1BNfIi8oiq",
       "rating": 5,
-      "salesCount": 2603,
+      "salesCount": 2520,
       "official": true,
       "seller": "Lizze",
       "category": "Beleza"
+    },
+    {
+      "id": "28487251823",
+      "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos 500ML",
+      "price": 17.9,
+      "originalPrice": 24.9,
+      "discountPercent": 28.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mamse9r4wiofc2",
+      "url": "https://s.shopee.com.br/4B1HTuq1r6",
+      "rating": 4.9,
+      "salesCount": 406,
+      "seller": "Pet Vet Store",
+      "category": "Pet e bebê"
     },
     {
       "id": "19253571158",
@@ -145,36 +172,6 @@
       "official": true,
       "seller": "Keedi Eletrônicos",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "23794696993",
-      "title": "Fio Elétrico Cabo Flexível 2,5mm Fio Selo certificado 20 METROS 50 METROS ROLO 100 METROS",
-      "price": 19.49,
-      "originalPrice": 24,
-      "discountPercent": 18.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhnf77mmfb41f1",
-      "url": "https://s.shopee.com.br/2qVvUIshPC",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 4759,
-      "seller": "FIOFLEXX",
-      "category": "Ferramentas",
-      "hot": true
-    },
-    {
-      "id": "13494334390",
-      "title": "Cílios Fadvan W 4D Extensão De Cílios Alongamento W Novidade Volume Híbrido Maquiagem",
-      "price": 17.99,
-      "originalPrice": 21.99,
-      "discountPercent": 18.2,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md41zddja3uz7d",
-      "url": "https://s.shopee.com.br/2gCT5RUJOW",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 3573,
-      "official": true,
-      "seller": "fadvan.br",
-      "category": "Beleza"
     },
     {
       "id": "13697446869",
@@ -205,6 +202,50 @@
       "hot": true
     },
     {
+      "id": "23992058945",
+      "title": "Fonte Bebedouro H2O Plus para Cães e Gatos de 1.5 Litros com Torneira Inox",
+      "price": 28.02,
+      "originalPrice": 34.85,
+      "discountPercent": 19.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mpxzyubpkw023d",
+      "url": "https://s.shopee.com.br/5AtoYRBZFK",
+      "rating": 4.8,
+      "salesCount": 751,
+      "seller": "Vale Eletro Shop",
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "18071105004",
+      "title": "Kit Cabides Veludo Para Roupas Adulto 30 Unidades Fino Resistente",
+      "price": 41.9,
+      "originalPrice": 59.9,
+      "discountPercent": 30.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6qu5cyullio31",
+      "url": "https://s.shopee.com.br/4LKh4YV4gF",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 918,
+      "official": true,
+      "seller": "Na Web Group De Marcas",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "58219247585",
+      "title": "Cubo Sensorial Antiestresse Squishy Macio e Apertável Rosa Roxo Azul Brinquedo Kit 1 2 3 Unidades",
+      "price": 21.99,
+      "originalPrice": 32.99,
+      "discountPercent": 33.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mu3wriykqeiye5",
+      "url": "https://s.shopee.com.br/5q9VLenAW1",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2240,
+      "seller": "Sunshine82",
+      "category": "Pet e bebê",
+      "hot": true
+    },
+    {
       "id": "42124571795",
       "title": "Organizador de Geladeira para Temperos 2,3L Linha Clear Fresh",
       "price": 29.49,
@@ -214,11 +255,39 @@
       "url": "https://s.shopee.com.br/5LDEGNax6x",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1230,
+      "salesCount": 1235,
       "official": true,
       "seller": "DSD Multi Comercio",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
+    },
+    {
+      "id": "23791517291",
+      "title": "Kit 40 Cabide Infantil Veludo Slim Antideslizante Ultrafino",
+      "price": 62.85,
+      "originalPrice": 79.9,
+      "discountPercent": 21.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6qu5cyuvfhs36",
+      "url": "https://s.shopee.com.br/6VPBeXMpI7",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 174,
+      "official": true,
+      "seller": "Na Web Group De Marcas",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "48902429562",
+      "title": "KIT Cabide Veludo 100 Unidades Adulto Antiderrapante Slim Ultra fino Resistente",
+      "price": 65.67,
+      "originalPrice": 78.98,
+      "discountPercent": 16.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mqhsxk83u7er33",
+      "url": "https://s.shopee.com.br/4qGxfTTAfM",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 792,
+      "seller": "CASA DALONSO",
+      "category": "Casa e organização"
     },
     {
       "id": "48107537821",
@@ -230,7 +299,7 @@
       "url": "https://s.shopee.com.br/3g50HN6Tvr",
       "hasVariantPrices": true,
       "rating": 4.7,
-      "salesCount": 4177,
+      "salesCount": 4188,
       "seller": "Ph Modas ",
       "category": "Moda",
       "hot": true
@@ -247,6 +316,20 @@
       "salesCount": 1554,
       "seller": "Kaluros ",
       "category": "Casa e organização"
+    },
+    {
+      "id": "25343192866",
+      "title": "Kit Conjuntos Short Dool Pijama Baby MICRO ESTAMPADO Feminino Roupa De Dormir Noite Fresquinho",
+      "price": 32.99,
+      "originalPrice": 38.82,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mqqydqtdu0oz87",
+      "url": "https://s.shopee.com.br/4B1GsEEziz",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 1992,
+      "seller": "Rosa de Mello Atacado & Varejo",
+      "category": "Moda"
     },
     {
       "id": "40671349128",
