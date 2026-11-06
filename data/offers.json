@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T14:46:36.413Z",
+  "updatedAt": "2026-11-06T15:08:17.233Z",
   "offers": [
     {
       "id": "58258154242",
@@ -14,6 +14,20 @@
       "seller": "MULTIORIENTAL",
       "category": "Casa e organização",
       "hot": true
+    },
+    {
+      "id": "56556653787",
+      "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
+      "price": 74.9,
+      "originalPrice": 99.9,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mul5acri4f7l1d",
+      "url": "https://s.shopee.com.br/AAIUbSVdLl",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1328,
+      "seller": "Gaby Reborn",
+      "category": "Pet e bebê"
     },
     {
       "id": "58207914273",
@@ -46,6 +60,35 @@
       "seller": "Popozuda Oficial",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "23298825465",
+      "title": "Geleia Hidratante My Sweet Delight Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
+      "price": 24.9,
+      "originalPrice": 48.21,
+      "discountPercent": 48.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
+      "url": "https://s.shopee.com.br/1BiWCghi0",
+      "rating": 4.8,
+      "salesCount": 1231,
+      "official": true,
+      "seller": "Barbour's Beauty",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "11744649287",
+      "title": "Banho De Verniz Máscara 1Kg Forever Liss",
+      "price": 49.9,
+      "originalPrice": 62.9,
+      "discountPercent": 20.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d4no4xycn5ca",
+      "url": "https://s.shopee.com.br/9fMFd3fR7o",
+      "rating": 4.9,
+      "salesCount": 1095,
+      "official": true,
+      "seller": "Forever Liss",
+      "category": "Beleza"
     },
     {
       "id": "55957404904",
@@ -88,20 +131,6 @@
       "official": true,
       "seller": "Mamãe Reborn",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "22997647570",
-      "title": "Escova secador Modeladora Taiff Oval Easy Pink Original",
-      "price": 139.16,
-      "originalPrice": 199.99,
-      "discountPercent": 30.4,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
-      "url": "https://s.shopee.com.br/2Vt3UdxhvD",
-      "rating": 4.9,
-      "salesCount": 658,
-      "official": true,
-      "seller": "Beleza Renovada Oficial",
-      "category": "Beleza"
     },
     {
       "id": "22693731888",
@@ -202,6 +231,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "47511747472",
+      "title": "Kit 8 Esmaltes Metálicos Brilho Ativo 8ml Alta Cobertura",
+      "price": 25.67,
+      "originalPrice": 36.9,
+      "discountPercent": 30.4,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258r-mso6sqzt9h50b7",
+      "url": "https://s.shopee.com.br/2BGCUbcVvc",
+      "rating": 4.9,
+      "salesCount": 1136,
+      "seller": "Loja Golden ",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
       "id": "23992058945",
       "title": "Fonte Bebedouro H2O Plus para Cães e Gatos de 1.5 Litros com Torneira Inox",
       "price": 28.02,
@@ -213,22 +256,6 @@
       "salesCount": 751,
       "seller": "Vale Eletro Shop",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "18071105004",
-      "title": "Kit Cabides Veludo Para Roupas Adulto 30 Unidades Fino Resistente",
-      "price": 41.9,
-      "originalPrice": 59.9,
-      "discountPercent": 30.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6qu5cyullio31",
-      "url": "https://s.shopee.com.br/4LKh4YV4gF",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 918,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Casa e organização",
-      "hot": true
     },
     {
       "id": "58219247585",
@@ -261,21 +288,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "23791517291",
-      "title": "Kit 40 Cabide Infantil Veludo Slim Antideslizante Ultrafino",
-      "price": 62.85,
-      "originalPrice": 79.9,
-      "discountPercent": 21.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6qu5cyuvfhs36",
-      "url": "https://s.shopee.com.br/6VPBeXMpI7",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 174,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Casa e organização"
-    },
-    {
       "id": "25343192866",
       "title": "Kit Conjuntos Short Dool Pijama Baby MICRO ESTAMPADO Feminino Roupa De Dormir Noite Fresquinho",
       "price": 32.99,
@@ -304,75 +316,6 @@
       "seller": "MANADA ANIMAL",
       "category": "Pet e bebê",
       "hot": true
-    },
-    {
-      "id": "48902429562",
-      "title": "KIT Cabide Veludo 100 Unidades Adulto Antiderrapante Slim Ultra fino Resistente",
-      "price": 65.67,
-      "originalPrice": 78.98,
-      "discountPercent": 16.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mqhsxk83u7er33",
-      "url": "https://s.shopee.com.br/4qGxfTTAfM",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 792,
-      "seller": "CASA DALONSO",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58218280893",
-      "title": "squishy Bolinho Baozi Glitter Caixa Misteriosa Brinquedo 8.5cm/5.5cm Bolinhos Brinquedo De Apertar Sensorial",
-      "price": 16.99,
-      "originalPrice": 21.98,
-      "discountPercent": 22.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mtupxhg1xgqocb",
-      "url": "https://s.shopee.com.br/5AtoYQphrq",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 2106,
-      "seller": "Brinquedo Park",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "48107537821",
-      "title": "Kit 2 Calça Alfaiataria PREMIUM Com Bolso Cintura Alta PROMOÇÃO",
-      "price": 31.8,
-      "originalPrice": 40.9,
-      "discountPercent": 22.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mm3v4n8mj4lj5d",
-      "url": "https://s.shopee.com.br/3g50HN6Tvr",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 4177,
-      "seller": "Ph Modas ",
-      "category": "Moda",
-      "hot": true
-    },
-    {
-      "id": "20598461061",
-      "title": "Cortina Voil Gaze De Linho 3,00 x 2,20/2,30/2,40/2,50/2,60/2,70/2,80 C/forro Blackout Grosso Original",
-      "price": 199.9,
-      "originalPrice": 239.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mtqni748srupa7",
-      "url": "https://s.shopee.com.br/906Wd61KWj",
-      "rating": 4.9,
-      "salesCount": 1554,
-      "seller": "Kaluros ",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "40671349128",
-      "title": "Kit De Paleta De Maquiagem Profissional , Conjunto De Presente Tudo-Em-Um Para Adolescentes Com Sombra De 24 Cores , Blu",
-      "price": 47.63,
-      "originalPrice": 58.43,
-      "discountPercent": 18.5,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824ix-mf0k20cbxkb223",
-      "url": "https://s.shopee.com.br/AKbup2GcMd",
-      "rating": 4.8,
-      "salesCount": 179,
-      "seller": "Value Choice",
-      "category": "Beleza"
     },
     {
       "id": "23799188673",
