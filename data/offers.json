@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T14:25:39.093Z",
+  "updatedAt": "2026-11-06T14:46:36.413Z",
   "offers": [
     {
       "id": "58258154242",
@@ -48,35 +48,6 @@
       "hot": true
     },
     {
-      "id": "23298825465",
-      "title": "Geleia Hidratante My Sweet Delight Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
-      "price": 24.9,
-      "originalPrice": 48.21,
-      "discountPercent": 48.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
-      "url": "https://s.shopee.com.br/1BiWCghi0",
-      "rating": 4.8,
-      "salesCount": 1231,
-      "official": true,
-      "seller": "Barbour's Beauty",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "11744649287",
-      "title": "Banho De Verniz Máscara 1Kg Forever Liss",
-      "price": 49.9,
-      "originalPrice": 62.9,
-      "discountPercent": 20.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d4no4xycn5ca",
-      "url": "https://s.shopee.com.br/9fMFd3fR7o",
-      "rating": 4.9,
-      "salesCount": 1095,
-      "official": true,
-      "seller": "Forever Liss",
-      "category": "Beleza"
-    },
-    {
       "id": "55957404904",
       "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
       "price": 39.9,
@@ -119,6 +90,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "22997647570",
+      "title": "Escova secador Modeladora Taiff Oval Easy Pink Original",
+      "price": 139.16,
+      "originalPrice": 199.99,
+      "discountPercent": 30.4,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
+      "url": "https://s.shopee.com.br/2Vt3UdxhvD",
+      "rating": 4.9,
+      "salesCount": 658,
+      "official": true,
+      "seller": "Beleza Renovada Oficial",
+      "category": "Beleza"
+    },
+    {
       "id": "22693731888",
       "title": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
       "price": 352.9,
@@ -131,6 +116,19 @@
       "official": true,
       "seller": "Lizze",
       "category": "Beleza"
+    },
+    {
+      "id": "28487251823",
+      "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos 500ML",
+      "price": 17.9,
+      "originalPrice": 24.9,
+      "discountPercent": 28.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mamse9r4wiofc2",
+      "url": "https://s.shopee.com.br/4B1HTuq1r6",
+      "rating": 4.9,
+      "salesCount": 428,
+      "seller": "Pet Vet Store",
+      "category": "Pet e bebê"
     },
     {
       "id": "18698826077",
@@ -202,20 +200,6 @@
       "official": true,
       "seller": "SELLNEEDS",
       "category": "Casa e organização"
-    },
-    {
-      "id": "47511747472",
-      "title": "Kit 8 Esmaltes Metálicos Brilho Ativo 8ml Alta Cobertura",
-      "price": 25.67,
-      "originalPrice": 36.9,
-      "discountPercent": 30.4,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258r-mso6sqzt9h50b7",
-      "url": "https://s.shopee.com.br/2BGCUbcVvc",
-      "rating": 4.9,
-      "salesCount": 1136,
-      "seller": "Loja Golden ",
-      "category": "Beleza",
-      "hot": true
     },
     {
       "id": "23992058945",
@@ -307,6 +291,21 @@
       "hot": true
     },
     {
+      "id": "22594257659",
+      "title": "02 Shampoo Dermatite Clorexidina 500ml World",
+      "price": 24.15,
+      "originalPrice": 33.86,
+      "discountPercent": 28.7,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdw4-mckur2h16hfb06",
+      "url": "https://s.shopee.com.br/5q9VSyjgTK",
+      "rating": 4.9,
+      "salesCount": 560,
+      "official": true,
+      "seller": "MANADA ANIMAL",
+      "category": "Pet e bebê",
+      "hot": true
+    },
+    {
       "id": "48902429562",
       "title": "KIT Cabide Veludo 100 Unidades Adulto Antiderrapante Slim Ultra fino Resistente",
       "price": 65.67,
@@ -346,7 +345,8 @@
       "rating": 4.7,
       "salesCount": 4177,
       "seller": "Ph Modas ",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "20598461061",
@@ -360,6 +360,19 @@
       "salesCount": 1554,
       "seller": "Kaluros ",
       "category": "Casa e organização"
+    },
+    {
+      "id": "40671349128",
+      "title": "Kit De Paleta De Maquiagem Profissional , Conjunto De Presente Tudo-Em-Um Para Adolescentes Com Sombra De 24 Cores , Blu",
+      "price": 47.63,
+      "originalPrice": 58.43,
+      "discountPercent": 18.5,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824ix-mf0k20cbxkb223",
+      "url": "https://s.shopee.com.br/AKbup2GcMd",
+      "rating": 4.8,
+      "salesCount": 179,
+      "seller": "Value Choice",
+      "category": "Beleza"
     },
     {
       "id": "23799188673",
