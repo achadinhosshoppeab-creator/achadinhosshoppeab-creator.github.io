@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T15:08:17.233Z",
+  "updatedAt": "2026-11-06T15:29:17.119Z",
   "offers": [
     {
       "id": "58258154242",
@@ -133,6 +133,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "22997647570",
+      "title": "Escova secador Modeladora Taiff Oval Easy Pink Original",
+      "price": 139.16,
+      "originalPrice": 199.99,
+      "discountPercent": 30.4,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
+      "url": "https://s.shopee.com.br/2Vt3UdxhvD",
+      "rating": 4.9,
+      "salesCount": 658,
+      "official": true,
+      "seller": "Beleza Renovada Oficial",
+      "category": "Beleza"
+    },
+    {
       "id": "22693731888",
       "title": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
       "price": 352.9,
@@ -158,20 +172,6 @@
       "salesCount": 428,
       "seller": "Pet Vet Store",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "18698826077",
-      "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
-      "price": 109.9,
-      "originalPrice": 149,
-      "discountPercent": 26.2,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
-      "url": "https://s.shopee.com.br/60SvbuSHRM",
-      "rating": 4.9,
-      "salesCount": 1104,
-      "official": true,
-      "seller": "Eletricario Loja Oficial",
-      "category": "Ferramentas"
     },
     {
       "id": "19253571158",
@@ -258,6 +258,22 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "18071105004",
+      "title": "Kit Cabides Veludo Para Roupas Adulto 30 Unidades Fino Resistente",
+      "price": 41.9,
+      "originalPrice": 59.9,
+      "discountPercent": 30.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6qu5cyullio31",
+      "url": "https://s.shopee.com.br/4LKh4YV4gF",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 918,
+      "official": true,
+      "seller": "Na Web Group De Marcas",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
       "id": "58219247585",
       "title": "Cubo Sensorial Antiestresse Squishy Macio e Apertável Rosa Roxo Azul Brinquedo Kit 1 2 3 Unidades",
       "price": 21.99,
@@ -288,6 +304,21 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23791517291",
+      "title": "Kit 40 Cabide Infantil Veludo Slim Antideslizante Ultrafino",
+      "price": 62.85,
+      "originalPrice": 79.9,
+      "discountPercent": 21.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6qu5cyuvfhs36",
+      "url": "https://s.shopee.com.br/6VPBeXMpI7",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 174,
+      "official": true,
+      "seller": "Na Web Group De Marcas",
+      "category": "Casa e organização"
+    },
+    {
       "id": "25343192866",
       "title": "Kit Conjuntos Short Dool Pijama Baby MICRO ESTAMPADO Feminino Roupa De Dormir Noite Fresquinho",
       "price": 32.99,
@@ -314,8 +345,61 @@
       "salesCount": 560,
       "official": true,
       "seller": "MANADA ANIMAL",
-      "category": "Pet e bebê",
-      "hot": true
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "48902429562",
+      "title": "KIT Cabide Veludo 100 Unidades Adulto Antiderrapante Slim Ultra fino Resistente",
+      "price": 65.67,
+      "originalPrice": 78.98,
+      "discountPercent": 16.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mqhsxk83u7er33",
+      "url": "https://s.shopee.com.br/4qGxfTTAfM",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 792,
+      "seller": "CASA DALONSO",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "48107537821",
+      "title": "Kit 2 Calça Alfaiataria PREMIUM Com Bolso Cintura Alta PROMOÇÃO",
+      "price": 31.8,
+      "originalPrice": 40.9,
+      "discountPercent": 22.2,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mm3v4n8mj4lj5d",
+      "url": "https://s.shopee.com.br/3g50HN6Tvr",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 4177,
+      "seller": "Ph Modas ",
+      "category": "Moda"
+    },
+    {
+      "id": "20598461061",
+      "title": "Cortina Voil Gaze De Linho 3,00 x 2,20/2,30/2,40/2,50/2,60/2,70/2,80 C/forro Blackout Grosso Original",
+      "price": 199.9,
+      "originalPrice": 239.9,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mtqni748srupa7",
+      "url": "https://s.shopee.com.br/906Wd61KWj",
+      "rating": 4.9,
+      "salesCount": 1554,
+      "seller": "Kaluros ",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "40671349128",
+      "title": "Kit De Paleta De Maquiagem Profissional , Conjunto De Presente Tudo-Em-Um Para Adolescentes Com Sombra De 24 Cores , Blu",
+      "price": 47.63,
+      "originalPrice": 58.43,
+      "discountPercent": 18.5,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824ix-mf0k20cbxkb223",
+      "url": "https://s.shopee.com.br/AKbup2GcMd",
+      "rating": 4.8,
+      "salesCount": 179,
+      "seller": "Value Choice",
+      "category": "Beleza"
     },
     {
       "id": "23799188673",
