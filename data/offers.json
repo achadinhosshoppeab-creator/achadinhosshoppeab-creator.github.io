@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T20:26:02.083Z",
+  "updatedAt": "2026-11-06T20:47:06.995Z",
   "offers": [
     {
       "id": "58258154242",
@@ -60,35 +60,6 @@
       "seller": "Popozuda Oficial",
       "category": "Beleza",
       "hot": true
-    },
-    {
-      "id": "23298825465",
-      "title": "Geleia Hidratante My Sweet Delight Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
-      "price": 24.9,
-      "originalPrice": 48.21,
-      "discountPercent": 48.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
-      "url": "https://s.shopee.com.br/1BiWCghi0",
-      "rating": 4.8,
-      "salesCount": 1232,
-      "official": true,
-      "seller": "Barbour's Beauty",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "11744649287",
-      "title": "Banho De Verniz Máscara 1Kg Forever Liss",
-      "price": 49.9,
-      "originalPrice": 62.9,
-      "discountPercent": 20.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d4no4xycn5ca",
-      "url": "https://s.shopee.com.br/9fMFd3fR7o",
-      "rating": 4.9,
-      "salesCount": 1104,
-      "official": true,
-      "seller": "Forever Liss",
-      "category": "Beleza"
     },
     {
       "id": "55957404904",
@@ -157,21 +128,8 @@
       "rating": 4.9,
       "salesCount": 406,
       "seller": "Pet Vet Store",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "19253571158",
-      "title": "Mini Controle Teclado Air Mouse Wireless 2.4 Ghz -pc,game",
-      "price": 33.99,
-      "originalPrice": 42.87,
-      "discountPercent": 20.7,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xl-mia55nrh39j52f",
-      "url": "https://s.shopee.com.br/4fxXTBPPkn",
-      "rating": 4.8,
-      "salesCount": 1854,
-      "official": true,
-      "seller": "Keedi Eletrônicos",
-      "category": "Eletrônicos"
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "13494334390",
@@ -201,20 +159,6 @@
       "official": true,
       "seller": "SELLNEEDS",
       "category": "Casa e organização"
-    },
-    {
-      "id": "47511747472",
-      "title": "Kit 8 Esmaltes Metálicos Brilho Ativo 8ml Alta Cobertura",
-      "price": 25.67,
-      "originalPrice": 36.9,
-      "discountPercent": 30.4,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258r-mso6sqzt9h50b7",
-      "url": "https://s.shopee.com.br/2BGCUbcVvc",
-      "rating": 4.9,
-      "salesCount": 1127,
-      "seller": "Loja Golden ",
-      "category": "Beleza",
-      "hot": true
     },
     {
       "id": "23992058945",
@@ -273,7 +217,8 @@
       "salesCount": 1235,
       "official": true,
       "seller": "DSD Multi Comercio",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "23791517291",
