@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T17:57:30.145Z",
+  "updatedAt": "2026-11-06T18:18:22.083Z",
   "offers": [
     {
       "id": "58258154242",
@@ -30,6 +30,38 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "58207914273",
+      "title": "Popozuda Lisinha Redutor de Pelos Corporais com Telocapil",
+      "price": 39.9,
+      "originalPrice": 59.9,
+      "discountPercent": 33.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mu2f856jfbpe66",
+      "url": "https://s.shopee.com.br/3B8jgRdWMq",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 8471,
+      "official": true,
+      "seller": "Popozuda Oficial",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "23799494458",
+      "title": "Popozuda Clarinha Sérum Clareador Corporal com Niacinamida e Ácido Tranexâmico",
+      "price": 39.9,
+      "originalPrice": 59.9,
+      "discountPercent": 33.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mu2i2k24ydc25f",
+      "url": "https://s.shopee.com.br/LoYJEoJ7Z",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2950,
+      "official": true,
+      "seller": "Popozuda Oficial",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
       "id": "11744649287",
       "title": "Banho De Verniz Máscara 1Kg Forever Liss",
       "price": 49.9,
@@ -41,20 +73,6 @@
       "salesCount": 1095,
       "official": true,
       "seller": "Forever Liss",
-      "category": "Beleza"
-    },
-    {
-      "id": "55957404904",
-      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
-      "price": 39.9,
-      "originalPrice": 49.9,
-      "discountPercent": 20,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
-      "url": "https://s.shopee.com.br/9V2nE1PtQK",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 962,
-      "seller": "Lescent",
       "category": "Beleza"
     },
     {
@@ -86,34 +104,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "22997647570",
-      "title": "Escova secador Modeladora Taiff Oval Easy Pink Original",
-      "price": 139.16,
-      "originalPrice": 199.99,
-      "discountPercent": 30.4,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
-      "url": "https://s.shopee.com.br/2Vt3UdxhvD",
-      "rating": 4.9,
-      "salesCount": 658,
-      "official": true,
-      "seller": "Beleza Renovada Oficial",
-      "category": "Beleza"
-    },
-    {
-      "id": "22693731888",
-      "title": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
-      "price": 352.9,
-      "originalPrice": 458.99,
-      "discountPercent": 23.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6",
-      "url": "https://s.shopee.com.br/1BNfIi8oiq",
-      "rating": 5,
-      "salesCount": 2603,
-      "official": true,
-      "seller": "Lizze",
-      "category": "Beleza"
-    },
-    {
       "id": "28487251823",
       "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos 500ML",
       "price": 17.9,
@@ -139,8 +129,7 @@
       "salesCount": 1888,
       "official": true,
       "seller": "Keedi Eletrônicos",
-      "category": "Eletrônicos",
-      "hot": true
+      "category": "Eletrônicos"
     },
     {
       "id": "13494334390",
@@ -170,20 +159,6 @@
       "official": true,
       "seller": "SELLNEEDS",
       "category": "Casa e organização"
-    },
-    {
-      "id": "47511747472",
-      "title": "Kit 8 Esmaltes Metálicos Brilho Ativo 8ml Alta Cobertura",
-      "price": 25.67,
-      "originalPrice": 36.9,
-      "discountPercent": 30.4,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258r-mso6sqzt9h50b7",
-      "url": "https://s.shopee.com.br/2BGCUbcVvc",
-      "rating": 4.9,
-      "salesCount": 1136,
-      "seller": "Loja Golden ",
-      "category": "Beleza",
-      "hot": true
     },
     {
       "id": "23992058945",
@@ -301,33 +276,6 @@
       "salesCount": 1554,
       "seller": "Kaluros ",
       "category": "Casa e organização"
-    },
-    {
-      "id": "25343192866",
-      "title": "Kit Conjuntos Short Dool Pijama Baby MICRO ESTAMPADO Feminino Roupa De Dormir Noite Fresquinho",
-      "price": 32.99,
-      "originalPrice": 38.82,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mqqydqtdu0oz87",
-      "url": "https://s.shopee.com.br/4B1GsEEziz",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 2021,
-      "seller": "Rosa de Mello Atacado & Varejo",
-      "category": "Moda"
-    },
-    {
-      "id": "40671349128",
-      "title": "Kit De Paleta De Maquiagem Profissional , Conjunto De Presente Tudo-Em-Um Para Adolescentes Com Sombra De 24 Cores , Blu",
-      "price": 47.63,
-      "originalPrice": 58.43,
-      "discountPercent": 18.5,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824ix-mf0k20cbxkb223",
-      "url": "https://s.shopee.com.br/AKbup2GcMd",
-      "rating": 4.8,
-      "salesCount": 179,
-      "seller": "Value Choice",
-      "category": "Beleza"
     },
     {
       "id": "23799188673",
