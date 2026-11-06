@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T11:15:47.229Z",
+  "updatedAt": "2026-11-06T11:37:19.967Z",
   "offers": [
     {
       "id": "58258154242",
@@ -92,17 +92,17 @@
       "hot": true
     },
     {
-      "id": "11744649287",
-      "title": "Banho De Verniz Máscara 1Kg Forever Liss",
-      "price": 49.9,
-      "originalPrice": 62.9,
-      "discountPercent": 20.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d4no4xycn5ca",
-      "url": "https://s.shopee.com.br/1BNfuKcfRF",
-      "rating": 4.9,
-      "salesCount": 1095,
-      "official": true,
-      "seller": "Forever Liss",
+      "id": "55957404904",
+      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
+      "price": 39.9,
+      "originalPrice": 49.9,
+      "discountPercent": 20,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
+      "url": "https://s.shopee.com.br/9V2nE1PtQK",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 962,
+      "seller": "Lescent",
       "category": "Beleza"
     },
     {
@@ -120,21 +120,6 @@
       "category": "Cozinha"
     },
     {
-      "id": "23198205483",
-      "title": "Capa Capinha Magnética MagSafe Fosca Antichoque para iPhone 11 12 13 14 15 16 17 18 Pro Max 16E 17E",
-      "price": 17.89,
-      "originalPrice": 27.52,
-      "discountPercent": 35,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-ms05va2pzzlyeb",
-      "url": "https://s.shopee.com.br/1gJvtbyRpI",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2159,
-      "seller": "vitrine paulista",
-      "category": "Eletrônicos",
-      "hot": true
-    },
-    {
       "id": "22598549816",
       "title": "Gel Creme Hidratante Calmante Facial - Calming Cream - Creamy Skincare - 40g",
       "price": 31.11,
@@ -148,6 +133,20 @@
       "seller": "Creamy Skincare",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "19408193582",
+      "title": "Kit Boneca Bebê Reborn 48cm Vinil Siliconado Com Bolsa Fraldas Mamadeira Chupeta E Acessórios",
+      "price": 201.33,
+      "originalPrice": 239.09,
+      "discountPercent": 15.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mqovt3426oldc6",
+      "url": "https://s.shopee.com.br/W7z8bPdUO",
+      "rating": 4.9,
+      "salesCount": 672,
+      "official": true,
+      "seller": "Mamãe Reborn",
+      "category": "Pet e bebê"
     },
     {
       "id": "22997647570",
@@ -205,32 +204,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "57555992595",
-      "title": "Parafusadeira Furadeira Sem Fio 48V - Carregador Bivolt 110/220V Kit com 1 OU 2 Bateria e Maleta OU caixa de papelão",
-      "price": 115.96,
-      "originalPrice": 173.07,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpuoehq8krgv52",
-      "url": "https://s.shopee.com.br/3LSAR0cQqa",
-      "rating": 4.8,
-      "salesCount": 1333,
-      "seller": "Muse.Mall",
-      "category": "Ferramentas"
-    },
-    {
-      "id": "44956025150",
-      "title": "Parafusadeira Furadeira Sem Fio 48V - Bivolt, 2 OU 1 Bateria, Kit Completo, Maleta de Transporte OU caixa de papelão",
-      "price": 115.95,
-      "originalPrice": 173.06,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpuoehq8krgv52",
-      "url": "https://s.shopee.com.br/5VWex3f62T",
-      "rating": 4.9,
-      "salesCount": 451,
-      "seller": "qingm",
-      "category": "Ferramentas"
-    },
-    {
       "id": "18698826077",
       "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
       "price": 109.9,
@@ -257,6 +230,21 @@
       "salesCount": 4759,
       "seller": "FIOFLEXX",
       "category": "Ferramentas"
+    },
+    {
+      "id": "13494334390",
+      "title": "Cílios Fadvan W 4D Extensão De Cílios Alongamento W Novidade Volume Híbrido Maquiagem",
+      "price": 17.99,
+      "originalPrice": 21.99,
+      "discountPercent": 18.2,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md41zddja3uz7d",
+      "url": "https://s.shopee.com.br/2gCT5RUJOW",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 3573,
+      "official": true,
+      "seller": "fadvan.br",
+      "category": "Beleza"
     },
     {
       "id": "46306012672",
@@ -299,33 +287,6 @@
       "category": "Ferramentas"
     },
     {
-      "id": "23615780781",
-      "title": "Kit 4 Super Panos De Chão Grandes Em Microfibra Panão 80x50",
-      "price": 33.65,
-      "originalPrice": 39.99,
-      "discountPercent": 15.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mriqddxnod8n6f",
-      "url": "https://s.shopee.com.br/5q9UrJlht6",
-      "rating": 4.7,
-      "salesCount": 3496,
-      "official": true,
-      "seller": "SELLNEEDS",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "47511747472",
-      "title": "Kit 8 Esmaltes Metálicos Brilho Ativo 8ml Alta Cobertura",
-      "price": 25.67,
-      "originalPrice": 36.9,
-      "discountPercent": 30.4,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258r-mso6sqzt9h50b7",
-      "url": "https://s.shopee.com.br/2BGCUbcVvc",
-      "rating": 4.9,
-      "salesCount": 1136,
-      "seller": "Loja Golden ",
-      "category": "Beleza"
-    },
-    {
       "id": "23992058945",
       "title": "Fonte Bebedouro H2O Plus para Cães e Gatos de 1.5 Litros com Torneira Inox",
       "price": 28.02,
@@ -351,7 +312,8 @@
       "salesCount": 918,
       "official": true,
       "seller": "Na Web Group De Marcas",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "42124571795",
