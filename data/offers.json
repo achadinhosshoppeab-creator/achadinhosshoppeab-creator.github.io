@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T21:50:39.901Z",
+  "updatedAt": "2026-11-06T22:11:32.931Z",
   "offers": [
     {
       "id": "58258154242",
@@ -58,21 +58,6 @@
       "salesCount": 2968,
       "official": true,
       "seller": "Popozuda Oficial",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "23298825465",
-      "title": "Geleia Hidratante My Sweet Delight Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
-      "price": 24.9,
-      "originalPrice": 48.21,
-      "discountPercent": 48.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
-      "url": "https://s.shopee.com.br/1BiWCghi0",
-      "rating": 4.8,
-      "salesCount": 1232,
-      "official": true,
-      "seller": "Barbour's Beauty",
       "category": "Beleza",
       "hot": true
     },
@@ -157,7 +142,8 @@
       "rating": 4.9,
       "salesCount": 406,
       "seller": "Pet Vet Store",
-      "category": "Pet e bebê"
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "19253571158",
@@ -172,21 +158,6 @@
       "official": true,
       "seller": "Keedi Eletrônicos",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "13494334390",
-      "title": "Cílios Fadvan W 4D Extensão De Cílios Alongamento W Novidade Volume Híbrido Maquiagem",
-      "price": 17.99,
-      "originalPrice": 21.99,
-      "discountPercent": 18.2,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md41zddja3uz7d",
-      "url": "https://s.shopee.com.br/2gCT5RUJOW",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 3809,
-      "official": true,
-      "seller": "fadvan.br",
-      "category": "Beleza"
     },
     {
       "id": "13697446869",
@@ -215,19 +186,6 @@
       "seller": "Loja Golden ",
       "category": "Beleza",
       "hot": true
-    },
-    {
-      "id": "23992058945",
-      "title": "Fonte Bebedouro H2O Plus para Cães e Gatos de 1.5 Litros com Torneira Inox",
-      "price": 28.02,
-      "originalPrice": 34.85,
-      "discountPercent": 19.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mpxzyubpkw023d",
-      "url": "https://s.shopee.com.br/5AtoYRBZFK",
-      "rating": 4.8,
-      "salesCount": 731,
-      "seller": "Vale Eletro Shop",
-      "category": "Pet e bebê"
     },
     {
       "id": "18071105004",
@@ -306,18 +264,30 @@
       "hot": true
     },
     {
-      "id": "25343192866",
-      "title": "Kit Conjuntos Short Dool Pijama Baby MICRO ESTAMPADO Feminino Roupa De Dormir Noite Fresquinho",
-      "price": 32.99,
-      "originalPrice": 38.82,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mqqydqtdu0oz87",
-      "url": "https://s.shopee.com.br/4B1GsEEziz",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1992,
-      "seller": "Rosa de Mello Atacado & Varejo",
-      "category": "Moda"
+      "id": "20598461061",
+      "title": "Cortina Voil Gaze De Linho 3,00 x 2,20/2,30/2,40/2,50/2,60/2,70/2,80 C/forro Blackout Grosso Original",
+      "price": 199.9,
+      "originalPrice": 239.9,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mtqni748srupa7",
+      "url": "https://s.shopee.com.br/906Wd61KWj",
+      "rating": 4.9,
+      "salesCount": 1551,
+      "seller": "Kaluros ",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "40671349128",
+      "title": "Kit De Paleta De Maquiagem Profissional , Conjunto De Presente Tudo-Em-Um Para Adolescentes Com Sombra De 24 Cores , Blu",
+      "price": 47.63,
+      "originalPrice": 58.43,
+      "discountPercent": 18.5,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824ix-mf0k20cbxkb223",
+      "url": "https://s.shopee.com.br/AKbup2GcMd",
+      "rating": 4.8,
+      "salesCount": 186,
+      "seller": "Value Choice",
+      "category": "Beleza"
     },
     {
       "id": "23799188673",
