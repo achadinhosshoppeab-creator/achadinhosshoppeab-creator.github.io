@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T22:53:59.917Z",
+  "updatedAt": "2026-11-06T23:28:49.957Z",
   "offers": [
     {
       "id": "58258154242",
@@ -77,20 +77,6 @@
       "hot": true
     },
     {
-      "id": "11744649287",
-      "title": "Banho De Verniz Máscara 1Kg Forever Liss",
-      "price": 49.9,
-      "originalPrice": 62.9,
-      "discountPercent": 20.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d4no4xycn5ca",
-      "url": "https://s.shopee.com.br/9fMFd3fR7o",
-      "rating": 4.9,
-      "salesCount": 1104,
-      "official": true,
-      "seller": "Forever Liss",
-      "category": "Beleza"
-    },
-    {
       "id": "55957404904",
       "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
       "price": 39.9,
@@ -157,7 +143,8 @@
       "rating": 4.9,
       "salesCount": 406,
       "seller": "Pet Vet Store",
-      "category": "Pet e bebê"
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "19253571158",
@@ -174,6 +161,21 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "13494334390",
+      "title": "Cílios Fadvan W 4D Extensão De Cílios Alongamento W Novidade Volume Híbrido Maquiagem",
+      "price": 17.99,
+      "originalPrice": 21.99,
+      "discountPercent": 18.2,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md41zddja3uz7d",
+      "url": "https://s.shopee.com.br/2gCT5RUJOW",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 3809,
+      "official": true,
+      "seller": "fadvan.br",
+      "category": "Beleza"
+    },
+    {
       "id": "13697446869",
       "title": "Varal Portátil Para Apartamento Secador De Roupas Prático e Retrátil Para Janela e Parede",
       "price": 22.49,
@@ -186,20 +188,6 @@
       "official": true,
       "seller": "SELLNEEDS",
       "category": "Casa e organização"
-    },
-    {
-      "id": "47511747472",
-      "title": "Kit 8 Esmaltes Metálicos Brilho Ativo 8ml Alta Cobertura",
-      "price": 25.67,
-      "originalPrice": 36.9,
-      "discountPercent": 30.4,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258r-mso6sqzt9h50b7",
-      "url": "https://s.shopee.com.br/2BGCUbcVvc",
-      "rating": 4.9,
-      "salesCount": 1127,
-      "seller": "Loja Golden ",
-      "category": "Beleza",
-      "hot": true
     },
     {
       "id": "23992058945",
@@ -302,6 +290,19 @@
       "salesCount": 1551,
       "seller": "Kaluros ",
       "category": "Casa e organização"
+    },
+    {
+      "id": "40671349128",
+      "title": "Kit De Paleta De Maquiagem Profissional , Conjunto De Presente Tudo-Em-Um Para Adolescentes Com Sombra De 24 Cores , Blu",
+      "price": 47.63,
+      "originalPrice": 58.43,
+      "discountPercent": 18.5,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824ix-mf0k20cbxkb223",
+      "url": "https://s.shopee.com.br/AKbup2GcMd",
+      "rating": 4.8,
+      "salesCount": 186,
+      "seller": "Value Choice",
+      "category": "Beleza"
     },
     {
       "id": "23799188673",
