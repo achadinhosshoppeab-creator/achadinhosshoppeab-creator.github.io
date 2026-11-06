@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T13:00:46.702Z",
+  "updatedAt": "2026-11-06T13:22:47.666Z",
   "offers": [
     {
       "id": "58258154242",
@@ -16,33 +16,65 @@
       "hot": true
     },
     {
-      "id": "21678240017",
-      "title": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g",
-      "price": 31.9,
-      "originalPrice": 43.45,
-      "discountPercent": 26.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mrvgs50iy8zr1f",
-      "url": "https://s.shopee.com.br/5q9UrGMAv9",
+      "id": "56556653787",
+      "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
+      "price": 74.9,
+      "originalPrice": 99.9,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mul5acri4f7l1d",
+      "url": "https://s.shopee.com.br/AAIUbSVdLl",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1328,
+      "seller": "Gaby Reborn",
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "58207914273",
+      "title": "Popozuda Lisinha Redutor de Pelos Corporais com Telocapil",
+      "price": 39.9,
+      "originalPrice": 59.9,
+      "discountPercent": 33.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mu2f856jfbpe66",
+      "url": "https://s.shopee.com.br/3B8jgRdWMq",
+      "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 6037,
+      "salesCount": 8471,
       "official": true,
-      "seller": "KOKESHI OFICIAL",
+      "seller": "Popozuda Oficial",
       "category": "Beleza",
       "hot": true
     },
     {
-      "id": "55957404904",
-      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
+      "id": "23799494458",
+      "title": "Popozuda Clarinha Sérum Clareador Corporal com Niacinamida e Ácido Tranexâmico",
       "price": 39.9,
-      "originalPrice": 49.9,
-      "discountPercent": 20,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
-      "url": "https://s.shopee.com.br/9V2nE1PtQK",
+      "originalPrice": 59.9,
+      "discountPercent": 33.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mu2i2k24ydc25f",
+      "url": "https://s.shopee.com.br/LoYJEoJ7Z",
       "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2950,
+      "official": true,
+      "seller": "Popozuda Oficial",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "23298825465",
+      "title": "Geleia Hidratante My Sweet Delight Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
+      "price": 24.9,
+      "originalPrice": 48.21,
+      "discountPercent": 48.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
+      "url": "https://s.shopee.com.br/1BiWCghi0",
       "rating": 4.8,
-      "salesCount": 962,
-      "seller": "Lescent",
-      "category": "Beleza"
+      "salesCount": 1231,
+      "official": true,
+      "seller": "Barbour's Beauty",
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "25745811858",
@@ -57,6 +89,20 @@
       "official": true,
       "seller": "Na Web Group De Marcas",
       "category": "Cozinha"
+    },
+    {
+      "id": "19408193582",
+      "title": "Kit Boneca Bebê Reborn 48cm Vinil Siliconado Com Bolsa Fraldas Mamadeira Chupeta E Acessórios",
+      "price": 201.33,
+      "originalPrice": 239.09,
+      "discountPercent": 15.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mqovt3426oldc6",
+      "url": "https://s.shopee.com.br/W7z8bPdUO",
+      "rating": 4.9,
+      "salesCount": 672,
+      "official": true,
+      "seller": "Mamãe Reborn",
+      "category": "Pet e bebê"
     },
     {
       "id": "22997647570",
@@ -97,8 +143,21 @@
       "rating": 4.9,
       "salesCount": 428,
       "seller": "Pet Vet Store",
-      "category": "Pet e bebê",
-      "hot": true
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "18698826077",
+      "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
+      "price": 109.9,
+      "originalPrice": 149,
+      "discountPercent": 26.2,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
+      "url": "https://s.shopee.com.br/60SvbuSHRM",
+      "rating": 4.9,
+      "salesCount": 1104,
+      "official": true,
+      "seller": "Eletricario Loja Oficial",
+      "category": "Ferramentas"
     },
     {
       "id": "23794696993",
@@ -158,6 +217,19 @@
       "hot": true
     },
     {
+      "id": "23992058945",
+      "title": "Fonte Bebedouro H2O Plus para Cães e Gatos de 1.5 Litros com Torneira Inox",
+      "price": 28.02,
+      "originalPrice": 34.85,
+      "discountPercent": 19.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mpxzyubpkw023d",
+      "url": "https://s.shopee.com.br/5AtoYRBZFK",
+      "rating": 4.8,
+      "salesCount": 751,
+      "seller": "Vale Eletro Shop",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "18071105004",
       "title": "Kit Cabides Veludo Para Roupas Adulto 30 Unidades Fino Resistente",
       "price": 41.9,
@@ -171,6 +243,21 @@
       "official": true,
       "seller": "Na Web Group De Marcas",
       "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "58219247585",
+      "title": "Cubo Sensorial Antiestresse Squishy Macio e Apertável Rosa Roxo Azul Brinquedo Kit 1 2 3 Unidades",
+      "price": 21.99,
+      "originalPrice": 32.99,
+      "discountPercent": 33.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mu3wriykqeiye5",
+      "url": "https://s.shopee.com.br/5q9VLenAW1",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2240,
+      "seller": "Sunshine82",
+      "category": "Pet e bebê",
       "hot": true
     },
     {
@@ -215,8 +302,7 @@
       "rating": 4.7,
       "salesCount": 2021,
       "seller": "Rosa de Mello Atacado & Varejo",
-      "category": "Moda",
-      "hot": true
+      "category": "Moda"
     },
     {
       "id": "22997581085",
@@ -245,8 +331,7 @@
       "salesCount": 560,
       "official": true,
       "seller": "MANADA ANIMAL",
-      "category": "Pet e bebê",
-      "hot": true
+      "category": "Pet e bebê"
     },
     {
       "id": "48902429562",
@@ -261,6 +346,34 @@
       "salesCount": 792,
       "seller": "CASA DALONSO",
       "category": "Casa e organização"
+    },
+    {
+      "id": "58218280893",
+      "title": "squishy Bolinho Baozi Glitter Caixa Misteriosa Brinquedo 8.5cm/5.5cm Bolinhos Brinquedo De Apertar Sensorial",
+      "price": 16.99,
+      "originalPrice": 21.98,
+      "discountPercent": 22.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mtupxhg1xgqocb",
+      "url": "https://s.shopee.com.br/5AtoYQphrq",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 2106,
+      "seller": "Brinquedo Park",
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "48107537821",
+      "title": "Kit 2 Calça Alfaiataria PREMIUM Com Bolso Cintura Alta PROMOÇÃO",
+      "price": 31.8,
+      "originalPrice": 40.9,
+      "discountPercent": 22.2,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mm3v4n8mj4lj5d",
+      "url": "https://s.shopee.com.br/3g50HN6Tvr",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 4177,
+      "seller": "Ph Modas ",
+      "category": "Moda"
     },
     {
       "id": "20598461061",
