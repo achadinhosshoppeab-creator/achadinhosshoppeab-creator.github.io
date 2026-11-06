@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T16:32:40.378Z",
+  "updatedAt": "2026-11-06T16:54:00.720Z",
   "offers": [
     {
       "id": "58258154242",
@@ -77,18 +77,32 @@
       "hot": true
     },
     {
-      "id": "55957404904",
-      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
-      "price": 39.9,
-      "originalPrice": 49.9,
-      "discountPercent": 20,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
-      "url": "https://s.shopee.com.br/9V2nE1PtQK",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 962,
-      "seller": "Lescent",
+      "id": "11744649287",
+      "title": "Banho De Verniz Máscara 1Kg Forever Liss",
+      "price": 49.9,
+      "originalPrice": 62.9,
+      "discountPercent": 20.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d4no4xycn5ca",
+      "url": "https://s.shopee.com.br/9fMFd3fR7o",
+      "rating": 4.9,
+      "salesCount": 1095,
+      "official": true,
+      "seller": "Forever Liss",
       "category": "Beleza"
+    },
+    {
+      "id": "25745811858",
+      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
+      "price": 264.9,
+      "originalPrice": 329.9,
+      "discountPercent": 19.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
+      "url": "https://s.shopee.com.br/9fMDQJlakz",
+      "rating": 4.9,
+      "salesCount": 933,
+      "official": true,
+      "seller": "Na Web Group De Marcas",
+      "category": "Cozinha"
     },
     {
       "id": "19408193582",
@@ -105,20 +119,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "22997647570",
-      "title": "Escova secador Modeladora Taiff Oval Easy Pink Original",
-      "price": 139.16,
-      "originalPrice": 199.99,
-      "discountPercent": 30.4,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
-      "url": "https://s.shopee.com.br/2Vt3UdxhvD",
-      "rating": 4.9,
-      "salesCount": 658,
-      "official": true,
-      "seller": "Beleza Renovada Oficial",
-      "category": "Beleza"
-    },
-    {
       "id": "22693731888",
       "title": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
       "price": 352.9,
@@ -131,19 +131,6 @@
       "official": true,
       "seller": "Lizze",
       "category": "Beleza"
-    },
-    {
-      "id": "28487251823",
-      "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos 500ML",
-      "price": 17.9,
-      "originalPrice": 24.9,
-      "discountPercent": 28.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mamse9r4wiofc2",
-      "url": "https://s.shopee.com.br/4B1HTuq1r6",
-      "rating": 4.9,
-      "salesCount": 428,
-      "seller": "Pet Vet Store",
-      "category": "Pet e bebê"
     },
     {
       "id": "19253571158",
@@ -171,7 +158,8 @@
       "rating": 4.8,
       "salesCount": 4759,
       "seller": "FIOFLEXX",
-      "category": "Ferramentas"
+      "category": "Ferramentas",
+      "hot": true
     },
     {
       "id": "13494334390",
@@ -189,6 +177,20 @@
       "category": "Beleza"
     },
     {
+      "id": "13697446869",
+      "title": "Varal Portátil Para Apartamento Secador De Roupas Prático e Retrátil Para Janela e Parede",
+      "price": 22.49,
+      "originalPrice": 26.99,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mr21ahxh7w92fe",
+      "url": "https://s.shopee.com.br/5LDEGOeoE2",
+      "rating": 4.8,
+      "salesCount": 5713,
+      "official": true,
+      "seller": "SELLNEEDS",
+      "category": "Casa e organização"
+    },
+    {
       "id": "47511747472",
       "title": "Kit 8 Esmaltes Metálicos Brilho Ativo 8ml Alta Cobertura",
       "price": 25.67,
@@ -203,20 +205,17 @@
       "hot": true
     },
     {
-      "id": "18071105004",
-      "title": "Kit Cabides Veludo Para Roupas Adulto 30 Unidades Fino Resistente",
-      "price": 41.9,
-      "originalPrice": 59.9,
-      "discountPercent": 30.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6qu5cyullio31",
-      "url": "https://s.shopee.com.br/4LKh4YV4gF",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 918,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Casa e organização",
-      "hot": true
+      "id": "23992058945",
+      "title": "Fonte Bebedouro H2O Plus para Cães e Gatos de 1.5 Litros com Torneira Inox",
+      "price": 28.02,
+      "originalPrice": 34.85,
+      "discountPercent": 19.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mpxzyubpkw023d",
+      "url": "https://s.shopee.com.br/5AtoYRBZFK",
+      "rating": 4.8,
+      "salesCount": 751,
+      "seller": "Vale Eletro Shop",
+      "category": "Pet e bebê"
     },
     {
       "id": "58219247585",
@@ -246,49 +245,6 @@
       "salesCount": 1230,
       "official": true,
       "seller": "DSD Multi Comercio",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23791517291",
-      "title": "Kit 40 Cabide Infantil Veludo Slim Antideslizante Ultrafino",
-      "price": 62.85,
-      "originalPrice": 79.9,
-      "discountPercent": 21.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6qu5cyuvfhs36",
-      "url": "https://s.shopee.com.br/6VPBeXMpI7",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 174,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "22594257659",
-      "title": "02 Shampoo Dermatite Clorexidina 500ml World",
-      "price": 24.15,
-      "originalPrice": 33.86,
-      "discountPercent": 28.7,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdw4-mckur2h16hfb06",
-      "url": "https://s.shopee.com.br/5q9VSyjgTK",
-      "rating": 4.9,
-      "salesCount": 560,
-      "official": true,
-      "seller": "MANADA ANIMAL",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "48902429562",
-      "title": "KIT Cabide Veludo 100 Unidades Adulto Antiderrapante Slim Ultra fino Resistente",
-      "price": 65.67,
-      "originalPrice": 78.98,
-      "discountPercent": 16.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mqhsxk83u7er33",
-      "url": "https://s.shopee.com.br/4qGxfTTAfM",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 792,
-      "seller": "CASA DALONSO",
       "category": "Casa e organização"
     },
     {
@@ -332,19 +288,6 @@
       "salesCount": 2021,
       "seller": "Rosa de Mello Atacado & Varejo",
       "category": "Moda"
-    },
-    {
-      "id": "40671349128",
-      "title": "Kit De Paleta De Maquiagem Profissional , Conjunto De Presente Tudo-Em-Um Para Adolescentes Com Sombra De 24 Cores , Blu",
-      "price": 47.63,
-      "originalPrice": 58.43,
-      "discountPercent": 18.5,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824ix-mf0k20cbxkb223",
-      "url": "https://s.shopee.com.br/AKbup2GcMd",
-      "rating": 4.8,
-      "salesCount": 179,
-      "seller": "Value Choice",
-      "category": "Beleza"
     },
     {
       "id": "23799188673",
