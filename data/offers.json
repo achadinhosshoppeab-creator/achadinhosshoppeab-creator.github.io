@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T01:00:24.729Z",
+  "updatedAt": "2026-11-06T01:21:45.462Z",
   "offers": [
     {
       "id": "58258154242",
@@ -29,6 +29,20 @@
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "56556653787",
+      "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
+      "price": 74.9,
+      "originalPrice": 99.9,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mul5acri4f7l1d",
+      "url": "https://s.shopee.com.br/AAIUbSVdLl",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1328,
+      "seller": "Gaby Reborn",
+      "category": "Pet e bebê"
     },
     {
       "id": "23298825465",
@@ -74,20 +88,6 @@
       "category": "Beleza"
     },
     {
-      "id": "25745811858",
-      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
-      "price": 264.9,
-      "originalPrice": 329.9,
-      "discountPercent": 19.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
-      "url": "https://s.shopee.com.br/9fMDQJlakz",
-      "rating": 4.9,
-      "salesCount": 933,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Cozinha"
-    },
-    {
       "id": "23198205483",
       "title": "Capa Capinha Magnética MagSafe Fosca Antichoque para iPhone 11 12 13 14 15 16 17 18 Pro Max 16E 17E",
       "price": 17.89,
@@ -116,6 +116,19 @@
       "seller": "Creamy Skincare",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "28487251823",
+      "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos 500ML",
+      "price": 17.9,
+      "originalPrice": 24.9,
+      "discountPercent": 28.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mamse9r4wiofc2",
+      "url": "https://s.shopee.com.br/4B1HTuq1r6",
+      "rating": 4.9,
+      "salesCount": 428,
+      "seller": "Pet Vet Store",
+      "category": "Pet e bebê"
     },
     {
       "id": "57555992595",
