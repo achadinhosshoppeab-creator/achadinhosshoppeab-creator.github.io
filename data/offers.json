@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T02:03:21.184Z",
+  "updatedAt": "2026-11-06T02:23:54.069Z",
   "offers": [
     {
       "id": "58258154242",
@@ -74,6 +74,20 @@
       "category": "Beleza"
     },
     {
+      "id": "55957404904",
+      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
+      "price": 39.9,
+      "originalPrice": 49.9,
+      "discountPercent": 20,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
+      "url": "https://s.shopee.com.br/9V2nE1PtQK",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 962,
+      "seller": "Lescent",
+      "category": "Beleza"
+    },
+    {
       "id": "25745811858",
       "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
       "price": 264.9,
@@ -116,6 +130,20 @@
       "seller": "Creamy Skincare",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "22693731888",
+      "title": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
+      "price": 352.9,
+      "originalPrice": 458.99,
+      "discountPercent": 23.1,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6",
+      "url": "https://s.shopee.com.br/1BNfIi8oiq",
+      "rating": 5,
+      "salesCount": 2603,
+      "official": true,
+      "seller": "Lizze",
+      "category": "Beleza"
     },
     {
       "id": "20199608460",
@@ -230,8 +258,8 @@
     {
       "id": "47208059451",
       "title": "Parafusadeira Furadeira 48V Sem Fio com 2 OU 1 Bateria, Acessórios Completos e Maleta de Transporte OU caixa de papelão",
-      "price": 115.96,
-      "originalPrice": 156.7,
+      "price": 115.99,
+      "originalPrice": 156.74,
       "discountPercent": 26,
       "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpuoa8cwcwld46",
       "url": "https://s.shopee.com.br/3qOR1vaWpj",
@@ -253,6 +281,20 @@
       "seller": "Loja Golden ",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "22997647570",
+      "title": "Escova secador Modeladora Taiff Oval Easy Pink Original",
+      "price": 164.99,
+      "originalPrice": 199.99,
+      "discountPercent": 17.5,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
+      "url": "https://s.shopee.com.br/2Vt3UdxhvD",
+      "rating": 4.9,
+      "salesCount": 658,
+      "official": true,
+      "seller": "Beleza Renovada Oficial",
+      "category": "Beleza"
     },
     {
       "id": "58219247585",
