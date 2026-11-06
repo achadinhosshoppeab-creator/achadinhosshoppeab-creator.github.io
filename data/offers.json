@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T15:29:17.119Z",
+  "updatedAt": "2026-11-06T15:50:27.887Z",
   "offers": [
     {
       "id": "58258154242",
@@ -14,20 +14,6 @@
       "seller": "MULTIORIENTAL",
       "category": "Casa e organização",
       "hot": true
-    },
-    {
-      "id": "56556653787",
-      "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
-      "price": 74.9,
-      "originalPrice": 99.9,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mul5acri4f7l1d",
-      "url": "https://s.shopee.com.br/AAIUbSVdLl",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1328,
-      "seller": "Gaby Reborn",
-      "category": "Pet e bebê"
     },
     {
       "id": "58207914273",
@@ -103,20 +89,6 @@
       "salesCount": 962,
       "seller": "Lescent",
       "category": "Beleza"
-    },
-    {
-      "id": "25745811858",
-      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
-      "price": 264.9,
-      "originalPrice": 329.9,
-      "discountPercent": 19.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
-      "url": "https://s.shopee.com.br/9fMDQJlakz",
-      "rating": 4.9,
-      "salesCount": 933,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Cozinha"
     },
     {
       "id": "19408193582",
