@@ -1,20 +1,6 @@
 {
-  "updatedAt": "2026-11-06T13:43:52.158Z",
+  "updatedAt": "2026-11-06T14:03:48.594Z",
   "offers": [
-    {
-      "id": "58258154242",
-      "title": "Luminária LED Sem Fio Touch Recarregável 3 Cores de Luz Moderna Minimalista Mesa",
-      "price": 42,
-      "originalPrice": 120,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81ztw-mml0ofw66rr5b6",
-      "url": "https://s.shopee.com.br/6AmLFt2u5k",
-      "rating": 5,
-      "salesCount": 771,
-      "seller": "MULTIORIENTAL",
-      "category": "Casa e organização",
-      "hot": true
-    },
     {
       "id": "56556653787",
       "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
@@ -105,75 +91,6 @@
       "category": "Beleza"
     },
     {
-      "id": "25745811858",
-      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
-      "price": 264.9,
-      "originalPrice": 329.9,
-      "discountPercent": 19.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
-      "url": "https://s.shopee.com.br/9fMDQJlakz",
-      "rating": 4.9,
-      "salesCount": 933,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Cozinha"
-    },
-    {
-      "id": "19408193582",
-      "title": "Kit Boneca Bebê Reborn 48cm Vinil Siliconado Com Bolsa Fraldas Mamadeira Chupeta E Acessórios",
-      "price": 201.33,
-      "originalPrice": 239.09,
-      "discountPercent": 15.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mqovt3426oldc6",
-      "url": "https://s.shopee.com.br/W7z8bPdUO",
-      "rating": 4.9,
-      "salesCount": 672,
-      "official": true,
-      "seller": "Mamãe Reborn",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "22997647570",
-      "title": "Escova secador Modeladora Taiff Oval Easy Pink Original",
-      "price": 139.16,
-      "originalPrice": 199.99,
-      "discountPercent": 30.4,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
-      "url": "https://s.shopee.com.br/2Vt3UdxhvD",
-      "rating": 4.9,
-      "salesCount": 658,
-      "official": true,
-      "seller": "Beleza Renovada Oficial",
-      "category": "Beleza"
-    },
-    {
-      "id": "22693731888",
-      "title": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
-      "price": 352.9,
-      "originalPrice": 458.99,
-      "discountPercent": 23.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6",
-      "url": "https://s.shopee.com.br/1BNfIi8oiq",
-      "rating": 5,
-      "salesCount": 2603,
-      "official": true,
-      "seller": "Lizze",
-      "category": "Beleza"
-    },
-    {
-      "id": "28487251823",
-      "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos 500ML",
-      "price": 17.9,
-      "originalPrice": 24.9,
-      "discountPercent": 28.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mamse9r4wiofc2",
-      "url": "https://s.shopee.com.br/4B1HTuq1r6",
-      "rating": 4.9,
-      "salesCount": 428,
-      "seller": "Pet Vet Store",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "18698826077",
       "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
       "price": 109.9,
@@ -202,35 +119,6 @@
       "category": "Eletrônicos"
     },
     {
-      "id": "23794696993",
-      "title": "Fio Elétrico Cabo Flexível 2,5mm Fio Selo certificado 20 METROS 50 METROS ROLO 100 METROS",
-      "price": 19.49,
-      "originalPrice": 24,
-      "discountPercent": 18.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhnf77mmfb41f1",
-      "url": "https://s.shopee.com.br/2qVvUIshPC",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 4759,
-      "seller": "FIOFLEXX",
-      "category": "Ferramentas"
-    },
-    {
-      "id": "13494334390",
-      "title": "Cílios Fadvan W 4D Extensão De Cílios Alongamento W Novidade Volume Híbrido Maquiagem",
-      "price": 17.99,
-      "originalPrice": 21.99,
-      "discountPercent": 18.2,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md41zddja3uz7d",
-      "url": "https://s.shopee.com.br/2gCT5RUJOW",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 3573,
-      "official": true,
-      "seller": "fadvan.br",
-      "category": "Beleza"
-    },
-    {
       "id": "13697446869",
       "title": "Varal Portátil Para Apartamento Secador De Roupas Prático e Retrátil Para Janela e Parede",
       "price": 22.49,
@@ -243,20 +131,6 @@
       "official": true,
       "seller": "SELLNEEDS",
       "category": "Casa e organização"
-    },
-    {
-      "id": "47511747472",
-      "title": "Kit 8 Esmaltes Metálicos Brilho Ativo 8ml Alta Cobertura",
-      "price": 25.67,
-      "originalPrice": 36.9,
-      "discountPercent": 30.4,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258r-mso6sqzt9h50b7",
-      "url": "https://s.shopee.com.br/2BGCUbcVvc",
-      "rating": 4.9,
-      "salesCount": 1136,
-      "seller": "Loja Golden ",
-      "category": "Beleza",
-      "hot": true
     },
     {
       "id": "23992058945",
@@ -300,7 +174,8 @@
       "salesCount": 1230,
       "official": true,
       "seller": "DSD Multi Comercio",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "23791517291",
@@ -348,20 +223,6 @@
       "hot": true
     },
     {
-      "id": "22594257659",
-      "title": "02 Shampoo Dermatite Clorexidina 500ml World",
-      "price": 24.15,
-      "originalPrice": 33.86,
-      "discountPercent": 28.7,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdw4-mckur2h16hfb06",
-      "url": "https://s.shopee.com.br/5q9VSyjgTK",
-      "rating": 4.9,
-      "salesCount": 560,
-      "official": true,
-      "seller": "MANADA ANIMAL",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "48902429562",
       "title": "KIT Cabide Veludo 100 Unidades Adulto Antiderrapante Slim Ultra fino Resistente",
       "price": 65.67,
@@ -387,33 +248,8 @@
       "rating": 4.7,
       "salesCount": 4177,
       "seller": "Ph Modas ",
-      "category": "Moda"
-    },
-    {
-      "id": "20598461061",
-      "title": "Cortina Voil Gaze De Linho 3,00 x 2,20/2,30/2,40/2,50/2,60/2,70/2,80 C/forro Blackout Grosso Original",
-      "price": 199.9,
-      "originalPrice": 239.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mtqni748srupa7",
-      "url": "https://s.shopee.com.br/906Wd61KWj",
-      "rating": 4.9,
-      "salesCount": 1554,
-      "seller": "Kaluros ",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "40671349128",
-      "title": "Kit De Paleta De Maquiagem Profissional , Conjunto De Presente Tudo-Em-Um Para Adolescentes Com Sombra De 24 Cores , Blu",
-      "price": 47.63,
-      "originalPrice": 58.43,
-      "discountPercent": 18.5,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824ix-mf0k20cbxkb223",
-      "url": "https://s.shopee.com.br/AKbup2GcMd",
-      "rating": 4.8,
-      "salesCount": 179,
-      "seller": "Value Choice",
-      "category": "Beleza"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "23799188673",
