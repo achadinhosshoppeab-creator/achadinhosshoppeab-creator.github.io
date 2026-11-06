@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T16:54:00.720Z",
+  "updatedAt": "2026-11-06T17:15:29.472Z",
   "offers": [
     {
       "id": "58258154242",
@@ -62,21 +62,6 @@
       "hot": true
     },
     {
-      "id": "23298825465",
-      "title": "Geleia Hidratante My Sweet Delight Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
-      "price": 24.9,
-      "originalPrice": 48.21,
-      "discountPercent": 48.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
-      "url": "https://s.shopee.com.br/1BiWCghi0",
-      "rating": 4.8,
-      "salesCount": 1231,
-      "official": true,
-      "seller": "Barbour's Beauty",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
       "id": "11744649287",
       "title": "Banho De Verniz Máscara 1Kg Forever Liss",
       "price": 49.9,
@@ -88,6 +73,20 @@
       "salesCount": 1095,
       "official": true,
       "seller": "Forever Liss",
+      "category": "Beleza"
+    },
+    {
+      "id": "55957404904",
+      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
+      "price": 39.9,
+      "originalPrice": 49.9,
+      "discountPercent": 20,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
+      "url": "https://s.shopee.com.br/9V2nE1PtQK",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 962,
+      "seller": "Lescent",
       "category": "Beleza"
     },
     {
@@ -119,6 +118,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "22997647570",
+      "title": "Escova secador Modeladora Taiff Oval Easy Pink Original",
+      "price": 139.16,
+      "originalPrice": 199.99,
+      "discountPercent": 30.4,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
+      "url": "https://s.shopee.com.br/2Vt3UdxhvD",
+      "rating": 4.9,
+      "salesCount": 658,
+      "official": true,
+      "seller": "Beleza Renovada Oficial",
+      "category": "Beleza"
+    },
+    {
       "id": "22693731888",
       "title": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
       "price": 352.9,
@@ -133,48 +146,18 @@
       "category": "Beleza"
     },
     {
-      "id": "19253571158",
-      "title": "Mini Controle Teclado Air Mouse Wireless 2.4 Ghz -pc,game",
-      "price": 33.99,
-      "originalPrice": 42.87,
-      "discountPercent": 20.7,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xl-mia55nrh39j52f",
-      "url": "https://s.shopee.com.br/4fxXTBPPkn",
-      "rating": 4.8,
-      "salesCount": 1888,
-      "official": true,
-      "seller": "Keedi Eletrônicos",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "23794696993",
-      "title": "Fio Elétrico Cabo Flexível 2,5mm Fio Selo certificado 20 METROS 50 METROS ROLO 100 METROS",
-      "price": 19.49,
-      "originalPrice": 24,
-      "discountPercent": 18.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhnf77mmfb41f1",
-      "url": "https://s.shopee.com.br/2qVvUIshPC",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 4759,
-      "seller": "FIOFLEXX",
-      "category": "Ferramentas",
+      "id": "28487251823",
+      "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos 500ML",
+      "price": 17.9,
+      "originalPrice": 24.9,
+      "discountPercent": 28.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mamse9r4wiofc2",
+      "url": "https://s.shopee.com.br/4B1HTuq1r6",
+      "rating": 4.9,
+      "salesCount": 428,
+      "seller": "Pet Vet Store",
+      "category": "Pet e bebê",
       "hot": true
-    },
-    {
-      "id": "13494334390",
-      "title": "Cílios Fadvan W 4D Extensão De Cílios Alongamento W Novidade Volume Híbrido Maquiagem",
-      "price": 17.99,
-      "originalPrice": 21.99,
-      "discountPercent": 18.2,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md41zddja3uz7d",
-      "url": "https://s.shopee.com.br/2gCT5RUJOW",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 3573,
-      "official": true,
-      "seller": "fadvan.br",
-      "category": "Beleza"
     },
     {
       "id": "13697446869",
@@ -218,6 +201,22 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "18071105004",
+      "title": "Kit Cabides Veludo Para Roupas Adulto 30 Unidades Fino Resistente",
+      "price": 41.9,
+      "originalPrice": 59.9,
+      "discountPercent": 30.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6qu5cyullio31",
+      "url": "https://s.shopee.com.br/4LKh4YV4gF",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 918,
+      "official": true,
+      "seller": "Na Web Group De Marcas",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
       "id": "58219247585",
       "title": "Cubo Sensorial Antiestresse Squishy Macio e Apertável Rosa Roxo Azul Brinquedo Kit 1 2 3 Unidades",
       "price": 21.99,
@@ -248,6 +247,35 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23791517291",
+      "title": "Kit 40 Cabide Infantil Veludo Slim Antideslizante Ultrafino",
+      "price": 62.85,
+      "originalPrice": 79.9,
+      "discountPercent": 21.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6qu5cyuvfhs36",
+      "url": "https://s.shopee.com.br/6VPBeXMpI7",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 174,
+      "official": true,
+      "seller": "Na Web Group De Marcas",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "48902429562",
+      "title": "KIT Cabide Veludo 100 Unidades Adulto Antiderrapante Slim Ultra fino Resistente",
+      "price": 65.67,
+      "originalPrice": 78.98,
+      "discountPercent": 16.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mqhsxk83u7er33",
+      "url": "https://s.shopee.com.br/4qGxfTTAfM",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 792,
+      "seller": "CASA DALONSO",
+      "category": "Casa e organização"
+    },
+    {
       "id": "48107537821",
       "title": "Kit 2 Calça Alfaiataria PREMIUM Com Bolso Cintura Alta PROMOÇÃO",
       "price": 31.8,
@@ -263,31 +291,17 @@
       "hot": true
     },
     {
-      "id": "20598461061",
-      "title": "Cortina Voil Gaze De Linho 3,00 x 2,20/2,30/2,40/2,50/2,60/2,70/2,80 C/forro Blackout Grosso Original",
-      "price": 199.9,
-      "originalPrice": 239.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mtqni748srupa7",
-      "url": "https://s.shopee.com.br/906Wd61KWj",
-      "rating": 4.9,
-      "salesCount": 1554,
-      "seller": "Kaluros ",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "25343192866",
-      "title": "Kit Conjuntos Short Dool Pijama Baby MICRO ESTAMPADO Feminino Roupa De Dormir Noite Fresquinho",
-      "price": 32.99,
-      "originalPrice": 38.82,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mqqydqtdu0oz87",
-      "url": "https://s.shopee.com.br/4B1GsEEziz",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 2021,
-      "seller": "Rosa de Mello Atacado & Varejo",
-      "category": "Moda"
+      "id": "40671349128",
+      "title": "Kit De Paleta De Maquiagem Profissional , Conjunto De Presente Tudo-Em-Um Para Adolescentes Com Sombra De 24 Cores , Blu",
+      "price": 47.63,
+      "originalPrice": 58.43,
+      "discountPercent": 18.5,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824ix-mf0k20cbxkb223",
+      "url": "https://s.shopee.com.br/AKbup2GcMd",
+      "rating": 4.8,
+      "salesCount": 179,
+      "seller": "Value Choice",
+      "category": "Beleza"
     },
     {
       "id": "23799188673",
