@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T15:20:33.344Z",
+  "updatedAt": "2026-11-07T15:41:38.018Z",
   "offers": [
     {
       "id": "21678240017",
@@ -63,18 +63,19 @@
       "hot": true
     },
     {
-      "id": "11744649287",
-      "title": "Banho De Verniz Máscara 1Kg Forever Liss",
-      "price": 49.9,
-      "originalPrice": 62.9,
-      "discountPercent": 20.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d4no4xycn5ca",
-      "url": "https://s.shopee.com.br/9zz7Yxgh4m",
-      "rating": 4.9,
-      "salesCount": 1104,
+      "id": "23298825465",
+      "title": "Geleia Hidratante My Sweet Delight Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
+      "price": 24.9,
+      "originalPrice": 48.21,
+      "discountPercent": 48.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
+      "url": "https://s.shopee.com.br/1BiWCghi0",
+      "rating": 4.8,
+      "salesCount": 1232,
       "official": true,
-      "seller": "Forever Liss",
-      "category": "Beleza"
+      "seller": "Barbour's Beauty",
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "55957404904",
@@ -103,20 +104,6 @@
       "seller": "MEDOOSI-BR",
       "category": "Pet e bebê",
       "hot": true
-    },
-    {
-      "id": "25745811858",
-      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
-      "price": 264.9,
-      "originalPrice": 329.9,
-      "discountPercent": 19.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
-      "url": "https://s.shopee.com.br/9fMDQJlakz",
-      "rating": 4.9,
-      "salesCount": 940,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Cozinha"
     },
     {
       "id": "15600471910",
@@ -163,20 +150,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "20199608460",
-      "title": "Secador De Cabelo Profissional Lizze Extreme",
-      "price": 352.9,
-      "originalPrice": 458.99,
-      "discountPercent": 23.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rccb-m6hdhdcr7ez62f",
-      "url": "https://s.shopee.com.br/70LSFUG7uV",
-      "rating": 5,
-      "salesCount": 856,
-      "official": true,
-      "seller": "Lizze",
-      "category": "Beleza"
-    },
-    {
       "id": "28487251823",
       "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos 500ML",
       "price": 17.9,
@@ -187,7 +160,8 @@
       "rating": 4.9,
       "salesCount": 406,
       "seller": "Pet Vet Store",
-      "category": "Pet e bebê"
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "13494334390",
@@ -247,20 +221,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "47511747472",
-      "title": "Kit 8 Esmaltes Metálicos Brilho Ativo 8ml Alta Cobertura",
-      "price": 25.67,
-      "originalPrice": 36.9,
-      "discountPercent": 30.4,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258r-mso6sqzt9h50b7",
-      "url": "https://s.shopee.com.br/2BGCUbcVvc",
-      "rating": 4.9,
-      "salesCount": 1127,
-      "seller": "Loja Golden ",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
       "id": "23992058945",
       "title": "Fonte Bebedouro H2O Plus para Cães e Gatos de 1.5 Litros com Torneira Inox",
       "price": 28.02,
@@ -272,21 +232,6 @@
       "salesCount": 731,
       "seller": "Vale Eletro Shop",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "58219247585",
-      "title": "Cubo Sensorial Antiestresse Squishy Macio e Apertável Rosa Roxo Azul Brinquedo Kit 1 2 3 Unidades",
-      "price": 21.99,
-      "originalPrice": 32.99,
-      "discountPercent": 33.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mu3wriykqeiye5",
-      "url": "https://s.shopee.com.br/5q9VLenAW1",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2284,
-      "seller": "Sunshine82",
-      "category": "Pet e bebê",
-      "hot": true
     },
     {
       "id": "28825262452",
@@ -345,19 +290,6 @@
       "salesCount": 1551,
       "seller": "Kaluros ",
       "category": "Casa e organização"
-    },
-    {
-      "id": "40671349128",
-      "title": "Kit De Paleta De Maquiagem Profissional , Conjunto De Presente Tudo-Em-Um Para Adolescentes Com Sombra De 24 Cores , Blu",
-      "price": 47.63,
-      "originalPrice": 58.43,
-      "discountPercent": 18.5,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824ix-mf0k20cbxkb223",
-      "url": "https://s.shopee.com.br/6q25oSGsi1",
-      "rating": 4.8,
-      "salesCount": 186,
-      "seller": "Value Choice",
-      "category": "Beleza"
     }
   ]
 }
