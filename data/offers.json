@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T22:21:56.102Z",
+  "updatedAt": "2026-11-07T22:43:08.476Z",
   "offers": [
     {
       "id": "21678240017",
@@ -15,6 +15,20 @@
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "56556653787",
+      "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
+      "price": 74.9,
+      "originalPrice": 99.9,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mul5acri4f7l1d",
+      "url": "https://s.shopee.com.br/AAIUbSVdLl",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1152,
+      "seller": "Gaby Reborn",
+      "category": "Pet e bebê"
     },
     {
       "id": "58207914273",
@@ -49,19 +63,18 @@
       "hot": true
     },
     {
-      "id": "23298825465",
-      "title": "Geleia Hidratante My Sweet Delight Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
-      "price": 24.9,
-      "originalPrice": 48.21,
-      "discountPercent": 48.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
-      "url": "https://s.shopee.com.br/1BiWCghi0",
-      "rating": 4.8,
-      "salesCount": 1245,
+      "id": "11744649287",
+      "title": "Banho De Verniz Máscara 1Kg Forever Liss",
+      "price": 49.9,
+      "originalPrice": 62.9,
+      "discountPercent": 20.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d4no4xycn5ca",
+      "url": "https://s.shopee.com.br/9zz7Yxgh4m",
+      "rating": 4.9,
+      "salesCount": 1077,
       "official": true,
-      "seller": "Barbour's Beauty",
-      "category": "Beleza",
-      "hot": true
+      "seller": "Forever Liss",
+      "category": "Beleza"
     },
     {
       "id": "55957404904",
@@ -120,6 +133,22 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23793879757",
+      "title": "Daily T-shirt Insider",
+      "price": 54,
+      "originalPrice": 80,
+      "discountPercent": 32.5,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82600-mlbw7dkwakudc3",
+      "url": "https://s.shopee.com.br/9V2nE66H7j",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 8451,
+      "official": true,
+      "seller": "INSIDER",
+      "category": "Moda",
+      "hot": true
+    },
+    {
       "id": "19408193582",
       "title": "Kit Boneca Bebê Reborn 48cm Vinil Siliconado Com Bolsa Fraldas Mamadeira Chupeta E Acessórios",
       "price": 201.33,
@@ -134,6 +163,21 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "20199608460",
+      "title": "Secador De Cabelo Profissional Lizze Extreme",
+      "price": 352.9,
+      "originalPrice": 458.99,
+      "discountPercent": 23.1,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rccb-m6hdhdcr7ez62f",
+      "url": "https://s.shopee.com.br/70LSFUG7uV",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 838,
+      "official": true,
+      "seller": "Lizze",
+      "category": "Beleza"
+    },
+    {
       "id": "28487251823",
       "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos 500ML",
       "price": 17.9,
@@ -145,6 +189,21 @@
       "salesCount": 396,
       "seller": "Pet Vet Store",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "13494334390",
+      "title": "Cílios Fadvan W 4D Extensão De Cílios Alongamento W Novidade Volume Híbrido Maquiagem",
+      "price": 17.99,
+      "originalPrice": 21.99,
+      "discountPercent": 18.2,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md41zddja3uz7d",
+      "url": "https://s.shopee.com.br/2gCT5RUJOW",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 4023,
+      "official": true,
+      "seller": "fadvan.br",
+      "category": "Beleza"
     },
     {
       "id": "58209417018",
@@ -244,21 +303,6 @@
       "salesCount": 1245,
       "official": true,
       "seller": "DSD Multi Comercio",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23791517291",
-      "title": "Kit 40 Cabide Infantil Veludo Slim Antideslizante Ultrafino",
-      "price": 62.85,
-      "originalPrice": 79.9,
-      "discountPercent": 21.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6qu5cyuvfhs36",
-      "url": "https://s.shopee.com.br/6VPBeXMpI7",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 165,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
       "category": "Casa e organização"
     },
     {
