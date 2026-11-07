@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T01:35:26.622Z",
+  "updatedAt": "2026-11-07T01:56:03.952Z",
   "offers": [
     {
       "id": "58258154242",
@@ -317,6 +317,19 @@
       "salesCount": 1551,
       "seller": "Kaluros ",
       "category": "Casa e organização"
+    },
+    {
+      "id": "40671349128",
+      "title": "Kit De Paleta De Maquiagem Profissional , Conjunto De Presente Tudo-Em-Um Para Adolescentes Com Sombra De 24 Cores , Blu",
+      "price": 47.63,
+      "originalPrice": 58.43,
+      "discountPercent": 18.5,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824ix-mf0k20cbxkb223",
+      "url": "https://s.shopee.com.br/AKbup2GcMd",
+      "rating": 4.8,
+      "salesCount": 186,
+      "seller": "Value Choice",
+      "category": "Beleza"
     },
     {
       "id": "23799188673",
