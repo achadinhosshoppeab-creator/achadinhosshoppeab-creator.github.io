@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T16:01:36.346Z",
+  "updatedAt": "2026-11-07T16:23:36.259Z",
   "offers": [
     {
       "id": "21678240017",
@@ -28,8 +28,7 @@
       "rating": 4.8,
       "salesCount": 1249,
       "seller": "Gaby Reborn",
-      "category": "Pet e bebê",
-      "hot": true
+      "category": "Pet e bebê"
     },
     {
       "id": "58207914273",
@@ -64,6 +63,35 @@
       "hot": true
     },
     {
+      "id": "23298825465",
+      "title": "Geleia Hidratante My Sweet Delight Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
+      "price": 24.9,
+      "originalPrice": 48.21,
+      "discountPercent": 48.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
+      "url": "https://s.shopee.com.br/1BiWCghi0",
+      "rating": 4.8,
+      "salesCount": 1232,
+      "official": true,
+      "seller": "Barbour's Beauty",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "11744649287",
+      "title": "Banho De Verniz Máscara 1Kg Forever Liss",
+      "price": 49.9,
+      "originalPrice": 62.9,
+      "discountPercent": 20.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d4no4xycn5ca",
+      "url": "https://s.shopee.com.br/9zz7Yxgh4m",
+      "rating": 4.9,
+      "salesCount": 1104,
+      "official": true,
+      "seller": "Forever Liss",
+      "category": "Beleza"
+    },
+    {
       "id": "55957404904",
       "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
       "price": 39.9,
@@ -76,6 +104,20 @@
       "salesCount": 993,
       "seller": "Lescent",
       "category": "Beleza"
+    },
+    {
+      "id": "23698701958",
+      "title": "MEDOOSI Jogo de Memória em Madeira para Crianças /Infantil Pinos Coloridos Xadrez 3D Quebra Cabeça /Educativo Brinquedos",
+      "price": 29.9,
+      "originalPrice": 99.67,
+      "discountPercent": 70,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnaxy4eo8poi31",
+      "url": "https://s.shopee.com.br/2qVx1qFdEQ",
+      "rating": 4.9,
+      "salesCount": 798,
+      "seller": "MEDOOSI-BR",
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "25745811858",
@@ -106,6 +148,22 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23793879757",
+      "title": "Daily T-shirt Insider",
+      "price": 54,
+      "originalPrice": 80,
+      "discountPercent": 32.5,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvk-mimqyksts74070",
+      "url": "https://s.shopee.com.br/9V2nE66H7j",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 8380,
+      "official": true,
+      "seller": "INSIDER",
+      "category": "Moda",
+      "hot": true
+    },
+    {
       "id": "19408193582",
       "title": "Kit Boneca Bebê Reborn 48cm Vinil Siliconado Com Bolsa Fraldas Mamadeira Chupeta E Acessórios",
       "price": 201.33,
@@ -120,6 +178,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "20199608460",
+      "title": "Secador De Cabelo Profissional Lizze Extreme",
+      "price": 352.9,
+      "originalPrice": 458.99,
+      "discountPercent": 23.1,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rccb-m6hdhdcr7ez62f",
+      "url": "https://s.shopee.com.br/70LSFUG7uV",
+      "rating": 5,
+      "salesCount": 856,
+      "official": true,
+      "seller": "Lizze",
+      "category": "Beleza"
+    },
+    {
       "id": "28487251823",
       "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos 500ML",
       "price": 17.9,
@@ -130,8 +202,7 @@
       "rating": 4.9,
       "salesCount": 406,
       "seller": "Pet Vet Store",
-      "category": "Pet e bebê",
-      "hot": true
+      "category": "Pet e bebê"
     },
     {
       "id": "13494334390",
@@ -146,8 +217,21 @@
       "salesCount": 3809,
       "official": true,
       "seller": "fadvan.br",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
+    },
+    {
+      "id": "58209417018",
+      "title": "Chinelo Havaianas Top Branco Original + Placa Logo + Pontos de Luz",
+      "price": 38.24,
+      "originalPrice": 46.75,
+      "discountPercent": 18.2,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mqnehcwta802be",
+      "url": "https://s.shopee.com.br/4fxXTDKCm9",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2859,
+      "seller": "luxonospes",
+      "category": "Moda"
     },
     {
       "id": "23794696993",
@@ -161,8 +245,64 @@
       "rating": 4.8,
       "salesCount": 4787,
       "seller": "FIOFLEXX",
-      "category": "Ferramentas",
+      "category": "Ferramentas"
+    },
+    {
+      "id": "13697446869",
+      "title": "Varal Portátil Para Apartamento Secador De Roupas Prático e Retrátil Para Janela e Parede",
+      "price": 22.49,
+      "originalPrice": 26.99,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mr21ahxh7w92fe",
+      "url": "https://s.shopee.com.br/5LDEGOeoE2",
+      "rating": 4.8,
+      "salesCount": 5577,
+      "official": true,
+      "seller": "SELLNEEDS",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "47511747472",
+      "title": "Kit 8 Esmaltes Metálicos Brilho Ativo 8ml Alta Cobertura",
+      "price": 25.67,
+      "originalPrice": 36.9,
+      "discountPercent": 30.4,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258r-mso6sqzt9h50b7",
+      "url": "https://s.shopee.com.br/2BGCUbcVvc",
+      "rating": 4.9,
+      "salesCount": 1127,
+      "seller": "Loja Golden ",
+      "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "58219247585",
+      "title": "Cubo Sensorial Antiestresse Squishy Macio e Apertável Rosa Roxo Azul Brinquedo Kit 1 2 3 Unidades",
+      "price": 21.99,
+      "originalPrice": 32.99,
+      "discountPercent": 33.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mu3wriykqeiye5",
+      "url": "https://s.shopee.com.br/5q9VLenAW1",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2284,
+      "seller": "Sunshine82",
+      "category": "Pet e bebê",
+      "hot": true
+    },
+    {
+      "id": "28825262452",
+      "title": "MEDOOSI Tetris Quebra Cabeça madeira 3D Colorido Tangram Brinquedo De Madeira /Jogo Educacional Infantil Blocos de Monta",
+      "price": 17.9,
+      "originalPrice": 24.9,
+      "discountPercent": 28.1,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-manzost527glf5",
+      "url": "https://s.shopee.com.br/9zz3xciFXO",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 652,
+      "seller": "MEDOOSI-1",
+      "category": "Pet e bebê"
     },
     {
       "id": "42124571795",
@@ -177,8 +317,22 @@
       "salesCount": 1235,
       "official": true,
       "seller": "DSD Multi Comercio",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
+    },
+    {
+      "id": "23791517291",
+      "title": "Kit 40 Cabide Infantil Veludo Slim Antideslizante Ultrafino",
+      "price": 62.85,
+      "originalPrice": 79.9,
+      "discountPercent": 21.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6qu5cyuvfhs36",
+      "url": "https://s.shopee.com.br/6VPBeXMpI7",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 169,
+      "official": true,
+      "seller": "Na Web Group De Marcas",
+      "category": "Casa e organização"
     },
     {
       "id": "20598461061",
@@ -192,19 +346,6 @@
       "salesCount": 1551,
       "seller": "Kaluros ",
       "category": "Casa e organização"
-    },
-    {
-      "id": "40671349128",
-      "title": "Kit De Paleta De Maquiagem Profissional , Conjunto De Presente Tudo-Em-Um Para Adolescentes Com Sombra De 24 Cores , Blu",
-      "price": 47.63,
-      "originalPrice": 58.43,
-      "discountPercent": 18.5,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824ix-mf0k20cbxkb223",
-      "url": "https://s.shopee.com.br/6q25oSGsi1",
-      "rating": 4.8,
-      "salesCount": 186,
-      "seller": "Value Choice",
-      "category": "Beleza"
     }
   ]
 }
