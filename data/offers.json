@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T00:32:32.114Z",
+  "updatedAt": "2026-11-07T00:53:42.002Z",
   "offers": [
     {
       "id": "58258154242",
@@ -28,6 +28,38 @@
       "salesCount": 1249,
       "seller": "Gaby Reborn",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "58207914273",
+      "title": "Popozuda Lisinha Redutor de Pelos Corporais com Telocapil",
+      "price": 39.9,
+      "originalPrice": 59.9,
+      "discountPercent": 33.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mu2f856jfbpe66",
+      "url": "https://s.shopee.com.br/3B8jgRdWMq",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 8244,
+      "official": true,
+      "seller": "Popozuda Oficial",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "23799494458",
+      "title": "Popozuda Clarinha Sérum Clareador Corporal com Niacinamida e Ácido Tranexâmico",
+      "price": 39.9,
+      "originalPrice": 59.9,
+      "discountPercent": 33.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mu2i2k24ydc25f",
+      "url": "https://s.shopee.com.br/LoYJEoJ7Z",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2968,
+      "official": true,
+      "seller": "Popozuda Oficial",
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "23298825465",
@@ -125,8 +157,7 @@
       "rating": 4.9,
       "salesCount": 406,
       "seller": "Pet Vet Store",
-      "category": "Pet e bebê",
-      "hot": true
+      "category": "Pet e bebê"
     },
     {
       "id": "19253571158",
@@ -140,8 +171,7 @@
       "salesCount": 1854,
       "official": true,
       "seller": "Keedi Eletrônicos",
-      "category": "Eletrônicos",
-      "hot": true
+      "category": "Eletrônicos"
     },
     {
       "id": "13494334390",
@@ -171,6 +201,20 @@
       "official": true,
       "seller": "SELLNEEDS",
       "category": "Casa e organização"
+    },
+    {
+      "id": "47511747472",
+      "title": "Kit 8 Esmaltes Metálicos Brilho Ativo 8ml Alta Cobertura",
+      "price": 25.67,
+      "originalPrice": 36.9,
+      "discountPercent": 30.4,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258r-mso6sqzt9h50b7",
+      "url": "https://s.shopee.com.br/2BGCUbcVvc",
+      "rating": 4.9,
+      "salesCount": 1127,
+      "seller": "Loja Golden ",
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "23992058945",
@@ -229,8 +273,7 @@
       "salesCount": 1235,
       "official": true,
       "seller": "DSD Multi Comercio",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "23791517291",
@@ -274,19 +317,6 @@
       "salesCount": 1551,
       "seller": "Kaluros ",
       "category": "Casa e organização"
-    },
-    {
-      "id": "40671349128",
-      "title": "Kit De Paleta De Maquiagem Profissional , Conjunto De Presente Tudo-Em-Um Para Adolescentes Com Sombra De 24 Cores , Blu",
-      "price": 47.63,
-      "originalPrice": 58.43,
-      "discountPercent": 18.5,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824ix-mf0k20cbxkb223",
-      "url": "https://s.shopee.com.br/AKbup2GcMd",
-      "rating": 4.8,
-      "salesCount": 186,
-      "seller": "Value Choice",
-      "category": "Beleza"
     },
     {
       "id": "23799188673",
