@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-06T23:50:01.494Z",
+  "updatedAt": "2026-11-07T00:11:10.511Z",
   "offers": [
+    {
+      "id": "58258154242",
+      "title": "Luminária LED Sem Fio Touch Recarregável 3 Cores de Luz Moderna Minimalista Mesa",
+      "price": 42,
+      "originalPrice": 120,
+      "discountPercent": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81ztw-mml0ofw66rr5b6",
+      "url": "https://s.shopee.com.br/6AmLFt2u5k",
+      "rating": 5,
+      "salesCount": 765,
+      "seller": "MULTIORIENTAL",
+      "category": "Casa e organização",
+      "hot": true
+    },
     {
       "id": "56556653787",
       "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
@@ -75,20 +89,6 @@
       "official": true,
       "seller": "Forever Liss",
       "category": "Beleza"
-    },
-    {
-      "id": "25745811858",
-      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
-      "price": 264.9,
-      "originalPrice": 329.9,
-      "discountPercent": 19.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
-      "url": "https://s.shopee.com.br/9fMDQJlakz",
-      "rating": 4.9,
-      "salesCount": 940,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Cozinha"
     },
     {
       "id": "19408193582",
@@ -190,19 +190,6 @@
       "hot": true
     },
     {
-      "id": "23992058945",
-      "title": "Fonte Bebedouro H2O Plus para Cães e Gatos de 1.5 Litros com Torneira Inox",
-      "price": 28.02,
-      "originalPrice": 34.85,
-      "discountPercent": 19.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mpxzyubpkw023d",
-      "url": "https://s.shopee.com.br/5AtoYRBZFK",
-      "rating": 4.8,
-      "salesCount": 731,
-      "seller": "Vale Eletro Shop",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "18071105004",
       "title": "Kit Cabides Veludo Para Roupas Adulto 30 Unidades Fino Resistente",
       "price": 41.9,
@@ -264,19 +251,17 @@
       "category": "Casa e organização"
     },
     {
-      "id": "48107537821",
-      "title": "Kit 2 Calça Alfaiataria PREMIUM Com Bolso Cintura Alta PROMOÇÃO",
-      "price": 31.8,
-      "originalPrice": 40.9,
-      "discountPercent": 22.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mm3v4n8mj4lj5d",
-      "url": "https://s.shopee.com.br/3g50HN6Tvr",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 4188,
-      "seller": "Ph Modas ",
-      "category": "Moda",
-      "hot": true
+      "id": "20598461061",
+      "title": "Cortina Voil Gaze De Linho 3,00 x 2,20/2,30/2,40/2,50/2,60/2,70/2,80 C/forro Blackout Grosso Original",
+      "price": 199.9,
+      "originalPrice": 239.9,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mtqni748srupa7",
+      "url": "https://s.shopee.com.br/906Wd61KWj",
+      "rating": 4.9,
+      "salesCount": 1551,
+      "seller": "Kaluros ",
+      "category": "Casa e organização"
     },
     {
       "id": "40671349128",
