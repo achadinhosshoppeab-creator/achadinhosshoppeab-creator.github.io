@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T22:00:29.253Z",
+  "updatedAt": "2026-11-07T22:21:56.102Z",
   "offers": [
     {
       "id": "21678240017",
@@ -15,20 +15,6 @@
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza",
       "hot": true
-    },
-    {
-      "id": "56556653787",
-      "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
-      "price": 74.9,
-      "originalPrice": 99.9,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mul5acri4f7l1d",
-      "url": "https://s.shopee.com.br/AAIUbSVdLl",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1152,
-      "seller": "Gaby Reborn",
-      "category": "Pet e bebê"
     },
     {
       "id": "58207914273",
@@ -78,20 +64,6 @@
       "hot": true
     },
     {
-      "id": "11744649287",
-      "title": "Banho De Verniz Máscara 1Kg Forever Liss",
-      "price": 49.9,
-      "originalPrice": 62.9,
-      "discountPercent": 20.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d4no4xycn5ca",
-      "url": "https://s.shopee.com.br/9zz7Yxgh4m",
-      "rating": 4.9,
-      "salesCount": 1077,
-      "official": true,
-      "seller": "Forever Liss",
-      "category": "Beleza"
-    },
-    {
       "id": "55957404904",
       "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
       "price": 39.9,
@@ -104,6 +76,20 @@
       "salesCount": 1015,
       "seller": "Lescent",
       "category": "Beleza"
+    },
+    {
+      "id": "23698701958",
+      "title": "MEDOOSI Jogo de Memória em Madeira para Crianças /Infantil Pinos Coloridos Xadrez 3D Quebra Cabeça /Educativo Brinquedos",
+      "price": 29.9,
+      "originalPrice": 99.67,
+      "discountPercent": 70,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnaxy4eo8poi31",
+      "url": "https://s.shopee.com.br/2qVx1qFdEQ",
+      "rating": 4.9,
+      "salesCount": 774,
+      "seller": "MEDOOSI-BR",
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "25745811858",
@@ -148,34 +134,31 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "13494334390",
-      "title": "Cílios Fadvan W 4D Extensão De Cílios Alongamento W Novidade Volume Híbrido Maquiagem",
-      "price": 17.99,
-      "originalPrice": 21.99,
-      "discountPercent": 18.2,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md41zddja3uz7d",
-      "url": "https://s.shopee.com.br/2gCT5RUJOW",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 4023,
-      "official": true,
-      "seller": "fadvan.br",
-      "category": "Beleza",
-      "hot": true
+      "id": "28487251823",
+      "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos 500ML",
+      "price": 17.9,
+      "originalPrice": 24.9,
+      "discountPercent": 28.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mamse9r4wiofc2",
+      "url": "https://s.shopee.com.br/4B1HTuq1r6",
+      "rating": 4.9,
+      "salesCount": 396,
+      "seller": "Pet Vet Store",
+      "category": "Pet e bebê"
     },
     {
-      "id": "23794696993",
-      "title": "Fio Elétrico Cabo Flexível 2,5mm Fio Selo certificado 20 METROS 50 METROS ROLO 100 METROS",
-      "price": 19.95,
-      "originalPrice": 24,
-      "discountPercent": 16.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhnf77mmfb41f1",
-      "url": "https://s.shopee.com.br/2qVvUIshPC",
+      "id": "58209417018",
+      "title": "Chinelo Havaianas Top Branco Original + Placa Logo + Pontos de Luz",
+      "price": 38.24,
+      "originalPrice": 46.75,
+      "discountPercent": 18.2,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mqnehcwta802be",
+      "url": "https://s.shopee.com.br/4fxXTDKCm9",
       "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 4728,
-      "seller": "FIOFLEXX",
-      "category": "Ferramentas"
+      "rating": 4.9,
+      "salesCount": 2789,
+      "seller": "luxonospes",
+      "category": "Moda"
     },
     {
       "id": "13697446869",
@@ -206,6 +189,19 @@
       "hot": true
     },
     {
+      "id": "23992058945",
+      "title": "Fonte Bebedouro H2O Plus para Cães e Gatos de 1.5 Litros com Torneira Inox",
+      "price": 28.02,
+      "originalPrice": 34.85,
+      "discountPercent": 19.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mpxzyubpkw023d",
+      "url": "https://s.shopee.com.br/5AtoYRBZFK",
+      "rating": 4.8,
+      "salesCount": 706,
+      "seller": "Vale Eletro Shop",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "58219247585",
       "title": "Cubo Sensorial Antiestresse Squishy Macio e Apertável Rosa Roxo Azul Brinquedo Kit 1 2 3 Unidades",
       "price": 21.99,
@@ -217,6 +213,21 @@
       "rating": 4.9,
       "salesCount": 2343,
       "seller": "Sunshine82",
+      "category": "Pet e bebê",
+      "hot": true
+    },
+    {
+      "id": "28825262452",
+      "title": "MEDOOSI Tetris Quebra Cabeça madeira 3D Colorido Tangram Brinquedo De Madeira /Jogo Educacional Infantil Blocos de Monta",
+      "price": 17.9,
+      "originalPrice": 24.9,
+      "discountPercent": 28.1,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-manzost527glf5",
+      "url": "https://s.shopee.com.br/9zz3xciFXO",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 628,
+      "seller": "MEDOOSI-1",
       "category": "Pet e bebê",
       "hot": true
     },
@@ -233,8 +244,7 @@
       "salesCount": 1245,
       "official": true,
       "seller": "DSD Multi Comercio",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "23791517291",
