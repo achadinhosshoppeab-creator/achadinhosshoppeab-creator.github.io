@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T22:43:08.476Z",
+  "updatedAt": "2026-11-07T23:03:53.171Z",
   "offers": [
     {
       "id": "21678240017",
@@ -63,6 +63,21 @@
       "hot": true
     },
     {
+      "id": "23298825465",
+      "title": "Geleia Hidratante My Sweet Delight Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
+      "price": 24.9,
+      "originalPrice": 48.21,
+      "discountPercent": 48.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
+      "url": "https://s.shopee.com.br/1BiWCghi0",
+      "rating": 4.8,
+      "salesCount": 1245,
+      "official": true,
+      "seller": "Barbour's Beauty",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
       "id": "11744649287",
       "title": "Banho De Verniz Máscara 1Kg Forever Liss",
       "price": 49.9,
@@ -77,68 +92,12 @@
       "category": "Beleza"
     },
     {
-      "id": "55957404904",
-      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
-      "price": 39.9,
-      "originalPrice": 49.9,
-      "discountPercent": 20,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
-      "url": "https://s.shopee.com.br/9V2nE1PtQK",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1015,
-      "seller": "Lescent",
-      "category": "Beleza"
-    },
-    {
-      "id": "23698701958",
-      "title": "MEDOOSI Jogo de Memória em Madeira para Crianças /Infantil Pinos Coloridos Xadrez 3D Quebra Cabeça /Educativo Brinquedos",
-      "price": 29.9,
-      "originalPrice": 99.67,
-      "discountPercent": 70,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnaxy4eo8poi31",
-      "url": "https://s.shopee.com.br/2qVx1qFdEQ",
-      "rating": 4.9,
-      "salesCount": 774,
-      "seller": "MEDOOSI-BR",
-      "category": "Pet e bebê",
-      "hot": true
-    },
-    {
-      "id": "25745811858",
-      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
-      "price": 264.9,
-      "originalPrice": 329.9,
-      "discountPercent": 19.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
-      "url": "https://s.shopee.com.br/9fMDQJlakz",
-      "rating": 4.9,
-      "salesCount": 944,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Cozinha"
-    },
-    {
-      "id": "15600471910",
-      "title": "Luminária Plafon Branco Preto Lustre de Teto Quadrado Com Soquete Porcelana E27 para uso doméstico",
-      "price": 15.9,
-      "originalPrice": 18.82,
-      "discountPercent": 15.5,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mtv1h7dckav7a9",
-      "url": "https://s.shopee.com.br/3Vla51LOK4",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 529,
-      "seller": "Schok Distribuidora",
-      "category": "Casa e organização"
-    },
-    {
       "id": "23793879757",
       "title": "Daily T-shirt Insider",
       "price": 54,
       "originalPrice": 80,
       "discountPercent": 32.5,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82600-mlbw7dkwakudc3",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zto-mimqzrbp86is9a",
       "url": "https://s.shopee.com.br/9V2nE66H7j",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -147,20 +106,6 @@
       "seller": "INSIDER",
       "category": "Moda",
       "hot": true
-    },
-    {
-      "id": "19408193582",
-      "title": "Kit Boneca Bebê Reborn 48cm Vinil Siliconado Com Bolsa Fraldas Mamadeira Chupeta E Acessórios",
-      "price": 201.33,
-      "originalPrice": 239.09,
-      "discountPercent": 15.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mqovt3426oldc6",
-      "url": "https://s.shopee.com.br/W7z8bPdUO",
-      "rating": 4.9,
-      "salesCount": 615,
-      "official": true,
-      "seller": "Mamãe Reborn",
-      "category": "Pet e bebê"
     },
     {
       "id": "20199608460",
@@ -188,7 +133,8 @@
       "rating": 4.9,
       "salesCount": 396,
       "seller": "Pet Vet Store",
-      "category": "Pet e bebê"
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "13494334390",
@@ -276,33 +222,18 @@
       "hot": true
     },
     {
-      "id": "28825262452",
-      "title": "MEDOOSI Tetris Quebra Cabeça madeira 3D Colorido Tangram Brinquedo De Madeira /Jogo Educacional Infantil Blocos de Monta",
-      "price": 17.9,
-      "originalPrice": 24.9,
-      "discountPercent": 28.1,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-manzost527glf5",
-      "url": "https://s.shopee.com.br/9zz3xciFXO",
+      "id": "23791517291",
+      "title": "Kit 40 Cabide Infantil Veludo Slim Antideslizante Ultrafino",
+      "price": 62.85,
+      "originalPrice": 79.9,
+      "discountPercent": 21.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6qu5cyuvfhs36",
+      "url": "https://s.shopee.com.br/6VPBeXMpI7",
       "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 628,
-      "seller": "MEDOOSI-1",
-      "category": "Pet e bebê",
-      "hot": true
-    },
-    {
-      "id": "42124571795",
-      "title": "Organizador de Geladeira para Temperos 2,3L Linha Clear Fresh",
-      "price": 29.49,
-      "originalPrice": 37.9,
-      "discountPercent": 22.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwzk5edonwn63",
-      "url": "https://s.shopee.com.br/5LDEGNax6x",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1245,
+      "rating": 5,
+      "salesCount": 165,
       "official": true,
-      "seller": "DSD Multi Comercio",
+      "seller": "Na Web Group De Marcas",
       "category": "Casa e organização"
     },
     {
