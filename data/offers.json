@@ -1,20 +1,6 @@
 {
-  "updatedAt": "2026-11-07T12:30:24.145Z",
+  "updatedAt": "2026-11-07T12:52:44.550Z",
   "offers": [
-    {
-      "id": "58258154242",
-      "title": "Luminária LED Sem Fio Touch Recarregável 3 Cores de Luz Moderna Minimalista Mesa",
-      "price": 42,
-      "originalPrice": 120,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81ztw-mml0ofw66rr5b6",
-      "url": "https://s.shopee.com.br/6AmLFt2u5k",
-      "rating": 5,
-      "salesCount": 765,
-      "seller": "MULTIORIENTAL",
-      "category": "Casa e organização",
-      "hot": true
-    },
     {
       "id": "21678240017",
       "title": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g",
@@ -29,6 +15,20 @@
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "56556653787",
+      "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
+      "price": 74.9,
+      "originalPrice": 99.9,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mul5acri4f7l1d",
+      "url": "https://s.shopee.com.br/AAIUbSVdLl",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1249,
+      "seller": "Gaby Reborn",
+      "category": "Pet e bebê"
     },
     {
       "id": "58207914273",
@@ -106,6 +106,20 @@
       "category": "Beleza"
     },
     {
+      "id": "23698701958",
+      "title": "MEDOOSI Jogo de Memória em Madeira para Crianças /Infantil Pinos Coloridos Xadrez 3D Quebra Cabeça /Educativo Brinquedos",
+      "price": 29.9,
+      "originalPrice": 99.67,
+      "discountPercent": 70,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnaxy4eo8poi31",
+      "url": "https://s.shopee.com.br/2qVx1qFdEQ",
+      "rating": 4.9,
+      "salesCount": 798,
+      "seller": "MEDOOSI-BR",
+      "category": "Pet e bebê",
+      "hot": true
+    },
+    {
       "id": "25745811858",
       "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
       "price": 264.9,
@@ -139,7 +153,7 @@
       "price": 54,
       "originalPrice": 80,
       "discountPercent": 32.5,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82600-mlbw7dkwakudc3",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvv-mimqxyvho0zled",
       "url": "https://s.shopee.com.br/9V2nE66H7j",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -148,6 +162,20 @@
       "seller": "INSIDER",
       "category": "Moda",
       "hot": true
+    },
+    {
+      "id": "19408193582",
+      "title": "Kit Boneca Bebê Reborn 48cm Vinil Siliconado Com Bolsa Fraldas Mamadeira Chupeta E Acessórios",
+      "price": 201.33,
+      "originalPrice": 239.09,
+      "discountPercent": 15.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mqovt3426oldc6",
+      "url": "https://s.shopee.com.br/W7z8bPdUO",
+      "rating": 4.9,
+      "salesCount": 642,
+      "official": true,
+      "seller": "Mamãe Reborn",
+      "category": "Pet e bebê"
     },
     {
       "id": "20199608460",
@@ -248,17 +276,17 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "58219247585",
-      "title": "Cubo Sensorial Antiestresse Squishy Macio e Apertável Rosa Roxo Azul Brinquedo Kit 1 2 3 Unidades",
-      "price": 21.99,
-      "originalPrice": 32.99,
-      "discountPercent": 33.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mu3wriykqeiye5",
-      "url": "https://s.shopee.com.br/5q9VLenAW1",
+      "id": "28825262452",
+      "title": "MEDOOSI Tetris Quebra Cabeça madeira 3D Colorido Tangram Brinquedo De Madeira /Jogo Educacional Infantil Blocos de Monta",
+      "price": 17.9,
+      "originalPrice": 24.9,
+      "discountPercent": 28.1,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-manzost527glf5",
+      "url": "https://s.shopee.com.br/9zz3xciFXO",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 2284,
-      "seller": "Sunshine82",
+      "salesCount": 652,
+      "seller": "MEDOOSI-1",
       "category": "Pet e bebê",
       "hot": true
     },
