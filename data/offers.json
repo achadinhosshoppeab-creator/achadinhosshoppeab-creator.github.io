@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T01:56:03.952Z",
+  "updatedAt": "2026-11-07T02:48:12.821Z",
   "offers": [
     {
       "id": "58258154242",
@@ -131,20 +131,6 @@
       "official": true,
       "seller": "Mamãe Reborn",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "22693731888",
-      "title": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
-      "price": 352.9,
-      "originalPrice": 458.99,
-      "discountPercent": 23.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6",
-      "url": "https://s.shopee.com.br/1BNfIi8oiq",
-      "rating": 5,
-      "salesCount": 2520,
-      "official": true,
-      "seller": "Lizze",
-      "category": "Beleza"
     },
     {
       "id": "28487251823",
