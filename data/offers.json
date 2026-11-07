@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T00:53:42.002Z",
+  "updatedAt": "2026-11-07T01:14:44.764Z",
   "offers": [
     {
       "id": "58258154242",
@@ -157,7 +157,8 @@
       "rating": 4.9,
       "salesCount": 406,
       "seller": "Pet Vet Store",
-      "category": "Pet e bebê"
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "19253571158",
@@ -201,20 +202,6 @@
       "official": true,
       "seller": "SELLNEEDS",
       "category": "Casa e organização"
-    },
-    {
-      "id": "47511747472",
-      "title": "Kit 8 Esmaltes Metálicos Brilho Ativo 8ml Alta Cobertura",
-      "price": 25.67,
-      "originalPrice": 36.9,
-      "discountPercent": 30.4,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258r-mso6sqzt9h50b7",
-      "url": "https://s.shopee.com.br/2BGCUbcVvc",
-      "rating": 4.9,
-      "salesCount": 1127,
-      "seller": "Loja Golden ",
-      "category": "Beleza",
-      "hot": true
     },
     {
       "id": "23992058945",
@@ -304,19 +291,6 @@
       "seller": "Ph Modas ",
       "category": "Moda",
       "hot": true
-    },
-    {
-      "id": "20598461061",
-      "title": "Cortina Voil Gaze De Linho 3,00 x 2,20/2,30/2,40/2,50/2,60/2,70/2,80 C/forro Blackout Grosso Original",
-      "price": 199.9,
-      "originalPrice": 239.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mtqni748srupa7",
-      "url": "https://s.shopee.com.br/906Wd61KWj",
-      "rating": 4.9,
-      "salesCount": 1551,
-      "seller": "Kaluros ",
-      "category": "Casa e organização"
     },
     {
       "id": "23799188673",
