@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T01:53:46.300Z",
+  "updatedAt": "2026-11-08T02:14:12.256Z",
   "offers": [
     {
       "id": "21678240017",
@@ -149,11 +149,11 @@
     },
     {
       "id": "23793879757",
-      "title": "Daily T-shirt Insider",
+      "title": "Camiseta Daily T-shirt Insider",
       "price": 54,
       "originalPrice": 80,
       "discountPercent": 32.5,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zuv-mimqz9sdyk8zd7",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258y-mr9etf9ngb9icb",
       "url": "https://s.shopee.com.br/9V2nE66H7j",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -176,6 +176,20 @@
       "official": true,
       "seller": "Mamãe Reborn",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "22693731888",
+      "title": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
+      "price": 352.9,
+      "originalPrice": 458.99,
+      "discountPercent": 23.1,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6",
+      "url": "https://s.shopee.com.br/1BNfIi8oiq",
+      "rating": 5,
+      "salesCount": 2439,
+      "official": true,
+      "seller": "Lizze",
+      "category": "Beleza"
     },
     {
       "id": "28487251823",
