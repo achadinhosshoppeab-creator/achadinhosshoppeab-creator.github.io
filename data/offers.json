@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T15:40:59.623Z",
+  "updatedAt": "2026-11-08T16:01:00.936Z",
   "offers": [
     {
       "id": "21678240017",
@@ -17,81 +17,6 @@
       "hot": true
     },
     {
-      "id": "56556653787",
-      "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
-      "price": 74.9,
-      "originalPrice": 99.9,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mul5acri4f7l1d",
-      "url": "https://s.shopee.com.br/6q27R0gBrH",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1152,
-      "seller": "Gaby Reborn",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "58207914273",
-      "title": "Popozuda Lisinha Redutor de Pelos Corporais com Telocapil",
-      "price": 39.9,
-      "originalPrice": 59.9,
-      "discountPercent": 33.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mu2f856jfbpe66",
-      "url": "https://s.shopee.com.br/1gK0gqpgy4",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 7984,
-      "official": true,
-      "seller": "Popozuda Oficial",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "23799494458",
-      "title": "Popozuda Clarinha Sérum Clareador Corporal com Niacinamida e Ácido Tranexâmico",
-      "price": 39.9,
-      "originalPrice": 59.9,
-      "discountPercent": 33.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mu2i2k24ydc25f",
-      "url": "https://s.shopee.com.br/9fMIDYLEjs",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2992,
-      "official": true,
-      "seller": "Popozuda Oficial",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "23298825465",
-      "title": "Geleia Hidratante My Sweet Delight Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
-      "price": 24.9,
-      "originalPrice": 48.21,
-      "discountPercent": 48.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
-      "url": "https://s.shopee.com.br/20wr5SoM4v",
-      "rating": 4.8,
-      "salesCount": 1245,
-      "official": true,
-      "seller": "Barbour's Beauty",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "11744649287",
-      "title": "Banho De Verniz Máscara 1Kg Forever Liss",
-      "price": 49.9,
-      "originalPrice": 62.9,
-      "discountPercent": 20.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d4no4xycn5ca",
-      "url": "https://s.shopee.com.br/6fige1t3nP",
-      "rating": 4.9,
-      "salesCount": 1077,
-      "official": true,
-      "seller": "Forever Liss",
-      "category": "Beleza"
-    },
-    {
       "id": "55957404904",
       "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
       "price": 39.9,
@@ -103,20 +28,7 @@
       "rating": 4.8,
       "salesCount": 1015,
       "seller": "Lescent",
-      "category": "Beleza"
-    },
-    {
-      "id": "23698701958",
-      "title": "MEDOOSI Jogo de Memória em Madeira para Crianças /Infantil Pinos Coloridos Xadrez 3D Quebra Cabeça /Educativo Brinquedos",
-      "price": 29.9,
-      "originalPrice": 99.67,
-      "discountPercent": 70,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnaxy4eo8poi31",
-      "url": "https://s.shopee.com.br/AUvPLhHSes",
-      "rating": 4.9,
-      "salesCount": 774,
-      "seller": "MEDOOSI-BR",
-      "category": "Pet e bebê",
+      "category": "Beleza",
       "hot": true
     },
     {
@@ -173,7 +85,8 @@
       "salesCount": 2439,
       "official": true,
       "seller": "Lizze",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "20199608460",
@@ -216,33 +129,35 @@
       "salesCount": 4023,
       "official": true,
       "seller": "fadvan.br",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
-      "id": "23992058945",
-      "title": "Fonte Bebedouro H2O Plus para Cães e Gatos de 1.5 Litros com Torneira Inox",
-      "price": 28.02,
-      "originalPrice": 34.85,
-      "discountPercent": 19.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mpxzyubpkw023d",
-      "url": "https://s.shopee.com.br/W83mnNmia",
-      "rating": 4.8,
-      "salesCount": 706,
-      "seller": "Vale Eletro Shop",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "28825262452",
-      "title": "MEDOOSI Tetris Quebra Cabeça madeira 3D Colorido Tangram Brinquedo De Madeira /Jogo Educacional Infantil Blocos de Monta",
-      "price": 17.9,
-      "originalPrice": 24.9,
-      "discountPercent": 28.1,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-manzost527glf5",
-      "url": "https://s.shopee.com.br/AAIYx5IjKm",
+      "id": "58209417018",
+      "title": "Chinelo Havaianas Top Branco Original + Placa Logo + Pontos de Luz",
+      "price": 38.24,
+      "originalPrice": 46.7,
+      "discountPercent": 18.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mqnehcwta802be",
+      "url": "https://s.shopee.com.br/1BNk5xLVYm",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 628,
-      "seller": "MEDOOSI-1",
+      "salesCount": 2789,
+      "seller": "luxonospes",
+      "category": "Moda",
+      "hot": true
+    },
+    {
+      "id": "58219247585",
+      "title": "Cubo Sensorial Antiestresse Squishy Macio e Apertável Rosa Roxo Azul Brinquedo Kit 1 2 3 Unidades",
+      "price": 21.99,
+      "originalPrice": 32.99,
+      "discountPercent": 33.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mu3wriykqeiye5",
+      "url": "https://s.shopee.com.br/7VHo7eO0Qr",
+      "rating": 4.9,
+      "salesCount": 2343,
+      "seller": "Sunshine82",
       "category": "Pet e bebê",
       "hot": true
     },
@@ -261,19 +176,6 @@
       "seller": "DSD Multi Comercio",
       "category": "Casa e organização",
       "hot": true
-    },
-    {
-      "id": "47511747472",
-      "title": "Kit 8 Esmaltes Metálicos Brilho Ativo 8ml Alta Cobertura",
-      "price": 25.67,
-      "originalPrice": 31.285,
-      "discountPercent": 17.9,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258r-mso6sqzt9h50b7",
-      "url": "https://s.shopee.com.br/3g55gYkAhF",
-      "rating": 4.9,
-      "salesCount": 1099,
-      "seller": "Loja Golden ",
-      "category": "Beleza"
     },
     {
       "id": "20598461061",
