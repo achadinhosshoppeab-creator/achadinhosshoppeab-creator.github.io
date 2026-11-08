@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T13:33:39.706Z",
+  "updatedAt": "2026-11-08T13:55:13.075Z",
   "offers": [
     {
       "id": "21678240017",
@@ -15,6 +15,20 @@
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "56556653787",
+      "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
+      "price": 74.9,
+      "originalPrice": 99.9,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mul5acri4f7l1d",
+      "url": "https://s.shopee.com.br/6q27R0gBrH",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1152,
+      "seller": "Gaby Reborn",
+      "category": "Pet e bebê"
     },
     {
       "id": "58207914273",
@@ -78,6 +92,20 @@
       "category": "Beleza"
     },
     {
+      "id": "55957404904",
+      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
+      "price": 39.9,
+      "originalPrice": 49.9,
+      "discountPercent": 20,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
+      "url": "https://s.shopee.com.br/5q9ZeOlJtG",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1015,
+      "seller": "Lescent",
+      "category": "Beleza"
+    },
+    {
       "id": "23698701958",
       "title": "MEDOOSI Jogo de Memória em Madeira para Crianças /Infantil Pinos Coloridos Xadrez 3D Quebra Cabeça /Educativo Brinquedos",
       "price": 29.9,
@@ -132,6 +160,20 @@
       "official": true,
       "seller": "Mamãe Reborn",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "22693731888",
+      "title": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
+      "price": 352.9,
+      "originalPrice": 458.99,
+      "discountPercent": 23.1,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6",
+      "url": "https://s.shopee.com.br/7pue24zlwe",
+      "rating": 5,
+      "salesCount": 2439,
+      "official": true,
+      "seller": "Lizze",
+      "category": "Beleza"
     },
     {
       "id": "20199608460",
@@ -261,6 +303,19 @@
       "salesCount": 1099,
       "seller": "Loja Golden ",
       "category": "Beleza"
+    },
+    {
+      "id": "20598461061",
+      "title": "Cortina Voil Gaze De Linho 3,00 x 2,20/2,30/2,40/2,50/2,60/2,70/2,80 C/forro Blackout Grosso Original",
+      "price": 199.9,
+      "originalPrice": 239.9,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mtqni748srupa7",
+      "url": "https://s.shopee.com.br/1qdQt2EDdv",
+      "rating": 4.9,
+      "salesCount": 1537,
+      "seller": "Kaluros ",
+      "category": "Casa e organização"
     }
   ]
 }
