@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T03:16:27.308Z",
+  "updatedAt": "2026-11-08T03:47:19.243Z",
   "offers": [
     {
       "id": "21678240017",
@@ -148,6 +148,22 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23793879757",
+      "title": "Camiseta Daily T-shirt Insider",
+      "price": 54,
+      "originalPrice": 80,
+      "discountPercent": 32.5,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258y-mr9etf9ngb9icb",
+      "url": "https://s.shopee.com.br/9fMIDZyQi9",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 8451,
+      "official": true,
+      "seller": "INSIDER",
+      "category": "Moda",
+      "hot": true
+    },
+    {
       "id": "19408193582",
       "title": "Kit Boneca Bebê Reborn 48cm Vinil Siliconado Com Bolsa Fraldas Mamadeira Chupeta E Acessórios",
       "price": 201.33,
@@ -269,8 +285,7 @@
       "rating": 4.9,
       "salesCount": 1099,
       "seller": "Loja Golden ",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "23992058945",
