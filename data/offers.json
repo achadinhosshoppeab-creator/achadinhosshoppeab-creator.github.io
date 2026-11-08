@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T08:58:06.001Z",
+  "updatedAt": "2026-11-08T09:30:10.546Z",
   "offers": [
     {
       "id": "21678240017",
@@ -15,6 +15,20 @@
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "56556653787",
+      "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
+      "price": 74.9,
+      "originalPrice": 99.9,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mul5acri4f7l1d",
+      "url": "https://s.shopee.com.br/AAIUbSVdLl",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1152,
+      "seller": "Gaby Reborn",
+      "category": "Pet e bebê"
     },
     {
       "id": "58207914273",
@@ -140,7 +154,7 @@
       "originalPrice": 239.09,
       "discountPercent": 15.8,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mqovt3426oldc6",
-      "url": "https://s.shopee.com.br/W7z8bPdUO",
+      "url": "https://s.shopee.com.br/2BGHhTZ3Ux",
       "rating": 4.9,
       "salesCount": 615,
       "official": true,
@@ -175,6 +189,19 @@
       "official": true,
       "seller": "Lizze",
       "category": "Beleza"
+    },
+    {
+      "id": "28487251823",
+      "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos 500ML",
+      "price": 17.9,
+      "originalPrice": 24.9,
+      "discountPercent": 28.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mamse9r4wiofc2",
+      "url": "https://s.shopee.com.br/4B1HTuq1r6",
+      "rating": 4.9,
+      "salesCount": 396,
+      "seller": "Pet Vet Store",
+      "category": "Pet e bebê"
     },
     {
       "id": "23793879757",
@@ -248,6 +275,19 @@
       "seller": "Loja Golden ",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "23992058945",
+      "title": "Fonte Bebedouro H2O Plus para Cães e Gatos de 1.5 Litros com Torneira Inox",
+      "price": 28.02,
+      "originalPrice": 34.85,
+      "discountPercent": 19.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mpxzyubpkw023d",
+      "url": "https://s.shopee.com.br/5AtoYRBZFK",
+      "rating": 4.8,
+      "salesCount": 706,
+      "seller": "Vale Eletro Shop",
+      "category": "Pet e bebê"
     },
     {
       "id": "58219247585",
