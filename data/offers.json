@@ -1,6 +1,67 @@
 {
-  "updatedAt": "2026-11-07T23:46:42.498Z",
+  "updatedAt": "2026-11-08T00:08:27.220Z",
   "offers": [
+    {
+      "id": "21678240017",
+      "title": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g",
+      "price": 31.9,
+      "originalPrice": 43.45,
+      "discountPercent": 26.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mrvgs50iy8zr1f",
+      "url": "https://s.shopee.com.br/5q9UrGMAv9",
+      "rating": 4.9,
+      "salesCount": 5813,
+      "official": true,
+      "seller": "KOKESHI OFICIAL",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "56556653787",
+      "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
+      "price": 74.9,
+      "originalPrice": 99.9,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mul5acri4f7l1d",
+      "url": "https://s.shopee.com.br/AAIUbSVdLl",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1152,
+      "seller": "Gaby Reborn",
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "58207914273",
+      "title": "Popozuda Lisinha Redutor de Pelos Corporais com Telocapil",
+      "price": 39.9,
+      "originalPrice": 59.9,
+      "discountPercent": 33.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mu2f856jfbpe66",
+      "url": "https://s.shopee.com.br/3B8jgRdWMq",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 7984,
+      "official": true,
+      "seller": "Popozuda Oficial",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "23799494458",
+      "title": "Popozuda Clarinha Sérum Clareador Corporal com Niacinamida e Ácido Tranexâmico",
+      "price": 39.9,
+      "originalPrice": 59.9,
+      "discountPercent": 33.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mu2i2k24ydc25f",
+      "url": "https://s.shopee.com.br/LoYJEoJ7Z",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2992,
+      "official": true,
+      "seller": "Popozuda Oficial",
+      "category": "Beleza",
+      "hot": true
+    },
     {
       "id": "23298825465",
       "title": "Geleia Hidratante My Sweet Delight Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
@@ -15,6 +76,20 @@
       "seller": "Barbour's Beauty",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "11744649287",
+      "title": "Banho De Verniz Máscara 1Kg Forever Liss",
+      "price": 49.9,
+      "originalPrice": 62.9,
+      "discountPercent": 20.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d4no4xycn5ca",
+      "url": "https://s.shopee.com.br/9zz7Yxgh4m",
+      "rating": 4.9,
+      "salesCount": 1077,
+      "official": true,
+      "seller": "Forever Liss",
+      "category": "Beleza"
     },
     {
       "id": "55957404904",
@@ -73,6 +148,22 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23793879757",
+      "title": "Daily T-shirt Insider",
+      "price": 54,
+      "originalPrice": 80,
+      "discountPercent": 32.5,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvk-mimqyksts74070",
+      "url": "https://s.shopee.com.br/9V2nE66H7j",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 8451,
+      "official": true,
+      "seller": "INSIDER",
+      "category": "Moda",
+      "hot": true
+    },
+    {
       "id": "19408193582",
       "title": "Kit Boneca Bebê Reborn 48cm Vinil Siliconado Com Bolsa Fraldas Mamadeira Chupeta E Acessórios",
       "price": 201.33,
@@ -97,8 +188,7 @@
       "rating": 4.9,
       "salesCount": 396,
       "seller": "Pet Vet Store",
-      "category": "Pet e bebê",
-      "hot": true
+      "category": "Pet e bebê"
     },
     {
       "id": "13494334390",
@@ -113,8 +203,7 @@
       "salesCount": 4023,
       "official": true,
       "seller": "fadvan.br",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "58209417018",
@@ -155,7 +244,34 @@
       "rating": 4.9,
       "salesCount": 1099,
       "seller": "Loja Golden ",
-      "category": "Beleza",
+      "category": "Beleza"
+    },
+    {
+      "id": "23992058945",
+      "title": "Fonte Bebedouro H2O Plus para Cães e Gatos de 1.5 Litros com Torneira Inox",
+      "price": 28.02,
+      "originalPrice": 34.85,
+      "discountPercent": 19.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mpxzyubpkw023d",
+      "url": "https://s.shopee.com.br/5AtoYRBZFK",
+      "rating": 4.8,
+      "salesCount": 706,
+      "seller": "Vale Eletro Shop",
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "40358183625",
+      "title": "Bebe Boneca Reborn Realista 100% Silicone Para Presente Promoção",
+      "price": 79.9,
+      "originalPrice": 140.18,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-miucmwj8vcapd5",
+      "url": "https://s.shopee.com.br/80E41bfsEG",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1127,
+      "seller": "Princesa reborn GM",
+      "category": "Pet e bebê",
       "hot": true
     },
     {
@@ -185,8 +301,7 @@
       "rating": 4.9,
       "salesCount": 628,
       "seller": "MEDOOSI-1",
-      "category": "Pet e bebê",
-      "hot": true
+      "category": "Pet e bebê"
     },
     {
       "id": "42124571795",
@@ -201,8 +316,7 @@
       "salesCount": 1245,
       "official": true,
       "seller": "DSD Multi Comercio",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "23791517291",
