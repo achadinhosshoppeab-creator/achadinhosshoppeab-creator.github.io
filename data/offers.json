@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T14:37:27.124Z",
+  "updatedAt": "2026-11-08T14:58:47.473Z",
   "offers": [
     {
       "id": "21678240017",
@@ -31,17 +31,34 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "23298825465",
-      "title": "Geleia Hidratante My Sweet Delight Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
-      "price": 24.9,
-      "originalPrice": 48.21,
-      "discountPercent": 48.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
-      "url": "https://s.shopee.com.br/20wr5SoM4v",
-      "rating": 4.8,
-      "salesCount": 1245,
+      "id": "58207914273",
+      "title": "Popozuda Lisinha Redutor de Pelos Corporais com Telocapil",
+      "price": 39.9,
+      "originalPrice": 59.9,
+      "discountPercent": 33.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mu2f856jfbpe66",
+      "url": "https://s.shopee.com.br/1gK0gqpgy4",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 7984,
       "official": true,
-      "seller": "Barbour's Beauty",
+      "seller": "Popozuda Oficial",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "23799494458",
+      "title": "Popozuda Clarinha Sérum Clareador Corporal com Niacinamida e Ácido Tranexâmico",
+      "price": 39.9,
+      "originalPrice": 59.9,
+      "discountPercent": 33.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mu2i2k24ydc25f",
+      "url": "https://s.shopee.com.br/9fMIDYLEjs",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2992,
+      "official": true,
+      "seller": "Popozuda Oficial",
       "category": "Beleza",
       "hot": true
     },
@@ -57,8 +74,7 @@
       "salesCount": 1077,
       "official": true,
       "seller": "Forever Liss",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "55957404904",
@@ -75,6 +91,20 @@
       "category": "Beleza"
     },
     {
+      "id": "23698701958",
+      "title": "MEDOOSI Jogo de Memória em Madeira para Crianças /Infantil Pinos Coloridos Xadrez 3D Quebra Cabeça /Educativo Brinquedos",
+      "price": 29.9,
+      "originalPrice": 99.67,
+      "discountPercent": 70,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnaxy4eo8poi31",
+      "url": "https://s.shopee.com.br/AUvPLhHSes",
+      "rating": 4.9,
+      "salesCount": 774,
+      "seller": "MEDOOSI-BR",
+      "category": "Pet e bebê",
+      "hot": true
+    },
+    {
       "id": "25745811858",
       "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
       "price": 264.9,
@@ -87,6 +117,20 @@
       "official": true,
       "seller": "Na Web Group De Marcas",
       "category": "Cozinha"
+    },
+    {
+      "id": "15600471910",
+      "title": "Luminária Plafon Branco Preto Lustre de Teto Quadrado Com Soquete Porcelana E27 para uso doméstico",
+      "price": 15.9,
+      "originalPrice": 18.82,
+      "discountPercent": 15.5,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mtv1h7dckav7a9",
+      "url": "https://s.shopee.com.br/5AtsrDZ6OM",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 529,
+      "seller": "Schok Distribuidora",
+      "category": "Casa e organização"
     },
     {
       "id": "19408193582",
@@ -173,8 +217,7 @@
       "rating": 4.9,
       "salesCount": 2789,
       "seller": "luxonospes",
-      "category": "Moda",
-      "hot": true
+      "category": "Moda"
     },
     {
       "id": "23992058945",
@@ -190,17 +233,17 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "58219247585",
-      "title": "Cubo Sensorial Antiestresse Squishy Macio e Apertável Rosa Roxo Azul Brinquedo Kit 1 2 3 Unidades",
-      "price": 21.99,
-      "originalPrice": 32.99,
-      "discountPercent": 33.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mu3wriykqeiye5",
-      "url": "https://s.shopee.com.br/7VHo7eO0Qr",
+      "id": "28825262452",
+      "title": "MEDOOSI Tetris Quebra Cabeça madeira 3D Colorido Tangram Brinquedo De Madeira /Jogo Educacional Infantil Blocos de Monta",
+      "price": 17.9,
+      "originalPrice": 24.9,
+      "discountPercent": 28.1,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-manzost527glf5",
+      "url": "https://s.shopee.com.br/AAIYx5IjKm",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 2343,
-      "seller": "Sunshine82",
+      "salesCount": 628,
+      "seller": "MEDOOSI-1",
       "category": "Pet e bebê",
       "hot": true
     },
