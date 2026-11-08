@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T21:40:51.248Z",
+  "updatedAt": "2026-11-08T22:01:21.146Z",
   "offers": [
     {
       "id": "21678240017",
@@ -78,20 +78,6 @@
       "hot": true
     },
     {
-      "id": "11744649287",
-      "title": "Banho De Verniz Máscara 1Kg Forever Liss",
-      "price": 49.9,
-      "originalPrice": 62.9,
-      "discountPercent": 20.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d4no4xycn5ca",
-      "url": "https://s.shopee.com.br/6fige1t3nP",
-      "rating": 4.9,
-      "salesCount": 1043,
-      "official": true,
-      "seller": "Forever Liss",
-      "category": "Beleza"
-    },
-    {
       "id": "55957404904",
       "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
       "price": 39.9,
@@ -146,20 +132,6 @@
       "salesCount": 526,
       "seller": "Schok Distribuidora",
       "category": "Casa e organização"
-    },
-    {
-      "id": "19408193582",
-      "title": "Kit Boneca Bebê Reborn 48cm Vinil Siliconado Com Bolsa Fraldas Mamadeira Chupeta E Acessórios",
-      "price": 201.33,
-      "originalPrice": 239.09,
-      "discountPercent": 15.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mqovt3426oldc6",
-      "url": "https://s.shopee.com.br/2BGHhTZ3Ux",
-      "rating": 4.9,
-      "salesCount": 590,
-      "official": true,
-      "seller": "Mamãe Reborn",
-      "category": "Pet e bebê"
     },
     {
       "id": "22693731888",
@@ -235,19 +207,6 @@
       "seller": "DSD Multi Comercio",
       "category": "Casa e organização",
       "hot": true
-    },
-    {
-      "id": "20598461061",
-      "title": "Cortina Voil Gaze De Linho 3,00 x 2,20/2,30/2,40/2,50/2,60/2,70/2,80 C/forro Blackout Grosso Original",
-      "price": 199.9,
-      "originalPrice": 239.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mtqni748srupa7",
-      "url": "https://s.shopee.com.br/1qdQt2EDdv",
-      "rating": 4.9,
-      "salesCount": 1538,
-      "seller": "Kaluros ",
-      "category": "Casa e organização"
     }
   ]
 }
