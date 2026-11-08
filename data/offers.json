@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-11-08T20:15:56.558Z",
+  "updatedAt": "2026-11-08T20:37:23.472Z",
   "offers": [
-    {
-      "id": "21678240017",
-      "title": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g",
-      "price": 31.9,
-      "originalPrice": 43.45,
-      "discountPercent": 26.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mrvgs50iy8zr1f",
-      "url": "https://s.shopee.com.br/7pue22IAdX",
-      "rating": 4.9,
-      "salesCount": 5745,
-      "official": true,
-      "seller": "KOKESHI OFICIAL",
-      "category": "Beleza",
-      "hot": true
-    },
     {
       "id": "56556653787",
       "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
@@ -28,7 +13,8 @@
       "rating": 4.8,
       "salesCount": 1079,
       "seller": "Gaby Reborn",
-      "category": "Pet e bebê"
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "58207914273",
@@ -135,6 +121,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "19408193582",
+      "title": "Kit Boneca Bebê Reborn 48cm Vinil Siliconado Com Bolsa Fraldas Mamadeira Chupeta E Acessórios",
+      "price": 201.33,
+      "originalPrice": 239.09,
+      "discountPercent": 15.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mqovt3426oldc6",
+      "url": "https://s.shopee.com.br/2BGHhTZ3Ux",
+      "rating": 4.9,
+      "salesCount": 590,
+      "official": true,
+      "seller": "Mamãe Reborn",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "22693731888",
       "title": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
       "price": 352.9,
@@ -190,7 +190,8 @@
       "rating": 4.9,
       "salesCount": 2674,
       "seller": "luxonospes",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "23992058945",
@@ -205,22 +206,6 @@
       "salesCount": 682,
       "seller": "Vale Eletro Shop",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "42124571795",
-      "title": "Organizador de Geladeira para Temperos 2,3L Linha Clear Fresh",
-      "price": 29.49,
-      "originalPrice": 37.9,
-      "discountPercent": 22.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwzk5edonwn63",
-      "url": "https://s.shopee.com.br/6q26qGBuFY",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1235,
-      "official": true,
-      "seller": "DSD Multi Comercio",
-      "category": "Casa e organização",
-      "hot": true
     }
   ]
 }
