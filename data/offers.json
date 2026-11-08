@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T01:11:25.082Z",
+  "updatedAt": "2026-11-08T01:32:16.754Z",
   "offers": [
     {
       "id": "21678240017",
@@ -29,6 +29,38 @@
       "salesCount": 1152,
       "seller": "Gaby Reborn",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "58207914273",
+      "title": "Popozuda Lisinha Redutor de Pelos Corporais com Telocapil",
+      "price": 39.9,
+      "originalPrice": 59.9,
+      "discountPercent": 33.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mu2f856jfbpe66",
+      "url": "https://s.shopee.com.br/3B8jgRdWMq",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 7984,
+      "official": true,
+      "seller": "Popozuda Oficial",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "23799494458",
+      "title": "Popozuda Clarinha Sérum Clareador Corporal com Niacinamida e Ácido Tranexâmico",
+      "price": 39.9,
+      "originalPrice": 59.9,
+      "discountPercent": 33.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mu2i2k24ydc25f",
+      "url": "https://s.shopee.com.br/LoYJEoJ7Z",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2992,
+      "official": true,
+      "seller": "Popozuda Oficial",
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "23298825465",
@@ -117,11 +149,11 @@
     },
     {
       "id": "23793879757",
-      "title": "Camiseta Daily T-shirt Insider",
+      "title": "Daily T-shirt Insider",
       "price": 54,
       "originalPrice": 80,
       "discountPercent": 32.5,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259t-mr9fqp009se909",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zte-mimqypxh1jwm67",
       "url": "https://s.shopee.com.br/9V2nE66H7j",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -212,8 +244,7 @@
       "rating": 4.9,
       "salesCount": 1099,
       "seller": "Loja Golden ",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "23992058945",
@@ -270,8 +301,22 @@
       "rating": 4.9,
       "salesCount": 628,
       "seller": "MEDOOSI-1",
-      "category": "Pet e bebê",
-      "hot": true
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "42124571795",
+      "title": "Organizador de Geladeira para Temperos 2,3L Linha Clear Fresh",
+      "price": 29.49,
+      "originalPrice": 37.9,
+      "discountPercent": 22.2,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwzk5edonwn63",
+      "url": "https://s.shopee.com.br/5LDEGNax6x",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1245,
+      "official": true,
+      "seller": "DSD Multi Comercio",
+      "category": "Casa e organização"
     },
     {
       "id": "23791517291",
