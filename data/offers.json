@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T09:30:10.546Z",
+  "updatedAt": "2026-11-08T10:01:58.197Z",
   "offers": [
     {
       "id": "21678240017",
@@ -31,38 +31,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "58207914273",
-      "title": "Popozuda Lisinha Redutor de Pelos Corporais com Telocapil",
-      "price": 39.9,
-      "originalPrice": 59.9,
-      "discountPercent": 33.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mu2f856jfbpe66",
-      "url": "https://s.shopee.com.br/1gK0gqpgy4",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 7984,
-      "official": true,
-      "seller": "Popozuda Oficial",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "23799494458",
-      "title": "Popozuda Clarinha Sérum Clareador Corporal com Niacinamida e Ácido Tranexâmico",
-      "price": 39.9,
-      "originalPrice": 59.9,
-      "discountPercent": 33.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mu2i2k24ydc25f",
-      "url": "https://s.shopee.com.br/9fMIDYLEjs",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2992,
-      "official": true,
-      "seller": "Popozuda Oficial",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
       "id": "23298825465",
       "title": "Geleia Hidratante My Sweet Delight Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
       "price": 24.9,
@@ -76,20 +44,6 @@
       "seller": "Barbour's Beauty",
       "category": "Beleza",
       "hot": true
-    },
-    {
-      "id": "11744649287",
-      "title": "Banho De Verniz Máscara 1Kg Forever Liss",
-      "price": 49.9,
-      "originalPrice": 62.9,
-      "discountPercent": 20.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d4no4xycn5ca",
-      "url": "https://s.shopee.com.br/6fige1t3nP",
-      "rating": 4.9,
-      "salesCount": 1077,
-      "official": true,
-      "seller": "Forever Liss",
-      "category": "Beleza"
     },
     {
       "id": "55957404904",
@@ -134,20 +88,6 @@
       "category": "Cozinha"
     },
     {
-      "id": "15600471910",
-      "title": "Luminária Plafon Branco Preto Lustre de Teto Quadrado Com Soquete Porcelana E27 para uso doméstico",
-      "price": 15.9,
-      "originalPrice": 18.82,
-      "discountPercent": 15.5,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mtv1h7dckav7a9",
-      "url": "https://s.shopee.com.br/5AtsrDZ6OM",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 529,
-      "seller": "Schok Distribuidora",
-      "category": "Casa e organização"
-    },
-    {
       "id": "19408193582",
       "title": "Kit Boneca Bebê Reborn 48cm Vinil Siliconado Com Bolsa Fraldas Mamadeira Chupeta E Acessórios",
       "price": 201.33,
@@ -176,21 +116,6 @@
       "category": "Beleza"
     },
     {
-      "id": "20199608460",
-      "title": "Secador De Cabelo Profissional Lizze Extreme",
-      "price": 352.9,
-      "originalPrice": 458.99,
-      "discountPercent": 23.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rccb-m6hdhdcr7ez62f",
-      "url": "https://s.shopee.com.br/60Szqo8ex8",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 838,
-      "official": true,
-      "seller": "Lizze",
-      "category": "Beleza"
-    },
-    {
       "id": "28487251823",
       "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos 500ML",
       "price": 17.9,
@@ -201,7 +126,8 @@
       "rating": 4.9,
       "salesCount": 396,
       "seller": "Pet Vet Store",
-      "category": "Pet e bebê"
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "23793879757",
@@ -209,7 +135,7 @@
       "price": 54,
       "originalPrice": 69.5,
       "discountPercent": 22.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261y-ml5jgzzl0av47c",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvx-mimqxns395oicb",
       "url": "https://s.shopee.com.br/9fMIDZyQi9",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -233,20 +159,6 @@
       "official": true,
       "seller": "fadvan.br",
       "category": "Beleza"
-    },
-    {
-      "id": "58209417018",
-      "title": "Chinelo Havaianas Top Branco Original + Placa Logo + Pontos de Luz",
-      "price": 38.24,
-      "originalPrice": 46.725,
-      "discountPercent": 18.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mqnehcwta802be",
-      "url": "https://s.shopee.com.br/1BNk5xLVYm",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2789,
-      "seller": "luxonospes",
-      "category": "Moda"
     },
     {
       "id": "13697446869",
@@ -290,17 +202,17 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "58219247585",
-      "title": "Cubo Sensorial Antiestresse Squishy Macio e Apertável Rosa Roxo Azul Brinquedo Kit 1 2 3 Unidades",
-      "price": 21.99,
-      "originalPrice": 32.99,
-      "discountPercent": 33.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mu3wriykqeiye5",
-      "url": "https://s.shopee.com.br/5q9VLenAW1",
+      "id": "40358183625",
+      "title": "Bebe Boneca Reborn Realista 100% Silicone Para Presente Promoção",
+      "price": 79.9,
+      "originalPrice": 140.18,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-miucmwj8vcapd5",
+      "url": "https://s.shopee.com.br/80E41bfsEG",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 2343,
-      "seller": "Sunshine82",
+      "salesCount": 1127,
+      "seller": "Princesa reborn GM",
       "category": "Pet e bebê",
       "hot": true
     },
@@ -316,7 +228,8 @@
       "rating": 4.9,
       "salesCount": 628,
       "seller": "MEDOOSI-1",
-      "category": "Pet e bebê"
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "42124571795",
@@ -346,19 +259,6 @@
       "salesCount": 165,
       "official": true,
       "seller": "Na Web Group De Marcas",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "22294564340",
-      "title": "Pula Pula Grande tamanho 1,80m x 1,60m Cama Elástica Infantil Trampolim Playground Desmontável",
-      "price": 477,
-      "originalPrice": 569,
-      "discountPercent": 16.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgjczaogh53b52",
-      "url": "https://s.shopee.com.br/9V2s1Aabow",
-      "rating": 4.9,
-      "salesCount": 1964,
-      "seller": "ELORIA SHOP",
       "category": "Casa e organização"
     },
     {
