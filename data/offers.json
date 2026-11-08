@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T17:27:07.567Z",
+  "updatedAt": "2026-11-08T17:47:40.189Z",
   "offers": [
     {
       "id": "21678240017",
@@ -134,20 +134,6 @@
       "category": "Cozinha"
     },
     {
-      "id": "15600471910",
-      "title": "Luminária Plafon Branco Preto Lustre de Teto Quadrado Com Soquete Porcelana E27 para uso doméstico",
-      "price": 15.9,
-      "originalPrice": 18.82,
-      "discountPercent": 15.5,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mtv1h7dckav7a9",
-      "url": "https://s.shopee.com.br/5AtsrDZ6OM",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 529,
-      "seller": "Schok Distribuidora",
-      "category": "Casa e organização"
-    },
-    {
       "id": "19408193582",
       "title": "Kit Boneca Bebê Reborn 48cm Vinil Siliconado Com Bolsa Fraldas Mamadeira Chupeta E Acessórios",
       "price": 201.33,
@@ -240,6 +226,7 @@
       "discountPercent": 19.6,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mpxzyubpkw023d",
       "url": "https://s.shopee.com.br/W83mnNmia",
+      "hasVariantPrices": true,
       "rating": 4.8,
       "salesCount": 706,
       "seller": "Vale Eletro Shop",
@@ -275,19 +262,6 @@
       "seller": "DSD Multi Comercio",
       "category": "Casa e organização",
       "hot": true
-    },
-    {
-      "id": "47511747472",
-      "title": "Kit 8 Esmaltes Metálicos Brilho Ativo 8ml Alta Cobertura",
-      "price": 25.67,
-      "originalPrice": 31.285,
-      "discountPercent": 17.9,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258r-mso6sqzt9h50b7",
-      "url": "https://s.shopee.com.br/3g55gYkAhF",
-      "rating": 4.9,
-      "salesCount": 1099,
-      "seller": "Loja Golden ",
-      "category": "Beleza"
     },
     {
       "id": "20598461061",
