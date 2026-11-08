@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T17:47:40.189Z",
+  "updatedAt": "2026-11-08T18:09:39.897Z",
   "offers": [
     {
       "id": "21678240017",
@@ -63,21 +63,6 @@
       "hot": true
     },
     {
-      "id": "23298825465",
-      "title": "Geleia Hidratante My Sweet Delight Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
-      "price": 24.9,
-      "originalPrice": 48.21,
-      "discountPercent": 48.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
-      "url": "https://s.shopee.com.br/20wr5SoM4v",
-      "rating": 4.8,
-      "salesCount": 1245,
-      "official": true,
-      "seller": "Barbour's Beauty",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
       "id": "11744649287",
       "title": "Banho De Verniz Máscara 1Kg Forever Liss",
       "price": 49.9,
@@ -89,49 +74,22 @@
       "salesCount": 1077,
       "official": true,
       "seller": "Forever Liss",
-      "category": "Beleza"
-    },
-    {
-      "id": "55957404904",
-      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
-      "price": 39.9,
-      "originalPrice": 49.9,
-      "discountPercent": 20,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
-      "url": "https://s.shopee.com.br/5q9ZeOlJtG",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1015,
-      "seller": "Lescent",
-      "category": "Beleza"
-    },
-    {
-      "id": "23698701958",
-      "title": "MEDOOSI Jogo de Memória em Madeira para Crianças /Infantil Pinos Coloridos Xadrez 3D Quebra Cabeça /Educativo Brinquedos",
-      "price": 29.9,
-      "originalPrice": 99.67,
-      "discountPercent": 70,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnaxy4eo8poi31",
-      "url": "https://s.shopee.com.br/AUvPLhHSes",
-      "rating": 4.9,
-      "salesCount": 774,
-      "seller": "MEDOOSI-BR",
-      "category": "Pet e bebê",
+      "category": "Beleza",
       "hot": true
     },
     {
-      "id": "25745811858",
-      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
-      "price": 264.9,
-      "originalPrice": 329.9,
-      "discountPercent": 19.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
-      "url": "https://s.shopee.com.br/6q26qDUr7F",
+      "id": "15600471910",
+      "title": "Luminária Plafon Branco Preto Lustre de Teto Quadrado Com Soquete Porcelana E27 para uso doméstico",
+      "price": 15.9,
+      "originalPrice": 18.82,
+      "discountPercent": 15.5,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mtv1h7dckav7a9",
+      "url": "https://s.shopee.com.br/5AtsrDZ6OM",
+      "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 944,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Cozinha"
+      "salesCount": 529,
+      "seller": "Schok Distribuidora",
+      "category": "Casa e organização"
     },
     {
       "id": "19408193582",
@@ -202,7 +160,8 @@
       "salesCount": 4023,
       "official": true,
       "seller": "fadvan.br",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "58209417018",
@@ -216,7 +175,8 @@
       "rating": 4.9,
       "salesCount": 2789,
       "seller": "luxonospes",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "23992058945",
@@ -233,48 +193,32 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "28825262452",
-      "title": "MEDOOSI Tetris Quebra Cabeça madeira 3D Colorido Tangram Brinquedo De Madeira /Jogo Educacional Infantil Blocos de Monta",
-      "price": 17.9,
-      "originalPrice": 24.9,
-      "discountPercent": 28.1,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-manzost527glf5",
-      "url": "https://s.shopee.com.br/AAIYx5IjKm",
+      "id": "58219247585",
+      "title": "Cubo Sensorial Antiestresse Squishy Macio e Apertável Rosa Roxo Azul Brinquedo Kit 1 2 3 Unidades",
+      "price": 21.99,
+      "originalPrice": 32.99,
+      "discountPercent": 33.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mu3wriykqeiye5",
+      "url": "https://s.shopee.com.br/7VHo7eO0Qr",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 628,
-      "seller": "MEDOOSI-1",
+      "salesCount": 2343,
+      "seller": "Sunshine82",
       "category": "Pet e bebê",
       "hot": true
     },
     {
-      "id": "42124571795",
-      "title": "Organizador de Geladeira para Temperos 2,3L Linha Clear Fresh",
-      "price": 29.49,
-      "originalPrice": 37.9,
-      "discountPercent": 22.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwzk5edonwn63",
-      "url": "https://s.shopee.com.br/6q26qGBuFY",
-      "hasVariantPrices": true,
+      "id": "47511747472",
+      "title": "Kit 8 Esmaltes Metálicos Brilho Ativo 8ml Alta Cobertura",
+      "price": 25.67,
+      "originalPrice": 31.285,
+      "discountPercent": 17.9,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258r-mso6sqzt9h50b7",
+      "url": "https://s.shopee.com.br/3g55gYkAhF",
       "rating": 4.9,
-      "salesCount": 1245,
-      "official": true,
-      "seller": "DSD Multi Comercio",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "20598461061",
-      "title": "Cortina Voil Gaze De Linho 3,00 x 2,20/2,30/2,40/2,50/2,60/2,70/2,80 C/forro Blackout Grosso Original",
-      "price": 199.9,
-      "originalPrice": 239.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mtqni748srupa7",
-      "url": "https://s.shopee.com.br/1qdQt2EDdv",
-      "rating": 4.9,
-      "salesCount": 1537,
-      "seller": "Kaluros ",
-      "category": "Casa e organização"
+      "salesCount": 1099,
+      "seller": "Loja Golden ",
+      "category": "Beleza"
     }
   ]
 }
