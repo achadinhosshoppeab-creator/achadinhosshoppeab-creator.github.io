@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T15:19:56.027Z",
+  "updatedAt": "2026-11-08T15:40:59.623Z",
   "offers": [
     {
       "id": "21678240017",
@@ -89,8 +89,7 @@
       "salesCount": 1077,
       "official": true,
       "seller": "Forever Liss",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "55957404904",
@@ -105,6 +104,20 @@
       "salesCount": 1015,
       "seller": "Lescent",
       "category": "Beleza"
+    },
+    {
+      "id": "23698701958",
+      "title": "MEDOOSI Jogo de Memória em Madeira para Crianças /Infantil Pinos Coloridos Xadrez 3D Quebra Cabeça /Educativo Brinquedos",
+      "price": 29.9,
+      "originalPrice": 99.67,
+      "discountPercent": 70,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnaxy4eo8poi31",
+      "url": "https://s.shopee.com.br/AUvPLhHSes",
+      "rating": 4.9,
+      "salesCount": 774,
+      "seller": "MEDOOSI-BR",
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "25745811858",
@@ -203,22 +216,7 @@
       "salesCount": 4023,
       "official": true,
       "seller": "fadvan.br",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "58209417018",
-      "title": "Chinelo Havaianas Top Branco Original + Placa Logo + Pontos de Luz",
-      "price": 38.24,
-      "originalPrice": 46.7,
-      "discountPercent": 18.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mqnehcwta802be",
-      "url": "https://s.shopee.com.br/1BNk5xLVYm",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2789,
-      "seller": "luxonospes",
-      "category": "Moda"
+      "category": "Beleza"
     },
     {
       "id": "23992058945",
@@ -232,6 +230,21 @@
       "salesCount": 706,
       "seller": "Vale Eletro Shop",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "28825262452",
+      "title": "MEDOOSI Tetris Quebra Cabeça madeira 3D Colorido Tangram Brinquedo De Madeira /Jogo Educacional Infantil Blocos de Monta",
+      "price": 17.9,
+      "originalPrice": 24.9,
+      "discountPercent": 28.1,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-manzost527glf5",
+      "url": "https://s.shopee.com.br/AAIYx5IjKm",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 628,
+      "seller": "MEDOOSI-1",
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "42124571795",
@@ -261,6 +274,19 @@
       "salesCount": 1099,
       "seller": "Loja Golden ",
       "category": "Beleza"
+    },
+    {
+      "id": "20598461061",
+      "title": "Cortina Voil Gaze De Linho 3,00 x 2,20/2,30/2,40/2,50/2,60/2,70/2,80 C/forro Blackout Grosso Original",
+      "price": 199.9,
+      "originalPrice": 239.9,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mtqni748srupa7",
+      "url": "https://s.shopee.com.br/1qdQt2EDdv",
+      "rating": 4.9,
+      "salesCount": 1537,
+      "seller": "Kaluros ",
+      "category": "Casa e organização"
     }
   ]
 }
