@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T04:18:50.363Z",
+  "updatedAt": "2026-11-08T04:49:26.454Z",
   "offers": [
     {
       "id": "21678240017",
@@ -199,6 +199,7 @@
       "discountPercent": 23.1,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rccb-m6hdhdcr7ez62f",
       "url": "https://s.shopee.com.br/60Szqo8ex8",
+      "hasVariantPrices": true,
       "rating": 5,
       "salesCount": 838,
       "official": true,
