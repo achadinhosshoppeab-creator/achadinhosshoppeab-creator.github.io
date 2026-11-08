@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T20:58:26.012Z",
+  "updatedAt": "2026-11-08T21:19:20.508Z",
   "offers": [
     {
       "id": "21678240017",
@@ -89,7 +89,8 @@
       "salesCount": 1043,
       "official": true,
       "seller": "Forever Liss",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "55957404904",
@@ -162,20 +163,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "22693731888",
-      "title": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
-      "price": 352.9,
-      "originalPrice": 458.99,
-      "discountPercent": 23.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6",
-      "url": "https://s.shopee.com.br/7pue24zlwe",
-      "rating": 5,
-      "salesCount": 2358,
-      "official": true,
-      "seller": "Lizze",
-      "category": "Beleza"
-    },
-    {
       "id": "28487251823",
       "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos 500ML",
       "price": 17.9,
@@ -188,21 +175,6 @@
       "seller": "Pet Vet Store",
       "category": "Pet e bebê",
       "hot": true
-    },
-    {
-      "id": "13494334390",
-      "title": "Cílios Fadvan W 4D Extensão De Cílios Alongamento W Novidade Volume Híbrido Maquiagem",
-      "price": 17.99,
-      "originalPrice": 21.99,
-      "discountPercent": 18.2,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md41zddja3uz7d",
-      "url": "https://s.shopee.com.br/6q26qCQilx",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 4154,
-      "official": true,
-      "seller": "fadvan.br",
-      "category": "Beleza"
     },
     {
       "id": "58209417018",
@@ -246,48 +218,6 @@
       "seller": "MEDOOSI-1",
       "category": "Pet e bebê",
       "hot": true
-    },
-    {
-      "id": "42124571795",
-      "title": "Organizador de Geladeira para Temperos 2,3L Linha Clear Fresh",
-      "price": 29.49,
-      "originalPrice": 37.9,
-      "discountPercent": 22.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwzk5edonwn63",
-      "url": "https://s.shopee.com.br/6q26qGBuFY",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1235,
-      "official": true,
-      "seller": "DSD Multi Comercio",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58219247585",
-      "title": "Cubo Sensorial Antiestresse Squishy Macio e Apertável Rosa Roxo Azul Brinquedo Kit 1 2 3 Unidades",
-      "price": 22.99,
-      "originalPrice": 32.99,
-      "discountPercent": 30.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mu3wriykqeiye5",
-      "url": "https://s.shopee.com.br/7VHo7eO0Qr",
-      "rating": 4.9,
-      "salesCount": 2369,
-      "seller": "Sunshine82",
-      "category": "Pet e bebê",
-      "hot": true
-    },
-    {
-      "id": "20598461061",
-      "title": "Cortina Voil Gaze De Linho 3,00 x 2,20/2,30/2,40/2,50/2,60/2,70/2,80 C/forro Blackout Grosso Original",
-      "price": 199.9,
-      "originalPrice": 239.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mtqni748srupa7",
-      "url": "https://s.shopee.com.br/1qdQt2EDdv",
-      "rating": 4.9,
-      "salesCount": 1538,
-      "seller": "Kaluros ",
-      "category": "Casa e organização"
     }
   ]
 }
