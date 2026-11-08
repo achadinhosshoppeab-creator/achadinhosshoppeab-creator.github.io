@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T23:05:57.642Z",
+  "updatedAt": "2026-11-08T23:27:55.944Z",
   "offers": [
     {
       "id": "21678240017",
@@ -63,19 +63,33 @@
       "hot": true
     },
     {
-      "id": "11744649287",
-      "title": "Banho De Verniz Máscara 1Kg Forever Liss",
-      "price": 49.9,
-      "originalPrice": 62.9,
-      "discountPercent": 20.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d4no4xycn5ca",
-      "url": "https://s.shopee.com.br/6fige1t3nP",
-      "rating": 4.9,
-      "salesCount": 1043,
+      "id": "23298825465",
+      "title": "Geleia Hidratante My Sweet Delight Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
+      "price": 24.9,
+      "originalPrice": 48.21,
+      "discountPercent": 48.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
+      "url": "https://s.shopee.com.br/20wr5SoM4v",
+      "rating": 4.8,
+      "salesCount": 1251,
       "official": true,
-      "seller": "Forever Liss",
+      "seller": "Barbour's Beauty",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "55957404904",
+      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
+      "price": 39.9,
+      "originalPrice": 49.9,
+      "discountPercent": 20,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
+      "url": "https://s.shopee.com.br/5q9ZeOlJtG",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1041,
+      "seller": "Lescent",
+      "category": "Beleza"
     },
     {
       "id": "23698701958",
@@ -160,6 +174,21 @@
       "seller": "Pet Vet Store",
       "category": "Pet e bebê",
       "hot": true
+    },
+    {
+      "id": "13494334390",
+      "title": "Cílios Fadvan W 4D Extensão De Cílios Alongamento W Novidade Volume Híbrido Maquiagem",
+      "price": 17.99,
+      "originalPrice": 21.99,
+      "discountPercent": 18.2,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md41zddja3uz7d",
+      "url": "https://s.shopee.com.br/6q26qCQilx",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 4154,
+      "official": true,
+      "seller": "fadvan.br",
+      "category": "Beleza"
     },
     {
       "id": "58209417018",
