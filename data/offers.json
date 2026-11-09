@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-09T11:05:06.891Z",
+  "updatedAt": "2026-11-09T11:26:33.551Z",
   "offers": [
     {
-      "id": "21678240017",
-      "title": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g",
-      "price": 31.9,
-      "originalPrice": 43.45,
-      "discountPercent": 26.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mrvgs50iy8zr1f",
-      "url": "https://s.shopee.com.br/7pue22IAdX",
-      "rating": 4.9,
-      "salesCount": 5745,
-      "official": true,
-      "seller": "KOKESHI OFICIAL",
-      "category": "Beleza",
+      "id": "56556653787",
+      "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
+      "price": 74.9,
+      "originalPrice": 99.9,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mul5acri4f7l1d",
+      "url": "https://s.shopee.com.br/6q27R0gBrH",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1079,
+      "seller": "Gaby Reborn",
+      "category": "Pet e bebê",
       "hot": true
     },
     {
@@ -32,18 +32,18 @@
       "hot": true
     },
     {
-      "id": "25745811858",
-      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
-      "price": 264.9,
-      "originalPrice": 329.9,
-      "discountPercent": 19.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
-      "url": "https://s.shopee.com.br/6q26qDUr7F",
+      "id": "21678240017",
+      "title": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g",
+      "price": 31.9,
+      "originalPrice": 37.675,
+      "discountPercent": 15.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mrvgs50iy8zr1f",
+      "url": "https://s.shopee.com.br/7pue22IAdX",
       "rating": 4.9,
-      "salesCount": 955,
+      "salesCount": 5745,
       "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Cozinha",
+      "seller": "KOKESHI OFICIAL",
+      "category": "Beleza",
       "hot": true
     },
     {
@@ -74,6 +74,20 @@
       "official": true,
       "seller": "Lizze",
       "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "20598461061",
+      "title": "Cortina Voil Gaze De Linho 3,00 x 2,20/2,30/2,40/2,50/2,60/2,70/2,80 C/forro Blackout Grosso Original",
+      "price": 199.9,
+      "originalPrice": 239.9,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mtqni748srupa7",
+      "url": "https://s.shopee.com.br/1qdQt2EDdv",
+      "rating": 4.9,
+      "salesCount": 1538,
+      "seller": "Kaluros ",
+      "category": "Casa e organização",
       "hot": true
     }
   ]
