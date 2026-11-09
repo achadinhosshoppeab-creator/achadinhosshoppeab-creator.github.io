@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-11-09T17:47:03.780Z",
+  "updatedAt": "2026-11-09T18:09:10.214Z",
   "offers": [
+    {
+      "id": "56556653787",
+      "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
+      "price": 74.9,
+      "originalPrice": 99.9,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mul5acri4f7l1d",
+      "url": "https://s.shopee.com.br/6q27R0gBrH",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1079,
+      "seller": "Gaby Reborn",
+      "category": "Pet e bebê",
+      "hot": true
+    },
     {
       "id": "58207914273",
       "title": "Popozuda Lisinha Redutor de Pelos Corporais com Telocapil",
@@ -34,48 +49,18 @@
       "hot": true
     },
     {
-      "id": "21099836557",
-      "title": "Processador Triturador De Alimentos New Oggi Mallory Cor Preto",
-      "price": 89.9,
-      "originalPrice": 106.9,
-      "discountPercent": 15.9,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwm-mc2jv1qmrooz0e",
-      "url": "https://s.shopee.com.br/2BGHv4SQT8",
+      "id": "25745811858",
+      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
+      "price": 264.9,
+      "originalPrice": 329.9,
+      "discountPercent": 19.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
+      "url": "https://s.shopee.com.br/6q26qDUr7F",
       "rating": 4.9,
-      "salesCount": 3348,
+      "salesCount": 955,
       "official": true,
-      "seller": "Tudão Tech  Ltda",
+      "seller": "Na Web Group De Marcas",
       "category": "Cozinha",
-      "hot": true
-    },
-    {
-      "id": "42124571795",
-      "title": "Organizador de Geladeira para Temperos 2,3L Linha Clear Fresh",
-      "price": 29.49,
-      "originalPrice": 37.9,
-      "discountPercent": 22.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwzk5edonwn63",
-      "url": "https://s.shopee.com.br/6q26qGBuFY",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1235,
-      "official": true,
-      "seller": "DSD Multi Comercio",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "58219247585",
-      "title": "Cubo Sensorial Antiestresse Squishy Macio e Apertável Rosa Roxo Azul Brinquedo Kit 1 2 3 Unidades",
-      "price": 22.99,
-      "originalPrice": 32.99,
-      "discountPercent": 30.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mu3wriykqeiye5",
-      "url": "https://s.shopee.com.br/7VHo7eO0Qr",
-      "rating": 4.9,
-      "salesCount": 2369,
-      "seller": "Sunshine82",
-      "category": "Pet e bebê",
       "hot": true
     }
   ]
