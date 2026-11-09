@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T05:22:29.121Z",
+  "updatedAt": "2026-11-09T05:53:00.125Z",
   "offers": [
     {
       "id": "21678240017",
@@ -70,7 +70,7 @@
       "discountPercent": 48.4,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
       "url": "https://s.shopee.com.br/20wr5SoM4v",
-      "rating": 4.9,
+      "rating": 4.8,
       "salesCount": 1251,
       "official": true,
       "seller": "Barbour's Beauty",
@@ -204,19 +204,6 @@
       "official": true,
       "seller": "Lizze",
       "category": "Beleza"
-    },
-    {
-      "id": "28487251823",
-      "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos 500ML",
-      "price": 17.9,
-      "originalPrice": 24.9,
-      "discountPercent": 28.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mamse9r4wiofc2",
-      "url": "https://s.shopee.com.br/1W0b6cvbiX",
-      "rating": 4.9,
-      "salesCount": 385,
-      "seller": "Pet Vet Store",
-      "category": "Pet e bebê"
     },
     {
       "id": "13697446869",
