@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T00:52:48.447Z",
+  "updatedAt": "2026-11-09T01:13:35.458Z",
   "offers": [
     {
       "id": "21678240017",
@@ -233,6 +233,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "58219247585",
+      "title": "Cubo Sensorial Antiestresse Squishy Macio e Apertável Rosa Roxo Azul Brinquedo Kit 1 2 3 Unidades",
+      "price": 21.99,
+      "originalPrice": 32.99,
+      "discountPercent": 33.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mu3wriykqeiye5",
+      "url": "https://s.shopee.com.br/7VHo7eO0Qr",
+      "rating": 4.9,
+      "salesCount": 2369,
+      "seller": "Sunshine82",
+      "category": "Pet e bebê",
+      "hot": true
+    },
+    {
       "id": "28825262452",
       "title": "MEDOOSI Tetris Quebra Cabeça madeira 3D Colorido Tangram Brinquedo De Madeira /Jogo Educacional Infantil Blocos de Monta",
       "price": 17.9,
@@ -260,8 +274,7 @@
       "salesCount": 1235,
       "official": true,
       "seller": "DSD Multi Comercio",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "20598461061",
