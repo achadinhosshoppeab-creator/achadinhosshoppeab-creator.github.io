@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T04:20:01.894Z",
+  "updatedAt": "2026-11-09T04:50:50.720Z",
   "offers": [
     {
       "id": "21678240017",
@@ -104,20 +104,6 @@
       "salesCount": 1041,
       "seller": "Lescent",
       "category": "Beleza"
-    },
-    {
-      "id": "58204421120",
-      "title": "Escorredor de Louças Rack Aço Carbono Organizador Preto",
-      "price": 92,
-      "originalPrice": 236,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk8xynsgml1d6f",
-      "url": "https://s.shopee.com.br/BVDNwZVmN",
-      "rating": 4.8,
-      "salesCount": 2942,
-      "seller": "KING BOUTIQUES",
-      "category": "Cozinha",
-      "hot": true
     },
     {
       "id": "23698701958",
@@ -230,7 +216,8 @@
       "rating": 4.9,
       "salesCount": 385,
       "seller": "Pet Vet Store",
-      "category": "Pet e bebê"
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "13697446869",
