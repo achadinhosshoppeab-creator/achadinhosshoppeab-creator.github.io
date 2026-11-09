@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-11-09T23:06:18.652Z",
+  "updatedAt": "2026-11-09T23:27:02.890Z",
   "offers": [
-    {
-      "id": "23298825465",
-      "title": "Geleia Hidratante My Sweet Delight Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
-      "price": 24.9,
-      "originalPrice": 48.21,
-      "discountPercent": 48.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
-      "url": "https://s.shopee.com.br/6q29GOMadk",
-      "rating": 4.8,
-      "salesCount": 1270,
-      "official": true,
-      "seller": "Barbour's Beauty",
-      "category": "Beleza",
-      "hot": true
-    },
     {
       "id": "55957404904",
       "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
@@ -32,17 +17,17 @@
       "hot": true
     },
     {
-      "id": "15600471910",
-      "title": "Luminária Plafon Branco Preto Lustre de Teto Quadrado Com Soquete Porcelana E27 para uso doméstico",
-      "price": 15.9,
-      "originalPrice": 18.82,
-      "discountPercent": 15.5,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mtv1h7dckav7a9",
-      "url": "https://s.shopee.com.br/5AtsrDZ6OM",
+      "id": "18897980849",
+      "title": "Jogo de Cama 400 Fios Percal Flex Ultra Macio Lençol c/ Elástico + Fronha c/ Ponto Palito",
+      "price": 32.97,
+      "originalPrice": 49.97,
+      "discountPercent": 34,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcck0zcq3xbca6",
+      "url": "https://s.shopee.com.br/BVCu1A8kl",
       "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 519,
-      "seller": "Schok Distribuidora",
+      "rating": 4.8,
+      "salesCount": 5006,
+      "seller": "Loja do Koala",
       "category": "Casa e organização",
       "hot": true
     }
