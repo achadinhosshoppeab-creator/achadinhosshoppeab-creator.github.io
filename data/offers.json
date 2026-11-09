@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T05:53:00.125Z",
+  "updatedAt": "2026-11-09T06:24:59.602Z",
   "offers": [
     {
       "id": "21678240017",
@@ -206,6 +206,19 @@
       "category": "Beleza"
     },
     {
+      "id": "28487251823",
+      "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos 500ML",
+      "price": 17.9,
+      "originalPrice": 24.9,
+      "discountPercent": 28.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mamse9r4wiofc2",
+      "url": "https://s.shopee.com.br/1W0b6cvbiX",
+      "rating": 4.9,
+      "salesCount": 385,
+      "seller": "Pet Vet Store",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "13697446869",
       "title": "Varal Portátil Para Apartamento Secador De Roupas Prático e Retrátil Para Janela e Parede",
       "price": 22.49,
@@ -241,6 +254,7 @@
       "discountPercent": 33.3,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mu3wriykqeiye5",
       "url": "https://s.shopee.com.br/7VHo7eO0Qr",
+      "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 2369,
       "seller": "Sunshine82",
