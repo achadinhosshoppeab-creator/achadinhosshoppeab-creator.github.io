@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T00:10:08.899Z",
+  "updatedAt": "2026-11-09T00:30:53.959Z",
   "offers": [
     {
       "id": "21678240017",
@@ -92,6 +92,20 @@
       "category": "Beleza"
     },
     {
+      "id": "55957404904",
+      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
+      "price": 39.9,
+      "originalPrice": 49.9,
+      "discountPercent": 20,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
+      "url": "https://s.shopee.com.br/5q9ZeOlJtG",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1041,
+      "seller": "Lescent",
+      "category": "Beleza"
+    },
+    {
       "id": "23698701958",
       "title": "MEDOOSI Jogo de Memória em Madeira para Crianças /Infantil Pinos Coloridos Xadrez 3D Quebra Cabeça /Educativo Brinquedos",
       "price": 29.9,
@@ -134,20 +148,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "19408193582",
-      "title": "Kit Boneca Bebê Reborn 48cm Vinil Siliconado Com Bolsa Fraldas Mamadeira Chupeta E Acessórios",
-      "price": 201.33,
-      "originalPrice": 239.09,
-      "discountPercent": 15.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mqovt3426oldc6",
-      "url": "https://s.shopee.com.br/2BGHhTZ3Ux",
-      "rating": 4.9,
-      "salesCount": 590,
-      "official": true,
-      "seller": "Mamãe Reborn",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "22693731888",
       "title": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
       "price": 352.9,
@@ -176,32 +176,19 @@
       "hot": true
     },
     {
-      "id": "23992058945",
-      "title": "Fonte Bebedouro H2O Plus para Cães e Gatos de 1.5 Litros com Torneira Inox",
-      "price": 28.02,
-      "originalPrice": 34.85,
-      "discountPercent": 19.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mpxzyubpkw023d",
-      "url": "https://s.shopee.com.br/W83mnNmia",
+      "id": "13494334390",
+      "title": "Cílios Fadvan W 4D Extensão De Cílios Alongamento W Novidade Volume Híbrido Maquiagem",
+      "price": 17.99,
+      "originalPrice": 21.99,
+      "discountPercent": 18.2,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md41zddja3uz7d",
+      "url": "https://s.shopee.com.br/6q26qCQilx",
       "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 682,
-      "seller": "Vale Eletro Shop",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "58219247585",
-      "title": "Cubo Sensorial Antiestresse Squishy Macio e Apertável Rosa Roxo Azul Brinquedo Kit 1 2 3 Unidades",
-      "price": 21.99,
-      "originalPrice": 32.99,
-      "discountPercent": 33.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mu3wriykqeiye5",
-      "url": "https://s.shopee.com.br/7VHo7eO0Qr",
-      "rating": 4.9,
-      "salesCount": 2369,
-      "seller": "Sunshine82",
-      "category": "Pet e bebê",
-      "hot": true
+      "salesCount": 4154,
+      "official": true,
+      "seller": "fadvan.br",
+      "category": "Beleza"
     },
     {
       "id": "28825262452",
@@ -231,7 +218,8 @@
       "salesCount": 1235,
       "official": true,
       "seller": "DSD Multi Comercio",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "20598461061",
