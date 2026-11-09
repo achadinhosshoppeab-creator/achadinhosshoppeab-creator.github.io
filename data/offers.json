@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T20:38:11.445Z",
+  "updatedAt": "2026-11-09T20:59:31.099Z",
   "offers": [
     {
       "id": "56556653787",
@@ -17,6 +17,83 @@
       "hot": true
     },
     {
+      "id": "58207914273",
+      "title": "Popozuda Lisinha Redutor de Pelos Corporais com Telocapil",
+      "price": 39.9,
+      "originalPrice": 59.9,
+      "discountPercent": 33.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mu2f856jfbpe66",
+      "url": "https://s.shopee.com.br/1gK0gqpgy4",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 7392,
+      "official": true,
+      "seller": "Popozuda Oficial",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "23799494458",
+      "title": "Popozuda Clarinha Sérum Clareador Corporal com Niacinamida e Ácido Tranexâmico",
+      "price": 39.9,
+      "originalPrice": 59.9,
+      "discountPercent": 33.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mu2i2k24ydc25f",
+      "url": "https://s.shopee.com.br/9fMIDYLEjs",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3019,
+      "official": true,
+      "seller": "Popozuda Oficial",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "23298825465",
+      "title": "Geleia Hidratante My Sweet Delight Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
+      "price": 24.9,
+      "originalPrice": 48.21,
+      "discountPercent": 48.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
+      "url": "https://s.shopee.com.br/6q29GOMadk",
+      "rating": 4.8,
+      "salesCount": 1270,
+      "official": true,
+      "seller": "Barbour's Beauty",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "55957404904",
+      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
+      "price": 39.9,
+      "originalPrice": 49.9,
+      "discountPercent": 20,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
+      "url": "https://s.shopee.com.br/5q9ZeOlJtG",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1073,
+      "seller": "Lescent",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "25745811858",
+      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
+      "price": 264.9,
+      "originalPrice": 329.9,
+      "discountPercent": 19.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
+      "url": "https://s.shopee.com.br/6q26qDUr7F",
+      "rating": 4.9,
+      "salesCount": 974,
+      "official": true,
+      "seller": "Na Web Group De Marcas",
+      "category": "Cozinha",
+      "hot": true
+    },
+    {
       "id": "22693731888",
       "title": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
       "price": 352.9,
@@ -30,36 +107,6 @@
       "official": true,
       "seller": "Lizze",
       "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "18897980849",
-      "title": "Jogo de Cama 400 Fios Percal Flex Ultra Macio Lençol c/ Elástico + Fronha c/ Ponto Palito",
-      "price": 32.97,
-      "originalPrice": 49.97,
-      "discountPercent": 34,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcck0zcq3xbca6",
-      "url": "https://s.shopee.com.br/BVCu1A8kl",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 5006,
-      "seller": "Loja do Koala",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "21099836557",
-      "title": "Processador Triturador De Alimentos New Oggi Mallory Cor Preto",
-      "price": 89.9,
-      "originalPrice": 106.9,
-      "discountPercent": 15.9,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwm-mc2jv1qmrooz0e",
-      "url": "https://s.shopee.com.br/2BGHv4SQT8",
-      "rating": 4.9,
-      "salesCount": 3266,
-      "official": true,
-      "seller": "Tudão Tech  Ltda",
-      "category": "Cozinha",
       "hot": true
     }
   ]
