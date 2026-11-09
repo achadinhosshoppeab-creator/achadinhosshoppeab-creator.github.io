@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T03:18:16.784Z",
+  "updatedAt": "2026-11-09T03:49:06.279Z",
   "offers": [
     {
       "id": "21678240017",
@@ -191,6 +191,22 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "42881456589",
+      "title": "TWS X55 Fones De Ouvido Sono Sem Fio Redução Ruído Alta Fidelidade Microfone Estéreo À Prova Dwaterproof Água Longo Play",
+      "price": 16.37,
+      "originalPrice": 21.44,
+      "discountPercent": 23.6,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7rdxu-mdae0vb9hdbr3f",
+      "url": "https://s.shopee.com.br/4VeC41WqSS",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2453,
+      "official": true,
+      "seller": "Brand Choice",
+      "category": "Eletrônicos",
+      "hot": true
+    },
+    {
       "id": "22693731888",
       "title": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
       "price": 352.9,
@@ -231,20 +247,6 @@
       "salesCount": 385,
       "seller": "Pet Vet Store",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "25583979154",
-      "title": "120 Paleta De Sombra Colorida Mate Maquiagem Altamente Pigmentada Em Pó Longa Duração À Prova D'água",
-      "price": 41.19,
-      "originalPrice": 60.43,
-      "discountPercent": 31.8,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyl-mcamfjuyaj3r09",
-      "url": "https://s.shopee.com.br/906bQDr03t",
-      "rating": 4.7,
-      "salesCount": 343,
-      "seller": "Choice Oficial",
-      "category": "Beleza",
-      "hot": true
     },
     {
       "id": "13697446869",
@@ -307,27 +309,14 @@
       "id": "22294564340",
       "title": "Pula Pula Grande tamanho 1,80m x 1,60m Cama Elástica Infantil Trampolim Playground Desmontável",
       "price": 477,
-      "originalPrice": 634,
-      "discountPercent": 24.8,
+      "originalPrice": 569,
+      "discountPercent": 16.2,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgjczaogh53b52",
       "url": "https://s.shopee.com.br/9V2s1Aabow",
       "rating": 4.9,
       "salesCount": 1911,
       "seller": "ELORIA SHOP",
       "category": "Casa e organização"
-    },
-    {
-      "id": "53713695082",
-      "title": "B5 Creme Protetor Solar – Hidratante, Hidratante, Nutritivo, Melhora a Pele Vermelha Rachada 100ml",
-      "price": 31.2,
-      "originalPrice": 38.09,
-      "discountPercent": 18.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259l-muswqiabmjnk94",
-      "url": "https://s.shopee.com.br/3qOVGomB6p",
-      "rating": 4.8,
-      "salesCount": 1738,
-      "seller": "Choice Oficial",
-      "category": "Beleza"
     },
     {
       "id": "20598461061",
