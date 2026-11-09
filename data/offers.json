@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T06:24:59.602Z",
+  "updatedAt": "2026-11-09T06:56:01.323Z",
   "offers": [
     {
       "id": "21678240017",
@@ -216,7 +216,8 @@
       "rating": 4.9,
       "salesCount": 385,
       "seller": "Pet Vet Store",
-      "category": "Pet e bebê"
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "13697446869",
@@ -245,21 +246,6 @@
       "salesCount": 682,
       "seller": "Vale Eletro Shop",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "58219247585",
-      "title": "Cubo Sensorial Antiestresse Squishy Macio e Apertável Rosa Roxo Azul Brinquedo Kit 1 2 3 Unidades",
-      "price": 21.99,
-      "originalPrice": 32.99,
-      "discountPercent": 33.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mu3wriykqeiye5",
-      "url": "https://s.shopee.com.br/7VHo7eO0Qr",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2369,
-      "seller": "Sunshine82",
-      "category": "Pet e bebê",
-      "hot": true
     },
     {
       "id": "28825262452",
