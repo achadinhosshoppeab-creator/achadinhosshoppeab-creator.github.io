@@ -1,18 +1,19 @@
 {
-  "updatedAt": "2026-11-10T15:04:17.173Z",
+  "updatedAt": "2026-11-10T15:26:03.325Z",
   "offers": [
     {
-      "id": "23298825465",
-      "title": "Geleia Hidratante My Sweet Delight Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
-      "price": 24.9,
-      "originalPrice": 48.21,
-      "discountPercent": 48.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
-      "url": "https://s.shopee.com.br/6q29GOMadk",
-      "rating": 4.8,
-      "salesCount": 1270,
+      "id": "58207914273",
+      "title": "Popozuda Lisinha Redutor de Pelos Corporais com Telocapil",
+      "price": 39.9,
+      "originalPrice": 59.9,
+      "discountPercent": 33.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mu2f856jfbpe66",
+      "url": "https://s.shopee.com.br/1gK0gqpgy4",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 7392,
       "official": true,
-      "seller": "Barbour's Beauty",
+      "seller": "Popozuda Oficial",
       "category": "Beleza",
       "hot": true
     }
