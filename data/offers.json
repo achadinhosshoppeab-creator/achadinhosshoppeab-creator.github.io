@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-11-10T05:27:17.939Z",
+  "updatedAt": "2026-11-10T05:59:13.477Z",
   "offers": [
+    {
+      "id": "28867680104",
+      "title": "[NEW] NUMBUZIN No.9 NAD BIO Lifting Sil Essence 30ml, 50ml",
+      "price": 63.99,
+      "originalPrice": 92.68,
+      "discountPercent": 31,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8257x-mrgvlvtzbjt2da",
+      "url": "https://s.shopee.com.br/7KyNRFYvIE",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 1975,
+      "official": true,
+      "seller": "GLORY OF SEOUL",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "21678240017",
+      "title": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g",
+      "price": 31.9,
+      "originalPrice": 43.45,
+      "discountPercent": 26.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mrvgs50iy8zr1f",
+      "url": "https://s.shopee.com.br/7pue22IAdX",
+      "rating": 4.9,
+      "salesCount": 5668,
+      "official": true,
+      "seller": "KOKESHI OFICIAL",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "56556653787",
+      "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
+      "price": 74.9,
+      "originalPrice": 99.9,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mul5acri4f7l1d",
+      "url": "https://s.shopee.com.br/6q27R0gBrH",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 998,
+      "seller": "Gaby Reborn",
+      "category": "Pet e bebê"
+    },
     {
       "id": "58207914273",
       "title": "Popozuda Lisinha Redutor de Pelos Corporais com Telocapil",
@@ -49,6 +94,34 @@
       "hot": true
     },
     {
+      "id": "11744649287",
+      "title": "Banho De Verniz Máscara 1Kg Forever Liss",
+      "price": 49.9,
+      "originalPrice": 62.9,
+      "discountPercent": 20.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d4no4xycn5ca",
+      "url": "https://s.shopee.com.br/6fige1t3nP",
+      "rating": 4.9,
+      "salesCount": 991,
+      "official": true,
+      "seller": "Forever Liss",
+      "category": "Beleza"
+    },
+    {
+      "id": "55957404904",
+      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
+      "price": 39.9,
+      "originalPrice": 49.9,
+      "discountPercent": 20,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
+      "url": "https://s.shopee.com.br/5q9ZeOlJtG",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1073,
+      "seller": "Lescent",
+      "category": "Beleza"
+    },
+    {
       "id": "25745811858",
       "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
       "price": 264.9,
@@ -61,6 +134,34 @@
       "official": true,
       "seller": "Na Web Group De Marcas",
       "category": "Cozinha"
+    },
+    {
+      "id": "58255657495",
+      "title": "Body Splash Afrodite Garden 200ml - AURA Beauty by. Jade Picon",
+      "price": 86.11,
+      "originalPrice": 119,
+      "discountPercent": 27.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mrhc4ue2rz0mba",
+      "url": "https://s.shopee.com.br/7AexqzxFEi",
+      "rating": 4.9,
+      "salesCount": 1873,
+      "official": true,
+      "seller": "AURA Beauty Club",
+      "category": "Beleza"
+    },
+    {
+      "id": "15600471910",
+      "title": "Luminária Plafon Branco Preto Lustre de Teto Quadrado Com Soquete Porcelana E27 para uso doméstico",
+      "price": 15.9,
+      "originalPrice": 18.82,
+      "discountPercent": 15.5,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mtv1h7dckav7a9",
+      "url": "https://s.shopee.com.br/5AtsrDZ6OM",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 519,
+      "seller": "Schok Distribuidora",
+      "category": "Casa e organização"
     },
     {
       "id": "18897980849",
@@ -89,8 +190,7 @@
       "salesCount": 3266,
       "official": true,
       "seller": "Tudão Tech  Ltda",
-      "category": "Cozinha",
-      "hot": true
+      "category": "Cozinha"
     },
     {
       "id": "18698826077",
@@ -104,8 +204,20 @@
       "salesCount": 1233,
       "official": true,
       "seller": "Eletricario Loja Oficial",
-      "category": "Ferramentas",
-      "hot": true
+      "category": "Ferramentas"
+    },
+    {
+      "id": "28487251823",
+      "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos 500ML",
+      "price": 17.9,
+      "originalPrice": 24.9,
+      "discountPercent": 28.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mamse9r4wiofc2",
+      "url": "https://s.shopee.com.br/1W0b6cvbiX",
+      "rating": 4.9,
+      "salesCount": 374,
+      "seller": "Pet Vet Store",
+      "category": "Pet e bebê"
     },
     {
       "id": "13697446869",
@@ -119,8 +231,7 @@
       "salesCount": 5149,
       "official": true,
       "seller": "SELLNEEDS",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "22294564340",
@@ -133,7 +244,51 @@
       "rating": 4.9,
       "salesCount": 1846,
       "seller": "ELORIA SHOP",
-      "category": "Casa e organização",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58219247585",
+      "title": "Cubo Sensorial Antiestresse Squishy Macio e Apertável Rosa Roxo Azul Brinquedo Kit 1 2 3 Unidades",
+      "price": 21.99,
+      "originalPrice": 32.99,
+      "discountPercent": 33.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mu3wriykqeiye5",
+      "url": "https://s.shopee.com.br/7VHo7eO0Qr",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2365,
+      "seller": "Sunshine82",
+      "category": "Pet e bebê",
+      "hot": true
+    },
+    {
+      "id": "42124571795",
+      "title": "Organizador de Geladeira para Temperos 2,3L Linha Clear Fresh",
+      "price": 29.49,
+      "originalPrice": 37.9,
+      "discountPercent": 22.2,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwzk5edonwn63",
+      "url": "https://s.shopee.com.br/6q26qGBuFY",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1227,
+      "official": true,
+      "seller": "DSD Multi Comercio",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "48107537821",
+      "title": "Kit 2 Calça Alfaiataria PREMIUM Com Bolso Cintura Alta PROMOÇÃO",
+      "price": 31.8,
+      "originalPrice": 40.9,
+      "discountPercent": 22.2,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mm3v4n8mj4lj5d",
+      "url": "https://s.shopee.com.br/Lod6Ph5zq",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 4050,
+      "seller": "Ph Modas ",
+      "category": "Moda",
       "hot": true
     }
   ]
