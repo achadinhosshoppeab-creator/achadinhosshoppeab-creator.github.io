@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T22:45:15.023Z",
+  "updatedAt": "2026-11-14T23:05:50.203Z",
   "offers": [
     {
       "id": "26841826773",
@@ -17,20 +17,6 @@
       "hot": true
     },
     {
-      "id": "19797210774",
-      "title": "Lustre Teto Plafon Industrial Aramado Diamante Luminária pendente",
-      "price": 26.4,
-      "originalPrice": 40,
-      "discountPercent": 34,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg4avmc6g1zba2",
-      "url": "https://s.shopee.com.br/8Kr4xBS9w5",
-      "rating": 4.9,
-      "salesCount": 179,
-      "seller": "PJ DECORAÇÕES ",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "58262387632",
       "title": "Kit Renovadores Gota de Colágeno e Rosa Mosqueta Kokeshi",
       "price": 61.52,
@@ -42,20 +28,6 @@
       "salesCount": 5854,
       "official": true,
       "seller": "KOKESHI OFICIAL",
-      "category": "Beleza"
-    },
-    {
-      "id": "55169010644",
-      "title": "GOKOCO Massageador para Olhos 4 em 1 com EMS, LED, Compressa Quente e Vibração, Recarregável USB-C",
-      "price": 89,
-      "originalPrice": 178,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b0-mu4cyg9mkyyoa9",
-      "url": "https://s.shopee.com.br/4fxmXSfdoa",
-      "rating": 4.9,
-      "salesCount": 1026,
-      "official": true,
-      "seller": "GOKOCO FULL Oficial Shop",
       "category": "Beleza",
       "hot": true
     },
@@ -75,94 +47,6 @@
       "hot": true
     },
     {
-      "id": "23398951924",
-      "title": "Principia Kit Dupla Diária Todo Tipo de Pele c/ Protetor Solar Facial PS-01 FPS 60 + Creme Hidratante CH-01",
-      "price": 54.7,
-      "originalPrice": 67.89,
-      "discountPercent": 19.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfeat3mz3h1j58",
-      "url": "https://s.shopee.com.br/9AQA5lvN9d",
-      "rating": 4.9,
-      "salesCount": 1224,
-      "official": true,
-      "seller": "Principia Skincare",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "22693731888",
-      "title": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
-      "price": 352.9,
-      "originalPrice": 458.99,
-      "discountPercent": 23.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6",
-      "url": "https://s.shopee.com.br/9zzF3HFZ6I",
-      "rating": 5,
-      "salesCount": 2177,
-      "official": true,
-      "seller": "Lizze",
-      "category": "Beleza"
-    },
-    {
-      "id": "22097599340",
-      "title": "Kit cuidados masculinos - Modelador Pente Chapinha para cabelo e Barbeador Maquina cortar cabelo dragão",
-      "price": 20.93,
-      "originalPrice": 49.83,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ai-mfs1lk6gopooe9",
-      "url": "https://s.shopee.com.br/4B1UAe6Ypv",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 413,
-      "seller": "Chique Econômico",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "23298979814",
-      "title": "Principia Kit Limpeza e Hidratação Dia a Dia c/ Gel de Limpeza GL-02 + Creme Hidratante CH-01",
-      "price": 56.42,
-      "originalPrice": 67.89,
-      "discountPercent": 16.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfio66cktblx93",
-      "url": "https://s.shopee.com.br/9V2ySRKKTw",
-      "rating": 4.9,
-      "salesCount": 1542,
-      "official": true,
-      "seller": "Principia Skincare",
-      "category": "Beleza"
-    },
-    {
-      "id": "22893485360",
-      "title": "Relógio de Decoração para Escritório, Relógio De Parede, Relógio de Pilha",
-      "price": 25.98,
-      "originalPrice": 49.96,
-      "discountPercent": 48,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-msy93dnurvuv81",
-      "url": "https://s.shopee.com.br/3B8wwhSDyt",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 186,
-      "seller": "BAZARON-LINE",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "28717329394",
-      "title": "Mini 200W PD QC Puxar Anel De Carregamento Rápido Carregador Carro USB C Adaptador Telefone Do Para iPhone 13 12 Xiaomi ",
-      "price": 18.42,
-      "originalPrice": 32.32,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7req2-m2hrv42k8mp60c",
-      "url": "https://s.shopee.com.br/5q9iMu4AJh",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 302,
-      "seller": "Zhiyu.Beautiful.br",
-      "category": "Eletrônicos",
-      "hot": true
-    },
-    {
       "id": "14089007380",
       "title": "Escorredor De Louça Cozinha Prato Duplo Porta Talheres Metaltru",
       "price": 26.13,
@@ -174,36 +58,23 @@
       "salesCount": 1596,
       "official": true,
       "seller": "Estrela do Lar",
-      "category": "Cozinha"
+      "category": "Cozinha",
+      "hot": true
     },
     {
-      "id": "10398027894",
-      "title": "Espelho Redondo  Lapidado com LED Decorativo para Banheiro Lavabo Quarto Sala Vários Tamanhos",
-      "price": 31.9,
-      "originalPrice": 37.9,
-      "discountPercent": 15.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mvgefnhznrwg8b",
-      "url": "https://s.shopee.com.br/114QGSTh7L",
+      "id": "28763885203",
+      "title": "Kit 25, 14 e 7 Organizador Multiuso Modular Gavetas Geladeira Acrilico Cristal",
+      "price": 23.08,
+      "originalPrice": 32.9,
+      "discountPercent": 29.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1a5fa02sn6o31",
+      "url": "https://s.shopee.com.br/2VtE7Vi3ZH",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1268,
-      "official": true,
-      "seller": "Up Glass",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "22392646521",
-      "title": "Escova Secadora Britânia 4 em 1 Nanocerâmica 1300W BELLA01",
-      "price": 94.9,
-      "originalPrice": 119.9,
-      "discountPercent": 20.9,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a0-mvfz3ecbjcawed",
-      "url": "https://s.shopee.com.br/9AQ81d68k1",
-      "rating": 4.9,
-      "salesCount": 2071,
-      "official": true,
-      "seller": "Britânia Oficial",
-      "category": "Beleza"
+      "salesCount": 1615,
+      "seller": "EM CASA ENCONTRA",
+      "category": "Casa e organização",
+      "hot": true
     }
   ]
 }
