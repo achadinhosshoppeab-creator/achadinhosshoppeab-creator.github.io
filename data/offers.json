@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-11-14T18:50:26.833Z",
+  "updatedAt": "2026-11-14T19:12:12.278Z",
   "offers": [
+    {
+      "id": "21098988899",
+      "title": "Máscara Tratamento Capilar Wella Professionals Enrich 150ml",
+      "price": 75.99,
+      "originalPrice": 161.68,
+      "discountPercent": 53,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbmi-lmg4pfsmxs0524",
+      "url": "https://s.shopee.com.br/40i3u77VQJ",
+      "rating": 5,
+      "salesCount": 468,
+      "official": true,
+      "seller": "Perfumaria Sumirê",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "50752609828",
+      "title": " Conjunto de 3 Batons de Longa Duração: Não Transfere, Brilho Labial Hidratante, Tons Nude",
+      "price": 26.79,
+      "originalPrice": 37.73,
+      "discountPercent": 29,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822yi-mhzrkuiiob2861",
+      "url": "https://s.shopee.com.br/BVLcV7jdc",
+      "rating": 4.9,
+      "salesCount": 785,
+      "official": true,
+      "seller": "Brand Choice",
+      "category": "Beleza"
+    },
+    {
+      "id": "58265876460",
+      "title": "INOVA Tripé 3 em 1 Retrátil 190cm Gira 360° Com Controle Remoto Bluetooth",
+      "price": 72,
+      "originalPrice": 128.57,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-ms6f4mfxeex2e1",
+      "url": "https://s.shopee.com.br/AAIhvxf8xK",
+      "rating": 4.9,
+      "salesCount": 775,
+      "seller": "Basike Informação",
+      "category": "Eletrônicos",
+      "hot": true
+    },
+    {
+      "id": "58262387632",
+      "title": "Kit Renovadores Gota de Colágeno e Rosa Mosqueta Kokeshi",
+      "price": 61.52,
+      "originalPrice": 74.9,
+      "discountPercent": 17.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mume7ufalreo72",
+      "url": "https://s.shopee.com.br/2qW4RnjS6T",
+      "rating": 4.9,
+      "salesCount": 5750,
+      "official": true,
+      "seller": "KOKESHI OFICIAL",
+      "category": "Beleza"
+    },
+    {
+      "id": "55169010644",
+      "title": "GOKOCO Massageador para Olhos 4 em 1 com EMS, LED, Compressa Quente e Vibração, Recarregável USB-C",
+      "price": 89,
+      "originalPrice": 178,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b0-mu4cyg9mkyyoa9",
+      "url": "https://s.shopee.com.br/4fxmXSfdoa",
+      "rating": 4.9,
+      "salesCount": 922,
+      "official": true,
+      "seller": "GOKOCO FULL Oficial Shop",
+      "category": "Beleza",
+      "hot": true
+    },
     {
       "id": "55809708679",
       "title": "Brinquedo Tartaruga Fujona Elétrico com Luz LED Som e Movimento Automático Infantil Educativo Bebê",
@@ -14,6 +86,21 @@
       "salesCount": 782,
       "seller": "LojaZini",
       "category": "Pet e bebê",
+      "hot": true
+    },
+    {
+      "id": "29814112909",
+      "title": "Organizador Mini Gaveteiro Com 9 Gavetas Transparente Para Maquiagem/Joias/Papelaria",
+      "price": 19.99,
+      "originalPrice": 86.91,
+      "discountPercent": 77,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1edmeltmexu02",
+      "url": "https://s.shopee.com.br/3B8x7d58G6",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 629,
+      "seller": "MSK Armarinhos",
+      "category": "Casa e organização",
       "hot": true
     },
     {
@@ -32,21 +119,6 @@
       "hot": true
     },
     {
-      "id": "23699041013",
-      "title": "Kit 5 / 3 / 2 Tapetes p/ Banheiro Piso Saída Box Felpudo Banheiro Luxo Grande",
-      "price": 19.99,
-      "originalPrice": 37.72,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258m-mg3yimrwc83ve1",
-      "url": "https://s.shopee.com.br/ql2Pi1L6j",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 571,
-      "seller": "heinigtextil",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "22893485360",
       "title": "Relógio de Decoração para Escritório, Relógio De Parede, Relógio de Pilha",
       "price": 25.98,
@@ -62,18 +134,33 @@
       "hot": true
     },
     {
-      "id": "5968549524",
-      "title": "Corretivo Camuflagem Pri Lessa Catharine Hill Alta Cobertura Angel Wings 8ml Vegano",
-      "price": 52.9,
-      "originalPrice": 94.46,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m14cqof2tpqobc",
-      "url": "https://s.shopee.com.br/7KyVuObTIS",
+      "id": "58206370926",
+      "title": "Suporte Inox Multiuso de Parede - Gancho para Vassoura, Rodo e Pá, Organize sua Cozinha!",
+      "price": 16.8,
+      "originalPrice": 28.97,
+      "discountPercent": 42,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mlg60ramjsas29",
+      "url": "https://s.shopee.com.br/1W0izltYwb",
+      "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1213,
-      "seller": "Pérola Makeup Oficial",
-      "category": "Beleza",
+      "salesCount": 690,
+      "seller": "jvch21my_o",
+      "category": "Casa e organização",
       "hot": true
+    },
+    {
+      "id": "22392646521",
+      "title": "Escova Secadora Britânia 4 em 1 Nanocerâmica 1300W BELLA01",
+      "price": 94.9,
+      "originalPrice": 119.9,
+      "discountPercent": 20.9,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a0-mvfz3ecbjcawed",
+      "url": "https://s.shopee.com.br/9AQ81d68k1",
+      "rating": 4.9,
+      "salesCount": 2071,
+      "official": true,
+      "seller": "Britânia Oficial",
+      "category": "Beleza"
     }
   ]
 }
