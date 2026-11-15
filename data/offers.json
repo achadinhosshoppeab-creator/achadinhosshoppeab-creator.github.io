@@ -1,33 +1,46 @@
 {
-  "updatedAt": "2026-11-15T22:30:12.670Z",
+  "updatedAt": "2026-11-15T22:51:05.288Z",
   "offers": [
     {
-      "id": "58262387632",
-      "title": "Kit Renovadores Gota de Colágeno e Rosa Mosqueta Kokeshi",
-      "price": 61.52,
-      "originalPrice": 74.9,
-      "discountPercent": 17.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mume7ufalreo72",
-      "url": "https://s.shopee.com.br/7pupCfJxCy",
+      "id": "19797210774",
+      "title": "Lustre Teto Plafon Industrial Aramado Diamante Luminária pendente",
+      "price": 26.4,
+      "originalPrice": 40,
+      "discountPercent": 34,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg4avmc6g1zba2",
+      "url": "https://s.shopee.com.br/8Kr4xBS9w5",
       "rating": 4.9,
-      "salesCount": 5872,
-      "official": true,
-      "seller": "KOKESHI OFICIAL",
-      "category": "Beleza"
+      "salesCount": 181,
+      "seller": "PJ DECORAÇÕES ",
+      "category": "Casa e organização",
+      "hot": true
     },
     {
-      "id": "55169010644",
-      "title": "GOKOCO Massageador para Olhos 4 em 1 com EMS, LED, Compressa Quente e Vibração, Recarregável USB-C",
-      "price": 89,
-      "originalPrice": 178,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b0-mu4cyg9mkyyoa9",
-      "url": "https://s.shopee.com.br/7VHyo7SL04",
+      "id": "58265876460",
+      "title": "INOVA Tripé 3 em 1 Retrátil 190cm Gira 360° Com Controle Remoto Bluetooth",
+      "price": 72,
+      "originalPrice": 128.57,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-ms6f4mfxeex2e1",
+      "url": "https://s.shopee.com.br/4VeNEggCuf",
       "rating": 4.9,
-      "salesCount": 1128,
-      "official": true,
-      "seller": "GOKOCO FULL Oficial Shop",
-      "category": "Beleza",
+      "salesCount": 788,
+      "seller": "Basike Informação",
+      "category": "Eletrônicos",
+      "hot": true
+    },
+    {
+      "id": "49516046201",
+      "title": "Combo Completo Capa Case Tablet Xiaomi Redmi Pad 2 11 Polegadas + Película + Caneta Touch + Suporte + Teclado e Mouse",
+      "price": 119.9,
+      "originalPrice": 171.29,
+      "discountPercent": 30,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-muw56lekrlz556",
+      "url": "https://s.shopee.com.br/BVOo0Nw6U",
+      "rating": 4.9,
+      "salesCount": 389,
+      "seller": "Kase Store",
+      "category": "Eletrônicos",
       "hot": true
     },
     {
@@ -46,21 +59,6 @@
       "hot": true
     },
     {
-      "id": "23198323478",
-      "title": "Tênis Casual Feminino Branco Masculino Conforto Premium Academia Leve Macio Original",
-      "price": 29.9,
-      "originalPrice": 99.67,
-      "discountPercent": 70,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfn6q1cpl4p319",
-      "url": "https://s.shopee.com.br/7Af8PV7GTk",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1254,
-      "seller": "ELITE SHOES ",
-      "category": "Moda",
-      "hot": true
-    },
-    {
       "id": "18797677549",
       "title": "Secador De Cabelo Taiff Style Profissional Original 2000W",
       "price": 274.46,
@@ -73,52 +71,8 @@
       "salesCount": 701,
       "official": true,
       "seller": "Beleza Renovada Oficial",
-      "category": "Beleza"
-    },
-    {
-      "id": "22698693476",
-      "title": "Varal 40 Clips Inox Prendedores Pratico E Retrátil Cabide Para Roupas Intimas Para Pequenas",
-      "price": 21.55,
-      "originalPrice": 59.86,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra20-mbmla1vcbc3916",
-      "url": "https://s.shopee.com.br/1By5Dxqtk",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1313,
-      "seller": "X.X.X",
-      "category": "Casa e organização",
+      "category": "Beleza",
       "hot": true
-    },
-    {
-      "id": "22194002766",
-      "title": "Varal De Chão Reforçado C/abas Dobrável Retrátil Slim Mor Cor Branco",
-      "price": 99.9,
-      "originalPrice": 149.1,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zwg-mmtbbbcs8uf5dc",
-      "url": "https://s.shopee.com.br/LooTpwaDq",
-      "rating": 4.9,
-      "salesCount": 1220,
-      "official": true,
-      "seller": "ATOZ DISTRIBUIDORA",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "23298751543",
-      "title": "Varal De Chão MOR Grande Maxxi Com Abas Suporta 25kg de Roupas Úmidas Não Enferruja Dobrável Aço",
-      "price": 158.99,
-      "originalPrice": 248.42,
-      "discountPercent": 36,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-med2pqavcz5v03",
-      "url": "https://s.shopee.com.br/BVOHWxDYn",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1180,
-      "official": true,
-      "seller": "Sombrisul Equipamentos",
-      "category": "Casa e organização"
     },
     {
       "id": "58261060170",
@@ -136,36 +90,6 @@
       "hot": true
     },
     {
-      "id": "28717329394",
-      "title": "Mini 200W PD QC Puxar Anel De Carregamento Rápido Carregador Carro USB C Adaptador Telefone Do Para iPhone 13 12 Xiaomi ",
-      "price": 18.42,
-      "originalPrice": 32.32,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7req2-m2hrv42k8mp60c",
-      "url": "https://s.shopee.com.br/1qdc7yCuqj",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 296,
-      "seller": "Zhiyu.Beautiful.br",
-      "category": "Eletrônicos",
-      "hot": true
-    },
-    {
-      "id": "28763885203",
-      "title": "Kit 25, 14 e 7 Organizador Multiuso Modular Gavetas Geladeira Acrilico Cristal",
-      "price": 23.08,
-      "originalPrice": 32.9,
-      "discountPercent": 29.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1a5fa02sn6o31",
-      "url": "https://s.shopee.com.br/4fxnqhQQav",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1576,
-      "seller": "EM CASA ENCONTRA",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "22392646521",
       "title": "Escova Secadora Britânia 4 em 1 Nanocerâmica 1300W BELLA01",
       "price": 94.9,
@@ -177,7 +101,8 @@
       "salesCount": 2273,
       "official": true,
       "seller": "Britânia Oficial",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     }
   ]
 }
