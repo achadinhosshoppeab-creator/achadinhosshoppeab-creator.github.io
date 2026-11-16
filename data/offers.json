@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T16:02:44.562Z",
+  "updatedAt": "2026-11-16T16:23:40.455Z",
   "offers": [
     {
       "id": "43133292290",
@@ -14,34 +14,6 @@
       "official": true,
       "seller": "koksara.kbeauty",
       "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "58265876460",
-      "title": "INOVA Tripé 3 em 1 Retrátil 190cm Gira 360° Com Controle Remoto Bluetooth",
-      "price": 70,
-      "originalPrice": 129.63,
-      "discountPercent": 46,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-ms6f4mfxeex2e1",
-      "url": "https://s.shopee.com.br/1BNxdMcJsL",
-      "rating": 4.9,
-      "salesCount": 788,
-      "seller": "Basike Informação",
-      "category": "Eletrônicos",
-      "hot": true
-    },
-    {
-      "id": "19797210774",
-      "title": "Lustre Teto Plafon Industrial Aramado Diamante Luminária pendente",
-      "price": 26.4,
-      "originalPrice": 40,
-      "discountPercent": 34,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg4avmc6g1zba2",
-      "url": "https://s.shopee.com.br/LoqZPKWi8",
-      "rating": 4.9,
-      "salesCount": 181,
-      "seller": "PJ DECORAÇÕES ",
-      "category": "Casa e organização",
       "hot": true
     },
     {
@@ -61,31 +33,17 @@
       "hot": true
     },
     {
-      "id": "21598656632",
-      "title": "Suporte Para Cpu Computador Ajustavel Rodizios",
-      "price": 22.11,
-      "originalPrice": 29.97,
-      "discountPercent": 26.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-li8txvm0m2wl05",
-      "url": "https://s.shopee.com.br/8AXfbWLM9e",
-      "rating": 4.9,
-      "salesCount": 1414,
-      "seller": "Draw Papelaria",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "18997982042",
-      "title": "Kit 3/5/10 Saco a Vacuo + COM ou SEM Bomba Manual Organização de Roupas Mala Viagem Guarda Roupas",
-      "price": 19.29,
-      "originalPrice": 41.93,
-      "discountPercent": 54,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mlmyxoqhrz7pd5",
-      "url": "https://s.shopee.com.br/8AXhtkruwX",
+      "id": "43084868685",
+      "title": "Pisca Pisca Natal 10m 100 Led Branco Quente Luzes 8 Funções Decoração Luz Natalina Árvore de Natal Luzes Varal",
+      "price": 19.9,
+      "originalPrice": 45.23,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mtr1pdvyvwg044",
+      "url": "https://s.shopee.com.br/6L63iQOUEA",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1124,
-      "seller": "Ulife.Loja.Oficial",
+      "salesCount": 721,
+      "seller": "BORGES LTDA",
       "category": "Casa e organização",
       "hot": true
     },
@@ -101,6 +59,50 @@
       "salesCount": 189,
       "seller": "Gianani Imports",
       "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "20799609642",
+      "title": "KIT 9  Conjunto De Esfregão E Balde Dobrável De Microfibra Com Raspador De Desaguamento S10",
+      "price": 99.48,
+      "originalPrice": 198.96,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7vkqonwmphw06",
+      "url": "https://s.shopee.com.br/3g5IbwTCup",
+      "rating": 4.9,
+      "salesCount": 1006,
+      "seller": "KODI-2",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "23098819605",
+      "title": "Relógio Quartz de Pulso Feminino Pulseira Elástica analógico prata preto dourado rose Moda Blogueira",
+      "price": 18.9,
+      "originalPrice": 54,
+      "discountPercent": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ap-mv6a65qxds05e6",
+      "url": "https://s.shopee.com.br/2LZux2EC0K",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 519,
+      "seller": "Carpe Diem Shops",
+      "category": "Moda",
+      "hot": true
+    },
+    {
+      "id": "56868516878",
+      "title": "1/2/3 Suporte De Shampoo Organizador Alta qualidade Prateleira De Banheiro Sem Furo Premium-Space Alumínio",
+      "price": 20.9,
+      "originalPrice": 44.47,
+      "discountPercent": 53,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mtz09xh6qrk65d",
+      "url": "https://s.shopee.com.br/1W0nw3a3KR",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 1408,
+      "seller": "NOVARA.br",
+      "category": "Casa e organização",
       "hot": true
     }
   ]
