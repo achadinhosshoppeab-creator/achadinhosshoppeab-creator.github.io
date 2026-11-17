@@ -1,50 +1,6 @@
 {
-  "updatedAt": "2026-11-17T13:59:42.508Z",
+  "updatedAt": "2026-11-17T14:20:41.001Z",
   "offers": [
-    {
-      "id": "20398291119",
-      "title": "Calça Jeans Baggy Masculina Balão Larga Carpenter Streetwear Skatista Wide Leg Premium Casual Confortável Dazzling",
-      "price": 59,
-      "originalPrice": 151.28,
-      "discountPercent": 61,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mqrqa4vzelmqdf",
-      "url": "https://s.shopee.com.br/114XljrSZg",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1691,
-      "seller": "BEST JEANS",
-      "category": "Moda",
-      "hot": true
-    },
-    {
-      "id": "58270813462",
-      "title": "Chave de Impacto Parafusadeira e Furadeira 3 EM 1 Brushless Sem Fio 68V Com 4 Soquetes",
-      "price": 173.63,
-      "originalPrice": 403.79,
-      "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-muhk3lcmhgjk03",
-      "url": "https://s.shopee.com.br/5Au7r8G1wh",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 491,
-      "seller": "FR Ferramentas Relâmpago",
-      "category": "Ferramentas"
-    },
-    {
-      "id": "28867680104",
-      "title": "[NEW] NUMBUZIN No.9 NAD BIO Lifting Sil Essence 30ml, 50ml",
-      "price": 63.99,
-      "originalPrice": 92.68,
-      "discountPercent": 31,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8257x-mrgvlvtzbjt2da",
-      "url": "https://s.shopee.com.br/80EFTPZkyy",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1920,
-      "official": true,
-      "seller": "GLORY OF SEOUL",
-      "category": "Beleza"
-    },
     {
       "id": "19797210774",
       "title": "Lustre Teto Plafon Industrial Aramado Diamante Luminária pendente",
@@ -69,21 +25,21 @@
       "rating": 4.9,
       "salesCount": 358,
       "seller": "TECHLAR ",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "28944042529",
-      "title": "Kit 10 Marmitas Conjunto Potes 850ml com Travas Laterais Livre de BPA - Organizadores de Congelador",
-      "price": 29.98,
-      "originalPrice": 90.85,
-      "discountPercent": 67,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mtpdofdf7gu950",
-      "url": "https://s.shopee.com.br/6L63u5MTG7",
-      "rating": 4.5,
-      "salesCount": 886,
-      "seller": "A T E N A S",
       "category": "Casa e organização",
       "hot": true
+    },
+    {
+      "id": "49516046201",
+      "title": "Combo Completo Capa Case Tablet Xiaomi Redmi Pad 2 11 Polegadas + Película + Caneta Touch + Suporte + Teclado e Mouse",
+      "price": 119.9,
+      "originalPrice": 171.29,
+      "discountPercent": 30,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-muw56lekrlz556",
+      "url": "https://s.shopee.com.br/BVOo0Nw6U",
+      "rating": 4.9,
+      "salesCount": 382,
+      "seller": "Kase Store",
+      "category": "Eletrônicos"
     },
     {
       "id": "49459506760",
@@ -111,21 +67,7 @@
       "rating": 4.8,
       "salesCount": 1676,
       "seller": "JIMMY.STORE",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "58107325952",
-      "title": "Tapete Infantil Sensorial Inflável Água Bebê Atividades Estimula Desenvolvimento Criança Pets",
-      "price": 18.99,
-      "originalPrice": 47.47,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mrzxpv7itj45cb",
-      "url": "https://s.shopee.com.br/1W0oO1M24X",
-      "rating": 4.9,
-      "salesCount": 465,
-      "official": true,
-      "seller": "Bolinha Mágica",
-      "category": "Pet e bebê",
+      "category": "Eletrônicos",
       "hot": true
     },
     {
@@ -184,6 +126,19 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23493918699",
+      "title": "Paleta de sombras Kit de maquiagem Completo Miss France",
+      "price": 32.99,
+      "originalPrice": 57.88,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m90cyvaby33tf5",
+      "url": "https://s.shopee.com.br/114YqIak9z",
+      "rating": 4.9,
+      "salesCount": 189,
+      "seller": "Gianani Imports",
+      "category": "Beleza"
+    },
+    {
       "id": "23093480302",
       "title": "Basike Carregador Portátil Power Bank 20000mAh Bateria Externa Para iPhone Samsung Pow079",
       "price": 113.99,
@@ -240,6 +195,21 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23098819605",
+      "title": "Relógio Quartz de Pulso Feminino Pulseira Elástica analógico prata preto dourado rose Moda Blogueira",
+      "price": 18.9,
+      "originalPrice": 54,
+      "discountPercent": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ap-mv6a65qxds05e6",
+      "url": "https://s.shopee.com.br/2LZux2EC0K",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 528,
+      "seller": "Carpe Diem Shops",
+      "category": "Moda",
+      "hot": true
+    },
+    {
       "id": "58265674903",
       "title": "made Kit 20/40/80 Un Saco Saquinhos Congelar Leite Maternidade Bebê",
       "price": 16.66,
@@ -254,17 +224,18 @@
       "hot": true
     },
     {
-      "id": "22994782615",
-      "title": "Kit Serra Adaptador De Serra Tico-Tico Elétrica Para Furadeira e Parafusadeira,Ferramenta de Corte p/Madeira",
-      "price": 25.98,
-      "originalPrice": 60.42,
+      "id": "44615986232",
+      "title": "Kit 5 ou 10 Calcinha Feminina Lisa 100% Algodão Confortável Básica Dia a Dia Macia",
+      "price": 29.89,
+      "originalPrice": 69.51,
       "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261n-mj850rne85j7df",
-      "url": "https://s.shopee.com.br/2VtMgEQBLv",
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mrulvhheyeitc6",
+      "url": "https://s.shopee.com.br/Lor5qds7z",
+      "hasVariantPrices": true,
       "rating": 4.7,
-      "salesCount": 507,
-      "seller": "Domus Charm",
-      "category": "Ferramentas",
+      "salesCount": 1932,
+      "seller": "emperialstore",
+      "category": "Moda",
       "hot": true
     },
     {
@@ -325,6 +296,20 @@
       "hot": true
     },
     {
+      "id": "19598142136",
+      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
+      "price": 118.15,
+      "originalPrice": 139,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
+      "url": "https://s.shopee.com.br/6L62CFK8yu",
+      "rating": 5,
+      "salesCount": 2120,
+      "official": true,
+      "seller": "meuollie",
+      "category": "Beleza"
+    },
+    {
       "id": "58254628235",
       "title": "Conjunto de Academia Feminino Fitness Short com Bolso + Top, Zero Tranparência com Cintura Alta",
       "price": 44.9,
@@ -353,19 +338,18 @@
       "category": "Casa e organização"
     },
     {
-      "id": "22898352193",
-      "title": "Kit peças Caneta em Gel ponta fina Glamour Cristal Luxo Com Diamante material escolares",
-      "price": 16.99,
-      "originalPrice": 33.98,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mu0uoc9681kwe9",
-      "url": "https://s.shopee.com.br/1W0pROHCKO",
+      "id": "18997982042",
+      "title": "Kit 3/5/10 Saco a Vacuo + COM ou SEM Bomba Manual Organização de Roupas Mala Viagem Guarda Roupas",
+      "price": 29.99,
+      "originalPrice": 41.08,
+      "discountPercent": 27,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mlmyxoqhrz7pd5",
+      "url": "https://s.shopee.com.br/8AXhtkruwX",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 404,
-      "official": true,
-      "seller": "SPLORO Papelaria",
-      "category": "Presentes e papelaria"
+      "salesCount": 1184,
+      "seller": "Ulife.Loja.Oficial",
+      "category": "Casa e organização"
     },
     {
       "id": "22198347462",
@@ -436,34 +420,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "58200018619",
-      "title": "Kits Areia Higiênica Biodegradável para Gatos - Catbio Mandioca - Forma Torrão, Sem Odor, Super Premium",
-      "price": 77.9,
-      "originalPrice": 127.7,
-      "discountPercent": 39,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg8anfsytibo43",
-      "url": "https://s.shopee.com.br/9AQExRCBiq",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1754,
-      "seller": "petpremier",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "58218741576",
-      "title": "Mochila Escolar Infantil Feminina – Grande Capacidade, Confortável e Resistente para Escola e Passeios",
-      "price": 74.99,
-      "originalPrice": 111.93,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257x-mtfnco33m32a40",
-      "url": "https://s.shopee.com.br/30pch5ldA1",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 272,
-      "seller": "M Flowerr",
-      "category": "Presentes e papelaria"
-    },
-    {
       "id": "19139965863",
       "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
       "price": 42.41,
@@ -476,19 +432,6 @@
       "salesCount": 297,
       "seller": "Gift Presentes",
       "category": "Presentes e papelaria"
-    },
-    {
-      "id": "56006237715",
-      "title": "UNO Original com 110 Cartas Premium – Jogo Clássico para Momentos Inesquecíveis",
-      "price": 15.9,
-      "originalPrice": 21.78,
-      "discountPercent": 27,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztj-mksj989fqs5e18",
-      "url": "https://s.shopee.com.br/1BNxdPfVYV",
-      "rating": 4.7,
-      "salesCount": 216,
-      "seller": "Ekeep",
-      "category": "Pet e bebê"
     },
     {
       "id": "19199704852",
