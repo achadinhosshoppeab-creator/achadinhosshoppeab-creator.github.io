@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T13:38:29.420Z",
+  "updatedAt": "2026-11-17T13:59:42.508Z",
   "offers": [
     {
       "id": "20398291119",
@@ -70,6 +70,34 @@
       "salesCount": 358,
       "seller": "TECHLAR ",
       "category": "Casa e organização"
+    },
+    {
+      "id": "28944042529",
+      "title": "Kit 10 Marmitas Conjunto Potes 850ml com Travas Laterais Livre de BPA - Organizadores de Congelador",
+      "price": 29.98,
+      "originalPrice": 90.85,
+      "discountPercent": 67,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mtpdofdf7gu950",
+      "url": "https://s.shopee.com.br/6L63u5MTG7",
+      "rating": 4.5,
+      "salesCount": 886,
+      "seller": "A T E N A S",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "49459506760",
+      "title": "Trena Aço Retrátil 5m 7.5m 10m com Trava Auto Lock Medição Precisa Profissional",
+      "price": 26.9,
+      "originalPrice": 54.9,
+      "discountPercent": 51,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mob90bh0hgxx8e",
+      "url": "https://s.shopee.com.br/8pnOlVd8Em",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 184,
+      "seller": "CESTACLIC SHOP",
+      "category": "Ferramentas"
     },
     {
       "id": "20897683919",
@@ -156,19 +184,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "23493918699",
-      "title": "Paleta de sombras Kit de maquiagem Completo Miss France",
-      "price": 32.99,
-      "originalPrice": 57.88,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m90cyvaby33tf5",
-      "url": "https://s.shopee.com.br/114YqIak9z",
-      "rating": 4.9,
-      "salesCount": 189,
-      "seller": "Gianani Imports",
-      "category": "Beleza"
-    },
-    {
       "id": "23093480302",
       "title": "Basike Carregador Portátil Power Bank 20000mAh Bateria Externa Para iPhone Samsung Pow079",
       "price": 113.99,
@@ -225,21 +240,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "23098819605",
-      "title": "Relógio Quartz de Pulso Feminino Pulseira Elástica analógico prata preto dourado rose Moda Blogueira",
-      "price": 18.9,
-      "originalPrice": 54,
-      "discountPercent": 65,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ap-mv6a65qxds05e6",
-      "url": "https://s.shopee.com.br/2LZux2EC0K",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 528,
-      "seller": "Carpe Diem Shops",
-      "category": "Moda",
-      "hot": true
-    },
-    {
       "id": "58265674903",
       "title": "made Kit 20/40/80 Un Saco Saquinhos Congelar Leite Maternidade Bebê",
       "price": 16.66,
@@ -254,21 +254,6 @@
       "hot": true
     },
     {
-      "id": "44615986232",
-      "title": "Kit 5 ou 10 Calcinha Feminina Lisa 100% Algodão Confortável Básica Dia a Dia Macia",
-      "price": 29.89,
-      "originalPrice": 69.51,
-      "discountPercent": 57,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mrulvhheyeitc6",
-      "url": "https://s.shopee.com.br/Lor5qds7z",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1932,
-      "seller": "emperialstore",
-      "category": "Moda",
-      "hot": true
-    },
-    {
       "id": "22994782615",
       "title": "Kit Serra Adaptador De Serra Tico-Tico Elétrica Para Furadeira e Parafusadeira,Ferramenta de Corte p/Madeira",
       "price": 25.98,
@@ -279,7 +264,8 @@
       "rating": 4.7,
       "salesCount": 507,
       "seller": "Domus Charm",
-      "category": "Ferramentas"
+      "category": "Ferramentas",
+      "hot": true
     },
     {
       "id": "23098428261",
@@ -295,6 +281,19 @@
       "seller": "K7mart",
       "category": "Ferramentas",
       "hot": true
+    },
+    {
+      "id": "22099903633",
+      "title": "Conjunto de Academia Feminino Fitness/Corrida Short/C Bolso Top Frente Unica Zero Transparencia C Cintura Alta",
+      "price": 48.99,
+      "originalPrice": 80.31,
+      "discountPercent": 39,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mtu940agdermfe",
+      "url": "https://s.shopee.com.br/9KjfHyLCCP",
+      "rating": 4.9,
+      "salesCount": 981,
+      "seller": "Movini Fit",
+      "category": "Moda"
     },
     {
       "id": "21999036745",
@@ -326,18 +325,32 @@
       "hot": true
     },
     {
-      "id": "19598142136",
-      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
-      "price": 118.15,
-      "originalPrice": 139,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
-      "url": "https://s.shopee.com.br/6L62CFK8yu",
-      "rating": 5,
-      "salesCount": 2120,
-      "official": true,
-      "seller": "meuollie",
-      "category": "Beleza"
+      "id": "58254628235",
+      "title": "Conjunto de Academia Feminino Fitness Short com Bolso + Top, Zero Tranparência com Cintura Alta",
+      "price": 44.9,
+      "originalPrice": 80.18,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260u-mkb5a2yy0ao745",
+      "url": "https://s.shopee.com.br/9fMVgaJvWV",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1038,
+      "seller": "Zayan Moda Fitness",
+      "category": "Moda"
+    },
+    {
+      "id": "23694337309",
+      "title": "Lanterna Portatil Canhao Laser Recarregavel Zoom Telescópico À Prova D'água Suporte de Abajur",
+      "price": 29.96,
+      "originalPrice": 62.42,
+      "discountPercent": 52,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mpjf7j894mio05",
+      "url": "https://s.shopee.com.br/4fxpkngvyp",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 326,
+      "seller": "Fuxi Store",
+      "category": "Casa e organização"
     },
     {
       "id": "22898352193",
@@ -353,6 +366,19 @@
       "official": true,
       "seller": "SPLORO Papelaria",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "22198347462",
+      "title": "Tenis Infantil Meninos Jogger Escolar Casual Camurça + Bone Oculos Relogio",
+      "price": 45.99,
+      "originalPrice": 79.29,
+      "discountPercent": 42,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7hwu1j2uxqk37",
+      "url": "https://s.shopee.com.br/7fbRNKdufI",
+      "rating": 4.9,
+      "salesCount": 747,
+      "seller": "Stand Web",
+      "category": "Moda"
     },
     {
       "id": "23597998815",
@@ -518,6 +544,20 @@
       "salesCount": 451,
       "official": true,
       "seller": "GiGiL",
+      "category": "Moda"
+    },
+    {
+      "id": "23994333673",
+      "title": "conjunto academia top e calça fitness bicolor",
+      "price": 64.9,
+      "originalPrice": 76.9,
+      "discountPercent": 15.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mqe6jnfj36rl48",
+      "url": "https://s.shopee.com.br/8fTwCOP8LT",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1639,
+      "seller": "Nay Fit",
       "category": "Moda"
     },
     {
