@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T07:18:27.591Z",
+  "updatedAt": "2026-11-17T07:49:21.492Z",
   "offers": [
     {
       "id": "20398291119",
@@ -87,6 +87,19 @@
       "salesCount": 366,
       "seller": "AG SOCKS",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "19797210774",
+      "title": "Lustre Teto Plafon Industrial Aramado Diamante Luminária pendente",
+      "price": 26.4,
+      "originalPrice": 40,
+      "discountPercent": 34,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg4avmc6g1zba2",
+      "url": "https://s.shopee.com.br/LoqZPKWi8",
+      "rating": 4.9,
+      "salesCount": 185,
+      "seller": "PJ DECORAÇÕES ",
+      "category": "Casa e organização"
     },
     {
       "id": "58270099000",
