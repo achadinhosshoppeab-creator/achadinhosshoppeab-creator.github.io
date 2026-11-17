@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T08:52:02.537Z",
+  "updatedAt": "2026-11-17T09:24:08.897Z",
   "offers": [
     {
       "id": "20398291119",
@@ -224,21 +224,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "23799494458",
-      "title": "Popozuda Clarinha Sérum Clareador Corporal com Niacinamida e Ácido Tranexâmico",
-      "price": 39.9,
-      "originalPrice": 49.9,
-      "discountPercent": 20,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mu2i2k24ydc25f",
-      "url": "https://s.shopee.com.br/2BGSWiM5zf",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3743,
-      "official": true,
-      "seller": "Popozuda Oficial",
-      "category": "Beleza"
-    },
-    {
       "id": "23493918699",
       "title": "Paleta de sombras Kit de maquiagem Completo Miss France",
       "price": 32.99,
@@ -377,20 +362,6 @@
       "salesCount": 507,
       "seller": "Domus Charm",
       "category": "Ferramentas"
-    },
-    {
-      "id": "18497402527",
-      "title": "AMEND MÁSCARA NUTRITIVA EXPERTISE MARULA FABULOUS NUTRITION 300G",
-      "price": 33.9,
-      "originalPrice": 39.9,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98q-llwdbl7vtgja73",
-      "url": "https://s.shopee.com.br/1BNvIjHYD6",
-      "rating": 4.9,
-      "salesCount": 1874,
-      "official": true,
-      "seller": "AMEND OFICIAL",
-      "category": "Beleza"
     },
     {
       "id": "23098428261",
@@ -545,20 +516,6 @@
       "salesCount": 731,
       "seller": "Luz Ltda",
       "category": "Moda"
-    },
-    {
-      "id": "12834570379",
-      "title": "Cabide de Veludo Adulto Slim Antideslizante Com Presilha de Metal ou Tradicional Preto Cinza Bege",
-      "price": 31.92,
-      "originalPrice": 38.71,
-      "discountPercent": 17.5,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mefwhp0gphc093",
-      "url": "https://s.shopee.com.br/9AQCpMbvMC",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 269,
-      "seller": "Loja da Casa Home",
-      "category": "Casa e organização"
     },
     {
       "id": "44366121463",
