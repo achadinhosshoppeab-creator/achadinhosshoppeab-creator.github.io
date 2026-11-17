@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T04:10:29.414Z",
+  "updatedAt": "2026-11-17T04:41:52.822Z",
   "offers": [
     {
       "id": "20398291119",
@@ -138,20 +138,6 @@
       "rating": 4.9,
       "salesCount": 382,
       "seller": "Kase Store",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "50801661798",
-      "title": "Caixa de Som Bluetooth JBL Boombox 4, com Auracast, IP68 Azul - 28913918",
-      "price": 2223.99,
-      "originalPrice": 2699,
-      "discountPercent": 17.6,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821d7-mh7w8c1tekg93a",
-      "url": "https://s.shopee.com.br/4qHDjiY5YY",
-      "rating": 5,
-      "salesCount": 531,
-      "official": true,
-      "seller": "TNTinfoLoja",
       "category": "Eletrônicos"
     },
     {
@@ -333,20 +319,6 @@
       "salesCount": 1078,
       "seller": "KODI-2",
       "category": "Casa e organização"
-    },
-    {
-      "id": "23298979814",
-      "title": "Principia Kit Limpeza e Hidratação Dia a Dia c/ Gel de Limpeza GL-02 + Creme Hidratante CH-01",
-      "price": 56.42,
-      "originalPrice": 67.89,
-      "discountPercent": 16.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfio66cktblx93",
-      "url": "https://s.shopee.com.br/70LiHZHhf6",
-      "rating": 4.9,
-      "salesCount": 1685,
-      "official": true,
-      "seller": "Principia Skincare",
-      "category": "Beleza"
     },
     {
       "id": "23098819605",
