@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T09:55:26.235Z",
+  "updatedAt": "2026-11-17T10:27:43.491Z",
   "offers": [
     {
       "id": "20398291119",
@@ -14,21 +14,6 @@
       "salesCount": 1691,
       "seller": "BEST JEANS",
       "category": "Moda",
-      "hot": true
-    },
-    {
-      "id": "21398274894",
-      "title": "Geleia Hidratante Celestial Glow Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
-      "price": 19.9,
-      "originalPrice": 71.07,
-      "discountPercent": 72,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-msofo5g9143r57",
-      "url": "https://s.shopee.com.br/3LSSM7hVcG",
-      "rating": 4.9,
-      "salesCount": 308,
-      "official": true,
-      "seller": "Barbour's Beauty",
-      "category": "Beleza",
       "hot": true
     },
     {
@@ -195,7 +180,8 @@
       "rating": 4.9,
       "salesCount": 779,
       "seller": "BORGES LTDA",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "22599308033",
@@ -655,21 +641,6 @@
       "salesCount": 63,
       "seller": "YELLOW LASER 3",
       "category": "Presentes e papelaria"
-    },
-    {
-      "id": "23498300221",
-      "title": "Bota Feminina GiGiL Cano Médio Enrugado Slouch Western Salto Alto Bico Fino Texana Country Elegante",
-      "price": 99.99,
-      "originalPrice": 119.99,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8luys2iiidt9d",
-      "url": "https://s.shopee.com.br/1BNvIlPxEd",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 451,
-      "official": true,
-      "seller": "GiGiL",
-      "category": "Moda"
     },
     {
       "id": "23994333673",
