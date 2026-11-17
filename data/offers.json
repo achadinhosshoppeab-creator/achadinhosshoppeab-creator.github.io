@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T06:15:41.563Z",
+  "updatedAt": "2026-11-17T06:47:08.874Z",
   "offers": [
     {
       "id": "20398291119",
@@ -208,8 +208,7 @@
       "rating": 4.9,
       "salesCount": 779,
       "seller": "BORGES LTDA",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "22599308033",
@@ -391,6 +390,21 @@
       "official": true,
       "seller": "AMEND OFICIAL",
       "category": "Beleza"
+    },
+    {
+      "id": "23098428261",
+      "title": "Kit 1/3/5 Discos Diamantado 100mm p/ Cerâmica/Vidro/Porcelanato Areia 15mm c/ Anel 20mm",
+      "price": 23.99,
+      "originalPrice": 58.51,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260n-mliqcuxma1hg70",
+      "url": "https://s.shopee.com.br/LoqcJVPTj",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1676,
+      "seller": "K7mart",
+      "category": "Ferramentas",
+      "hot": true
     },
     {
       "id": "22099903633",
