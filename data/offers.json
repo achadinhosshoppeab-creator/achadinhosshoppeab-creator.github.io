@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T06:47:08.874Z",
+  "updatedAt": "2026-11-17T07:18:27.591Z",
   "offers": [
     {
       "id": "20398291119",
@@ -89,19 +89,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "19797210774",
-      "title": "Lustre Teto Plafon Industrial Aramado Diamante Luminária pendente",
-      "price": 26.4,
-      "originalPrice": 40,
-      "discountPercent": 34,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg4avmc6g1zba2",
-      "url": "https://s.shopee.com.br/LoqZPKWi8",
-      "rating": 4.9,
-      "salesCount": 185,
-      "seller": "PJ DECORAÇÕES ",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58270099000",
       "title": "Bandeja Decorativa Espelhada Redonda Dourada 22,5cm 2 em 1 Espelho de Parede Perfume Lavabo Luxo",
       "price": 21.19,
@@ -113,19 +100,6 @@
       "salesCount": 358,
       "seller": "TECHLAR ",
       "category": "Casa e organização"
-    },
-    {
-      "id": "46905847586",
-      "title": "Escorredor de louças 3 andares Aço Inoxidável Organizador Louça Preto - Brielli Home",
-      "price": 113.9,
-      "originalPrice": 258.86,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mvbwhxmd3f29cc",
-      "url": "https://s.shopee.com.br/9AQFmFXGo8",
-      "rating": 4.9,
-      "salesCount": 247,
-      "seller": "LARUNO",
-      "category": "Cozinha"
     },
     {
       "id": "49516046201",
@@ -306,6 +280,20 @@
       "salesCount": 1463,
       "seller": "MODINHAS MAGI",
       "category": "Moda"
+    },
+    {
+      "id": "21697982542",
+      "title": "Saco Organizador 180L com Alça, à Prova de Poeira, Grande Capacidade para Colchas e Roupas Domésticas",
+      "price": 24.44,
+      "originalPrice": 54.31,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mmia0aqc09hi8f",
+      "url": "https://s.shopee.com.br/20x4YQFOS8",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 408,
+      "seller": "SUMARS",
+      "category": "Casa e organização"
     },
     {
       "id": "20799609642",
