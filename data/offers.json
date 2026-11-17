@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T10:27:43.491Z",
+  "updatedAt": "2026-11-17T10:58:44.808Z",
   "offers": [
     {
       "id": "20398291119",
@@ -14,6 +14,21 @@
       "salesCount": 1691,
       "seller": "BEST JEANS",
       "category": "Moda",
+      "hot": true
+    },
+    {
+      "id": "21398274894",
+      "title": "Geleia Hidratante Celestial Glow Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
+      "price": 19.9,
+      "originalPrice": 71.07,
+      "discountPercent": 72,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-msofo5g9143r57",
+      "url": "https://s.shopee.com.br/3LSSM7hVcG",
+      "rating": 4.9,
+      "salesCount": 308,
+      "official": true,
+      "seller": "Barbour's Beauty",
+      "category": "Beleza",
       "hot": true
     },
     {
@@ -180,8 +195,7 @@
       "rating": 4.9,
       "salesCount": 779,
       "seller": "BORGES LTDA",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "22599308033",
@@ -560,20 +574,6 @@
       "category": "Presentes e papelaria"
     },
     {
-      "id": "19139965863",
-      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
-      "price": 42.41,
-      "originalPrice": 49.9,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
-      "url": "https://s.shopee.com.br/AAInC5HgSO",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 297,
-      "seller": "Gift Presentes",
-      "category": "Presentes e papelaria"
-    },
-    {
       "id": "23292945743",
       "title": "Tenis Infantil Masculino Led Menino Aranha Tenis De Menino Masculino Tenis Infantil Menino",
       "price": 67.9,
@@ -641,6 +641,20 @@
       "salesCount": 63,
       "seller": "YELLOW LASER 3",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "23498300221",
+      "title": "Bota Feminina GiGiL Cano Médio Enrugado Slouch Western Salto Alto Bico Fino Texana Country Elegante",
+      "price": 99.99,
+      "originalPrice": 119.99,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8luys2iiidt9d",
+      "url": "https://s.shopee.com.br/1BNvIlPxEd",
+      "rating": 4.9,
+      "salesCount": 451,
+      "official": true,
+      "seller": "GiGiL",
+      "category": "Moda"
     },
     {
       "id": "23994333673",
