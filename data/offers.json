@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T15:44:12.132Z",
+  "updatedAt": "2026-11-18T16:05:20.831Z",
   "offers": [
     {
       "id": "21398274894",
@@ -31,20 +31,6 @@
       "category": "Beleza"
     },
     {
-      "id": "58270813462",
-      "title": "Chave de Impacto Parafusadeira e Furadeira 3 EM 1 Brushless Sem Fio 68V Com 4 Soquetes",
-      "price": 164.99,
-      "originalPrice": 412.48,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-muhk3lcmhgjk03",
-      "url": "https://s.shopee.com.br/9pfyQV5CDG",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 548,
-      "seller": "FR Ferramentas Relâmpago",
-      "category": "Ferramentas"
-    },
-    {
       "id": "23398219832",
       "title": "20  Gancho De Parede Forte Transparente Com Ventosa Para Cozinha / Banheiro Multiuso Gancho Porta Não-Amarcaing Em stock",
       "price": 16.99,
@@ -55,21 +41,33 @@
       "rating": 4.7,
       "salesCount": 3209,
       "seller": "Vida Criativa ",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
-      "id": "22498650565",
-      "title": "Kit 100 unid - Tapete Higiênico PetCharm Slim -Tamanho 50cm x 60cm - Para Cachorros",
-      "price": 79.99,
-      "originalPrice": 119.39,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b5-mutjnnozg1s4a8",
-      "url": "https://s.shopee.com.br/5q9qAgn3Pv",
+      "id": "23392957870",
+      "title": "Kit Cutelaria Pedicure Profissional Instrumentos 7 Peças Inox Slim - Promoção",
+      "price": 19.99,
+      "originalPrice": 29.4,
+      "discountPercent": 32,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zv0-miqtlb1r4vlu5e",
+      "url": "https://s.shopee.com.br/80EKHAnGyL",
       "rating": 4.9,
-      "salesCount": 1321,
-      "official": true,
-      "seller": "Pet Charm",
+      "salesCount": 1551,
+      "seller": "Slim.Alicates",
+      "category": "Beleza"
+    },
+    {
+      "id": "58269189048",
+      "title": "Boneca Bebê Reborn Realista Com Chupeta e Roupinha Brinquedo Infantil Menina",
+      "price": 27.9,
+      "originalPrice": 63.41,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mto610z4dszl02",
+      "url": "https://s.shopee.com.br/2qWE3UalBK",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 403,
+      "seller": "AG SOCKS",
       "category": "Pet e bebê"
     },
     {
@@ -88,6 +86,20 @@
       "hot": true
     },
     {
+      "id": "23094020094",
+      "title": "Lampião Lanterna Led Com Ventilador Portátil Recarregável e Carregamento Solar 3 em 1 Acampamento",
+      "price": 49.99,
+      "originalPrice": 116.26,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfh2-ma09p3up7ycpc4",
+      "url": "https://s.shopee.com.br/qlABu25AA",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 650,
+      "seller": "TMR E-commerce",
+      "category": "Casa e organização"
+    },
+    {
       "id": "28944042529",
       "title": "Kit 10 Marmitas Conjunto Potes 850ml com Travas Laterais Livre de BPA - Organizadores de Congelador",
       "price": 29.98,
@@ -102,20 +114,6 @@
       "hot": true
     },
     {
-      "id": "49459506760",
-      "title": "Trena Aço Retrátil 5m 7.5m 10m com Trava Auto Lock Medição Precisa Profissional",
-      "price": 26.9,
-      "originalPrice": 54.9,
-      "discountPercent": 51,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mob90bh0hgxx8e",
-      "url": "https://s.shopee.com.br/1C2iR2hK1",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 196,
-      "seller": "CESTACLIC SHOP",
-      "category": "Ferramentas"
-    },
-    {
       "id": "20897683919",
       "title": "Projetor HY300 Mini Projetor Portátil LED WiFi Bluetooth Cinema em Casa Controle Remoto",
       "price": 189.99,
@@ -127,8 +125,7 @@
       "rating": 4.8,
       "salesCount": 1777,
       "seller": "JIMMY.STORE",
-      "category": "Eletrônicos",
-      "hot": true
+      "category": "Eletrônicos"
     },
     {
       "id": "58107325952",
@@ -143,6 +140,21 @@
       "official": true,
       "seller": "Bolinha Mágica",
       "category": "Pet e bebê",
+      "hot": true
+    },
+    {
+      "id": "43084868685",
+      "title": "Pisca Pisca Natal 10m 100 Led Branco Quente Luzes 8 Funções Decoração Luz Natalina Árvore de Natal Luzes Varal",
+      "price": 19.9,
+      "originalPrice": 45.23,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mtr1pdvyvwg044",
+      "url": "https://s.shopee.com.br/6q2NKwnDwm",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 834,
+      "seller": "BORGES LTDA",
+      "category": "Casa e organização",
       "hot": true
     },
     {
@@ -170,8 +182,7 @@
       "rating": 4.9,
       "salesCount": 1348,
       "seller": "vitrine paulista",
-      "category": "Eletrônicos",
-      "hot": true
+      "category": "Eletrônicos"
     },
     {
       "id": "21598656632",
@@ -184,6 +195,20 @@
       "rating": 4.9,
       "salesCount": 1346,
       "seller": "Draw Papelaria",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "21697982542",
+      "title": "Saco Organizador 180L com Alça, à Prova de Poeira, Grande Capacidade para Colchas e Roupas Domésticas",
+      "price": 24.44,
+      "originalPrice": 54.31,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mmia0aqc09hi8f",
+      "url": "https://s.shopee.com.br/4B1bdphnAk",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 476,
+      "seller": "SUMARS",
       "category": "Casa e organização"
     },
     {
@@ -202,6 +227,49 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "58265674903",
+      "title": "made Kit 20/40/80 Un Saco Saquinhos Congelar Leite Maternidade Bebê",
+      "price": 16.66,
+      "originalPrice": 45.03,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h3-mfnmmbhri6fi4e",
+      "url": "https://s.shopee.com.br/3g5LDYGC56",
+      "rating": 4.9,
+      "salesCount": 2537,
+      "seller": "JOYBELLA ",
+      "category": "Pet e bebê",
+      "hot": true
+    },
+    {
+      "id": "44615986232",
+      "title": "Kit 5 ou 10 Calcinha Feminina Lisa 100% Algodão Confortável Básica Dia a Dia Macia",
+      "price": 29.89,
+      "originalPrice": 69.51,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mrulvhheyeitc6",
+      "url": "https://s.shopee.com.br/1BO04QLWGj",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 2058,
+      "seller": "emperialstore",
+      "category": "Moda",
+      "hot": true
+    },
+    {
+      "id": "22693731888",
+      "title": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
+      "price": 348.9,
+      "originalPrice": 413.09,
+      "discountPercent": 15.5,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6",
+      "url": "https://s.shopee.com.br/8pnRGbHJRt",
+      "rating": 5,
+      "salesCount": 2175,
+      "official": true,
+      "seller": "Lizze",
+      "category": "Beleza"
+    },
+    {
       "id": "58251807217",
       "title": "Body Splash Cheiro de Perigo 200ml Spoiler Fragrância Feminina Perfumada Marcante para Dia e Noite",
       "price": 59.42,
@@ -216,6 +284,21 @@
       "category": "Beleza"
     },
     {
+      "id": "23098428261",
+      "title": "Kit 1/3/5 Discos Diamantado 100mm p/ Cerâmica/Vidro/Porcelanato Areia 15mm c/ Anel 20mm",
+      "price": 23.99,
+      "originalPrice": 58.51,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260n-mliqcuxma1hg70",
+      "url": "https://s.shopee.com.br/6VPWQ4reSJ",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1756,
+      "seller": "K7mart",
+      "category": "Ferramentas",
+      "hot": true
+    },
+    {
       "id": "22099903633",
       "title": "Conjunto de Academia Feminino Fitness/Corrida Short/C Bolso Top Frente Unica Zero Transparencia C Cintura Alta",
       "price": 48.99,
@@ -227,34 +310,6 @@
       "salesCount": 1037,
       "seller": "Movini Fit",
       "category": "Moda"
-    },
-    {
-      "id": "22994782615",
-      "title": "Kit Serra Adaptador De Serra Tico-Tico Elétrica Para Furadeira e Parafusadeira,Ferramenta de Corte p/Madeira",
-      "price": 27.79,
-      "originalPrice": 60.41,
-      "discountPercent": 54,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261n-mj850rne85j7df",
-      "url": "https://s.shopee.com.br/1gKGhUaHmR",
-      "rating": 4.7,
-      "salesCount": 583,
-      "seller": "Domus Charm",
-      "category": "Ferramentas",
-      "hot": true
-    },
-    {
-      "id": "21999036745",
-      "title": "Kit Arranhador Para Gatos Protedor Canto 2un Sofá Cama Box",
-      "price": 35.78,
-      "originalPrice": 46.89,
-      "discountPercent": 23.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnj2so8as97ta1",
-      "url": "https://s.shopee.com.br/5fqPQhqN7e",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 814,
-      "seller": "Fabrica Pet",
-      "category": "Pet e bebê"
     },
     {
       "id": "19598142136",
@@ -299,6 +354,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "10932048477",
+      "title": "Boneca Bebê Reborn Silicone Realista + Itens Bolsa Maternidade",
+      "price": 74.9,
+      "originalPrice": 149.8,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgc7kd3i6yvb2b",
+      "url": "https://s.shopee.com.br/6AmgjVtelx",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 898,
+      "seller": "PRINCESA REBORN SP",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "22898352193",
       "title": "Kit peças Caneta em Gel ponta fina Glamour Cristal Luxo Com Diamante material escolares",
       "price": 16.99,
@@ -340,73 +409,45 @@
       "category": "Casa e organização"
     },
     {
-      "id": "23294887151",
-      "title": "Lanterna Potente 4 Núcleos LED - Prova d’Água e Recarregável via USB",
-      "price": 19.01,
-      "originalPrice": 31.68,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mlli1aitekg777",
-      "url": "https://s.shopee.com.br/1C3CKAw3I",
-      "hasVariantPrices": true,
+      "id": "23893056827",
+      "title": "Amend Essencial Acidificante Máscara Equilíbrio do PH - 250g",
+      "price": 39.9,
+      "originalPrice": 62.34,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1e4r69b342ob5",
+      "url": "https://s.shopee.com.br/20x762nQ4B",
       "rating": 4.9,
-      "salesCount": 1712,
-      "seller": "0f6dhwt0jj",
-      "category": "Ferramentas"
+      "salesCount": 1066,
+      "seller": "BEAUTY ON ",
+      "category": "Beleza"
     },
     {
-      "id": "18071105004",
-      "title": "Kit Cabides Veludo Para Roupas Adulto 30 Unidades Fino Resistente",
-      "price": 49.9,
-      "originalPrice": 59.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6qu5cyullio31",
-      "url": "https://s.shopee.com.br/20x75zBRj9",
+      "id": "23693216634",
+      "title": "Camisa polo masculina piquet poliester",
+      "price": 29.49,
+      "originalPrice": 44.68,
+      "discountPercent": 34,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcs4d0wbskz647",
+      "url": "https://s.shopee.com.br/9fMYIPErSq",
       "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1315,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23095184151",
-      "title": "Blusa Regata Feminina Crepe Social Elegante Decote V Alça Larga Lisa Soltinha Trabalho Casual Festa",
-      "price": 29.99,
-      "originalPrice": 49.98,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-msnbna8em2h026",
-      "url": "https://s.shopee.com.br/AAIomwjKUl",
-      "rating": 4.8,
-      "salesCount": 1761,
-      "seller": "SOHA MODAS",
+      "rating": 4.7,
+      "salesCount": 1242,
+      "seller": "78 STORE",
       "category": "Moda"
     },
     {
-      "id": "44366121463",
-      "title": "Cão Vestido De Natal Papai Noel Roupas Para Animais De Estimação Shih Tzu Gengibre Homem Gato Saia Ano Novo Roupa Do",
-      "price": 18.9,
-      "originalPrice": 27,
-      "discountPercent": 30,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mebc9b5nbu2sb6",
-      "url": "https://s.shopee.com.br/7fbUKb3heV",
-      "hasVariantPrices": true,
+      "id": "23498300221",
+      "title": "Bota Feminina GiGiL Cano Médio Enrugado Slouch Western Salto Alto Bico Fino Texana Country Elegante",
+      "price": 99.99,
+      "originalPrice": 119.99,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8luys2iiidt9d",
+      "url": "https://s.shopee.com.br/4B1bg3nA9U",
       "rating": 4.9,
-      "salesCount": 175,
-      "seller": "sevenpet.br",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "56006237715",
-      "title": "UNO Original com 110 Cartas Premium – Jogo Clássico para Momentos Inesquecíveis",
-      "price": 15.9,
-      "originalPrice": 21.78,
-      "discountPercent": 27,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztj-mksj989fqs5e18",
-      "url": "https://s.shopee.com.br/1BO08eYXsR",
-      "rating": 4.7,
-      "salesCount": 254,
-      "seller": "Ekeep",
-      "category": "Pet e bebê"
+      "salesCount": 443,
+      "official": true,
+      "seller": "GiGiL",
+      "category": "Moda"
     },
     {
       "id": "23994333673",
