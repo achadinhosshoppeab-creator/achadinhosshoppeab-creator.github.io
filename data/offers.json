@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T04:40:38.605Z",
+  "updatedAt": "2026-11-18T05:11:49.886Z",
   "offers": [
     {
       "id": "21398274894",
@@ -97,8 +97,7 @@
       "rating": 4.9,
       "salesCount": 405,
       "seller": "MEDOOSIGL",
-      "category": "Presentes e papelaria",
-      "hot": true
+      "category": "Presentes e papelaria"
     },
     {
       "id": "58255995295",
@@ -144,8 +143,8 @@
     {
       "id": "23094020094",
       "title": "Lampião Lanterna Led Com Ventilador Portátil Recarregável e Carregamento Solar 3 em 1 Acampamento",
-      "price": 44.99,
-      "originalPrice": 104.63,
+      "price": 49.99,
+      "originalPrice": 116.26,
       "discountPercent": 57,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfh2-ma09p3up7ycpc4",
       "url": "https://s.shopee.com.br/9V37zdaCre",
@@ -377,6 +376,21 @@
       "category": "Casa e organização"
     },
     {
+      "id": "58216407854",
+      "title": "X55 Fones De Ouvido TWS Sleep Sem Fio Bluetooth Display Led HIFI Som Estéreo Fone À Prova D'água Com Cancelame-tc",
+      "price": 25.88,
+      "originalPrice": 58.82,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m8-ms0qu8ij25mu97",
+      "url": "https://s.shopee.com.br/Lot6npoxH",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 1852,
+      "seller": "WDJ TECH LTDA",
+      "category": "Eletrônicos",
+      "hot": true
+    },
+    {
       "id": "23098819605",
       "title": "Relógio Quartz de Pulso Feminino Pulseira Elástica analógico prata preto dourado rose Moda Blogueira",
       "price": 18.9,
@@ -575,21 +589,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "22898352193",
-      "title": "Kit peças Caneta em Gel ponta fina Glamour Cristal Luxo Com Diamante material escolares",
-      "price": 16.99,
-      "originalPrice": 33.98,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mu0uoc9681kwe9",
-      "url": "https://s.shopee.com.br/5Au8rvrlA7",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 430,
-      "official": true,
-      "seller": "SPLORO Papelaria",
-      "category": "Presentes e papelaria"
-    },
-    {
       "id": "18997982042",
       "title": "Kit 3/5/10 Saco a Vacuo + COM ou SEM Bomba Manual Organização de Roupas Mala Viagem Guarda Roupas",
       "price": 29.99,
@@ -697,6 +696,20 @@
       "category": "Moda"
     },
     {
+      "id": "44366121463",
+      "title": "Cão Vestido De Natal Papai Noel Roupas Para Animais De Estimação Shih Tzu Gengibre Homem Gato Saia Ano Novo Roupa Do",
+      "price": 18.9,
+      "originalPrice": 27,
+      "discountPercent": 30,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mebc9b5nbu2sb6",
+      "url": "https://s.shopee.com.br/3g5L9OxIW0",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 175,
+      "seller": "sevenpet.br",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "58218741576",
       "title": "Mochila Escolar Infantil Feminina – Grande Capacidade, Confortável e Resistente para Escola e Passeios",
       "price": 74.99,
@@ -717,7 +730,7 @@
       "originalPrice": 44.68,
       "discountPercent": 34,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcs4d0wbskz647",
-      "url": "https://s.shopee.com.br/Lot96Xipd",
+      "url": "https://s.shopee.com.br/9fMYIPErSq",
       "hasVariantPrices": true,
       "rating": 4.7,
       "salesCount": 1242,
