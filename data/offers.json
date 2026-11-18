@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T08:19:25.905Z",
+  "updatedAt": "2026-11-18T08:49:53.677Z",
   "offers": [
     {
       "id": "21398274894",
@@ -101,9 +101,9 @@
     {
       "id": "22499534433",
       "title": "82 Peças Jogo de Pesca Magnético de Madeira, Brinquedo Educativo Montessori, Presente Criativo para Crianças",
-      "price": 25.9,
-      "originalPrice": 70,
-      "discountPercent": 63,
+      "price": 32.9,
+      "originalPrice": 80.24,
+      "discountPercent": 59,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mp94pojanls53b",
       "url": "https://s.shopee.com.br/AAIoot0N1Y",
       "hasVariantPrices": true,
@@ -151,6 +151,20 @@
       "rating": 4.9,
       "salesCount": 402,
       "seller": "TECHLAR ",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "23094020094",
+      "title": "Lampião Lanterna Led Com Ventilador Portátil Recarregável e Carregamento Solar 3 em 1 Acampamento",
+      "price": 49.99,
+      "originalPrice": 116.26,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfh2-ma09p3up7ycpc4",
+      "url": "https://s.shopee.com.br/AKcFKY3Mry",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 650,
+      "seller": "TMR E-commerce",
       "category": "Casa e organização"
     },
     {
@@ -277,6 +291,19 @@
       "official": true,
       "seller": "SACE LADY Brasil",
       "category": "Beleza"
+    },
+    {
+      "id": "22599308033",
+      "title": "Capa Magnética MagSafe para iPhone 13 14 15 16 17 Pro Max Fosca Antichoque com Proteção de Lente",
+      "price": 29.89,
+      "originalPrice": 56.4,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261v-mkmue0qdxaf613",
+      "url": "https://s.shopee.com.br/8KrAdWPQh4",
+      "rating": 4.9,
+      "salesCount": 1348,
+      "seller": "vitrine paulista",
+      "category": "Eletrônicos"
     },
     {
       "id": "21598656632",
