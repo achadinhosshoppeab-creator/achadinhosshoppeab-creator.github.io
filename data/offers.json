@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T10:25:57.129Z",
+  "updatedAt": "2026-11-18T10:57:12.198Z",
   "offers": [
     {
       "id": "21398274894",
@@ -15,20 +15,6 @@
       "seller": "Barbour's Beauty",
       "category": "Beleza",
       "hot": true
-    },
-    {
-      "id": "58260208303",
-      "title": "Kit Hidratação Pele de Porcelana + Olhos de Gueixa +  Pele Plena Kokeshi",
-      "price": 46.12,
-      "originalPrice": 85.41,
-      "discountPercent": 46,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mqbxypplxc0055",
-      "url": "https://s.shopee.com.br/9fMYGDubCN",
-      "rating": 4.9,
-      "salesCount": 888,
-      "official": true,
-      "seller": "KOKESHI OFICIAL",
-      "category": "Beleza"
     },
     {
       "id": "23398219832",
@@ -85,6 +71,20 @@
       "category": "Beleza"
     },
     {
+      "id": "58269189048",
+      "title": "Boneca Bebê Reborn Realista Com Chupeta e Roupinha Brinquedo Infantil Menina",
+      "price": 27.9,
+      "originalPrice": 63.41,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mto610z4dszl02",
+      "url": "https://s.shopee.com.br/2qWE3UalBK",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 403,
+      "seller": "AG SOCKS",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "22499534433",
       "title": "82 Peças Jogo de Pesca Magnético de Madeira, Brinquedo Educativo Montessori, Presente Criativo para Crianças",
       "price": 32.9,
@@ -97,6 +97,21 @@
       "salesCount": 405,
       "seller": "MEDOOSIGL",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "58255995295",
+      "title": "Abajur de Mesa Recarregável com Toque | 3 Modos de Luz e Controle Remoto para Quarto",
+      "price": 23.9,
+      "originalPrice": 58.29,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-ml8q7249p62v1f",
+      "url": "https://s.shopee.com.br/ql9fcjAK8",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 599,
+      "seller": "Tudo Bom ",
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "47810770730",
@@ -181,20 +196,6 @@
       "hot": true
     },
     {
-      "id": "20897683919",
-      "title": "Projetor HY300 Mini Projetor Portátil LED WiFi Bluetooth Cinema em Casa Controle Remoto",
-      "price": 185.99,
-      "originalPrice": 808.65,
-      "discountPercent": 77,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260x-ml835vsd81s3d3",
-      "url": "https://s.shopee.com.br/50aifXPcEA",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1777,
-      "seller": "JIMMY.STORE",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "49459506760",
       "title": "Trena Aço Retrátil 5m 7.5m 10m com Trava Auto Lock Medição Precisa Profissional",
       "price": 26.9,
@@ -248,8 +249,7 @@
       "rating": 4.9,
       "salesCount": 834,
       "seller": "BORGES LTDA",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "58204227431",
@@ -264,19 +264,6 @@
       "official": true,
       "seller": "SACE LADY Brasil",
       "category": "Beleza"
-    },
-    {
-      "id": "22599308033",
-      "title": "Capa Magnética MagSafe para iPhone 13 14 15 16 17 Pro Max Fosca Antichoque com Proteção de Lente",
-      "price": 29.89,
-      "originalPrice": 56.4,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261v-mkmue0qdxaf613",
-      "url": "https://s.shopee.com.br/8KrAdWPQh4",
-      "rating": 4.9,
-      "salesCount": 1348,
-      "seller": "vitrine paulista",
-      "category": "Eletrônicos"
     },
     {
       "id": "21598656632",
@@ -461,6 +448,20 @@
       "category": "Ferramentas"
     },
     {
+      "id": "21999036745",
+      "title": "Kit Arranhador Para Gatos Protedor Canto 2un Sofá Cama Box",
+      "price": 35.78,
+      "originalPrice": 46.89,
+      "discountPercent": 23.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnj2so8as97ta1",
+      "url": "https://s.shopee.com.br/5fqPQhqN7e",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 814,
+      "seller": "Fabrica Pet",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "56868516878",
       "title": "1/2/3 Suporte De Shampoo Organizador Alta qualidade Prateleira De Banheiro Sem Furo Premium-Space Alumínio",
       "price": 20.9,
@@ -504,6 +505,20 @@
       "category": "Moda"
     },
     {
+      "id": "23694337309",
+      "title": "Lanterna Portatil Canhao Laser Recarregavel Zoom Telescópico À Prova D'água Suporte de Abajur",
+      "price": 29.96,
+      "originalPrice": 62.42,
+      "discountPercent": 52,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mpjf7j894mio05",
+      "url": "https://s.shopee.com.br/9zzOaTAGin",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 395,
+      "seller": "Fuxi Store",
+      "category": "Casa e organização"
+    },
+    {
       "id": "22898352193",
       "title": "Kit peças Caneta em Gel ponta fina Glamour Cristal Luxo Com Diamante material escolares",
       "price": 16.99,
@@ -517,20 +532,6 @@
       "official": true,
       "seller": "SPLORO Papelaria",
       "category": "Presentes e papelaria"
-    },
-    {
-      "id": "18997982042",
-      "title": "Kit 3/5/10 Saco a Vacuo + COM ou SEM Bomba Manual Organização de Roupas Mala Viagem Guarda Roupas",
-      "price": 29.99,
-      "originalPrice": 41.08,
-      "discountPercent": 27,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mlmyxoqhrz7pd5",
-      "url": "https://s.shopee.com.br/8pnRCJRyAz",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1229,
-      "seller": "Ulife.Loja.Oficial",
-      "category": "Casa e organização"
     },
     {
       "id": "22198347462",
