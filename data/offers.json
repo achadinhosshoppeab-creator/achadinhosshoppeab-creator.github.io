@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T05:11:49.886Z",
+  "updatedAt": "2026-11-18T05:42:35.127Z",
   "offers": [
     {
       "id": "21398274894",
@@ -397,7 +397,7 @@
       "originalPrice": 54,
       "discountPercent": 65,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ap-mv6a65qxds05e6",
-      "url": "https://s.shopee.com.br/2LZux2EC0K",
+      "url": "https://s.shopee.com.br/LotDDeEA3",
       "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 563,
@@ -455,7 +455,7 @@
       "originalPrice": 69.9,
       "discountPercent": 15,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mts5mch6xtz64f",
-      "url": "https://s.shopee.com.br/6q2Ln8pAYr",
+      "url": "https://s.shopee.com.br/W8JPYYrlu",
       "rating": 4.9,
       "salesCount": 1271,
       "official": true,
@@ -587,6 +587,21 @@
       "salesCount": 395,
       "seller": "Fuxi Store",
       "category": "Casa e organização"
+    },
+    {
+      "id": "22898352193",
+      "title": "Kit peças Caneta em Gel ponta fina Glamour Cristal Luxo Com Diamante material escolares",
+      "price": 16.99,
+      "originalPrice": 33.98,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mu0uoc9681kwe9",
+      "url": "https://s.shopee.com.br/5Au8rvrlA7",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 430,
+      "official": true,
+      "seller": "SPLORO Papelaria",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "18997982042",
