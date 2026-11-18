@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T07:16:36.424Z",
+  "updatedAt": "2026-11-18T07:47:31.786Z",
   "offers": [
     {
       "id": "21398274894",
@@ -138,6 +138,19 @@
       "salesCount": 3545,
       "official": true,
       "seller": "Adora ",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58270099000",
+      "title": "Bandeja Decorativa Espelhada Redonda Dourada 22,5cm 2 em 1 Espelho de Parede Perfume Lavabo Luxo",
+      "price": 21.19,
+      "originalPrice": 50.45,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mu2w8l611pfmc1",
+      "url": "https://s.shopee.com.br/9AQHfCKqd0",
+      "rating": 4.9,
+      "salesCount": 402,
+      "seller": "TECHLAR ",
       "category": "Casa e organização"
     },
     {
