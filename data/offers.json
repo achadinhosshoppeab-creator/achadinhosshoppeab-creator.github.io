@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T09:53:29.223Z",
+  "updatedAt": "2026-11-18T10:25:57.129Z",
   "offers": [
     {
       "id": "21398274894",
@@ -85,20 +85,6 @@
       "category": "Beleza"
     },
     {
-      "id": "58269189048",
-      "title": "Boneca Bebê Reborn Realista Com Chupeta e Roupinha Brinquedo Infantil Menina",
-      "price": 27.9,
-      "originalPrice": 63.41,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mto610z4dszl02",
-      "url": "https://s.shopee.com.br/2qWE3UalBK",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 403,
-      "seller": "AG SOCKS",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "22499534433",
       "title": "82 Peças Jogo de Pesca Magnético de Madeira, Brinquedo Educativo Montessori, Presente Criativo para Crianças",
       "price": 32.9,
@@ -113,19 +99,18 @@
       "category": "Presentes e papelaria"
     },
     {
-      "id": "58255995295",
-      "title": "Abajur de Mesa Recarregável com Toque | 3 Modos de Luz e Controle Remoto para Quarto",
-      "price": 23.9,
-      "originalPrice": 58.29,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-ml8q7249p62v1f",
-      "url": "https://s.shopee.com.br/ql9fcjAK8",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 599,
-      "seller": "Tudo Bom ",
-      "category": "Casa e organização",
-      "hot": true
+      "id": "47810770730",
+      "title": "Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza linhas - Kaziva",
+      "price": 22.9,
+      "originalPrice": 29.9,
+      "discountPercent": 23.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moe991hva9z909",
+      "url": "https://s.shopee.com.br/9AQHd3DJud",
+      "rating": 4.8,
+      "salesCount": 3545,
+      "official": true,
+      "seller": "Adora ",
+      "category": "Casa e organização"
     },
     {
       "id": "58270099000",
@@ -235,8 +220,7 @@
       "salesCount": 504,
       "official": true,
       "seller": "Bolinha Mágica",
-      "category": "Pet e bebê",
-      "hot": true
+      "category": "Pet e bebê"
     },
     {
       "id": "21199259443",
@@ -253,18 +237,33 @@
       "category": "Beleza"
     },
     {
-      "id": "23193726165",
-      "title": "Brinquedo Bancadinha com Martelo e Pinos Geométricos Educativo, Criativo e Interativo para Crianças",
-      "price": 32.9,
-      "originalPrice": 88.92,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-moo7re11to1x5b",
-      "url": "https://s.shopee.com.br/6VPVd5vO83",
+      "id": "43084868685",
+      "title": "Pisca Pisca Natal 10m 100 Led Branco Quente Luzes 8 Funções Decoração Luz Natalina Árvore de Natal Luzes Varal",
+      "price": 19.9,
+      "originalPrice": 45.23,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mtr1pdvyvwg044",
+      "url": "https://s.shopee.com.br/8AXkbyTLRG",
+      "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 948,
-      "seller": "Mundo Das Mamadeiras Premium",
-      "category": "Pet e bebê",
+      "salesCount": 834,
+      "seller": "BORGES LTDA",
+      "category": "Casa e organização",
       "hot": true
+    },
+    {
+      "id": "58204227431",
+      "title": "Delineador Duplo Carimbo SACE LADY Olhos Esquerdo Direito Impermeável Não Borra Iniciantes",
+      "price": 66.99,
+      "originalPrice": 128.83,
+      "discountPercent": 48,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mrjipz8vz21145",
+      "url": "https://s.shopee.com.br/70Ln3DZfau",
+      "rating": 4.7,
+      "salesCount": 269,
+      "official": true,
+      "seller": "SACE LADY Brasil",
+      "category": "Beleza"
     },
     {
       "id": "22599308033",
@@ -378,6 +377,21 @@
       "hot": true
     },
     {
+      "id": "44615986232",
+      "title": "Kit 5 ou 10 Calcinha Feminina Lisa 100% Algodão Confortável Básica Dia a Dia Macia",
+      "price": 29.89,
+      "originalPrice": 69.51,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mrulvhheyeitc6",
+      "url": "https://s.shopee.com.br/1BO04QLWGj",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 2058,
+      "seller": "emperialstore",
+      "category": "Moda",
+      "hot": true
+    },
+    {
       "id": "22693731888",
       "title": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
       "price": 348.9,
@@ -406,6 +420,34 @@
       "category": "Beleza"
     },
     {
+      "id": "23098428261",
+      "title": "Kit 1/3/5 Discos Diamantado 100mm p/ Cerâmica/Vidro/Porcelanato Areia 15mm c/ Anel 20mm",
+      "price": 23.99,
+      "originalPrice": 58.51,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260n-mliqcuxma1hg70",
+      "url": "https://s.shopee.com.br/6VPWQ4reSJ",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1756,
+      "seller": "K7mart",
+      "category": "Ferramentas",
+      "hot": true
+    },
+    {
+      "id": "22099903633",
+      "title": "Conjunto de Academia Feminino Fitness/Corrida Short/C Bolso Top Frente Unica Zero Transparencia C Cintura Alta",
+      "price": 48.99,
+      "originalPrice": 80.31,
+      "discountPercent": 39,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mtu940agdermfe",
+      "url": "https://s.shopee.com.br/20x73wA1Hx",
+      "rating": 4.9,
+      "salesCount": 1037,
+      "seller": "Movini Fit",
+      "category": "Moda"
+    },
+    {
       "id": "22994782615",
       "title": "Kit Serra Adaptador De Serra Tico-Tico Elétrica Para Furadeira e Parafusadeira,Ferramenta de Corte p/Madeira",
       "price": 27.79,
@@ -417,20 +459,6 @@
       "salesCount": 583,
       "seller": "Domus Charm",
       "category": "Ferramentas"
-    },
-    {
-      "id": "21999036745",
-      "title": "Kit Arranhador Para Gatos Protedor Canto 2un Sofá Cama Box",
-      "price": 35.78,
-      "originalPrice": 46.89,
-      "discountPercent": 23.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnj2so8as97ta1",
-      "url": "https://s.shopee.com.br/5fqPQhqN7e",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 814,
-      "seller": "Fabrica Pet",
-      "category": "Pet e bebê"
     },
     {
       "id": "56868516878",
@@ -462,18 +490,18 @@
       "category": "Beleza"
     },
     {
-      "id": "23694337309",
-      "title": "Lanterna Portatil Canhao Laser Recarregavel Zoom Telescópico À Prova D'água Suporte de Abajur",
-      "price": 29.96,
-      "originalPrice": 62.42,
-      "discountPercent": 52,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mpjf7j894mio05",
-      "url": "https://s.shopee.com.br/9zzOaTAGin",
+      "id": "58254628235",
+      "title": "Conjunto de Academia Feminino Fitness Short com Bolso + Top, Zero Tranparência com Cintura Alta",
+      "price": 44.9,
+      "originalPrice": 80.18,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260u-mkb5a2yy0ao745",
+      "url": "https://s.shopee.com.br/2LZxSY8kc3",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 395,
-      "seller": "Fuxi Store",
-      "category": "Casa e organização"
+      "salesCount": 1077,
+      "seller": "Zayan Moda Fitness",
+      "category": "Moda"
     },
     {
       "id": "22898352193",
@@ -693,6 +721,20 @@
       "salesCount": 443,
       "official": true,
       "seller": "GiGiL",
+      "category": "Moda"
+    },
+    {
+      "id": "23994333673",
+      "title": "conjunto academia top e calça fitness bicolor",
+      "price": 64.9,
+      "originalPrice": 76.9,
+      "discountPercent": 15.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mqe6jnfj36rl48",
+      "url": "https://s.shopee.com.br/AAIomweviJ",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1611,
+      "seller": "Nay Fit",
       "category": "Moda"
     }
   ]
