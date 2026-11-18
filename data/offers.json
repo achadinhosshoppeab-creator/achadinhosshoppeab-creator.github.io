@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T06:14:04.315Z",
+  "updatedAt": "2026-11-18T06:44:57.103Z",
   "offers": [
     {
       "id": "21398274894",
@@ -29,6 +29,20 @@
       "official": true,
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza"
+    },
+    {
+      "id": "23398219832",
+      "title": "20  Gancho De Parede Forte Transparente Com Ventosa Para Cozinha / Banheiro Multiuso Gancho Porta Não-Amarcaing Em stock",
+      "price": 16.99,
+      "originalPrice": 32.99,
+      "discountPercent": 48.5,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258x-mt93bxbp7lzb3b",
+      "url": "https://s.shopee.com.br/50ainvMLjN",
+      "rating": 4.7,
+      "salesCount": 3209,
+      "seller": "Vida Criativa ",
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "58270813462",
@@ -161,7 +175,7 @@
       "originalPrice": 171.29,
       "discountPercent": 30,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-muw56lekrlz556",
-      "url": "https://s.shopee.com.br/BVOo0Nw6U",
+      "url": "https://s.shopee.com.br/3Vlv3QOEdv",
       "rating": 4.9,
       "salesCount": 379,
       "seller": "Kase Store",
@@ -258,7 +272,7 @@
       "originalPrice": 45.23,
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mtr1pdvyvwg044",
-      "url": "https://s.shopee.com.br/6L63iQOUEA",
+      "url": "https://s.shopee.com.br/8AXkbyTLRG",
       "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 834,
@@ -543,8 +557,7 @@
       "rating": 4.7,
       "salesCount": 1567,
       "seller": "NOVARA.br",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "19598142136",
@@ -616,19 +629,6 @@
       "salesCount": 1229,
       "seller": "Ulife.Loja.Oficial",
       "category": "Casa e organização"
-    },
-    {
-      "id": "22198347462",
-      "title": "Tenis Infantil Meninos Jogger Escolar Casual Camurça + Bone Oculos Relogio",
-      "price": 45.99,
-      "originalPrice": 79.29,
-      "discountPercent": 42,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7hwu1j2uxqk37",
-      "url": "https://s.shopee.com.br/4qHITGTm32",
-      "rating": 4.9,
-      "salesCount": 767,
-      "seller": "Stand Web",
-      "category": "Moda"
     },
     {
       "id": "23698958223",
