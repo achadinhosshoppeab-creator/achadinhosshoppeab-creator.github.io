@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T23:56:38.687Z",
+  "updatedAt": "2026-11-18T00:17:25.968Z",
   "offers": [
     {
       "id": "21398274894",
@@ -17,6 +17,20 @@
       "hot": true
     },
     {
+      "id": "58260208303",
+      "title": "Kit Hidratação Pele de Porcelana + Olhos de Gueixa +  Pele Plena Kokeshi",
+      "price": 46.12,
+      "originalPrice": 85.41,
+      "discountPercent": 46,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mqbxypplxc0055",
+      "url": "https://s.shopee.com.br/8KrA3AgiQT",
+      "rating": 4.9,
+      "salesCount": 888,
+      "official": true,
+      "seller": "KOKESHI OFICIAL",
+      "category": "Beleza"
+    },
+    {
       "id": "58270813462",
       "title": "Chave de Impacto Parafusadeira e Furadeira 3 EM 1 Brushless Sem Fio 68V Com 4 Soquetes",
       "price": 173.63,
@@ -31,32 +45,18 @@
       "category": "Ferramentas"
     },
     {
-      "id": "22498650565",
-      "title": "Kit 100 unid - Tapete Higiênico PetCharm Slim -Tamanho 50cm x 60cm - Para Cachorros",
-      "price": 79.99,
-      "originalPrice": 119.39,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b5-mutjnnozg1s4a8",
-      "url": "https://s.shopee.com.br/6q2LxTBsem",
-      "rating": 4.9,
-      "salesCount": 1321,
-      "official": true,
-      "seller": "Pet Charm",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "22499534433",
-      "title": "82 Peças Jogo de Pesca Magnético de Madeira, Brinquedo Educativo Montessori, Presente Criativo para Crianças",
-      "price": 32.9,
-      "originalPrice": 80.24,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mp94pojanls53b",
-      "url": "https://s.shopee.com.br/30pdPfQVpV",
+      "id": "58269189048",
+      "title": "Boneca Bebê Reborn Realista Com Chupeta e Roupinha Brinquedo Infantil Menina",
+      "price": 27.9,
+      "originalPrice": 63.41,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mto610z4dszl02",
+      "url": "https://s.shopee.com.br/AUvd85kWYn",
       "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 405,
-      "seller": "MEDOOSIGL",
-      "category": "Presentes e papelaria"
+      "rating": 4.7,
+      "salesCount": 403,
+      "seller": "AG SOCKS",
+      "category": "Pet e bebê"
     },
     {
       "id": "58255995295",
@@ -88,6 +88,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "58270099000",
+      "title": "Bandeja Decorativa Espelhada Redonda Dourada 22,5cm 2 em 1 Espelho de Parede Perfume Lavabo Luxo",
+      "price": 21.19,
+      "originalPrice": 50.45,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mu2w8l611pfmc1",
+      "url": "https://s.shopee.com.br/40i8z2Daq1",
+      "rating": 4.9,
+      "salesCount": 402,
+      "seller": "TECHLAR ",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
       "id": "49516046201",
       "title": "Combo Completo Capa Case Tablet Xiaomi Redmi Pad 2 11 Polegadas + Película + Caneta Touch + Suporte + Teclado e Mouse",
       "price": 119.9,
@@ -115,32 +129,18 @@
       "category": "Casa e organização"
     },
     {
-      "id": "49459506760",
-      "title": "Trena Aço Retrátil 5m 7.5m 10m com Trava Auto Lock Medição Precisa Profissional",
-      "price": 26.9,
-      "originalPrice": 54.9,
-      "discountPercent": 51,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mob90bh0hgxx8e",
-      "url": "https://s.shopee.com.br/8pnOlVd8Em",
+      "id": "20897683919",
+      "title": "Projetor HY300 Mini Projetor Portátil LED WiFi Bluetooth Cinema em Casa Controle Remoto",
+      "price": 189.99,
+      "originalPrice": 791.63,
+      "discountPercent": 76,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260x-ml835vsd81s3d3",
+      "url": "https://s.shopee.com.br/3B93QNGn5b",
       "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 196,
-      "seller": "CESTACLIC SHOP",
-      "category": "Ferramentas"
-    },
-    {
-      "id": "58107325952",
-      "title": "Tapete Infantil Sensorial Inflável Água Bebê Atividades Estimula Desenvolvimento Criança Pets",
-      "price": 18.99,
-      "originalPrice": 47.47,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mrzxpv7itj45cb",
-      "url": "https://s.shopee.com.br/1W0oO1M24X",
-      "rating": 4.9,
-      "salesCount": 504,
-      "official": true,
-      "seller": "Bolinha Mágica",
-      "category": "Pet e bebê"
+      "rating": 4.8,
+      "salesCount": 1777,
+      "seller": "JIMMY.STORE",
+      "category": "Eletrônicos"
     },
     {
       "id": "21199259443",
@@ -157,45 +157,18 @@
       "category": "Beleza"
     },
     {
-      "id": "43084868685",
-      "title": "Pisca Pisca Natal 10m 100 Led Branco Quente Luzes 8 Funções Decoração Luz Natalina Árvore de Natal Luzes Varal",
-      "price": 19.9,
-      "originalPrice": 45.23,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mtr1pdvyvwg044",
-      "url": "https://s.shopee.com.br/6L63iQOUEA",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 834,
-      "seller": "BORGES LTDA",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23193726165",
-      "title": "Brinquedo Bancadinha com Martelo e Pinos Geométricos Educativo, Criativo e Interativo para Crianças",
-      "price": 32.9,
-      "originalPrice": 88.92,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-moo7re11to1x5b",
-      "url": "https://s.shopee.com.br/6VPVd5vO83",
-      "rating": 4.9,
-      "salesCount": 948,
-      "seller": "Mundo Das Mamadeiras Premium",
-      "category": "Pet e bebê",
-      "hot": true
-    },
-    {
-      "id": "23094020094",
-      "title": "Lampião Lanterna Led Com Ventilador Portátil Recarregável e Carregamento Solar 3 em 1 Acampamento",
-      "price": 44.99,
-      "originalPrice": 86.52,
+      "id": "58204227431",
+      "title": "Delineador Duplo Carimbo SACE LADY Olhos Esquerdo Direito Impermeável Não Borra Iniciantes",
+      "price": 66.99,
+      "originalPrice": 128.83,
       "discountPercent": 48,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfh2-ma09p3up7ycpc4",
-      "url": "https://s.shopee.com.br/LosHp3ylt",
-      "rating": 4.9,
-      "salesCount": 650,
-      "seller": "TMR E-commerce",
-      "category": "Casa e organização"
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mrjipz8vz21145",
+      "url": "https://s.shopee.com.br/AKcECF4HsC",
+      "rating": 4.7,
+      "salesCount": 269,
+      "official": true,
+      "seller": "SACE LADY Brasil",
+      "category": "Beleza"
     },
     {
       "id": "22599308033",
@@ -211,19 +184,6 @@
       "category": "Eletrônicos"
     },
     {
-      "id": "58263242288",
-      "title": "Lanterna LED Manivela De Mão Solar Powered Recarregável Equipamento Lâmpada LED Carregando",
-      "price": 28.88,
-      "originalPrice": 60.17,
-      "discountPercent": 52,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mq1orrrnun7n34",
-      "url": "https://s.shopee.com.br/8KrAEmbr5C",
-      "rating": 4.9,
-      "salesCount": 491,
-      "seller": "GuardaBem",
-      "category": "Ferramentas"
-    },
-    {
       "id": "21598656632",
       "title": "Suporte Para Cpu Computador Ajustavel Rodizios",
       "price": 22.11,
@@ -235,6 +195,19 @@
       "salesCount": 1346,
       "seller": "Draw Papelaria",
       "category": "Casa e organização"
+    },
+    {
+      "id": "23493918699",
+      "title": "Paleta de sombras Kit de maquiagem Completo Miss France",
+      "price": 32.99,
+      "originalPrice": 57.88,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m90cyvaby33tf5",
+      "url": "https://s.shopee.com.br/3qOkPF8vbZ",
+      "rating": 4.9,
+      "salesCount": 194,
+      "seller": "Gianani Imports",
+      "category": "Beleza"
     },
     {
       "id": "23093480302",
@@ -323,20 +296,6 @@
       "hot": true
     },
     {
-      "id": "58265674903",
-      "title": "made Kit 20/40/80 Un Saco Saquinhos Congelar Leite Maternidade Bebê",
-      "price": 16.66,
-      "originalPrice": 45.03,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h3-mfnmmbhri6fi4e",
-      "url": "https://s.shopee.com.br/3g5IXVYhO8",
-      "rating": 4.9,
-      "salesCount": 2537,
-      "seller": "JOYBELLA ",
-      "category": "Pet e bebê",
-      "hot": true
-    },
-    {
       "id": "44615986232",
       "title": "Kit 5 ou 10 Calcinha Feminina Lisa 100% Algodão Confortável Básica Dia a Dia Macia",
       "price": 29.89,
@@ -362,7 +321,8 @@
       "rating": 4.7,
       "salesCount": 583,
       "seller": "Domus Charm",
-      "category": "Ferramentas"
+      "category": "Ferramentas",
+      "hot": true
     },
     {
       "id": "23098428261",
@@ -392,6 +352,20 @@
       "salesCount": 814,
       "seller": "Fabrica Pet",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "19598142136",
+      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
+      "price": 118.15,
+      "originalPrice": 139,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
+      "url": "https://s.shopee.com.br/6L62CFK8yu",
+      "rating": 5,
+      "salesCount": 2118,
+      "official": true,
+      "seller": "meuollie",
+      "category": "Beleza"
     },
     {
       "id": "23694337309",
@@ -437,6 +411,19 @@
       "category": "Casa e organização"
     },
     {
+      "id": "22198347462",
+      "title": "Tenis Infantil Meninos Jogger Escolar Casual Camurça + Bone Oculos Relogio",
+      "price": 45.99,
+      "originalPrice": 79.29,
+      "discountPercent": 42,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7hwu1j2uxqk37",
+      "url": "https://s.shopee.com.br/7fbRNKdufI",
+      "rating": 4.9,
+      "salesCount": 767,
+      "seller": "Stand Web",
+      "category": "Moda"
+    },
+    {
       "id": "23698958223",
       "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
       "price": 39.9,
@@ -448,61 +435,6 @@
       "salesCount": 775,
       "seller": "Jab Bazar Presentes",
       "category": "Casa e organização"
-    },
-    {
-      "id": "23597998815",
-      "title": "bolsa clutch casamento Casament bolsa com brilho de festa Carteira Feminina Com Glitter WT168-149",
-      "price": 57.99,
-      "originalPrice": 98.29,
-      "discountPercent": 41,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m95z1cxpv4u1cf",
-      "url": "https://s.shopee.com.br/3g5IbzAsTF",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 755,
-      "seller": "Luz Ltda",
-      "category": "Moda"
-    },
-    {
-      "id": "23294887151",
-      "title": "Lanterna Potente 4 Núcleos LED - Prova d’Água e Recarregável via USB",
-      "price": 19.01,
-      "originalPrice": 31.68,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mlli1aitekg777",
-      "url": "https://s.shopee.com.br/9AQHEJYgOJ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1712,
-      "seller": "0f6dhwt0jj",
-      "category": "Ferramentas"
-    },
-    {
-      "id": "23095184151",
-      "title": "Blusa Regata Feminina Crepe Social Elegante Decote V Alça Larga Lisa Soltinha Trabalho Casual Festa",
-      "price": 29.99,
-      "originalPrice": 49.98,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-msnbna8em2h026",
-      "url": "https://s.shopee.com.br/2VtMosOq8M",
-      "rating": 4.8,
-      "salesCount": 1761,
-      "seller": "SOHA MODAS",
-      "category": "Moda"
-    },
-    {
-      "id": "58218741576",
-      "title": "Mochila Escolar Infantil Feminina – Grande Capacidade, Confortável e Resistente para Escola e Passeios",
-      "price": 74.99,
-      "originalPrice": 111.93,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257x-mtfnco33m32a40",
-      "url": "https://s.shopee.com.br/30pch5ldA1",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 283,
-      "seller": "M Flowerr",
-      "category": "Presentes e papelaria"
     },
     {
       "id": "23693216634",
@@ -558,34 +490,6 @@
       "official": true,
       "seller": "Philco Oficial",
       "category": "Beleza"
-    },
-    {
-      "id": "41781797063",
-      "title": "ESPELHO DE CORAÇÃO E RETANGULO PARA BOTTON MAQUINA CHINESA ACHADINHOS DA SHOPEE",
-      "price": 19.92,
-      "originalPrice": 23.98,
-      "discountPercent": 16.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mvma47ic3if426",
-      "url": "https://s.shopee.com.br/8Kr5nbHeAR",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 65,
-      "seller": "YELLOW LASER 3",
-      "category": "Presentes e papelaria"
-    },
-    {
-      "id": "23498300221",
-      "title": "Bota Feminina GiGiL Cano Médio Enrugado Slouch Western Salto Alto Bico Fino Texana Country Elegante",
-      "price": 99.99,
-      "originalPrice": 119.99,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8luys2iiidt9d",
-      "url": "https://s.shopee.com.br/1BNvIlPxEd",
-      "rating": 4.9,
-      "salesCount": 443,
-      "official": true,
-      "seller": "GiGiL",
-      "category": "Moda"
     }
   ]
 }
