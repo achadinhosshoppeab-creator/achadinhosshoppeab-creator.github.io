@@ -1,34 +1,6 @@
 {
-  "updatedAt": "2026-11-19T10:45:48.156Z",
+  "updatedAt": "2026-11-19T11:15:48.779Z",
   "offers": [
-    {
-      "id": "58205100450",
-      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
-      "price": 19.8,
-      "originalPrice": 37.96,
-      "discountPercent": 47.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
-      "url": "https://s.shopee.com.br/5VX0oOeoC9",
-      "rating": 4.8,
-      "salesCount": 2078,
-      "seller": "Ela&Ela",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "58260208303",
-      "title": "Kit Hidratação Pele de Porcelana + Olhos de Gueixa +  Pele Plena Kokeshi",
-      "price": 46.12,
-      "originalPrice": 85.41,
-      "discountPercent": 46,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mqbxypplxc0055",
-      "url": "https://s.shopee.com.br/4qHK1AhLYC",
-      "rating": 4.9,
-      "salesCount": 959,
-      "official": true,
-      "seller": "KOKESHI OFICIAL",
-      "category": "Beleza"
-    },
     {
       "id": "58270813462",
       "title": "Chave de Impacto Parafusadeira e Furadeira 3 EM 1 Brushless Sem Fio 68V Com 4 Soquetes",
@@ -57,47 +29,18 @@
       "category": "Casa e organização"
     },
     {
-      "id": "23392957870",
-      "title": "Kit Cutelaria Pedicure Profissional Instrumentos 7 Peças Inox Slim - Promoção",
-      "price": 19.9,
-      "originalPrice": 29.7,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zv0-miqtlb1r4vlu5e",
-      "url": "https://s.shopee.com.br/gRlP0Qmbl",
-      "rating": 4.9,
-      "salesCount": 1560,
-      "seller": "Slim.Alicates",
-      "category": "Beleza"
-    },
-    {
-      "id": "28867680104",
-      "title": "[NEW] NUMBUZIN No.9 NAD BIO Lifting Sil Essence 30ml, 50ml",
-      "price": 63.99,
-      "originalPrice": 92.68,
-      "discountPercent": 31,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8257x-mrgvlvtzbjt2da",
-      "url": "https://s.shopee.com.br/2gCpRC2S2u",
+      "id": "58269189048",
+      "title": "Boneca Bebê Reborn Realista Com Chupeta e Roupinha Brinquedo Infantil Menina",
+      "price": 27.9,
+      "originalPrice": 63.41,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mto610z4dszl02",
+      "url": "https://s.shopee.com.br/1BO1eU7MW6",
       "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 2095,
-      "official": true,
-      "seller": "GLORY OF SEOUL",
-      "category": "Beleza"
-    },
-    {
-      "id": "58255995295",
-      "title": "Abajur de Mesa Recarregável com Toque | 3 Modos de Luz e Controle Remoto para Quarto",
-      "price": 23.8,
-      "originalPrice": 59.5,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-ml8q7249p62v1f",
-      "url": "https://s.shopee.com.br/20x8dqPosZ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 649,
-      "seller": "Tudo Bom ",
-      "category": "Casa e organização",
-      "hot": true
+      "rating": 4.8,
+      "salesCount": 442,
+      "seller": "AG SOCKS",
+      "category": "Pet e bebê"
     },
     {
       "id": "22499534433",
@@ -111,21 +54,8 @@
       "rating": 4.9,
       "salesCount": 415,
       "seller": "MEDOOSIGL",
-      "category": "Presentes e papelaria"
-    },
-    {
-      "id": "47810770730",
-      "title": "Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza linhas - Kaziva",
-      "price": 22.9,
-      "originalPrice": 29.9,
-      "discountPercent": 23.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moe991hva9z909",
-      "url": "https://s.shopee.com.br/2VtPEkT8Cx",
-      "rating": 4.8,
-      "salesCount": 3493,
-      "official": true,
-      "seller": "Adora ",
-      "category": "Casa e organização"
+      "category": "Presentes e papelaria",
+      "hot": true
     },
     {
       "id": "58270099000",
@@ -138,7 +68,8 @@
       "rating": 4.9,
       "salesCount": 462,
       "seller": "TECHLAR ",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "58253573742",
@@ -155,6 +86,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "28944042529",
+      "title": "Kit 10 Marmitas Conjunto Potes 850ml com Travas Laterais Livre de BPA - Organizadores de Congelador",
+      "price": 29.98,
+      "originalPrice": 90.85,
+      "discountPercent": 67,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mtpdofdf7gu950",
+      "url": "https://s.shopee.com.br/8fU2a3xKXS",
+      "rating": 4.5,
+      "salesCount": 1004,
+      "seller": "A T E N A S",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
       "id": "49459506760",
       "title": "Trena Aço Retrátil 5m 7.5m 10m com Trava Auto Lock Medição Precisa Profissional",
       "price": 26.9,
@@ -167,34 +112,6 @@
       "salesCount": 205,
       "seller": "CESTACLIC SHOP",
       "category": "Ferramentas"
-    },
-    {
-      "id": "20897683919",
-      "title": "Projetor HY300 Mini Projetor Portátil LED WiFi Bluetooth Cinema em Casa Controle Remoto",
-      "price": 189.99,
-      "originalPrice": 791.63,
-      "discountPercent": 76,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260x-ml835vsd81s3d3",
-      "url": "https://s.shopee.com.br/3qOmpJuUk8",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1875,
-      "seller": "JIMMY.STORE",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "21199259443",
-      "title": "Secador de Cabelo 110v Profissional 3200w - Voltagem 110v--6881",
-      "price": 39.99,
-      "originalPrice": 79.98,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd5z-lvxd71825cwcf6",
-      "url": "https://s.shopee.com.br/30pfpoENjk",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 622,
-      "seller": "Jardim.das.flores",
-      "category": "Beleza"
     },
     {
       "id": "43084868685",
@@ -212,47 +129,6 @@
       "hot": true
     },
     {
-      "id": "23193726165",
-      "title": "Brinquedo Bancadinha com Martelo e Pinos Geométricos Educativo, Criativo e Interativo para Crianças",
-      "price": 32.9,
-      "originalPrice": 88.92,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-moo7re11to1x5b",
-      "url": "https://s.shopee.com.br/5q9rCvbEHS",
-      "rating": 4.9,
-      "salesCount": 938,
-      "seller": "Mundo Das Mamadeiras Premium",
-      "category": "Pet e bebê",
-      "hot": true
-    },
-    {
-      "id": "58204227431",
-      "title": "Delineador Duplo Carimbo SACE LADY Olhos Esquerdo Direito Impermeável Não Borra Iniciantes",
-      "price": 66.99,
-      "originalPrice": 128.83,
-      "discountPercent": 48,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mrjipz8vz21145",
-      "url": "https://s.shopee.com.br/6VPY0EAGL3",
-      "rating": 4.7,
-      "salesCount": 312,
-      "official": true,
-      "seller": "SACE LADY Brasil",
-      "category": "Beleza"
-    },
-    {
-      "id": "22599308033",
-      "title": "Capa Magnética MagSafe para iPhone 13 14 15 16 17 Pro Max Fosca Antichoque com Proteção de Lente",
-      "price": 29.89,
-      "originalPrice": 56.4,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261v-mkmue0qdxaf613",
-      "url": "https://s.shopee.com.br/9V39Zc6x4R",
-      "rating": 4.9,
-      "salesCount": 1390,
-      "seller": "vitrine paulista",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "21598656632",
       "title": "Suporte Para Cpu Computador Ajustavel Rodizios",
       "price": 22.11,
@@ -263,7 +139,7 @@
       "rating": 4.9,
       "salesCount": 1340,
       "seller": "Draw Papelaria",
-      "category": "Eletrônicos"
+      "category": "Casa e organização"
     },
     {
       "id": "23093480302",
@@ -279,33 +155,6 @@
       "official": true,
       "seller": "Basike Loja Oficial",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "22393497611",
-      "title": "Shorts Feminino Jackar linho mescla com cinto fixo com elastano",
-      "price": 34.99,
-      "originalPrice": 47.93,
-      "discountPercent": 27,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mljc8d7yy6me4e",
-      "url": "https://s.shopee.com.br/4LL3QHQyse",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1595,
-      "seller": "MODINHAS MAGI",
-      "category": "Moda"
-    },
-    {
-      "id": "58217836266",
-      "title": "14 Peças Kit Esponja de Maquiagem com Puff Mini e Pote Organizador para Base Corretivo e Pó",
-      "price": 15.99,
-      "originalPrice": 36.34,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-msx68nks77yef2",
-      "url": "https://s.shopee.com.br/80ELmzHkV9",
-      "rating": 4.9,
-      "salesCount": 599,
-      "seller": "Bonami&Lar",
-      "category": "Beleza"
     },
     {
       "id": "21697982542",
@@ -347,35 +196,6 @@
       "salesCount": 1284,
       "seller": "KODI-2",
       "category": "Casa e organização"
-    },
-    {
-      "id": "58216407854",
-      "title": "X55 Fones De Ouvido TWS Sleep Sem Fio Bluetooth Display Led HIFI Som Estéreo Fone À Prova D'água Com Cancelame-tc",
-      "price": 25.88,
-      "originalPrice": 58.82,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m8-ms0qu8ij25mu97",
-      "url": "https://s.shopee.com.br/8VAcPuexn9",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 2022,
-      "seller": "WDJ TECH LTDA",
-      "category": "Eletrônicos",
-      "hot": true
-    },
-    {
-      "id": "58107325952",
-      "title": "Tapete Infantil Sensorial Inflável Água Bebê Atividades Estimula Desenvolvimento Criança Pets",
-      "price": 25.99,
-      "originalPrice": 47.25,
-      "discountPercent": 45,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mrzxpv7itj45cb",
-      "url": "https://s.shopee.com.br/6q2OOhucnA",
-      "rating": 4.9,
-      "salesCount": 543,
-      "official": true,
-      "seller": "Bolinha Mágica",
-      "category": "Pet e bebê"
     },
     {
       "id": "58265674903",
@@ -420,34 +240,6 @@
       "category": "Beleza"
     },
     {
-      "id": "23098428261",
-      "title": "Kit 1/3/5 Discos Diamantado 100mm p/ Cerâmica/Vidro/Porcelanato Areia 15mm c/ Anel 20mm",
-      "price": 23.99,
-      "originalPrice": 58.51,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260n-mliqcuxma1hg70",
-      "url": "https://s.shopee.com.br/4LL3QATKRo",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1883,
-      "seller": "K7mart",
-      "category": "Ferramentas",
-      "hot": true
-    },
-    {
-      "id": "22099903633",
-      "title": "Conjunto de Academia Feminino Fitness/Corrida Short/C Bolso Top Frente Unica Zero Transparencia C Cintura Alta",
-      "price": 48.99,
-      "originalPrice": 80.31,
-      "discountPercent": 39,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mtu940agdermfe",
-      "url": "https://s.shopee.com.br/8AXlzKTVSI",
-      "rating": 4.9,
-      "salesCount": 1083,
-      "seller": "Movini Fit",
-      "category": "Moda"
-    },
-    {
       "id": "22994782615",
       "title": "Kit Serra Adaptador De Serra Tico-Tico Elétrica Para Furadeira e Parafusadeira,Ferramenta de Corte p/Madeira",
       "price": 27.79,
@@ -458,7 +250,8 @@
       "rating": 4.7,
       "salesCount": 672,
       "seller": "Domus Charm",
-      "category": "Ferramentas"
+      "category": "Ferramentas",
+      "hot": true
     },
     {
       "id": "56868516878",
@@ -476,6 +269,20 @@
       "hot": true
     },
     {
+      "id": "23098428261",
+      "title": "Kit 1/3/5 Discos Diamantado 100mm p/ Cerâmica/Vidro/Porcelanato Areia 15mm c/ Anel 20mm",
+      "price": 35.9,
+      "originalPrice": 79.78,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260n-mliqcuxma1hg70",
+      "url": "https://s.shopee.com.br/4LL3QATKRo",
+      "rating": 4.8,
+      "salesCount": 1883,
+      "seller": "K7mart",
+      "category": "Ferramentas",
+      "hot": true
+    },
+    {
       "id": "18997982042",
       "title": "Kit 3/5/10 Saco a Vacuo + COM ou SEM Bomba Manual Organização de Roupas Mala Viagem Guarda Roupas",
       "price": 22.9,
@@ -487,48 +294,6 @@
       "rating": 4.9,
       "salesCount": 1279,
       "seller": "Ulife.Loja.Oficial",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "19598142136",
-      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
-      "price": 118.15,
-      "originalPrice": 139,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
-      "url": "https://s.shopee.com.br/9AQJB8QVS6",
-      "rating": 5,
-      "salesCount": 2166,
-      "official": true,
-      "seller": "meuollie",
-      "category": "Beleza"
-    },
-    {
-      "id": "58254628235",
-      "title": "Conjunto de Academia Feminino Fitness Short com Bolso + Top, Zero Tranparência com Cintura Alta",
-      "price": 44.9,
-      "originalPrice": 80.18,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260u-mkb5a2yy0ao745",
-      "url": "https://s.shopee.com.br/7puvaiUm8G",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1120,
-      "seller": "Zayan Moda Fitness",
-      "category": "Moda"
-    },
-    {
-      "id": "23694337309",
-      "title": "Lanterna Portatil Canhao Laser Recarregavel Zoom Telescópico À Prova D'água Suporte de Abajur",
-      "price": 29.96,
-      "originalPrice": 62.42,
-      "discountPercent": 52,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mpjf7j894mio05",
-      "url": "https://s.shopee.com.br/1qdiRXQSDQ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 445,
-      "seller": "Fuxi Store",
       "category": "Casa e organização"
     },
     {
@@ -557,6 +322,20 @@
       "salesCount": 57,
       "official": true,
       "seller": "Wehawk Oficial",
+      "category": "Moda"
+    },
+    {
+      "id": "22198347462",
+      "title": "Tenis Infantil Meninos Jogger Escolar Casual Camurça + Bone Oculos Relogio",
+      "price": 45.99,
+      "originalPrice": 79.29,
+      "discountPercent": 42,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7hwu1j2uxqk37",
+      "url": "https://s.shopee.com.br/5AuAPnxGzj",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 792,
+      "seller": "Stand Web",
       "category": "Moda"
     },
     {
@@ -598,36 +377,7 @@
       "rating": 4.8,
       "salesCount": 1813,
       "seller": "MiDi Store",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23294887151",
-      "title": "Lanterna Potente 4 Núcleos LED - Prova d’Água e Recarregável via USB",
-      "price": 19.01,
-      "originalPrice": 31.68,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mlli1aitekg777",
-      "url": "https://s.shopee.com.br/4B1dG0pRbc",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1808,
-      "seller": "0f6dhwt0jj",
-      "category": "Ferramentas"
-    },
-    {
-      "id": "18071105004",
-      "title": "Kit Cabides Veludo Para Roupas Adulto 30 Unidades Fino Resistente",
-      "price": 49.9,
-      "originalPrice": 59.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6qu5cyullio31",
-      "url": "https://s.shopee.com.br/9V39ZhZjL7",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1345,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Casa e organização"
+      "category": "Moda"
     },
     {
       "id": "23893056827",
@@ -643,21 +393,6 @@
       "category": "Beleza"
     },
     {
-      "id": "22493863963",
-      "title": "The Perfect Top Insider",
-      "price": 79,
-      "originalPrice": 99,
-      "discountPercent": 20.2,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ip-mfo1ct0dpatoc3",
-      "url": "https://s.shopee.com.br/5AuAPofGp0",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 5000,
-      "official": true,
-      "seller": "INSIDER",
-      "category": "Moda"
-    },
-    {
       "id": "22698677025",
       "title": "Varal De Chão 3 Andares Roupa Calcinha Dobrável Grade Reforçado com 4 Rodas Portátil e Compacto",
       "price": 67.95,
@@ -670,19 +405,6 @@
       "salesCount": 6433,
       "seller": "CASA DALONSO",
       "category": "Casa e organização"
-    },
-    {
-      "id": "23095184151",
-      "title": "Blusa Regata Feminina Crepe Social Elegante Decote V Alça Larga Lisa Soltinha Trabalho Casual Festa",
-      "price": 29.99,
-      "originalPrice": 49.98,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-msnbna8em2h026",
-      "url": "https://s.shopee.com.br/8pnSmYRJOK",
-      "rating": 4.9,
-      "salesCount": 1874,
-      "seller": "SOHA MODAS",
-      "category": "Moda"
     },
     {
       "id": "44366121463",
@@ -713,34 +435,6 @@
       "category": "Presentes e papelaria"
     },
     {
-      "id": "23693216634",
-      "title": "Camisa polo masculina piquet poliester",
-      "price": 29.49,
-      "originalPrice": 44.68,
-      "discountPercent": 34,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcs4d0wbskz647",
-      "url": "https://s.shopee.com.br/4VeTcb7rXE",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1332,
-      "seller": "78 STORE",
-      "category": "Moda"
-    },
-    {
-      "id": "22594257659",
-      "title": "02 Shampoo Dermatite Clorexidina 500ml World",
-      "price": 24.23,
-      "originalPrice": 33.86,
-      "discountPercent": 28.4,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdw4-mckur2h16hfb06",
-      "url": "https://s.shopee.com.br/4VeTcch8aF",
-      "rating": 4.9,
-      "salesCount": 480,
-      "official": true,
-      "seller": "MANADA ANIMAL",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "22392646521",
       "title": "Escova Secadora Britânia 4 em 1 Nanocerâmica 1300W BELLA01",
       "price": 79.9,
@@ -752,33 +446,6 @@
       "salesCount": 3455,
       "official": true,
       "seller": "Britânia Oficial",
-      "category": "Beleza"
-    },
-    {
-      "id": "19199704852",
-      "title": "Secador de Cabelos Britânia Bivolt 2100W BELLA BSCE21A",
-      "price": 79.9,
-      "originalPrice": 99.9,
-      "discountPercent": 20,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258z-mfwlq6fzol5529",
-      "url": "https://s.shopee.com.br/6VPY0F13dG",
-      "rating": 4.8,
-      "salesCount": 1359,
-      "official": true,
-      "seller": "Britânia Oficial",
-      "category": "Beleza"
-    },
-    {
-      "id": "23593563538",
-      "title": "Creme Preventivo De Assaduras Bepantol Baby 120g",
-      "price": 42,
-      "originalPrice": 49.44,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81ztc-mivp01jkbjlwd3",
-      "url": "https://s.shopee.com.br/8AXmP6HtrP",
-      "rating": 4.9,
-      "salesCount": 2254,
-      "seller": "Totaly E-commerce",
       "category": "Beleza"
     },
     {
@@ -794,20 +461,6 @@
       "salesCount": 69,
       "seller": "YELLOW LASER 3",
       "category": "Presentes e papelaria"
-    },
-    {
-      "id": "23994333673",
-      "title": "conjunto academia top e calça fitness bicolor",
-      "price": 64.9,
-      "originalPrice": 76.9,
-      "discountPercent": 15.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mqe6jnfj36rl48",
-      "url": "https://s.shopee.com.br/AUvglcKciW",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1605,
-      "seller": "Nay Fit",
-      "category": "Moda"
     }
   ]
 }
