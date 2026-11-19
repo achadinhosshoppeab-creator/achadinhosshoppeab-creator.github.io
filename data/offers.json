@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:00:18.145Z",
+  "updatedAt": "2026-11-19T18:21:22.464Z",
   "offers": [
     {
       "id": "58205100450",
@@ -27,50 +27,8 @@
       "salesCount": 959,
       "official": true,
       "seller": "KOKESHI OFICIAL",
-      "category": "Beleza"
-    },
-    {
-      "id": "23398219832",
-      "title": "20  Gancho De Parede Forte Transparente Com Ventosa Para Cozinha / Banheiro Multiuso Gancho Porta Não-Amarcaing Em stock",
-      "price": 16.99,
-      "originalPrice": 29.9,
-      "discountPercent": 43.2,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258x-mt93bxbp7lzb3b",
-      "url": "https://s.shopee.com.br/4LL3QCO7aY",
-      "rating": 4.7,
-      "salesCount": 3270,
-      "seller": "Vida Criativa ",
-      "category": "Casa e organização",
+      "category": "Beleza",
       "hot": true
-    },
-    {
-      "id": "22094238842",
-      "title": "BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL",
-      "price": 16.92,
-      "originalPrice": 24.9,
-      "discountPercent": 32,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mukoqlfdn280c5",
-      "url": "https://s.shopee.com.br/2LZz2TXQUu",
-      "rating": 4.8,
-      "salesCount": 5735,
-      "official": true,
-      "seller": "Primacial",
-      "category": "Beleza"
-    },
-    {
-      "id": "28867680104",
-      "title": "[NEW] NUMBUZIN No.9 NAD BIO Lifting Sil Essence 30ml, 50ml",
-      "price": 63.99,
-      "originalPrice": 92.68,
-      "discountPercent": 31,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8257x-mrgvlvtzbjt2da",
-      "url": "https://s.shopee.com.br/2gCpRC2S2u",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 2095,
-      "official": true,
-      "seller": "GLORY OF SEOUL",
-      "category": "Beleza"
     },
     {
       "id": "58269189048",
@@ -88,62 +46,17 @@
       "hot": true
     },
     {
-      "id": "58255995295",
-      "title": "Abajur de Mesa Recarregável com Toque | 3 Modos de Luz e Controle Remoto para Quarto",
-      "price": 23.9,
-      "originalPrice": 58.29,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-ml8q7249p62v1f",
-      "url": "https://s.shopee.com.br/20x8dqPosZ",
-      "hasVariantPrices": true,
+      "id": "21598656632",
+      "title": "Suporte Para Cpu Computador Ajustavel Rodizios",
+      "price": 22.11,
+      "originalPrice": 29.97,
+      "discountPercent": 26.2,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-li8txvm0m2wl05",
+      "url": "https://s.shopee.com.br/3g5Md71Mqe",
       "rating": 4.9,
-      "salesCount": 649,
-      "seller": "Tudo Bom ",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "20897683919",
-      "title": "Projetor HY300 Mini Projetor Portátil LED WiFi Bluetooth Cinema em Casa Controle Remoto",
-      "price": 189.99,
-      "originalPrice": 791.63,
-      "discountPercent": 76,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260x-ml835vsd81s3d3",
-      "url": "https://s.shopee.com.br/3qOmpJuUk8",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1875,
-      "seller": "JIMMY.STORE",
-      "category": "Eletrônicos",
-      "hot": true
-    },
-    {
-      "id": "23193726165",
-      "title": "Brinquedo Bancadinha com Martelo e Pinos Geométricos Educativo, Criativo e Interativo para Crianças",
-      "price": 32.9,
-      "originalPrice": 88.92,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-moo7re11to1x5b",
-      "url": "https://s.shopee.com.br/5q9rCvbEHS",
-      "rating": 4.9,
-      "salesCount": 938,
-      "seller": "Mundo Das Mamadeiras Premium",
-      "category": "Pet e bebê",
-      "hot": true
-    },
-    {
-      "id": "58204227431",
-      "title": "Delineador Duplo Carimbo SACE LADY Olhos Esquerdo Direito Impermeável Não Borra Iniciantes",
-      "price": 66.99,
-      "originalPrice": 128.83,
-      "discountPercent": 48,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mrjipz8vz21145",
-      "url": "https://s.shopee.com.br/6VPY0EAGL3",
-      "rating": 4.7,
-      "salesCount": 312,
-      "official": true,
-      "seller": "SACE LADY Brasil",
-      "category": "Beleza"
+      "salesCount": 1340,
+      "seller": "Draw Papelaria",
+      "category": "Casa e organização"
     },
     {
       "id": "58215575965",
@@ -156,20 +69,7 @@
       "rating": 4.9,
       "salesCount": 980,
       "seller": "TECHWORLD STORE",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "58217836266",
-      "title": "14 Peças Kit Esponja de Maquiagem com Puff Mini e Pote Organizador para Base Corretivo e Pó",
-      "price": 15.99,
-      "originalPrice": 36.34,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-msx68nks77yef2",
-      "url": "https://s.shopee.com.br/80ELmzHkV9",
-      "rating": 4.9,
-      "salesCount": 599,
-      "seller": "Bonami&Lar",
-      "category": "Beleza",
+      "category": "Eletrônicos",
       "hot": true
     },
     {
@@ -184,7 +84,23 @@
       "rating": 4.9,
       "salesCount": 700,
       "seller": "TMR E-commerce",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "58216407854",
+      "title": "X55 Fones De Ouvido TWS Sleep Sem Fio Bluetooth Display Led HIFI Som Estéreo Fone À Prova D'água Com Cancelame-tc",
+      "price": 25.88,
+      "originalPrice": 58.82,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m8-ms0qu8ij25mu97",
+      "url": "https://s.shopee.com.br/8VAcPuexn9",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 2022,
+      "seller": "WDJ TECH LTDA",
+      "category": "Eletrônicos",
+      "hot": true
     },
     {
       "id": "58107325952",
@@ -198,34 +114,35 @@
       "salesCount": 543,
       "official": true,
       "seller": "Bolinha Mágica",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "23897986932",
-      "title": "Escorredor De Louças Versátil Duplo Compacto Secador Aço 13 Pratos 9 Copos 2 Andares",
-      "price": 16.95,
-      "originalPrice": 33.89,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-muxsqgkwkh6p66",
-      "url": "https://s.shopee.com.br/2LZzxa6YhM",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1026,
-      "seller": "CMB Shop",
-      "category": "Cozinha",
+      "category": "Pet e bebê",
       "hot": true
     },
     {
-      "id": "23698958223",
-      "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
-      "price": 39.9,
-      "originalPrice": 47.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-muxv8arqggzned",
-      "url": "https://s.shopee.com.br/1LhRqgrTzr",
+      "id": "21999036745",
+      "title": "Kit Arranhador Para Gatos Protedor Canto 2un Sofá Cama Box",
+      "price": 35.78,
+      "originalPrice": 46.89,
+      "discountPercent": 23.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnj2so8as97ta1",
+      "url": "https://s.shopee.com.br/9pfzyQ9dTb",
+      "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 772,
-      "seller": "Jab Bazar Presentes",
+      "salesCount": 804,
+      "seller": "Fabrica Pet",
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "58266799438",
+      "title": "Kit coala Home Chá Branco - 4 Itens",
+      "price": 49.9,
+      "originalPrice": 67.9,
+      "discountPercent": 26.5,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-msa1d1kgw2dh93",
+      "url": "https://s.shopee.com.br/AKcGZF1Da5",
+      "rating": 5,
+      "salesCount": 4630,
+      "official": true,
+      "seller": "Coala Essências Oficial",
       "category": "Casa e organização"
     },
     {
@@ -243,32 +160,18 @@
       "category": "Moda"
     },
     {
-      "id": "23294887151",
-      "title": "Lanterna Potente 4 Núcleos LED - Prova d’Água e Recarregável via USB",
-      "price": 19.01,
-      "originalPrice": 31.68,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mlli1aitekg777",
-      "url": "https://s.shopee.com.br/4B1dG0pRbc",
-      "hasVariantPrices": true,
+      "id": "23893056827",
+      "title": "Amend Essencial Acidificante Máscara Equilíbrio do PH - 250g",
+      "price": 39.9,
+      "originalPrice": 62.34,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1e4r69b342ob5",
+      "url": "https://s.shopee.com.br/9V39Zkliae",
       "rating": 4.9,
-      "salesCount": 1808,
-      "seller": "0f6dhwt0jj",
-      "category": "Ferramentas"
-    },
-    {
-      "id": "22698677025",
-      "title": "Varal De Chão 3 Andares Roupa Calcinha Dobrável Grade Reforçado com 4 Rodas Portátil e Compacto",
-      "price": 67.95,
-      "originalPrice": 79.98,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhg7txeyy7erfb",
-      "url": "https://s.shopee.com.br/1qdiRcBZto",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 6433,
-      "seller": "CASA DALONSO",
-      "category": "Casa e organização"
+      "salesCount": 1165,
+      "seller": "BEAUTY ON ",
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "22392646521",
@@ -297,6 +200,20 @@
       "salesCount": 69,
       "seller": "YELLOW LASER 3",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "23994333673",
+      "title": "conjunto academia top e calça fitness bicolor",
+      "price": 64.9,
+      "originalPrice": 76.9,
+      "discountPercent": 15.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mqe6jnfj36rl48",
+      "url": "https://s.shopee.com.br/AUvglcKciW",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1605,
+      "seller": "Nay Fit",
+      "category": "Moda"
     }
   ]
 }
