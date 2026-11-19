@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T06:04:15.574Z",
+  "updatedAt": "2026-11-19T06:34:38.299Z",
   "offers": [
     {
       "id": "22498650565",
@@ -139,8 +139,7 @@
       "rating": 4.9,
       "salesCount": 649,
       "seller": "Tudo Bom ",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "22499534433",
@@ -417,6 +416,21 @@
       "salesCount": 1284,
       "seller": "KODI-2",
       "category": "Casa e organização"
+    },
+    {
+      "id": "58216407854",
+      "title": "X55 Fones De Ouvido TWS Sleep Sem Fio Bluetooth Display Led HIFI Som Estéreo Fone À Prova D'água Com Cancelame-tc",
+      "price": 25.88,
+      "originalPrice": 58.82,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m8-ms0qu8ij25mu97",
+      "url": "https://s.shopee.com.br/8VAcPuexn9",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 2022,
+      "seller": "WDJ TECH LTDA",
+      "category": "Eletrônicos",
+      "hot": true
     },
     {
       "id": "18899453372",
