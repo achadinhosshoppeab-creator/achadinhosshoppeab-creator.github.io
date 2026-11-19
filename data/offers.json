@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T17:40:23.873Z",
+  "updatedAt": "2026-11-19T18:00:18.145Z",
   "offers": [
     {
       "id": "58205100450",
@@ -42,19 +42,6 @@
       "seller": "Vida Criativa ",
       "category": "Casa e organização",
       "hot": true
-    },
-    {
-      "id": "23392957870",
-      "title": "Kit Cutelaria Pedicure Profissional Instrumentos 7 Peças Inox Slim - Promoção",
-      "price": 19.9,
-      "originalPrice": 29.7,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zv0-miqtlb1r4vlu5e",
-      "url": "https://s.shopee.com.br/gRlP0Qmbl",
-      "rating": 4.9,
-      "salesCount": 1560,
-      "seller": "Slim.Alicates",
-      "category": "Beleza"
     },
     {
       "id": "22094238842",
@@ -159,31 +146,31 @@
       "category": "Beleza"
     },
     {
-      "id": "21598656632",
-      "title": "Suporte Para Cpu Computador Ajustavel Rodizios",
-      "price": 22.11,
-      "originalPrice": 29.97,
-      "discountPercent": 26.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-li8txvm0m2wl05",
-      "url": "https://s.shopee.com.br/3g5Md71Mqe",
+      "id": "58215575965",
+      "title": "Caixa de Som Gamer para PC Soundbar 6W RMS USB P2 Estéreo RGB Controle de Volume no Cabo",
+      "price": 39.8,
+      "originalPrice": 67.46,
+      "discountPercent": 41,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mrhfavs5g5c53e",
+      "url": "https://s.shopee.com.br/50aksUifEH",
       "rating": 4.9,
-      "salesCount": 1340,
-      "seller": "Draw Papelaria",
-      "category": "Casa e organização"
+      "salesCount": 980,
+      "seller": "TECHWORLD STORE",
+      "category": "Eletrônicos"
     },
     {
-      "id": "22393497611",
-      "title": "Shorts Feminino Jackar linho mescla com cinto fixo com elastano",
-      "price": 34.99,
-      "originalPrice": 47.93,
-      "discountPercent": 27,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mljc8d7yy6me4e",
-      "url": "https://s.shopee.com.br/4LL3QHQyse",
-      "hasVariantPrices": true,
+      "id": "58217836266",
+      "title": "14 Peças Kit Esponja de Maquiagem com Puff Mini e Pote Organizador para Base Corretivo e Pó",
+      "price": 15.99,
+      "originalPrice": 36.34,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-msx68nks77yef2",
+      "url": "https://s.shopee.com.br/80ELmzHkV9",
       "rating": 4.9,
-      "salesCount": 1595,
-      "seller": "MODINHAS MAGI",
-      "category": "Moda"
+      "salesCount": 599,
+      "seller": "Bonami&Lar",
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "23094020094",
@@ -200,21 +187,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58216407854",
-      "title": "X55 Fones De Ouvido TWS Sleep Sem Fio Bluetooth Display Led HIFI Som Estéreo Fone À Prova D'água Com Cancelame-tc",
-      "price": 25.88,
-      "originalPrice": 58.82,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m8-ms0qu8ij25mu97",
-      "url": "https://s.shopee.com.br/8VAcPuexn9",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 2022,
-      "seller": "WDJ TECH LTDA",
-      "category": "Eletrônicos",
-      "hot": true
-    },
-    {
       "id": "58107325952",
       "title": "Tapete Infantil Sensorial Inflável Água Bebê Atividades Estimula Desenvolvimento Criança Pets",
       "price": 25.99,
@@ -226,34 +198,6 @@
       "salesCount": 543,
       "official": true,
       "seller": "Bolinha Mágica",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "23294741602",
-      "title": "Tênis Feminino Corrida Run Esportivo Caminhada Casual Academia Treino Fitness Crossfit Leve Premium Respirável Ultra",
-      "price": 39,
-      "originalPrice": 49.9,
-      "discountPercent": 21.8,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zva-mmuvx89kb3sz10",
-      "url": "https://s.shopee.com.br/9fMZlxVq8Q",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2663,
-      "seller": "Evox Calçados e Acessórios LTDA",
-      "category": "Moda"
-    },
-    {
-      "id": "21999036745",
-      "title": "Kit Arranhador Para Gatos Protedor Canto 2un Sofá Cama Box",
-      "price": 35.78,
-      "originalPrice": 46.89,
-      "discountPercent": 23.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnj2so8as97ta1",
-      "url": "https://s.shopee.com.br/9pfzyQ9dTb",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 804,
-      "seller": "Fabrica Pet",
       "category": "Pet e bebê"
     },
     {
@@ -270,34 +214,6 @@
       "seller": "CMB Shop",
       "category": "Cozinha",
       "hot": true
-    },
-    {
-      "id": "19598142136",
-      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
-      "price": 118.15,
-      "originalPrice": 139,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
-      "url": "https://s.shopee.com.br/9AQJB8QVS6",
-      "rating": 5,
-      "salesCount": 2166,
-      "official": true,
-      "seller": "meuollie",
-      "category": "Beleza"
-    },
-    {
-      "id": "18698826077",
-      "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
-      "price": 109.9,
-      "originalPrice": 149,
-      "discountPercent": 26.2,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
-      "url": "https://s.shopee.com.br/114bSC7BDc",
-      "rating": 4.9,
-      "salesCount": 1418,
-      "official": true,
-      "seller": "Eletricario Loja Oficial",
-      "category": "Ferramentas"
     },
     {
       "id": "23698958223",
@@ -341,46 +257,32 @@
       "category": "Ferramentas"
     },
     {
-      "id": "22493863963",
-      "title": "The Perfect Top Insider",
-      "price": 79,
-      "originalPrice": 99,
-      "discountPercent": 20.2,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd52-m7wmqucrqn5354",
-      "url": "https://s.shopee.com.br/5AuAPofGp0",
+      "id": "22698677025",
+      "title": "Varal De Chão 3 Andares Roupa Calcinha Dobrável Grade Reforçado com 4 Rodas Portátil e Compacto",
+      "price": 67.95,
+      "originalPrice": 79.98,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhg7txeyy7erfb",
+      "url": "https://s.shopee.com.br/1qdiRcBZto",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 5000,
+      "salesCount": 6433,
+      "seller": "CASA DALONSO",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "22392646521",
+      "title": "Escova Secadora Britânia 4 em 1 Nanocerâmica 1300W BELLA01",
+      "price": 79.9,
+      "originalPrice": 99.9,
+      "discountPercent": 20,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258a-mvp0wnmwacxyc0",
+      "url": "https://s.shopee.com.br/3LSWEJXXUZ",
+      "rating": 4.9,
+      "salesCount": 3455,
       "official": true,
-      "seller": "INSIDER",
-      "category": "Moda"
-    },
-    {
-      "id": "23095184151",
-      "title": "Blusa Regata Feminina Crepe Social Elegante Decote V Alça Larga Lisa Soltinha Trabalho Casual Festa",
-      "price": 29.99,
-      "originalPrice": 49.98,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-msnbna8em2h026",
-      "url": "https://s.shopee.com.br/8pnSmYRJOK",
-      "rating": 4.9,
-      "salesCount": 1874,
-      "seller": "SOHA MODAS",
-      "category": "Moda"
-    },
-    {
-      "id": "23693216634",
-      "title": "Camisa polo masculina piquet poliester",
-      "price": 29.49,
-      "originalPrice": 44.68,
-      "discountPercent": 34,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcs4d0wbskz647",
-      "url": "https://s.shopee.com.br/4VeTcb7rXE",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1332,
-      "seller": "78 STORE",
-      "category": "Moda"
+      "seller": "Britânia Oficial",
+      "category": "Beleza"
     },
     {
       "id": "41781797063",
@@ -395,20 +297,6 @@
       "salesCount": 69,
       "seller": "YELLOW LASER 3",
       "category": "Presentes e papelaria"
-    },
-    {
-      "id": "23994333673",
-      "title": "conjunto academia top e calça fitness bicolor",
-      "price": 64.9,
-      "originalPrice": 76.9,
-      "discountPercent": 15.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mqe6jnfj36rl48",
-      "url": "https://s.shopee.com.br/AUvglcKciW",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1605,
-      "seller": "Nay Fit",
-      "category": "Moda"
     }
   ]
 }
