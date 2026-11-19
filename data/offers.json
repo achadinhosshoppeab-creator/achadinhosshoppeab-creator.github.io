@@ -1,20 +1,6 @@
 {
-  "updatedAt": "2026-11-19T12:20:17.256Z",
+  "updatedAt": "2026-11-19T12:42:02.246Z",
   "offers": [
-    {
-      "id": "58205100450",
-      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
-      "price": 19.8,
-      "originalPrice": 37.96,
-      "discountPercent": 47.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
-      "url": "https://s.shopee.com.br/5VX0oOeoC9",
-      "rating": 4.8,
-      "salesCount": 2078,
-      "seller": "Ela&Ela",
-      "category": "Beleza",
-      "hot": true
-    },
     {
       "id": "21398274894",
       "title": "Geleia Hidratante Celestial Glow Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
@@ -29,20 +15,6 @@
       "seller": "Barbour's Beauty",
       "category": "Beleza",
       "hot": true
-    },
-    {
-      "id": "58260208303",
-      "title": "Kit Hidratação Pele de Porcelana + Olhos de Gueixa +  Pele Plena Kokeshi",
-      "price": 46.12,
-      "originalPrice": 85.41,
-      "discountPercent": 46,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mqbxypplxc0055",
-      "url": "https://s.shopee.com.br/4qHK1AhLYC",
-      "rating": 4.9,
-      "salesCount": 959,
-      "official": true,
-      "seller": "KOKESHI OFICIAL",
-      "category": "Beleza"
     },
     {
       "id": "22498650565",
@@ -73,18 +45,29 @@
       "category": "Ferramentas"
     },
     {
-      "id": "28867680104",
-      "title": "[NEW] NUMBUZIN No.9 NAD BIO Lifting Sil Essence 30ml, 50ml",
-      "price": 63.99,
-      "originalPrice": 92.68,
-      "discountPercent": 31,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8257x-mrgvlvtzbjt2da",
-      "url": "https://s.shopee.com.br/2gCpRC2S2u",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 2095,
-      "official": true,
-      "seller": "GLORY OF SEOUL",
+      "id": "23398219832",
+      "title": "20  Gancho De Parede Forte Transparente Com Ventosa Para Cozinha / Banheiro Multiuso Gancho Porta Não-Amarcaing Em stock",
+      "price": 16.99,
+      "originalPrice": 29.9,
+      "discountPercent": 43.2,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258x-mt93bxbp7lzb3b",
+      "url": "https://s.shopee.com.br/4LL3QCO7aY",
+      "rating": 4.7,
+      "salesCount": 3270,
+      "seller": "Vida Criativa ",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "23392957870",
+      "title": "Kit Cutelaria Pedicure Profissional Instrumentos 7 Peças Inox Slim - Promoção",
+      "price": 19.9,
+      "originalPrice": 29.7,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zv0-miqtlb1r4vlu5e",
+      "url": "https://s.shopee.com.br/gRlP0Qmbl",
+      "rating": 4.9,
+      "salesCount": 1560,
+      "seller": "Slim.Alicates",
       "category": "Beleza"
     },
     {
@@ -116,6 +99,34 @@
       "category": "Casa e organização"
     },
     {
+      "id": "58270099000",
+      "title": "Bandeja Decorativa Espelhada Redonda Dourada 22,5cm 2 em 1 Espelho de Parede Perfume Lavabo Luxo",
+      "price": 21.19,
+      "originalPrice": 50.45,
+      "discountPercent": 58,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mu2w8l611pfmc1",
+      "url": "https://s.shopee.com.br/6q2OOjcDY7",
+      "rating": 4.9,
+      "salesCount": 462,
+      "seller": "TECHLAR ",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "28944042529",
+      "title": "Kit 10 Marmitas Conjunto Potes 850ml com Travas Laterais Livre de BPA - Organizadores de Congelador",
+      "price": 29.98,
+      "originalPrice": 90.85,
+      "discountPercent": 67,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mtpdofdf7gu950",
+      "url": "https://s.shopee.com.br/8fU2a3xKXS",
+      "rating": 4.5,
+      "salesCount": 1004,
+      "seller": "A T E N A S",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
       "id": "49459506760",
       "title": "Trena Aço Retrátil 5m 7.5m 10m com Trava Auto Lock Medição Precisa Profissional",
       "price": 26.9,
@@ -130,18 +141,18 @@
       "category": "Ferramentas"
     },
     {
-      "id": "20897683919",
-      "title": "Projetor HY300 Mini Projetor Portátil LED WiFi Bluetooth Cinema em Casa Controle Remoto",
-      "price": 189.99,
-      "originalPrice": 791.63,
-      "discountPercent": 76,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260x-ml835vsd81s3d3",
-      "url": "https://s.shopee.com.br/3qOmpJuUk8",
+      "id": "21199259443",
+      "title": "Secador de Cabelo 110v Profissional 3200w - Voltagem 110v--6881",
+      "price": 39.99,
+      "originalPrice": 79.98,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd5z-lvxd71825cwcf6",
+      "url": "https://s.shopee.com.br/30pfpoENjk",
       "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1875,
-      "seller": "JIMMY.STORE",
-      "category": "Eletrônicos"
+      "rating": 4.7,
+      "salesCount": 622,
+      "seller": "Jardim.das.flores",
+      "category": "Beleza"
     },
     {
       "id": "23193726165",
@@ -181,6 +192,21 @@
       "rating": 4.9,
       "salesCount": 1340,
       "seller": "Draw Papelaria",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "23093480302",
+      "title": "Basike Carregador Portátil Power Bank 20000mAh Bateria Externa Para iPhone Samsung Pow079",
+      "price": 113.99,
+      "originalPrice": 199.98,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mvclbo1ynim94e",
+      "url": "https://s.shopee.com.br/5VX0oNEson",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1457,
+      "official": true,
+      "seller": "Basike Loja Oficial",
       "category": "Eletrônicos"
     },
     {
@@ -209,8 +235,7 @@
       "rating": 4.8,
       "salesCount": 550,
       "seller": "SUMARS",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "20799609642",
@@ -224,21 +249,6 @@
       "salesCount": 1284,
       "seller": "KODI-2",
       "category": "Casa e organização"
-    },
-    {
-      "id": "58216407854",
-      "title": "X55 Fones De Ouvido TWS Sleep Sem Fio Bluetooth Display Led HIFI Som Estéreo Fone À Prova D'água Com Cancelame-tc",
-      "price": 25.88,
-      "originalPrice": 58.82,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m8-ms0qu8ij25mu97",
-      "url": "https://s.shopee.com.br/8VAcPuexn9",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 2022,
-      "seller": "WDJ TECH LTDA",
-      "category": "Eletrônicos",
-      "hot": true
     },
     {
       "id": "58107325952",
@@ -269,20 +279,6 @@
       "hot": true
     },
     {
-      "id": "18497402527",
-      "title": "AMEND MÁSCARA NUTRITIVA EXPERTISE MARULA FABULOUS NUTRITION 300G",
-      "price": 33.9,
-      "originalPrice": 39.9,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98q-llwdbl7vtgja73",
-      "url": "https://s.shopee.com.br/9fMZm3l5Fj",
-      "rating": 4.9,
-      "salesCount": 1939,
-      "official": true,
-      "seller": "AMEND OFICIAL",
-      "category": "Beleza"
-    },
-    {
       "id": "22099903633",
       "title": "Conjunto de Academia Feminino Fitness/Corrida Short/C Bolso Top Frente Unica Zero Transparencia C Cintura Alta",
       "price": 48.99,
@@ -306,22 +302,50 @@
       "rating": 4.7,
       "salesCount": 672,
       "seller": "Domus Charm",
+      "category": "Ferramentas"
+    },
+    {
+      "id": "56868516878",
+      "title": "1/2/3 Suporte De Shampoo Organizador Alta qualidade Prateleira De Banheiro Sem Furo Premium-Space Alumínio",
+      "price": 21.99,
+      "originalPrice": 45.81,
+      "discountPercent": 52,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mtz09xh6qrk65d",
+      "url": "https://s.shopee.com.br/7AfEnPDKqO",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 1649,
+      "seller": "NOVARA.br",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "23098428261",
+      "title": "Kit 1/3/5 Discos Diamantado 100mm p/ Cerâmica/Vidro/Porcelanato Areia 15mm c/ Anel 20mm",
+      "price": 35.9,
+      "originalPrice": 79.78,
+      "discountPercent": 55,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260n-mliqcuxma1hg70",
+      "url": "https://s.shopee.com.br/4LL3QATKRo",
+      "rating": 4.8,
+      "salesCount": 1883,
+      "seller": "K7mart",
       "category": "Ferramentas",
       "hot": true
     },
     {
-      "id": "21999036745",
-      "title": "Kit Arranhador Para Gatos Protedor Canto 2un Sofá Cama Box",
-      "price": 35.78,
-      "originalPrice": 46.89,
-      "discountPercent": 23.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnj2so8as97ta1",
-      "url": "https://s.shopee.com.br/9pfzyQ9dTb",
+      "id": "18997982042",
+      "title": "Kit 3/5/10 Saco a Vacuo + COM ou SEM Bomba Manual Organização de Roupas Mala Viagem Guarda Roupas",
+      "price": 22.9,
+      "originalPrice": 35.23,
+      "discountPercent": 35,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mlmyxoqhrz7pd5",
+      "url": "https://s.shopee.com.br/70LpA9cc7x",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 804,
-      "seller": "Fabrica Pet",
-      "category": "Pet e bebê"
+      "salesCount": 1279,
+      "seller": "Ulife.Loja.Oficial",
+      "category": "Casa e organização"
     },
     {
       "id": "19598142136",
@@ -381,6 +405,20 @@
       "category": "Presentes e papelaria"
     },
     {
+      "id": "41183604135",
+      "title": "Organizador de Bonés em Acrílico Transparente Suporte Porta Boné Expositor para Closet Guarda-Roupa Loja",
+      "price": 19.73,
+      "originalPrice": 23.32,
+      "discountPercent": 15.4,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825az-mrzb10z3wxdw0e",
+      "url": "https://s.shopee.com.br/6L68Mvf9Tt",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1813,
+      "seller": "MiDi Store",
+      "category": "Casa e organização"
+    },
+    {
       "id": "23294887151",
       "title": "Lanterna Potente 4 Núcleos LED - Prova d’Água e Recarregável via USB",
       "price": 19.01,
@@ -395,17 +433,32 @@
       "category": "Ferramentas"
     },
     {
-      "id": "23893056827",
-      "title": "Amend Essencial Acidificante Máscara Equilíbrio do PH - 250g",
-      "price": 39.9,
-      "originalPrice": 62.34,
-      "discountPercent": 36,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1e4r69b342ob5",
-      "url": "https://s.shopee.com.br/9V39Zkliae",
+      "id": "22493863963",
+      "title": "The Perfect Top Insider",
+      "price": 79,
+      "originalPrice": 99,
+      "discountPercent": 20.2,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a2-mg4k43a2v40ac2",
+      "url": "https://s.shopee.com.br/5AuAPofGp0",
+      "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1165,
-      "seller": "BEAUTY ON ",
-      "category": "Beleza"
+      "salesCount": 5000,
+      "official": true,
+      "seller": "INSIDER",
+      "category": "Moda"
+    },
+    {
+      "id": "23095184151",
+      "title": "Blusa Regata Feminina Crepe Social Elegante Decote V Alça Larga Lisa Soltinha Trabalho Casual Festa",
+      "price": 29.99,
+      "originalPrice": 49.98,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-msnbna8em2h026",
+      "url": "https://s.shopee.com.br/8pnSmYRJOK",
+      "rating": 4.9,
+      "salesCount": 1874,
+      "seller": "SOHA MODAS",
+      "category": "Moda"
     },
     {
       "id": "44366121463",
@@ -422,32 +475,46 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "58218741576",
-      "title": "Mochila Escolar Infantil Feminina – Grande Capacidade, Confortável e Resistente para Escola e Passeios",
-      "price": 74.99,
-      "originalPrice": 111.93,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257x-mtfnco33m32a40",
-      "url": "https://s.shopee.com.br/1qdiRk413V",
+      "id": "23693216634",
+      "title": "Camisa polo masculina piquet poliester",
+      "price": 29.49,
+      "originalPrice": 44.68,
+      "discountPercent": 34,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcs4d0wbskz647",
+      "url": "https://s.shopee.com.br/4VeTcb7rXE",
       "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 301,
-      "seller": "M Flowerr",
-      "category": "Presentes e papelaria"
+      "rating": 4.7,
+      "salesCount": 1332,
+      "seller": "78 STORE",
+      "category": "Moda"
     },
     {
-      "id": "41781797063",
-      "title": "ESPELHO DE CORAÇÃO E RETANGULO PARA BOTTON MAQUINA CHINESA ACHADINHOS DA SHOPEE",
-      "price": 19.92,
-      "originalPrice": 23.98,
-      "discountPercent": 16.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mvma47ic3if426",
-      "url": "https://s.shopee.com.br/7VI5BwW63T",
-      "hasVariantPrices": true,
+      "id": "22392646521",
+      "title": "Escova Secadora Britânia 4 em 1 Nanocerâmica 1300W BELLA01",
+      "price": 79.9,
+      "originalPrice": 99.9,
+      "discountPercent": 20,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258a-mvp0wnmwacxyc0",
+      "url": "https://s.shopee.com.br/3LSWEJXXUZ",
       "rating": 4.9,
-      "salesCount": 69,
-      "seller": "YELLOW LASER 3",
-      "category": "Presentes e papelaria"
+      "salesCount": 3455,
+      "official": true,
+      "seller": "Britânia Oficial",
+      "category": "Beleza"
+    },
+    {
+      "id": "19199704852",
+      "title": "Secador de Cabelos Britânia Bivolt 2100W BELLA BSCE21A",
+      "price": 79.9,
+      "originalPrice": 99.9,
+      "discountPercent": 20,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258z-mfwlq6fzol5529",
+      "url": "https://s.shopee.com.br/6VPY0F13dG",
+      "rating": 4.8,
+      "salesCount": 1359,
+      "official": true,
+      "seller": "Britânia Oficial",
+      "category": "Beleza"
     },
     {
       "id": "23994333673",
