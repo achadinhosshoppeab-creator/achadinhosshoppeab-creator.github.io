@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T03:57:46.304Z",
+  "updatedAt": "2026-11-19T04:29:03.495Z",
   "offers": [
     {
       "id": "22498650565",
@@ -139,8 +139,21 @@
       "rating": 4.9,
       "salesCount": 649,
       "seller": "Tudo Bom ",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
+    },
+    {
+      "id": "22499534433",
+      "title": "82 Peças Jogo de Pesca Magnético de Madeira, Brinquedo Educativo Montessori, Presente Criativo para Crianças",
+      "price": 32.9,
+      "originalPrice": 80.24,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mp94pojanls53b",
+      "url": "https://s.shopee.com.br/60THPBBPMl",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 415,
+      "seller": "MEDOOSIGL",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "47810770730",
@@ -252,6 +265,20 @@
       "salesCount": 911,
       "seller": "BORGES LTDA",
       "category": "Casa e organização"
+    },
+    {
+      "id": "23193726165",
+      "title": "Brinquedo Bancadinha com Martelo e Pinos Geométricos Educativo, Criativo e Interativo para Crianças",
+      "price": 32.9,
+      "originalPrice": 88.92,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-moo7re11to1x5b",
+      "url": "https://s.shopee.com.br/5q9rCvbEHS",
+      "rating": 4.9,
+      "salesCount": 938,
+      "seller": "Mundo Das Mamadeiras Premium",
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "58204227431",
