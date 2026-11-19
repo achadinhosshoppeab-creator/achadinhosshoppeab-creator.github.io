@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T07:36:49.211Z",
+  "updatedAt": "2026-11-19T08:08:55.790Z",
   "offers": [
     {
       "id": "48065367665",
@@ -58,20 +58,6 @@
       "category": "Beleza"
     },
     {
-      "id": "22498650565",
-      "title": "Kit 100 unid - Tapete Higiênico PetCharm Slim -Tamanho 50cm x 60cm - Para Cachorros",
-      "price": 69.99,
-      "originalPrice": 120.67,
-      "discountPercent": 42,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b5-mutjnnozg1s4a8",
-      "url": "https://s.shopee.com.br/4LL3QJUR3C",
-      "rating": 4.9,
-      "salesCount": 1400,
-      "official": true,
-      "seller": "Pet Charm",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "58270813462",
       "title": "Chave de Impacto Parafusadeira e Furadeira 3 EM 1 Brushless Sem Fio 68V Com 4 Soquetes",
       "price": 164.99,
@@ -84,19 +70,6 @@
       "salesCount": 580,
       "seller": "FR Ferramentas Relâmpago",
       "category": "Ferramentas"
-    },
-    {
-      "id": "23398219832",
-      "title": "20  Gancho De Parede Forte Transparente Com Ventosa Para Cozinha / Banheiro Multiuso Gancho Porta Não-Amarcaing Em stock",
-      "price": 16.99,
-      "originalPrice": 29.9,
-      "discountPercent": 43.2,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258x-mt93bxbp7lzb3b",
-      "url": "https://s.shopee.com.br/4LL3QCO7aY",
-      "rating": 4.7,
-      "salesCount": 3270,
-      "seller": "Vida Criativa ",
-      "category": "Casa e organização"
     },
     {
       "id": "23392957870",
@@ -152,21 +125,8 @@
       "rating": 4.9,
       "salesCount": 649,
       "seller": "Tudo Bom ",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "22499534433",
-      "title": "82 Peças Jogo de Pesca Magnético de Madeira, Brinquedo Educativo Montessori, Presente Criativo para Crianças",
-      "price": 32.9,
-      "originalPrice": 80.24,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mp94pojanls53b",
-      "url": "https://s.shopee.com.br/60THPBBPMl",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 415,
-      "seller": "MEDOOSIGL",
-      "category": "Presentes e papelaria"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "47810770730",
@@ -210,20 +170,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "28944042529",
-      "title": "Kit 10 Marmitas Conjunto Potes 850ml com Travas Laterais Livre de BPA - Organizadores de Congelador",
-      "price": 29.98,
-      "originalPrice": 90.85,
-      "discountPercent": 67,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mtpdofdf7gu950",
-      "url": "https://s.shopee.com.br/8fU2a3xKXS",
-      "rating": 4.5,
-      "salesCount": 1004,
-      "seller": "A T E N A S",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "49459506760",
       "title": "Trena Aço Retrátil 5m 7.5m 10m com Trava Auto Lock Medição Precisa Profissional",
       "price": 26.9,
@@ -236,20 +182,6 @@
       "salesCount": 205,
       "seller": "CESTACLIC SHOP",
       "category": "Ferramentas"
-    },
-    {
-      "id": "20897683919",
-      "title": "Projetor HY300 Mini Projetor Portátil LED WiFi Bluetooth Cinema em Casa Controle Remoto",
-      "price": 189.99,
-      "originalPrice": 791.63,
-      "discountPercent": 76,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260x-ml835vsd81s3d3",
-      "url": "https://s.shopee.com.br/3qOmpJuUk8",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1875,
-      "seller": "JIMMY.STORE",
-      "category": "Eletrônicos"
     },
     {
       "id": "21199259443",
@@ -277,7 +209,8 @@
       "rating": 4.9,
       "salesCount": 911,
       "seller": "BORGES LTDA",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "23193726165",
@@ -555,21 +488,6 @@
       "salesCount": 804,
       "seller": "Fabrica Pet",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "56868516878",
-      "title": "1/2/3 Suporte De Shampoo Organizador Alta qualidade Prateleira De Banheiro Sem Furo Premium-Space Alumínio",
-      "price": 20.9,
-      "originalPrice": 44.47,
-      "discountPercent": 53,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mtz09xh6qrk65d",
-      "url": "https://s.shopee.com.br/7AfEnPDKqO",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1649,
-      "seller": "NOVARA.br",
-      "category": "Casa e organização",
-      "hot": true
     },
     {
       "id": "18997982042",
@@ -919,20 +837,6 @@
       "salesCount": 69,
       "seller": "YELLOW LASER 3",
       "category": "Presentes e papelaria"
-    },
-    {
-      "id": "23498300221",
-      "title": "Bota Feminina GiGiL Cano Médio Enrugado Slouch Western Salto Alto Bico Fino Texana Country Elegante",
-      "price": 99.99,
-      "originalPrice": 119.99,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8luys2iiidt9d",
-      "url": "https://s.shopee.com.br/3LSWGaBmNR",
-      "rating": 4.9,
-      "salesCount": 437,
-      "official": true,
-      "seller": "GiGiL",
-      "category": "Moda"
     },
     {
       "id": "23994333673",
