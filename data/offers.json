@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T21:32:31.591Z",
+  "updatedAt": "2026-11-19T21:54:52.941Z",
   "offers": [
     {
       "id": "58205100450",
@@ -55,8 +55,7 @@
       "salesCount": 5883,
       "official": true,
       "seller": "Primacial",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "58253573742",
@@ -104,18 +103,45 @@
       "category": "Beleza"
     },
     {
-      "id": "58204227431",
-      "title": "Delineador Duplo Carimbo SACE LADY Olhos Esquerdo Direito Impermeável Não Borra Iniciantes",
-      "price": 66.99,
-      "originalPrice": 128.83,
-      "discountPercent": 48,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mrjipz8vz21145",
-      "url": "https://s.shopee.com.br/6VPY0EAGL3",
-      "rating": 4.7,
-      "salesCount": 342,
-      "official": true,
-      "seller": "SACE LADY Brasil",
-      "category": "Beleza"
+      "id": "23193726165",
+      "title": "Brinquedo Bancadinha com Martelo e Pinos Geométricos Educativo, Criativo e Interativo para Crianças",
+      "price": 32.9,
+      "originalPrice": 88.92,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-moo7re11to1x5b",
+      "url": "https://s.shopee.com.br/5q9rCvbEHS",
+      "rating": 4.9,
+      "salesCount": 946,
+      "seller": "Mundo Das Mamadeiras Premium",
+      "category": "Pet e bebê",
+      "hot": true
+    },
+    {
+      "id": "21598656632",
+      "title": "Suporte Para Cpu Computador Ajustavel Rodizios",
+      "price": 22.11,
+      "originalPrice": 29.97,
+      "discountPercent": 26.2,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-li8txvm0m2wl05",
+      "url": "https://s.shopee.com.br/3g5Md71Mqe",
+      "rating": 4.9,
+      "salesCount": 1341,
+      "seller": "Draw Papelaria",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58217836266",
+      "title": "14 Peças Kit Esponja de Maquiagem com Puff Mini e Pote Organizador para Base Corretivo e Pó",
+      "price": 15.99,
+      "originalPrice": 36.34,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-msx68nks77yef2",
+      "url": "https://s.shopee.com.br/80ELmzHkV9",
+      "rating": 4.9,
+      "salesCount": 627,
+      "seller": "Bonami&Lar",
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "23094020094",
@@ -129,22 +155,21 @@
       "rating": 4.9,
       "salesCount": 761,
       "seller": "TMR E-commerce",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
-      "id": "58216407854",
-      "title": "X55 Fones De Ouvido TWS Sleep Sem Fio Bluetooth Display Led HIFI Som Estéreo Fone À Prova D'água Com Cancelame-tc",
-      "price": 25.88,
-      "originalPrice": 58.82,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m8-ms0qu8ij25mu97",
-      "url": "https://s.shopee.com.br/8VAcPuexn9",
+      "id": "23994535019",
+      "title": "Base líquida Matte Alta cobertura    -    Lové Rain",
+      "price": 17.99,
+      "originalPrice": 35.27,
+      "discountPercent": 49,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mrvma4x0ifpjee",
+      "url": "https://s.shopee.com.br/6q2PX6a1a2",
       "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 2238,
-      "seller": "WDJ TECH LTDA",
-      "category": "Eletrônicos",
+      "rating": 4.9,
+      "salesCount": 580,
+      "seller": "Estrelaaaaa",
+      "category": "Beleza",
       "hot": true
     },
     {
@@ -160,19 +185,6 @@
       "salesCount": 2632,
       "seller": "Evox Calçados e Acessórios LTDA",
       "category": "Moda"
-    },
-    {
-      "id": "51367771679",
-      "title": "Enfeite Natalino Para Porta com Papai Noel Trenó Renas Duendes Presentes Decoração Para Entrada Sala e Comércio",
-      "price": 29,
-      "originalPrice": 39.9,
-      "discountPercent": 27.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b4-mu11qrpviolm7c",
-      "url": "https://s.shopee.com.br/5fqR0m70qt",
-      "rating": 4.9,
-      "salesCount": 288,
-      "seller": "BAGACEIRA CHIQUE 3D",
-      "category": "Ferramentas"
     },
     {
       "id": "23897986932",
@@ -204,6 +216,20 @@
       "category": "Beleza"
     },
     {
+      "id": "23698958223",
+      "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
+      "price": 39.9,
+      "originalPrice": 47.9,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-muxv8arqggzned",
+      "url": "https://s.shopee.com.br/1LhRqgrTzr",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 808,
+      "seller": "Jab Bazar Presentes",
+      "category": "Casa e organização"
+    },
+    {
       "id": "41183604135",
       "title": "Organizador de Bonés em Acrílico Transparente Suporte Porta Boné Expositor para Closet Guarda-Roupa Loja",
       "price": 19.73,
@@ -215,6 +241,35 @@
       "rating": 4.8,
       "salesCount": 1857,
       "seller": "MiDi Store",
+      "category": "Moda"
+    },
+    {
+      "id": "23294887151",
+      "title": "Lanterna Potente 4 Núcleos LED - Prova d’Água e Recarregável via USB",
+      "price": 19.01,
+      "originalPrice": 31.68,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mlli1aitekg777",
+      "url": "https://s.shopee.com.br/4B1dG0pRbc",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1939,
+      "seller": "0f6dhwt0jj",
+      "category": "Ferramentas"
+    },
+    {
+      "id": "22493863963",
+      "title": "The Perfect Top Insider",
+      "price": 79,
+      "originalPrice": 99,
+      "discountPercent": 20.2,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257y-mfv6dm045f6354",
+      "url": "https://s.shopee.com.br/5AuAPofGp0",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 5480,
+      "official": true,
+      "seller": "INSIDER",
       "category": "Moda"
     },
     {
@@ -247,6 +302,19 @@
       "category": "Beleza"
     },
     {
+      "id": "23095184151",
+      "title": "Blusa Regata Feminina Crepe Social Elegante Decote V Alça Larga Lisa Soltinha Trabalho Casual Festa",
+      "price": 29.99,
+      "originalPrice": 49.98,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-msnbna8em2h026",
+      "url": "https://s.shopee.com.br/8pnSmYRJOK",
+      "rating": 4.9,
+      "salesCount": 2015,
+      "seller": "SOHA MODAS",
+      "category": "Moda"
+    },
+    {
       "id": "58218741576",
       "title": "Mochila Escolar Infantil Feminina – Grande Capacidade, Confortável e Resistente para Escola e Passeios",
       "price": 74.99,
@@ -273,6 +341,34 @@
       "official": true,
       "seller": "Britânia Oficial",
       "category": "Beleza"
+    },
+    {
+      "id": "41781797063",
+      "title": "ESPELHO DE CORAÇÃO E RETANGULO PARA BOTTON MAQUINA CHINESA ACHADINHOS DA SHOPEE",
+      "price": 19.92,
+      "originalPrice": 23.98,
+      "discountPercent": 16.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mvma47ic3if426",
+      "url": "https://s.shopee.com.br/7VI5BwW63T",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 67,
+      "seller": "YELLOW LASER 3",
+      "category": "Presentes e papelaria"
+    },
+    {
+      "id": "23994333673",
+      "title": "conjunto academia top e calça fitness bicolor",
+      "price": 64.9,
+      "originalPrice": 76.9,
+      "discountPercent": 15.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mqe6jnfj36rl48",
+      "url": "https://s.shopee.com.br/AUvglcKciW",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1603,
+      "seller": "Nay Fit",
+      "category": "Moda"
     }
   ]
 }
