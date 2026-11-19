@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-11-19T19:46:29.346Z",
+  "updatedAt": "2026-11-19T20:08:05.773Z",
   "offers": [
+    {
+      "id": "58205100450",
+      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
+      "price": 19.8,
+      "originalPrice": 37.96,
+      "discountPercent": 47.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
+      "url": "https://s.shopee.com.br/5VX0oOeoC9",
+      "rating": 4.8,
+      "salesCount": 2099,
+      "seller": "Ela&Ela",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "58260208303",
+      "title": "Kit Hidratação Pele de Porcelana + Olhos de Gueixa +  Pele Plena Kokeshi",
+      "price": 46.12,
+      "originalPrice": 85.41,
+      "discountPercent": 46,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mqbxypplxc0055",
+      "url": "https://s.shopee.com.br/4qHK1AhLYC",
+      "rating": 4.9,
+      "salesCount": 1035,
+      "official": true,
+      "seller": "KOKESHI OFICIAL",
+      "category": "Beleza"
+    },
     {
       "id": "23398219832",
       "title": "20  Gancho De Parede Forte Transparente Com Ventosa Para Cozinha / Banheiro Multiuso Gancho Porta Não-Amarcaing Em stock",
@@ -27,8 +55,7 @@
       "salesCount": 5883,
       "official": true,
       "seller": "Primacial",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "58269189048",
@@ -46,18 +73,63 @@
       "hot": true
     },
     {
-      "id": "47810770730",
-      "title": "Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza linhas - Kaziva",
-      "price": 22.9,
-      "originalPrice": 29.9,
-      "discountPercent": 23.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moe991hva9z909",
-      "url": "https://s.shopee.com.br/2VtPEkT8Cx",
+      "id": "58253573742",
+      "title": "Luminária Cortina 300 Leds 3x3 Metros Natal Casamento Eventos Festa Quente / Frio / Colorido 8 Modos",
+      "price": 27.77,
+      "originalPrice": 54.45,
+      "discountPercent": 49,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262e-mjo450byzlz8ce",
+      "url": "https://s.shopee.com.br/6q2OOhQAXV",
+      "hasVariantPrices": true,
       "rating": 4.8,
-      "salesCount": 3493,
+      "salesCount": 829,
+      "seller": "LUZORA",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "20897683919",
+      "title": "Projetor HY300 Mini Projetor Portátil LED WiFi Bluetooth Cinema em Casa Controle Remoto",
+      "price": 189.99,
+      "originalPrice": 791.63,
+      "discountPercent": 76,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260x-ml835vsd81s3d3",
+      "url": "https://s.shopee.com.br/3qOmpJuUk8",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1973,
+      "seller": "JIMMY.STORE",
+      "category": "Eletrônicos",
+      "hot": true
+    },
+    {
+      "id": "58259714025",
+      "title": "Corretivo Natura Una Cobertura Extrema 24h",
+      "price": 40.26,
+      "originalPrice": 62.91,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820nd-mnkhyugbycqsec",
+      "url": "https://s.shopee.com.br/1gKJM5eWZn",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 1197,
       "official": true,
-      "seller": "Adora ",
-      "category": "Casa e organização"
+      "seller": "NATURA",
+      "category": "Beleza"
+    },
+    {
+      "id": "23193726165",
+      "title": "Brinquedo Bancadinha com Martelo e Pinos Geométricos Educativo, Criativo e Interativo para Crianças",
+      "price": 32.9,
+      "originalPrice": 88.92,
+      "discountPercent": 63,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-moo7re11to1x5b",
+      "url": "https://s.shopee.com.br/5q9rCvbEHS",
+      "rating": 4.9,
+      "salesCount": 946,
+      "seller": "Mundo Das Mamadeiras Premium",
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "58204227431",
@@ -71,8 +143,7 @@
       "salesCount": 342,
       "official": true,
       "seller": "SACE LADY Brasil",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "21598656632",
@@ -102,33 +173,18 @@
       "hot": true
     },
     {
-      "id": "23094020094",
-      "title": "Lampião Lanterna Led Com Ventilador Portátil Recarregável e Carregamento Solar 3 em 1 Acampamento",
-      "price": 54.99,
-      "originalPrice": 91.65,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfh2-ma09p3up7ycpc4",
-      "url": "https://s.shopee.com.br/6q2OOo1LOg",
+      "id": "23897986932",
+      "title": "Escorredor De Louças Versátil Duplo Compacto Secador Aço 13 Pratos 9 Copos 2 Andares",
+      "price": 16.95,
+      "originalPrice": 33.89,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-muxsqgkwkh6p66",
+      "url": "https://s.shopee.com.br/2LZzxa6YhM",
       "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 761,
-      "seller": "TMR E-commerce",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "58216407854",
-      "title": "X55 Fones De Ouvido TWS Sleep Sem Fio Bluetooth Display Led HIFI Som Estéreo Fone À Prova D'água Com Cancelame-tc",
-      "price": 25.88,
-      "originalPrice": 58.82,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m8-ms0qu8ij25mu97",
-      "url": "https://s.shopee.com.br/8VAcPuexn9",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 2238,
-      "seller": "WDJ TECH LTDA",
-      "category": "Eletrônicos",
+      "rating": 4.8,
+      "salesCount": 1013,
+      "seller": "CMB Shop",
+      "category": "Cozinha",
       "hot": true
     },
     {
@@ -157,7 +213,49 @@
       "rating": 4.8,
       "salesCount": 1857,
       "seller": "MiDi Store",
-      "category": "Casa e organização"
+      "category": "Moda"
+    },
+    {
+      "id": "23294887151",
+      "title": "Lanterna Potente 4 Núcleos LED - Prova d’Água e Recarregável via USB",
+      "price": 19.01,
+      "originalPrice": 31.68,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mlli1aitekg777",
+      "url": "https://s.shopee.com.br/4B1dG0pRbc",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1939,
+      "seller": "0f6dhwt0jj",
+      "category": "Ferramentas"
+    },
+    {
+      "id": "23893056827",
+      "title": "Amend Essencial Acidificante Máscara Equilíbrio do PH - 250g",
+      "price": 39.9,
+      "originalPrice": 62.34,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1e4r69b342ob5",
+      "url": "https://s.shopee.com.br/9V39Zkliae",
+      "rating": 4.9,
+      "salesCount": 1293,
+      "seller": "BEAUTY ON ",
+      "category": "Beleza"
+    },
+    {
+      "id": "18797677549",
+      "title": "Secador De Cabelo Taiff Style Profissional Original 2000W",
+      "price": 233.29,
+      "originalPrice": 274.46,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824jf-mf0cfquk2m16e3",
+      "url": "https://s.shopee.com.br/40iD1eAZi6",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 813,
+      "official": true,
+      "seller": "Beleza Renovada Oficial",
+      "category": "Beleza"
     },
     {
       "id": "58218741576",
@@ -185,8 +283,21 @@
       "rating": 4.7,
       "salesCount": 1392,
       "seller": "78 STORE",
-      "category": "Moda",
-      "hot": true
+      "category": "Moda"
+    },
+    {
+      "id": "22392646521",
+      "title": "Escova Secadora Britânia 4 em 1 Nanocerâmica 1300W BELLA01",
+      "price": 79.9,
+      "originalPrice": 99.9,
+      "discountPercent": 20,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258a-mvp0wnmwacxyc0",
+      "url": "https://s.shopee.com.br/3LSWEJXXUZ",
+      "rating": 4.9,
+      "salesCount": 3979,
+      "official": true,
+      "seller": "Britânia Oficial",
+      "category": "Beleza"
     },
     {
       "id": "41781797063",
@@ -201,20 +312,6 @@
       "salesCount": 67,
       "seller": "YELLOW LASER 3",
       "category": "Presentes e papelaria"
-    },
-    {
-      "id": "23994333673",
-      "title": "conjunto academia top e calça fitness bicolor",
-      "price": 64.9,
-      "originalPrice": 76.9,
-      "discountPercent": 15.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mqe6jnfj36rl48",
-      "url": "https://s.shopee.com.br/AUvglcKciW",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1603,
-      "seller": "Nay Fit",
-      "category": "Moda"
     }
   ]
 }
