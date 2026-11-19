@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T09:42:26.209Z",
+  "updatedAt": "2026-11-19T10:14:47.751Z",
   "offers": [
     {
       "id": "48065367665",
@@ -26,7 +26,8 @@
       "rating": 4.8,
       "salesCount": 2078,
       "seller": "Ela&Ela",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "21398274894",
@@ -141,21 +142,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "58255995295",
-      "title": "Abajur de Mesa Recarregável com Toque | 3 Modos de Luz e Controle Remoto para Quarto",
-      "price": 23.8,
-      "originalPrice": 59.5,
-      "discountPercent": 60,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-ml8q7249p62v1f",
-      "url": "https://s.shopee.com.br/20x8dqPosZ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 649,
-      "seller": "Tudo Bom ",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "22499534433",
       "title": "82 Peças Jogo de Pesca Magnético de Madeira, Brinquedo Educativo Montessori, Presente Criativo para Crianças",
       "price": 32.9,
@@ -168,33 +154,6 @@
       "salesCount": 415,
       "seller": "MEDOOSIGL",
       "category": "Presentes e papelaria"
-    },
-    {
-      "id": "47810770730",
-      "title": "Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza linhas - Kaziva",
-      "price": 22.9,
-      "originalPrice": 29.9,
-      "discountPercent": 23.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moe991hva9z909",
-      "url": "https://s.shopee.com.br/2VtPEkT8Cx",
-      "rating": 4.8,
-      "salesCount": 3493,
-      "official": true,
-      "seller": "Adora ",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58270099000",
-      "title": "Bandeja Decorativa Espelhada Redonda Dourada 22,5cm 2 em 1 Espelho de Parede Perfume Lavabo Luxo",
-      "price": 21.19,
-      "originalPrice": 50.45,
-      "discountPercent": 58,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mu2w8l611pfmc1",
-      "url": "https://s.shopee.com.br/6q2OOjcDY7",
-      "rating": 4.9,
-      "salesCount": 462,
-      "seller": "TECHLAR ",
-      "category": "Casa e organização"
     },
     {
       "id": "58253573742",
@@ -211,20 +170,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "28944042529",
-      "title": "Kit 10 Marmitas Conjunto Potes 850ml com Travas Laterais Livre de BPA - Organizadores de Congelador",
-      "price": 29.98,
-      "originalPrice": 90.85,
-      "discountPercent": 67,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mtpdofdf7gu950",
-      "url": "https://s.shopee.com.br/8fU2a3xKXS",
-      "rating": 4.5,
-      "salesCount": 1004,
-      "seller": "A T E N A S",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "49459506760",
       "title": "Trena Aço Retrátil 5m 7.5m 10m com Trava Auto Lock Medição Precisa Profissional",
       "price": 26.9,
@@ -237,20 +182,6 @@
       "salesCount": 205,
       "seller": "CESTACLIC SHOP",
       "category": "Ferramentas"
-    },
-    {
-      "id": "20897683919",
-      "title": "Projetor HY300 Mini Projetor Portátil LED WiFi Bluetooth Cinema em Casa Controle Remoto",
-      "price": 189.99,
-      "originalPrice": 791.63,
-      "discountPercent": 76,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260x-ml835vsd81s3d3",
-      "url": "https://s.shopee.com.br/3qOmpJuUk8",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1875,
-      "seller": "JIMMY.STORE",
-      "category": "Eletrônicos"
     },
     {
       "id": "21199259443",
@@ -278,7 +209,8 @@
       "rating": 4.9,
       "salesCount": 911,
       "seller": "BORGES LTDA",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "23193726165",
@@ -293,33 +225,6 @@
       "seller": "Mundo Das Mamadeiras Premium",
       "category": "Pet e bebê",
       "hot": true
-    },
-    {
-      "id": "58204227431",
-      "title": "Delineador Duplo Carimbo SACE LADY Olhos Esquerdo Direito Impermeável Não Borra Iniciantes",
-      "price": 66.99,
-      "originalPrice": 128.83,
-      "discountPercent": 48,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mrjipz8vz21145",
-      "url": "https://s.shopee.com.br/6VPY0EAGL3",
-      "rating": 4.7,
-      "salesCount": 312,
-      "official": true,
-      "seller": "SACE LADY Brasil",
-      "category": "Beleza"
-    },
-    {
-      "id": "22599308033",
-      "title": "Capa Magnética MagSafe para iPhone 13 14 15 16 17 Pro Max Fosca Antichoque com Proteção de Lente",
-      "price": 29.89,
-      "originalPrice": 56.4,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261v-mkmue0qdxaf613",
-      "url": "https://s.shopee.com.br/9V39Zc6x4R",
-      "rating": 4.9,
-      "salesCount": 1390,
-      "seller": "vitrine paulista",
-      "category": "Eletrônicos"
     },
     {
       "id": "58107325952",
@@ -458,7 +363,7 @@
       "rating": 4.8,
       "salesCount": 1391,
       "seller": "RAPIDAO NET",
-      "category": "Eletrônicos"
+      "category": "Casa e organização"
     },
     {
       "id": "58265674903",
@@ -543,20 +448,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "23098428261",
-      "title": "Kit 1/3/5 Discos Diamantado 100mm p/ Cerâmica/Vidro/Porcelanato Areia 15mm c/ Anel 20mm",
-      "price": 35.9,
-      "originalPrice": 79.78,
-      "discountPercent": 55,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260n-mliqcuxma1hg70",
-      "url": "https://s.shopee.com.br/4LL3QATKRo",
-      "rating": 4.8,
-      "salesCount": 1883,
-      "seller": "K7mart",
-      "category": "Ferramentas",
-      "hot": true
-    },
-    {
       "id": "18997982042",
       "title": "Kit 3/5/10 Saco a Vacuo + COM ou SEM Bomba Manual Organização de Roupas Mala Viagem Guarda Roupas",
       "price": 22.9,
@@ -585,6 +476,21 @@
       "category": "Beleza"
     },
     {
+      "id": "56868516878",
+      "title": "1/2/3 Suporte De Shampoo Organizador Alta qualidade Prateleira De Banheiro Sem Furo Premium-Space Alumínio",
+      "price": 22.27,
+      "originalPrice": 43.67,
+      "discountPercent": 49,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mtz09xh6qrk65d",
+      "url": "https://s.shopee.com.br/7AfEnPDKqO",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 1649,
+      "seller": "NOVARA.br",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
       "id": "58254628235",
       "title": "Conjunto de Academia Feminino Fitness Short com Bolso + Top, Zero Tranparência com Cintura Alta",
       "price": 44.9,
@@ -597,20 +503,6 @@
       "salesCount": 1120,
       "seller": "Zayan Moda Fitness",
       "category": "Moda"
-    },
-    {
-      "id": "23694337309",
-      "title": "Lanterna Portatil Canhao Laser Recarregavel Zoom Telescópico À Prova D'água Suporte de Abajur",
-      "price": 29.96,
-      "originalPrice": 62.42,
-      "discountPercent": 52,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mpjf7j894mio05",
-      "url": "https://s.shopee.com.br/1qdiRXQSDQ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 445,
-      "seller": "Fuxi Store",
-      "category": "Casa e organização"
     },
     {
       "id": "18698826077",
@@ -725,21 +617,6 @@
       "category": "Ferramentas"
     },
     {
-      "id": "18071105004",
-      "title": "Kit Cabides Veludo Para Roupas Adulto 30 Unidades Fino Resistente",
-      "price": 49.9,
-      "originalPrice": 59.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6qu5cyullio31",
-      "url": "https://s.shopee.com.br/9V39ZhZjL7",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1345,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Casa e organização"
-    },
-    {
       "id": "23893056827",
       "title": "Amend Essencial Acidificante Máscara Equilíbrio do PH - 250g",
       "price": 39.9,
@@ -751,21 +628,6 @@
       "salesCount": 1165,
       "seller": "BEAUTY ON ",
       "category": "Beleza"
-    },
-    {
-      "id": "22493863963",
-      "title": "The Perfect Top Insider",
-      "price": 79,
-      "originalPrice": 99,
-      "discountPercent": 20.2,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h7-mfo1d7nuovm16b",
-      "url": "https://s.shopee.com.br/5AuAPofGp0",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 5000,
-      "official": true,
-      "seller": "INSIDER",
-      "category": "Moda"
     },
     {
       "id": "22698677025",
@@ -780,19 +642,6 @@
       "salesCount": 6433,
       "seller": "CASA DALONSO",
       "category": "Casa e organização"
-    },
-    {
-      "id": "23095184151",
-      "title": "Blusa Regata Feminina Crepe Social Elegante Decote V Alça Larga Lisa Soltinha Trabalho Casual Festa",
-      "price": 29.99,
-      "originalPrice": 49.98,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-msnbna8em2h026",
-      "url": "https://s.shopee.com.br/8pnSmYRJOK",
-      "rating": 4.9,
-      "salesCount": 1874,
-      "seller": "SOHA MODAS",
-      "category": "Moda"
     },
     {
       "id": "44366121463",
