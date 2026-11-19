@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T02:25:06.676Z",
+  "updatedAt": "2026-11-19T02:56:23.795Z",
   "offers": [
     {
       "id": "58205100450",
@@ -168,20 +168,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "28944042529",
-      "title": "Kit 10 Marmitas Conjunto Potes 850ml com Travas Laterais Livre de BPA - Organizadores de Congelador",
-      "price": 29.98,
-      "originalPrice": 90.85,
-      "discountPercent": 67,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mtpdofdf7gu950",
-      "url": "https://s.shopee.com.br/3LSUorSh7D",
-      "rating": 4.5,
-      "salesCount": 1004,
-      "seller": "A T E N A S",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "49459506760",
       "title": "Trena Aço Retrátil 5m 7.5m 10m com Trava Auto Lock Medição Precisa Profissional",
       "price": 26.9,
@@ -249,7 +235,8 @@
       "rating": 4.9,
       "salesCount": 911,
       "seller": "BORGES LTDA",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "23193726165",
@@ -403,6 +390,20 @@
       "category": "Eletrônicos"
     },
     {
+      "id": "18899453372",
+      "title": "Lampião Lanterna Led Portátil Recarregável Carregamento Solar Acampamento",
+      "price": 29.99,
+      "originalPrice": 47.49,
+      "discountPercent": 36.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md665adgyrle0c",
+      "url": "https://s.shopee.com.br/W8JnF922R",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1391,
+      "seller": "RAPIDAO NET",
+      "category": "Eletrônicos"
+    },
+    {
       "id": "58216407854",
       "title": "X55 Fones De Ouvido TWS Sleep Sem Fio Bluetooth Display Led HIFI Som Estéreo Fone À Prova D'água Com Cancelame-tc",
       "price": 25.88,
@@ -501,20 +502,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "56868516878",
-      "title": "1/2/3 Suporte De Shampoo Organizador Alta qualidade Prateleira De Banheiro Sem Furo Premium-Space Alumínio",
-      "price": 21.62,
-      "originalPrice": 44.12,
-      "discountPercent": 51,
-      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mtz09xh6qrk65d",
-      "url": "https://s.shopee.com.br/8fU1dc0WnH",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1649,
-      "seller": "NOVARA.br",
-      "category": "Casa e organização"
-    },
-    {
       "id": "23098428261",
       "title": "Kit 1/3/5 Discos Diamantado 100mm p/ Cerâmica/Vidro/Porcelanato Areia 15mm c/ Anel 20mm",
       "price": 35.9,
@@ -555,6 +542,20 @@
       "official": true,
       "seller": "meuollie",
       "category": "Beleza"
+    },
+    {
+      "id": "56868516878",
+      "title": "1/2/3 Suporte De Shampoo Organizador Alta qualidade Prateleira De Banheiro Sem Furo Premium-Space Alumínio",
+      "price": 22.27,
+      "originalPrice": 43.67,
+      "discountPercent": 49,
+      "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mtz09xh6qrk65d",
+      "url": "https://s.shopee.com.br/8fU1dc0WnH",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 1649,
+      "seller": "NOVARA.br",
+      "category": "Casa e organização"
     },
     {
       "id": "58254628235",
@@ -614,6 +615,19 @@
       "category": "Moda"
     },
     {
+      "id": "22198347462",
+      "title": "Tenis Infantil Meninos Jogger Escolar Casual Camurça + Bone Oculos Relogio",
+      "price": 45.99,
+      "originalPrice": 79.29,
+      "discountPercent": 42,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7hwu1j2uxqk37",
+      "url": "https://s.shopee.com.br/4qHITGTm32",
+      "rating": 4.9,
+      "salesCount": 792,
+      "seller": "Stand Web",
+      "category": "Moda"
+    },
+    {
       "id": "23698958223",
       "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
       "price": 39.9,
@@ -641,19 +655,18 @@
       "category": "Moda"
     },
     {
-      "id": "18071105004",
-      "title": "Kit Cabides Veludo Para Roupas Adulto 30 Unidades Fino Resistente",
-      "price": 49.9,
-      "originalPrice": 59.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6qu5cyullio31",
-      "url": "https://s.shopee.com.br/20x75zBRj9",
+      "id": "23294887151",
+      "title": "Lanterna Potente 4 Núcleos LED - Prova d’Água e Recarregável via USB",
+      "price": 19.01,
+      "originalPrice": 31.68,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mlli1aitekg777",
+      "url": "https://s.shopee.com.br/1C3CKAw3I",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1345,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Casa e organização"
+      "salesCount": 1808,
+      "seller": "0f6dhwt0jj",
+      "category": "Ferramentas"
     },
     {
       "id": "23893056827",
