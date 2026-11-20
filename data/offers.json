@@ -1,35 +1,6 @@
 {
-  "updatedAt": "2026-11-20T15:29:33.103Z",
+  "updatedAt": "2026-11-20T15:50:35.081Z",
   "offers": [
-    {
-      "id": "58205100450",
-      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
-      "price": 19.8,
-      "originalPrice": 37.96,
-      "discountPercent": 47.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
-      "url": "https://s.shopee.com.br/5VX0oOeoC9",
-      "rating": 4.8,
-      "salesCount": 2099,
-      "seller": "Ela&Ela",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "58260208303",
-      "title": "Kit Hidratação Pele de Porcelana + Olhos de Gueixa +  Pele Plena Kokeshi",
-      "price": 46.12,
-      "originalPrice": 85.41,
-      "discountPercent": 46,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mqbxypplxc0055",
-      "url": "https://s.shopee.com.br/4qHK1AhLYC",
-      "rating": 4.9,
-      "salesCount": 1035,
-      "official": true,
-      "seller": "KOKESHI OFICIAL",
-      "category": "Beleza",
-      "hot": true
-    },
     {
       "id": "23398219832",
       "title": "20  Gancho De Parede Forte Transparente Com Ventosa Para Cozinha / Banheiro Multiuso Gancho Porta Não-Amarcaing Em stock",
@@ -72,35 +43,8 @@
       "salesCount": 1197,
       "official": true,
       "seller": "NATURA",
-      "category": "Beleza"
-    },
-    {
-      "id": "23193726165",
-      "title": "Brinquedo Bancadinha com Martelo e Pinos Geométricos Educativo, Criativo e Interativo para Crianças",
-      "price": 32.9,
-      "originalPrice": 88.92,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-moo7re11to1x5b",
-      "url": "https://s.shopee.com.br/5q9rCvbEHS",
-      "rating": 4.9,
-      "salesCount": 946,
-      "seller": "Mundo Das Mamadeiras Premium",
-      "category": "Pet e bebê",
+      "category": "Beleza",
       "hot": true
-    },
-    {
-      "id": "58204227431",
-      "title": "Delineador Duplo Carimbo SACE LADY Olhos Esquerdo Direito Impermeável Não Borra Iniciantes",
-      "price": 66.99,
-      "originalPrice": 128.83,
-      "discountPercent": 48,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mrjipz8vz21145",
-      "url": "https://s.shopee.com.br/6VPY0EAGL3",
-      "rating": 4.7,
-      "salesCount": 342,
-      "official": true,
-      "seller": "SACE LADY Brasil",
-      "category": "Beleza"
     },
     {
       "id": "21598656632",
@@ -113,49 +57,8 @@
       "rating": 4.9,
       "salesCount": 1341,
       "seller": "Draw Papelaria",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58215575965",
-      "title": "Caixa de Som Gamer para PC Soundbar 6W RMS USB P2 Estéreo RGB Controle de Volume no Cabo",
-      "price": 39.8,
-      "originalPrice": 67.46,
-      "discountPercent": 41,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mrhfavs5g5c53e",
-      "url": "https://s.shopee.com.br/50aksUifEH",
-      "rating": 4.9,
-      "salesCount": 1031,
-      "seller": "TECHWORLD STORE",
-      "category": "Eletrônicos",
+      "category": "Casa e organização",
       "hot": true
-    },
-    {
-      "id": "58217836266",
-      "title": "14 Peças Kit Esponja de Maquiagem com Puff Mini e Pote Organizador para Base Corretivo e Pó",
-      "price": 15.99,
-      "originalPrice": 36.34,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-msx68nks77yef2",
-      "url": "https://s.shopee.com.br/80ELmzHkV9",
-      "rating": 4.9,
-      "salesCount": 627,
-      "seller": "Bonami&Lar",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "23094020094",
-      "title": "Lampião Lanterna Led Com Ventilador Portátil Recarregável e Carregamento Solar 3 em 1 Acampamento",
-      "price": 54.99,
-      "originalPrice": 91.65,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfh2-ma09p3up7ycpc4",
-      "url": "https://s.shopee.com.br/6q2OOo1LOg",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 761,
-      "seller": "TMR E-commerce",
-      "category": "Casa e organização"
     },
     {
       "id": "23994535019",
@@ -173,6 +76,21 @@
       "hot": true
     },
     {
+      "id": "23294741602",
+      "title": "Tênis Feminino Corrida Run Esportivo Caminhada Casual Academia Treino Fitness Crossfit Leve Premium Respirável Ultra",
+      "price": 39,
+      "originalPrice": 49.9,
+      "discountPercent": 21.8,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zva-mmuvx89kb3sz10",
+      "url": "https://s.shopee.com.br/9fMZlxVq8Q",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2632,
+      "seller": "Evox Calçados e Acessórios LTDA",
+      "category": "Moda",
+      "hot": true
+    },
+    {
       "id": "51367771679",
       "title": "Enfeite Natalino Para Porta com Papai Noel Trenó Renas Duendes Presentes Decoração Para Entrada Sala e Comércio",
       "price": 29,
@@ -183,7 +101,8 @@
       "rating": 4.9,
       "salesCount": 288,
       "seller": "BAGACEIRA CHIQUE 3D",
-      "category": "Ferramentas"
+      "category": "Ferramentas",
+      "hot": true
     },
     {
       "id": "27496067131",
@@ -197,36 +116,36 @@
       "salesCount": 124,
       "official": true,
       "seller": "koksara.kbeauty",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
-      "id": "19598142136",
-      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
-      "price": 118.15,
-      "originalPrice": 139,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
-      "url": "https://s.shopee.com.br/9AQJB8QVS6",
-      "rating": 5,
-      "salesCount": 2185,
-      "official": true,
-      "seller": "meuollie",
-      "category": "Beleza"
-    },
-    {
-      "id": "23294887151",
-      "title": "Lanterna Potente 4 Núcleos LED - Prova d’Água e Recarregável via USB",
-      "price": 19.01,
-      "originalPrice": 31.68,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mlli1aitekg777",
-      "url": "https://s.shopee.com.br/4B1dG0pRbc",
+      "id": "23698958223",
+      "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
+      "price": 39.9,
+      "originalPrice": 47.9,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-muxv8arqggzned",
+      "url": "https://s.shopee.com.br/1LhRqgrTzr",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1939,
-      "seller": "0f6dhwt0jj",
-      "category": "Ferramentas",
-      "hot": true
+      "salesCount": 808,
+      "seller": "Jab Bazar Presentes",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "41183604135",
+      "title": "Organizador de Bonés em Acrílico Transparente Suporte Porta Boné Expositor para Closet Guarda-Roupa Loja",
+      "price": 19.73,
+      "originalPrice": 23.32,
+      "discountPercent": 15.4,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825az-mrzb10z3wxdw0e",
+      "url": "https://s.shopee.com.br/6L68Mvf9Tt",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1857,
+      "seller": "MiDi Store",
+      "category": "Moda"
     },
     {
       "id": "58219797761",
@@ -240,21 +159,8 @@
       "rating": 4.7,
       "salesCount": 3570,
       "seller": "Ousadia Moda Gringa ",
-      "category": "Moda"
-    },
-    {
-      "id": "41781797063",
-      "title": "ESPELHO DE CORAÇÃO E RETANGULO PARA BOTTON MAQUINA CHINESA ACHADINHOS DA SHOPEE",
-      "price": 19.92,
-      "originalPrice": 23.98,
-      "discountPercent": 16.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mvma47ic3if426",
-      "url": "https://s.shopee.com.br/7VI5BwW63T",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 67,
-      "seller": "YELLOW LASER 3",
-      "category": "Presentes e papelaria"
+      "category": "Moda",
+      "hot": true
     }
   ]
 }
