@@ -1,34 +1,6 @@
 {
-  "updatedAt": "2026-11-20T01:06:53.600Z",
+  "updatedAt": "2026-11-20T01:28:35.169Z",
   "offers": [
-    {
-      "id": "58205100450",
-      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
-      "price": 19.9,
-      "originalPrice": 37.96,
-      "discountPercent": 47.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
-      "url": "https://s.shopee.com.br/5VX0oOeoC9",
-      "rating": 4.8,
-      "salesCount": 2099,
-      "seller": "Ela&Ela",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "58260208303",
-      "title": "Kit Hidratação Pele de Porcelana + Olhos de Gueixa +  Pele Plena Kokeshi",
-      "price": 46.12,
-      "originalPrice": 85.41,
-      "discountPercent": 46,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mqbxypplxc0055",
-      "url": "https://s.shopee.com.br/4qHK1AhLYC",
-      "rating": 4.9,
-      "salesCount": 1035,
-      "official": true,
-      "seller": "KOKESHI OFICIAL",
-      "category": "Beleza"
-    },
     {
       "id": "23398219832",
       "title": "20  Gancho De Parede Forte Transparente Com Ventosa Para Cozinha / Banheiro Multiuso Gancho Porta Não-Amarcaing Em stock",
@@ -68,7 +40,8 @@
       "salesCount": 5883,
       "official": true,
       "seller": "Primacial",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "58255995295",
@@ -100,36 +73,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58253573742",
-      "title": "Luminária Cortina 300 Leds 3x3 Metros Natal Casamento Eventos Festa Quente / Frio / Colorido 8 Modos",
-      "price": 27.77,
-      "originalPrice": 54.45,
-      "discountPercent": 49,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262e-mjo450byzlz8ce",
-      "url": "https://s.shopee.com.br/6q2OOhQAXV",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 829,
-      "seller": "LUZORA",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "20897683919",
-      "title": "Projetor HY300 Mini Projetor Portátil LED WiFi Bluetooth Cinema em Casa Controle Remoto",
-      "price": 189.99,
-      "originalPrice": 791.63,
-      "discountPercent": 76,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260x-ml835vsd81s3d3",
-      "url": "https://s.shopee.com.br/3qOmpJuUk8",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1973,
-      "seller": "JIMMY.STORE",
-      "category": "Eletrônicos",
-      "hot": true
-    },
-    {
       "id": "58259714025",
       "title": "Corretivo Natura Una Cobertura Extrema 24h",
       "price": 40.26,
@@ -145,18 +88,18 @@
       "category": "Beleza"
     },
     {
-      "id": "23193726165",
-      "title": "Brinquedo Bancadinha com Martelo e Pinos Geométricos Educativo, Criativo e Interativo para Crianças",
-      "price": 32.9,
-      "originalPrice": 88.92,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-moo7re11to1x5b",
-      "url": "https://s.shopee.com.br/5q9rCvbEHS",
-      "rating": 4.9,
-      "salesCount": 946,
-      "seller": "Mundo Das Mamadeiras Premium",
-      "category": "Pet e bebê",
-      "hot": true
+      "id": "58204227431",
+      "title": "Delineador Duplo Carimbo SACE LADY Olhos Esquerdo Direito Impermeável Não Borra Iniciantes",
+      "price": 66.99,
+      "originalPrice": 128.83,
+      "discountPercent": 48,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mrjipz8vz21145",
+      "url": "https://s.shopee.com.br/6VPY0EAGL3",
+      "rating": 4.7,
+      "salesCount": 342,
+      "official": true,
+      "seller": "SACE LADY Brasil",
+      "category": "Beleza"
     },
     {
       "id": "58211442575",
@@ -196,20 +139,7 @@
       "rating": 4.9,
       "salesCount": 1031,
       "seller": "TECHWORLD STORE",
-      "category": "Eletrônicos"
-    },
-    {
-      "id": "58217836266",
-      "title": "14 Peças Kit Esponja de Maquiagem com Puff Mini e Pote Organizador para Base Corretivo e Pó",
-      "price": 15.99,
-      "originalPrice": 36.34,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-msx68nks77yef2",
-      "url": "https://s.shopee.com.br/80ELmzHkV9",
-      "rating": 4.9,
-      "salesCount": 627,
-      "seller": "Bonami&Lar",
-      "category": "Beleza",
+      "category": "Eletrônicos",
       "hot": true
     },
     {
@@ -238,21 +168,36 @@
       "rating": 4.9,
       "salesCount": 580,
       "seller": "Estrelaaaaa",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
-      "id": "23294741602",
-      "title": "Tênis Feminino Corrida Run Esportivo Caminhada Casual Academia Treino Fitness Crossfit Leve Premium Respirável Ultra",
-      "price": 39,
-      "originalPrice": 49.9,
-      "discountPercent": 21.8,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zva-mmuvx89kb3sz10",
-      "url": "https://s.shopee.com.br/9fMZlxVq8Q",
+      "id": "58216407854",
+      "title": "X55 Fones De Ouvido TWS Sleep Sem Fio Bluetooth Display Led HIFI Som Estéreo Fone À Prova D'água Com Cancelame-tc",
+      "price": 25.88,
+      "originalPrice": 58.82,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m8-ms0qu8ij25mu97",
+      "url": "https://s.shopee.com.br/8VAcPuexn9",
       "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2632,
-      "seller": "Evox Calçados e Acessórios LTDA",
-      "category": "Moda"
+      "rating": 4.7,
+      "salesCount": 2238,
+      "seller": "WDJ TECH LTDA",
+      "category": "Eletrônicos",
+      "hot": true
+    },
+    {
+      "id": "51367771679",
+      "title": "Enfeite Natalino Para Porta com Papai Noel Trenó Renas Duendes Presentes Decoração Para Entrada Sala e Comércio",
+      "price": 29,
+      "originalPrice": 39.9,
+      "discountPercent": 27.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b4-mu11qrpviolm7c",
+      "url": "https://s.shopee.com.br/5fqR0m70qt",
+      "rating": 4.9,
+      "salesCount": 288,
+      "seller": "BAGACEIRA CHIQUE 3D",
+      "category": "Ferramentas"
     },
     {
       "id": "58266799438",
@@ -281,6 +226,63 @@
       "salesCount": 1013,
       "seller": "CMB Shop",
       "category": "Cozinha",
+      "hot": true
+    },
+    {
+      "id": "19598142136",
+      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
+      "price": 118.15,
+      "originalPrice": 139,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
+      "url": "https://s.shopee.com.br/9AQJB8QVS6",
+      "rating": 5,
+      "salesCount": 2185,
+      "official": true,
+      "seller": "meuollie",
+      "category": "Beleza"
+    },
+    {
+      "id": "23698958223",
+      "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
+      "price": 39.9,
+      "originalPrice": 47.9,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-muxv8arqggzned",
+      "url": "https://s.shopee.com.br/1LhRqgrTzr",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 808,
+      "seller": "Jab Bazar Presentes",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "41183604135",
+      "title": "Organizador de Bonés em Acrílico Transparente Suporte Porta Boné Expositor para Closet Guarda-Roupa Loja",
+      "price": 19.73,
+      "originalPrice": 23.32,
+      "discountPercent": 15.4,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825az-mrzb10z3wxdw0e",
+      "url": "https://s.shopee.com.br/6L68Mvf9Tt",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1857,
+      "seller": "MiDi Store",
+      "category": "Moda"
+    },
+    {
+      "id": "23294887151",
+      "title": "Lanterna Potente 4 Núcleos LED - Prova d’Água e Recarregável via USB",
+      "price": 19.01,
+      "originalPrice": 31.68,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mlli1aitekg777",
+      "url": "https://s.shopee.com.br/4B1dG0pRbc",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1939,
+      "seller": "0f6dhwt0jj",
+      "category": "Ferramentas",
       "hot": true
     },
     {
@@ -327,6 +329,20 @@
       "category": "Presentes e papelaria"
     },
     {
+      "id": "23693216634",
+      "title": "Camisa polo masculina piquet poliester",
+      "price": 29.49,
+      "originalPrice": 44.68,
+      "discountPercent": 34,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcs4d0wbskz647",
+      "url": "https://s.shopee.com.br/4VeTcb7rXE",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 1392,
+      "seller": "78 STORE",
+      "category": "Moda"
+    },
+    {
       "id": "22392646521",
       "title": "Escova Secadora Britânia 4 em 1 Nanocerâmica 1300W BELLA01",
       "price": 79.9,
@@ -339,6 +355,20 @@
       "official": true,
       "seller": "Britânia Oficial",
       "category": "Beleza"
+    },
+    {
+      "id": "41781797063",
+      "title": "ESPELHO DE CORAÇÃO E RETANGULO PARA BOTTON MAQUINA CHINESA ACHADINHOS DA SHOPEE",
+      "price": 19.92,
+      "originalPrice": 23.98,
+      "discountPercent": 16.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mvma47ic3if426",
+      "url": "https://s.shopee.com.br/7VI5BwW63T",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 67,
+      "seller": "YELLOW LASER 3",
+      "category": "Presentes e papelaria"
     }
   ]
 }
