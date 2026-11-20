@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T03:44:20.925Z",
+  "updatedAt": "2026-11-20T04:16:06.642Z",
   "offers": [
     {
       "id": "58205100450",
@@ -214,19 +214,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58215575965",
-      "title": "Caixa de Som Gamer para PC Soundbar 6W RMS USB P2 Estéreo RGB Controle de Volume no Cabo",
-      "price": 39.8,
-      "originalPrice": 67.46,
-      "discountPercent": 41,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mrhfavs5g5c53e",
-      "url": "https://s.shopee.com.br/50aksUifEH",
-      "rating": 4.9,
-      "salesCount": 1031,
-      "seller": "TECHWORLD STORE",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "58217836266",
       "title": "14 Peças Kit Esponja de Maquiagem com Puff Mini e Pote Organizador para Base Corretivo e Pó",
       "price": 15.99,
@@ -421,20 +408,6 @@
       "salesCount": 2015,
       "seller": "SOHA MODAS",
       "category": "Moda"
-    },
-    {
-      "id": "58218741576",
-      "title": "Mochila Escolar Infantil Feminina – Grande Capacidade, Confortável e Resistente para Escola e Passeios",
-      "price": 74.99,
-      "originalPrice": 111.93,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257x-mtfnco33m32a40",
-      "url": "https://s.shopee.com.br/1qdiRk413V",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 313,
-      "seller": "M Flowerr",
-      "category": "Presentes e papelaria"
     },
     {
       "id": "23693216634",
