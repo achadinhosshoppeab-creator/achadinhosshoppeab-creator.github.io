@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-11-20T01:28:35.169Z",
+  "updatedAt": "2026-11-20T01:50:13.625Z",
   "offers": [
+    {
+      "id": "58205100450",
+      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
+      "price": 19.9,
+      "originalPrice": 37.96,
+      "discountPercent": 47.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
+      "url": "https://s.shopee.com.br/5VX0oOeoC9",
+      "rating": 4.8,
+      "salesCount": 2099,
+      "seller": "Ela&Ela",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "58260208303",
+      "title": "Kit Hidratação Pele de Porcelana + Olhos de Gueixa +  Pele Plena Kokeshi",
+      "price": 46.12,
+      "originalPrice": 85.41,
+      "discountPercent": 46,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mqbxypplxc0055",
+      "url": "https://s.shopee.com.br/4qHK1AhLYC",
+      "rating": 4.9,
+      "salesCount": 1035,
+      "official": true,
+      "seller": "KOKESHI OFICIAL",
+      "category": "Beleza",
+      "hot": true
+    },
     {
       "id": "23398219832",
       "title": "20  Gancho De Parede Forte Transparente Com Ventosa Para Cozinha / Banheiro Multiuso Gancho Porta Não-Amarcaing Em stock",
@@ -16,19 +45,6 @@
       "hot": true
     },
     {
-      "id": "23392957870",
-      "title": "Kit Cutelaria Pedicure Profissional Instrumentos 7 Peças Inox Slim - Promoção",
-      "price": 19.9,
-      "originalPrice": 29.7,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zv0-miqtlb1r4vlu5e",
-      "url": "https://s.shopee.com.br/gRlP0Qmbl",
-      "rating": 4.9,
-      "salesCount": 1575,
-      "seller": "Slim.Alicates",
-      "category": "Beleza"
-    },
-    {
       "id": "22094238842",
       "title": "BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL",
       "price": 16.92,
@@ -40,8 +56,7 @@
       "salesCount": 5883,
       "official": true,
       "seller": "Primacial",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "58255995295",
@@ -73,6 +88,36 @@
       "category": "Casa e organização"
     },
     {
+      "id": "58253573742",
+      "title": "Luminária Cortina 300 Leds 3x3 Metros Natal Casamento Eventos Festa Quente / Frio / Colorido 8 Modos",
+      "price": 27.77,
+      "originalPrice": 54.45,
+      "discountPercent": 49,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262e-mjo450byzlz8ce",
+      "url": "https://s.shopee.com.br/6q2OOhQAXV",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 829,
+      "seller": "LUZORA",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "20897683919",
+      "title": "Projetor HY300 Mini Projetor Portátil LED WiFi Bluetooth Cinema em Casa Controle Remoto",
+      "price": 189.99,
+      "originalPrice": 791.63,
+      "discountPercent": 76,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260x-ml835vsd81s3d3",
+      "url": "https://s.shopee.com.br/3qOmpJuUk8",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1973,
+      "seller": "JIMMY.STORE",
+      "category": "Eletrônicos",
+      "hot": true
+    },
+    {
       "id": "58259714025",
       "title": "Corretivo Natura Una Cobertura Extrema 24h",
       "price": 40.26,
@@ -102,20 +147,6 @@
       "category": "Beleza"
     },
     {
-      "id": "58211442575",
-      "title": "Deo Colônia Kaiak Miniatura Masculino 25ml",
-      "price": 33.1,
-      "originalPrice": 49.28,
-      "discountPercent": 32.8,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pk-mopv3g8qnk7h17",
-      "url": "https://s.shopee.com.br/3qOnxTnvfG",
-      "rating": 5,
-      "salesCount": 932,
-      "official": true,
-      "seller": "NATURA",
-      "category": "Beleza"
-    },
-    {
       "id": "21598656632",
       "title": "Suporte Para Cpu Computador Ajustavel Rodizios",
       "price": 22.11,
@@ -129,17 +160,17 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58215575965",
-      "title": "Caixa de Som Gamer para PC Soundbar 6W RMS USB P2 Estéreo RGB Controle de Volume no Cabo",
-      "price": 39.8,
-      "originalPrice": 67.46,
-      "discountPercent": 41,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mrhfavs5g5c53e",
-      "url": "https://s.shopee.com.br/50aksUifEH",
+      "id": "58217836266",
+      "title": "14 Peças Kit Esponja de Maquiagem com Puff Mini e Pote Organizador para Base Corretivo e Pó",
+      "price": 15.99,
+      "originalPrice": 36.34,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-msx68nks77yef2",
+      "url": "https://s.shopee.com.br/80ELmzHkV9",
       "rating": 4.9,
-      "salesCount": 1031,
-      "seller": "TECHWORLD STORE",
-      "category": "Eletrônicos",
+      "salesCount": 627,
+      "seller": "Bonami&Lar",
+      "category": "Beleza",
       "hot": true
     },
     {
@@ -172,21 +203,6 @@
       "hot": true
     },
     {
-      "id": "58216407854",
-      "title": "X55 Fones De Ouvido TWS Sleep Sem Fio Bluetooth Display Led HIFI Som Estéreo Fone À Prova D'água Com Cancelame-tc",
-      "price": 25.88,
-      "originalPrice": 58.82,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m8-ms0qu8ij25mu97",
-      "url": "https://s.shopee.com.br/8VAcPuexn9",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 2238,
-      "seller": "WDJ TECH LTDA",
-      "category": "Eletrônicos",
-      "hot": true
-    },
-    {
       "id": "51367771679",
       "title": "Enfeite Natalino Para Porta com Papai Noel Trenó Renas Duendes Presentes Decoração Para Entrada Sala e Comércio",
       "price": 29,
@@ -212,21 +228,6 @@
       "official": true,
       "seller": "Coala Essências Oficial",
       "category": "Casa e organização"
-    },
-    {
-      "id": "23897986932",
-      "title": "Escorredor De Louças Versátil Duplo Compacto Secador Aço 13 Pratos 9 Copos 2 Andares",
-      "price": 16.95,
-      "originalPrice": 33.89,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-muxsqgkwkh6p66",
-      "url": "https://s.shopee.com.br/2LZzxa6YhM",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1013,
-      "seller": "CMB Shop",
-      "category": "Cozinha",
-      "hot": true
     },
     {
       "id": "19598142136",
@@ -282,8 +283,22 @@
       "rating": 4.9,
       "salesCount": 1939,
       "seller": "0f6dhwt0jj",
-      "category": "Ferramentas",
-      "hot": true
+      "category": "Ferramentas"
+    },
+    {
+      "id": "22493863963",
+      "title": "The Perfect Top Insider",
+      "price": 79,
+      "originalPrice": 99,
+      "discountPercent": 20.2,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a2-mg4k43a2v40ac2",
+      "url": "https://s.shopee.com.br/5AuAPofGp0",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 5480,
+      "official": true,
+      "seller": "INSIDER",
+      "category": "Moda"
     },
     {
       "id": "22698677025",
@@ -315,18 +330,17 @@
       "category": "Beleza"
     },
     {
-      "id": "58218741576",
-      "title": "Mochila Escolar Infantil Feminina – Grande Capacidade, Confortável e Resistente para Escola e Passeios",
-      "price": 74.99,
-      "originalPrice": 111.93,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257x-mtfnco33m32a40",
-      "url": "https://s.shopee.com.br/1qdiRk413V",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 313,
-      "seller": "M Flowerr",
-      "category": "Presentes e papelaria"
+      "id": "23095184151",
+      "title": "Blusa Regata Feminina Crepe Social Elegante Decote V Alça Larga Lisa Soltinha Trabalho Casual Festa",
+      "price": 29.99,
+      "originalPrice": 49.98,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-msnbna8em2h026",
+      "url": "https://s.shopee.com.br/8pnSmYRJOK",
+      "rating": 4.9,
+      "salesCount": 2015,
+      "seller": "SOHA MODAS",
+      "category": "Moda"
     },
     {
       "id": "23693216634",
