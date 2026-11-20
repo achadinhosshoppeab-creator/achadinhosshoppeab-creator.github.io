@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T05:49:24.046Z",
+  "updatedAt": "2026-11-20T06:21:33.633Z",
   "offers": [
     {
       "id": "58205100450",
@@ -125,7 +125,8 @@
       "rating": 4.8,
       "salesCount": 829,
       "seller": "LUZORA",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "25316598909",
@@ -239,20 +240,6 @@
       "salesCount": 1031,
       "seller": "TECHWORLD STORE",
       "category": "Eletrônicos"
-    },
-    {
-      "id": "58217836266",
-      "title": "14 Peças Kit Esponja de Maquiagem com Puff Mini e Pote Organizador para Base Corretivo e Pó",
-      "price": 15.99,
-      "originalPrice": 36.34,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-msx68nks77yef2",
-      "url": "https://s.shopee.com.br/80ELmzHkV9",
-      "rating": 4.9,
-      "salesCount": 627,
-      "seller": "Bonami&Lar",
-      "category": "Beleza",
-      "hot": true
     },
     {
       "id": "23094020094",
@@ -448,20 +435,6 @@
       "rating": 4.9,
       "salesCount": 2015,
       "seller": "SOHA MODAS",
-      "category": "Moda"
-    },
-    {
-      "id": "23693216634",
-      "title": "Camisa polo masculina piquet poliester",
-      "price": 29.49,
-      "originalPrice": 44.68,
-      "discountPercent": 34,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcs4d0wbskz647",
-      "url": "https://s.shopee.com.br/4VeTcb7rXE",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1392,
-      "seller": "78 STORE",
       "category": "Moda"
     },
     {
