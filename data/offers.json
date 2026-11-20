@@ -1,20 +1,6 @@
 {
-  "updatedAt": "2026-11-20T11:56:25.579Z",
+  "updatedAt": "2026-11-20T12:17:16.559Z",
   "offers": [
-    {
-      "id": "23398219832",
-      "title": "20  Gancho De Parede Forte Transparente Com Ventosa Para Cozinha / Banheiro Multiuso Gancho Porta Não-Amarcaing Em stock",
-      "price": 16.99,
-      "originalPrice": 29.9,
-      "discountPercent": 43.2,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258x-mt93bxbp7lzb3b",
-      "url": "https://s.shopee.com.br/4LL3QCO7aY",
-      "rating": 4.7,
-      "salesCount": 3298,
-      "seller": "Vida Criativa ",
-      "category": "Casa e organização",
-      "hot": true
-    },
     {
       "id": "23392957870",
       "title": "Kit Cutelaria Pedicure Profissional Instrumentos 7 Peças Inox Slim - Promoção",
@@ -26,7 +12,8 @@
       "rating": 4.9,
       "salesCount": 1575,
       "seller": "Slim.Alicates",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "23898813796",
@@ -58,20 +45,6 @@
       "hot": true
     },
     {
-      "id": "47810770730",
-      "title": "Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza linhas - Kaziva",
-      "price": 22.9,
-      "originalPrice": 29.9,
-      "discountPercent": 23.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moe991hva9z909",
-      "url": "https://s.shopee.com.br/2VtPEkT8Cx",
-      "rating": 4.8,
-      "salesCount": 3426,
-      "official": true,
-      "seller": "Adora ",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58253573742",
       "title": "Luminária Cortina 300 Leds 3x3 Metros Natal Casamento Eventos Festa Quente / Frio / Colorido 8 Modos",
       "price": 27.77,
@@ -87,52 +60,6 @@
       "hot": true
     },
     {
-      "id": "25316598909",
-      "title": "SKIN1004 Madagascar Centella Asiatica Ampoule Facial Serum 55ml, 100ml",
-      "price": 65.99,
-      "originalPrice": 81.41,
-      "discountPercent": 18.9,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825a7-mrh1civb1l36ec",
-      "url": "https://s.shopee.com.br/5AuAPmsvyV",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1593,
-      "official": true,
-      "seller": "GLORY OF SEOUL",
-      "category": "Beleza"
-    },
-    {
-      "id": "58259714025",
-      "title": "Corretivo Natura Una Cobertura Extrema 24h",
-      "price": 40.26,
-      "originalPrice": 62.91,
-      "discountPercent": 36,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820nd-mnkhyugbycqsec",
-      "url": "https://s.shopee.com.br/1gKJM5eWZn",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1197,
-      "official": true,
-      "seller": "NATURA",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "20897683919",
-      "title": "Projetor HY300 Mini Projetor Portátil LED WiFi Bluetooth Cinema em Casa Controle Remoto",
-      "price": 209.99,
-      "originalPrice": 807.65,
-      "discountPercent": 74,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260x-ml835vsd81s3d3",
-      "url": "https://s.shopee.com.br/3qOmpJuUk8",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1973,
-      "seller": "JIMMY.STORE",
-      "category": "Eletrônicos",
-      "hot": true
-    },
-    {
       "id": "58204227431",
       "title": "Delineador Duplo Carimbo SACE LADY Olhos Esquerdo Direito Impermeável Não Borra Iniciantes",
       "price": 66.99,
@@ -144,21 +71,8 @@
       "salesCount": 342,
       "official": true,
       "seller": "SACE LADY Brasil",
-      "category": "Beleza"
-    },
-    {
-      "id": "58211442575",
-      "title": "Deo Colônia Kaiak Miniatura Masculino 25ml",
-      "price": 33.1,
-      "originalPrice": 49.28,
-      "discountPercent": 32.8,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pk-mopv3g8qnk7h17",
-      "url": "https://s.shopee.com.br/3qOnxTnvfG",
-      "rating": 5,
-      "salesCount": 932,
-      "official": true,
-      "seller": "NATURA",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "21598656632",
@@ -188,6 +102,20 @@
       "hot": true
     },
     {
+      "id": "58217836266",
+      "title": "14 Peças Kit Esponja de Maquiagem com Puff Mini e Pote Organizador para Base Corretivo e Pó",
+      "price": 15.99,
+      "originalPrice": 36.34,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-msx68nks77yef2",
+      "url": "https://s.shopee.com.br/80ELmzHkV9",
+      "rating": 4.9,
+      "salesCount": 627,
+      "seller": "Bonami&Lar",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
       "id": "23094020094",
       "title": "Lampião Lanterna Led Com Ventilador Portátil Recarregável e Carregamento Solar 3 em 1 Acampamento",
       "price": 54.99,
@@ -203,47 +131,31 @@
       "hot": true
     },
     {
-      "id": "23994535019",
-      "title": "Base líquida Matte Alta cobertura    -    Lové Rain",
-      "price": 17.99,
-      "originalPrice": 35.27,
-      "discountPercent": 49,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mrvma4x0ifpjee",
-      "url": "https://s.shopee.com.br/6q2PX6a1a2",
-      "hasVariantPrices": true,
+      "id": "51367771679",
+      "title": "Enfeite Natalino Para Porta com Papai Noel Trenó Renas Duendes Presentes Decoração Para Entrada Sala e Comércio",
+      "price": 29,
+      "originalPrice": 39.9,
+      "discountPercent": 27.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b4-mu11qrpviolm7c",
+      "url": "https://s.shopee.com.br/5fqR0m70qt",
       "rating": 4.9,
-      "salesCount": 580,
-      "seller": "Estrelaaaaa",
-      "category": "Beleza",
-      "hot": true
+      "salesCount": 288,
+      "seller": "BAGACEIRA CHIQUE 3D",
+      "category": "Ferramentas"
     },
     {
-      "id": "23294741602",
-      "title": "Tênis Feminino Corrida Run Esportivo Caminhada Casual Academia Treino Fitness Crossfit Leve Premium Respirável Ultra",
-      "price": 39,
-      "originalPrice": 49.9,
-      "discountPercent": 21.8,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zva-mmuvx89kb3sz10",
-      "url": "https://s.shopee.com.br/9fMZlxVq8Q",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2632,
-      "seller": "Evox Calçados e Acessórios LTDA",
-      "category": "Moda"
-    },
-    {
-      "id": "23698958223",
-      "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
-      "price": 39.9,
-      "originalPrice": 47.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-muxv8arqggzned",
-      "url": "https://s.shopee.com.br/1LhRqgrTzr",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 808,
-      "seller": "Jab Bazar Presentes",
-      "category": "Casa e organização"
+      "id": "19598142136",
+      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
+      "price": 118.15,
+      "originalPrice": 139,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
+      "url": "https://s.shopee.com.br/9AQJB8QVS6",
+      "rating": 5,
+      "salesCount": 2185,
+      "official": true,
+      "seller": "meuollie",
+      "category": "Beleza"
     },
     {
       "id": "41183604135",
@@ -257,7 +169,7 @@
       "rating": 4.8,
       "salesCount": 1857,
       "seller": "MiDi Store",
-      "category": "Moda"
+      "category": "Casa e organização"
     },
     {
       "id": "23693216634",
@@ -271,7 +183,8 @@
       "rating": 4.7,
       "salesCount": 1392,
       "seller": "78 STORE",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "41781797063",
