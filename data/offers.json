@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T12:38:38.375Z",
+  "updatedAt": "2026-11-20T13:00:12.520Z",
   "offers": [
     {
       "id": "58205100450",
@@ -44,6 +44,20 @@
       "category": "Beleza"
     },
     {
+      "id": "23898813796",
+      "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
+      "price": 29.4,
+      "originalPrice": 39.9,
+      "discountPercent": 26.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mq228ungk5c142",
+      "url": "https://s.shopee.com.br/3LSWGZ87yJ",
+      "rating": 4.8,
+      "salesCount": 3517,
+      "official": true,
+      "seller": "Barbour's Beauty",
+      "category": "Beleza"
+    },
+    {
       "id": "58255995295",
       "title": "Abajur de Mesa Recarregável com Toque | 3 Modos de Luz e Controle Remoto para Quarto",
       "price": 23.8,
@@ -57,20 +71,6 @@
       "seller": "Tudo Bom ",
       "category": "Casa e organização",
       "hot": true
-    },
-    {
-      "id": "47810770730",
-      "title": "Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza linhas - Kaziva",
-      "price": 22.9,
-      "originalPrice": 29.9,
-      "discountPercent": 23.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moe991hva9z909",
-      "url": "https://s.shopee.com.br/2VtPEkT8Cx",
-      "rating": 4.8,
-      "salesCount": 3426,
-      "official": true,
-      "seller": "Adora ",
-      "category": "Casa e organização"
     },
     {
       "id": "58253573742",
@@ -88,33 +88,19 @@
       "hot": true
     },
     {
-      "id": "25316598909",
-      "title": "SKIN1004 Madagascar Centella Asiatica Ampoule Facial Serum 55ml, 100ml",
-      "price": 65.99,
-      "originalPrice": 81.41,
-      "discountPercent": 18.9,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825a7-mrh1civb1l36ec",
-      "url": "https://s.shopee.com.br/5AuAPmsvyV",
+      "id": "58259714025",
+      "title": "Corretivo Natura Una Cobertura Extrema 24h",
+      "price": 40.26,
+      "originalPrice": 62.91,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820nd-mnkhyugbycqsec",
+      "url": "https://s.shopee.com.br/1gKJM5eWZn",
       "hasVariantPrices": true,
       "rating": 5,
-      "salesCount": 1593,
+      "salesCount": 1197,
       "official": true,
-      "seller": "GLORY OF SEOUL",
+      "seller": "NATURA",
       "category": "Beleza"
-    },
-    {
-      "id": "23193726165",
-      "title": "Brinquedo Bancadinha com Martelo e Pinos Geométricos Educativo, Criativo e Interativo para Crianças",
-      "price": 32.9,
-      "originalPrice": 88.92,
-      "discountPercent": 63,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-moo7re11to1x5b",
-      "url": "https://s.shopee.com.br/5q9rCvbEHS",
-      "rating": 4.9,
-      "salesCount": 946,
-      "seller": "Mundo Das Mamadeiras Premium",
-      "category": "Pet e bebê",
-      "hot": true
     },
     {
       "id": "58204227431",
@@ -145,19 +131,6 @@
       "category": "Beleza"
     },
     {
-      "id": "21598656632",
-      "title": "Suporte Para Cpu Computador Ajustavel Rodizios",
-      "price": 22.2,
-      "originalPrice": 29.97,
-      "discountPercent": 25.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-li8txvm0m2wl05",
-      "url": "https://s.shopee.com.br/3g5Md71Mqe",
-      "rating": 4.9,
-      "salesCount": 1341,
-      "seller": "Draw Papelaria",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58217836266",
       "title": "14 Peças Kit Esponja de Maquiagem com Puff Mini e Pote Organizador para Base Corretivo e Pó",
       "price": 15.99,
@@ -169,6 +142,21 @@
       "salesCount": 627,
       "seller": "Bonami&Lar",
       "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "23094020094",
+      "title": "Lampião Lanterna Led Com Ventilador Portátil Recarregável e Carregamento Solar 3 em 1 Acampamento",
+      "price": 54.99,
+      "originalPrice": 91.65,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfh2-ma09p3up7ycpc4",
+      "url": "https://s.shopee.com.br/6q2OOo1LOg",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 761,
+      "seller": "TMR E-commerce",
+      "category": "Casa e organização",
       "hot": true
     },
     {
@@ -187,18 +175,17 @@
       "hot": true
     },
     {
-      "id": "27496067131",
-      "title": "[OFFICIAL] Arencia Vitamin C / Glycolic Acid Skincare Sachet",
-      "price": 19.99,
-      "originalPrice": 26.65,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825ba-mubmnt7o88at42",
-      "url": "https://s.shopee.com.br/5LDc9uhpwW",
-      "rating": 5,
-      "salesCount": 124,
-      "official": true,
-      "seller": "koksara.kbeauty",
-      "category": "Beleza"
+      "id": "51367771679",
+      "title": "Enfeite Natalino Para Porta com Papai Noel Trenó Renas Duendes Presentes Decoração Para Entrada Sala e Comércio",
+      "price": 29,
+      "originalPrice": 39.9,
+      "discountPercent": 27.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b4-mu11qrpviolm7c",
+      "url": "https://s.shopee.com.br/5fqR0m70qt",
+      "rating": 4.9,
+      "salesCount": 288,
+      "seller": "BAGACEIRA CHIQUE 3D",
+      "category": "Ferramentas"
     },
     {
       "id": "19598142136",
@@ -243,20 +230,6 @@
       "category": "Moda"
     },
     {
-      "id": "23294887151",
-      "title": "Lanterna Potente 4 Núcleos LED - Prova d’Água e Recarregável via USB",
-      "price": 19.01,
-      "originalPrice": 31.68,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mlli1aitekg777",
-      "url": "https://s.shopee.com.br/4B1dG0pRbc",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1939,
-      "seller": "0f6dhwt0jj",
-      "category": "Ferramentas"
-    },
-    {
       "id": "23095184151",
       "title": "Blusa Regata Feminina Crepe Social Elegante Decote V Alça Larga Lisa Soltinha Trabalho Casual Festa",
       "price": 29.99,
@@ -264,12 +237,25 @@
       "discountPercent": 40,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-msnbna8em2h026",
       "url": "https://s.shopee.com.br/8pnSmYRJOK",
-      "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 2015,
       "seller": "SOHA MODAS",
       "category": "Moda",
       "hot": true
+    },
+    {
+      "id": "23693216634",
+      "title": "Camisa polo masculina piquet poliester",
+      "price": 29.49,
+      "originalPrice": 44.68,
+      "discountPercent": 34,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcs4d0wbskz647",
+      "url": "https://s.shopee.com.br/4VeTcb7rXE",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 1392,
+      "seller": "78 STORE",
+      "category": "Moda"
     },
     {
       "id": "58219797761",
