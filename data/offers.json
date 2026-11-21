@@ -1,20 +1,6 @@
 {
-  "updatedAt": "2026-11-21T12:58:05.095Z",
+  "updatedAt": "2026-11-21T13:18:23.338Z",
   "offers": [
-    {
-      "id": "58205100450",
-      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
-      "price": 19.8,
-      "originalPrice": 37.96,
-      "discountPercent": 47.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
-      "url": "https://s.shopee.com.br/5LDeLBLmZ9",
-      "rating": 4.8,
-      "salesCount": 2102,
-      "seller": "Ela&Ela",
-      "category": "Beleza",
-      "hot": true
-    },
     {
       "id": "23398219832",
       "title": "20  Gancho De Parede Forte Transparente Com Ventosa Para Cozinha / Banheiro Multiuso Gancho Porta Não-Amarcaing Em stock",
@@ -27,21 +13,6 @@
       "salesCount": 3290,
       "seller": "Vida Criativa ",
       "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "26320343473",
-      "title": "[NEW] JBSARA CENTELLA 77 WATERY CREAM 80ML",
-      "price": 62.99,
-      "originalPrice": 94.01,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8259n-mvoc5aopuzghec",
-      "url": "https://s.shopee.com.br/60TL8PJFDL",
-      "rating": 5,
-      "salesCount": 2194,
-      "official": true,
-      "seller": "koksara.kbeauty",
-      "category": "Beleza",
       "hot": true
     },
     {
@@ -75,15 +46,16 @@
       "hot": true
     },
     {
-      "id": "58211442575",
-      "title": "Deo Colônia Kaiak Miniatura Masculino 25ml",
-      "price": 33.1,
-      "originalPrice": 49.28,
-      "discountPercent": 32.8,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pk-mopv3g8qnk7h17",
-      "url": "https://s.shopee.com.br/6fj1vYVvQp",
+      "id": "58259714025",
+      "title": "Corretivo Natura Una Cobertura Extrema 24h",
+      "price": 40.26,
+      "originalPrice": 62.91,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820nd-mnkhyugbycqsec",
+      "url": "https://s.shopee.com.br/1gKJM5eWZn",
+      "hasVariantPrices": true,
       "rating": 5,
-      "salesCount": 913,
+      "salesCount": 1213,
       "official": true,
       "seller": "NATURA",
       "category": "Beleza",
@@ -104,17 +76,17 @@
       "hot": true
     },
     {
-      "id": "58217836266",
-      "title": "14 Peças Kit Esponja de Maquiagem com Puff Mini e Pote Organizador para Base Corretivo e Pó",
-      "price": 15.99,
-      "originalPrice": 36.34,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-msx68nks77yef2",
-      "url": "https://s.shopee.com.br/80ELmzHkV9",
+      "id": "51367771679",
+      "title": "Enfeite Natalino Para Porta com Papai Noel Trenó Renas Duendes Presentes Decoração Para Entrada Sala e Comércio",
+      "price": 29,
+      "originalPrice": 39.9,
+      "discountPercent": 27.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b4-mu11qrpviolm7c",
+      "url": "https://s.shopee.com.br/1gKLyU7ieS",
       "rating": 4.9,
-      "salesCount": 665,
-      "seller": "Bonami&Lar",
-      "category": "Beleza",
+      "salesCount": 307,
+      "seller": "BAGACEIRA CHIQUE 3D",
+      "category": "Ferramentas",
       "hot": true
     },
     {
@@ -129,7 +101,8 @@
       "salesCount": 2835,
       "official": true,
       "seller": "Abstract Decora",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "23698958223",
@@ -146,46 +119,19 @@
       "category": "Casa e organização"
     },
     {
-      "id": "41183604135",
-      "title": "Organizador de Bonés em Acrílico Transparente Suporte Porta Boné Expositor para Closet Guarda-Roupa Loja",
-      "price": 19.73,
-      "originalPrice": 23.32,
-      "discountPercent": 15.4,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825az-mrzb10z3wxdw0e",
-      "url": "https://s.shopee.com.br/6L68Mvf9Tt",
+      "id": "54967366461",
+      "title": "Kit 12 Galhos Azevinho Vermelho 60cm – Enfeite Natalino / Ramos Decorativos para Árvore, Vaso e Arranjo",
+      "price": 34.93,
+      "originalPrice": 42.91,
+      "discountPercent": 18.6,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258u-mspp1nzd2gao51",
+      "url": "https://s.shopee.com.br/2qWFdRH6zq",
       "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1875,
-      "seller": "MiDi Store",
-      "category": "Moda"
-    },
-    {
-      "id": "22698677025",
-      "title": "Varal De Chão 3 Andares Roupa Calcinha Dobrável Grade Reforçado com 4 Rodas Portátil e Compacto",
-      "price": 67.99,
-      "originalPrice": 79.98,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhg7txeyy7erfb",
-      "url": "https://s.shopee.com.br/1qdiRcBZto",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 7399,
-      "seller": "CASA DALONSO",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "19139965863",
-      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
-      "price": 42.41,
-      "originalPrice": 49.9,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
-      "url": "https://s.shopee.com.br/3B99lFOLnb",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 288,
-      "seller": "Gift Presentes",
-      "category": "Presentes e papelaria"
+      "rating": 5,
+      "salesCount": 871,
+      "seller": "VCOMMERCE_",
+      "category": "Casa e organização",
+      "hot": true
     }
   ]
 }
