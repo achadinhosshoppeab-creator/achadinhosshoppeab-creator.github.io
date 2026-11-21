@@ -1,32 +1,16 @@
 {
-  "updatedAt": "2026-11-21T14:22:19.972Z",
+  "updatedAt": "2026-11-21T14:43:51.865Z",
   "offers": [
     {
-      "id": "47810770730",
-      "title": "Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza linhas - Kaziva",
-      "price": 22.9,
-      "originalPrice": 29.9,
-      "discountPercent": 23.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moe991hva9z909",
-      "url": "https://s.shopee.com.br/2VtPEkT8Cx",
-      "rating": 4.8,
-      "salesCount": 3358,
-      "official": true,
-      "seller": "Adora ",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "58259714025",
-      "title": "Corretivo Natura Una Cobertura Extrema 24h",
-      "price": 40.26,
-      "originalPrice": 62.91,
-      "discountPercent": 36,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820nd-mnkhyugbycqsec",
-      "url": "https://s.shopee.com.br/1gKJM5eWZn",
-      "hasVariantPrices": true,
+      "id": "58211442575",
+      "title": "Deo Colônia Kaiak Miniatura Masculino 25ml",
+      "price": 33.1,
+      "originalPrice": 49.28,
+      "discountPercent": 32.8,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pk-mopv3g8qnk7h17",
+      "url": "https://s.shopee.com.br/6fj1vYVvQp",
       "rating": 5,
-      "salesCount": 1213,
+      "salesCount": 913,
       "official": true,
       "seller": "NATURA",
       "category": "Beleza",
@@ -47,6 +31,63 @@
       "hot": true
     },
     {
+      "id": "58215575965",
+      "title": "Caixa de Som Gamer para PC Soundbar 6W RMS USB P2 Estéreo RGB Controle de Volume no Cabo",
+      "price": 39.99,
+      "originalPrice": 67.78,
+      "discountPercent": 41,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mrhfavs5g5c53e",
+      "url": "https://s.shopee.com.br/50aksUifEH",
+      "rating": 4.9,
+      "salesCount": 1095,
+      "seller": "TECHWORLD STORE",
+      "category": "Eletrônicos",
+      "hot": true
+    },
+    {
+      "id": "58217836266",
+      "title": "14 Peças Kit Esponja de Maquiagem com Puff Mini e Pote Organizador para Base Corretivo e Pó",
+      "price": 15.99,
+      "originalPrice": 36.34,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-msx68nks77yef2",
+      "url": "https://s.shopee.com.br/80ELmzHkV9",
+      "rating": 4.9,
+      "salesCount": 665,
+      "seller": "Bonami&Lar",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "51367771679",
+      "title": "Enfeite Natalino Para Porta com Papai Noel Trenó Renas Duendes Presentes Decoração Para Entrada Sala e Comércio",
+      "price": 29,
+      "originalPrice": 39.9,
+      "discountPercent": 27.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b4-mu11qrpviolm7c",
+      "url": "https://s.shopee.com.br/1gKLyU7ieS",
+      "rating": 4.9,
+      "salesCount": 307,
+      "seller": "BAGACEIRA CHIQUE 3D",
+      "category": "Ferramentas",
+      "hot": true
+    },
+    {
+      "id": "27496067131",
+      "title": "[OFFICIAL] Arencia Vitamin C / Glycolic Acid Skincare Sachet",
+      "price": 19.99,
+      "originalPrice": 26.65,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825ba-mubmnt7o88at42",
+      "url": "https://s.shopee.com.br/5LDc9uhpwW",
+      "rating": 5,
+      "salesCount": 136,
+      "official": true,
+      "seller": "koksara.kbeauty",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
       "id": "19598142136",
       "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
       "price": 118.15,
@@ -58,8 +99,7 @@
       "salesCount": 2223,
       "official": true,
       "seller": "meuollie",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "23698958223",
@@ -77,21 +117,6 @@
       "hot": true
     },
     {
-      "id": "41183604135",
-      "title": "Organizador de Bonés em Acrílico Transparente Suporte Porta Boné Expositor para Closet Guarda-Roupa Loja",
-      "price": 19.73,
-      "originalPrice": 23.32,
-      "discountPercent": 15.4,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825az-mrzb10z3wxdw0e",
-      "url": "https://s.shopee.com.br/6L68Mvf9Tt",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1875,
-      "seller": "MiDi Store",
-      "category": "Moda",
-      "hot": true
-    },
-    {
       "id": "22698677025",
       "title": "Varal De Chão 3 Andares Roupa Calcinha Dobrável Grade Reforçado com 4 Rodas Portátil e Compacto",
       "price": 67.99,
@@ -104,21 +129,6 @@
       "salesCount": 7399,
       "seller": "CASA DALONSO",
       "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "19139965863",
-      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
-      "price": 42.41,
-      "originalPrice": 49.9,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
-      "url": "https://s.shopee.com.br/3B99lFOLnb",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 288,
-      "seller": "Gift Presentes",
-      "category": "Presentes e papelaria",
       "hot": true
     }
   ]
