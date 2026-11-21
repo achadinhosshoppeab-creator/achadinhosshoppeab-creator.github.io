@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T07:51:53.718Z",
+  "updatedAt": "2026-11-21T11:00:38.580Z",
   "offers": [
     {
       "id": "58205100450",
@@ -100,7 +100,7 @@
       "rating": 4.9,
       "salesCount": 1314,
       "seller": "Draw Papelaria",
-      "category": "Casa e organização"
+      "category": "Eletrônicos"
     },
     {
       "id": "58215575965",
@@ -144,19 +144,6 @@
       "seller": "Newpet - marca",
       "category": "Pet e bebê",
       "hot": true
-    },
-    {
-      "id": "51367771679",
-      "title": "Enfeite Natalino Para Porta com Papai Noel Trenó Renas Duendes Presentes Decoração Para Entrada Sala e Comércio",
-      "price": 29,
-      "originalPrice": 39.9,
-      "discountPercent": 27.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b4-mu11qrpviolm7c",
-      "url": "https://s.shopee.com.br/5fqR0m70qt",
-      "rating": 4.9,
-      "salesCount": 307,
-      "seller": "BAGACEIRA CHIQUE 3D",
-      "category": "Ferramentas"
     },
     {
       "id": "22892800438",
