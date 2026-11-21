@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T11:31:28.675Z",
+  "updatedAt": "2026-11-21T11:54:13.759Z",
   "offers": [
     {
       "id": "58205100450",
@@ -13,20 +13,6 @@
       "salesCount": 2102,
       "seller": "Ela&Ela",
       "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "23398219832",
-      "title": "20  Gancho De Parede Forte Transparente Com Ventosa Para Cozinha / Banheiro Multiuso Gancho Porta Não-Amarcaing Em stock",
-      "price": 16.99,
-      "originalPrice": 29.9,
-      "discountPercent": 43.2,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258x-mt93bxbp7lzb3b",
-      "url": "https://s.shopee.com.br/4LL3QCO7aY",
-      "rating": 4.7,
-      "salesCount": 3290,
-      "seller": "Vida Criativa ",
-      "category": "Casa e organização",
       "hot": true
     },
     {
@@ -60,30 +46,16 @@
       "hot": true
     },
     {
-      "id": "47810770730",
-      "title": "Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza linhas - Kaziva",
-      "price": 22.9,
-      "originalPrice": 29.9,
-      "discountPercent": 23.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moe991hva9z909",
-      "url": "https://s.shopee.com.br/2VtPEkT8Cx",
-      "rating": 4.8,
-      "salesCount": 3358,
-      "official": true,
-      "seller": "Adora ",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "58211442575",
-      "title": "Deo Colônia Kaiak Miniatura Masculino 25ml",
-      "price": 33.1,
-      "originalPrice": 49.28,
-      "discountPercent": 32.8,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pk-mopv3g8qnk7h17",
-      "url": "https://s.shopee.com.br/6fj1vYVvQp",
+      "id": "58259714025",
+      "title": "Corretivo Natura Una Cobertura Extrema 24h",
+      "price": 40.26,
+      "originalPrice": 62.91,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820nd-mnkhyugbycqsec",
+      "url": "https://s.shopee.com.br/1gKJM5eWZn",
+      "hasVariantPrices": true,
       "rating": 5,
-      "salesCount": 913,
+      "salesCount": 1213,
       "official": true,
       "seller": "NATURA",
       "category": "Beleza",
@@ -104,21 +76,6 @@
       "hot": true
     },
     {
-      "id": "58212573737",
-      "title": "Tapete Higiênico Cães Carvão Bambu Ativado Aroma Lavanda 30 Unidades Absorvente Anti Odor Tamanho 60x60cm / 80x60cm",
-      "price": 39.9,
-      "originalPrice": 53,
-      "discountPercent": 24.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mrjuw7udmqdj44",
-      "url": "https://s.shopee.com.br/80EMME2DBT",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3327,
-      "seller": "Newpet - marca",
-      "category": "Pet e bebê",
-      "hot": true
-    },
-    {
       "id": "51367771679",
       "title": "Enfeite Natalino Para Porta com Papai Noel Trenó Renas Duendes Presentes Decoração Para Entrada Sala e Comércio",
       "price": 29,
@@ -129,7 +86,8 @@
       "rating": 4.9,
       "salesCount": 307,
       "seller": "BAGACEIRA CHIQUE 3D",
-      "category": "Ferramentas"
+      "category": "Ferramentas",
+      "hot": true
     },
     {
       "id": "22892800438",
@@ -143,35 +101,65 @@
       "salesCount": 2835,
       "official": true,
       "seller": "Abstract Decora",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
-      "id": "41183604135",
-      "title": "Organizador de Bonés em Acrílico Transparente Suporte Porta Boné Expositor para Closet Guarda-Roupa Loja",
-      "price": 19.73,
-      "originalPrice": 23.32,
-      "discountPercent": 15.4,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825az-mrzb10z3wxdw0e",
-      "url": "https://s.shopee.com.br/6L68Mvf9Tt",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1875,
-      "seller": "MiDi Store",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "19139965863",
-      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
-      "price": 42.41,
-      "originalPrice": 49.9,
+      "id": "19598142136",
+      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
+      "price": 118.15,
+      "originalPrice": 139,
       "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
-      "url": "https://s.shopee.com.br/3B99lFOLnb",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
+      "url": "https://s.shopee.com.br/9AQJB8QVS6",
+      "rating": 5,
+      "salesCount": 2223,
+      "official": true,
+      "seller": "meuollie",
+      "category": "Beleza"
+    },
+    {
+      "id": "23698958223",
+      "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
+      "price": 39.9,
+      "originalPrice": 47.9,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-muxv8arqggzned",
+      "url": "https://s.shopee.com.br/1LhVbHZRM3",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 288,
-      "seller": "Gift Presentes",
-      "category": "Presentes e papelaria"
+      "salesCount": 852,
+      "seller": "Jab Bazar Presentes",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "22698677025",
+      "title": "Varal De Chão 3 Andares Roupa Calcinha Dobrável Grade Reforçado com 4 Rodas Portátil e Compacto",
+      "price": 67.99,
+      "originalPrice": 79.98,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhg7txeyy7erfb",
+      "url": "https://s.shopee.com.br/1qdiRcBZto",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 7399,
+      "seller": "CASA DALONSO",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "54967366461",
+      "title": "Kit 12 Galhos Azevinho Vermelho 60cm – Enfeite Natalino / Ramos Decorativos para Árvore, Vaso e Arranjo",
+      "price": 34.93,
+      "originalPrice": 42.91,
+      "discountPercent": 18.6,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258u-mspp1nzd2gao51",
+      "url": "https://s.shopee.com.br/2qWFdRH6zq",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 871,
+      "seller": "VCOMMERCE_",
+      "category": "Casa e organização",
+      "hot": true
     }
   ]
 }
