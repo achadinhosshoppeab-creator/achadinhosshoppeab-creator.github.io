@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T22:33:06.996Z",
+  "updatedAt": "2026-11-21T22:55:08.517Z",
   "offers": [
     {
       "id": "58205100450",
@@ -31,6 +31,21 @@
       "hot": true
     },
     {
+      "id": "47810770730",
+      "title": "Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza linhas - Kaziva",
+      "price": 22.9,
+      "originalPrice": 28.9,
+      "discountPercent": 20.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moe991hva9z909",
+      "url": "https://s.shopee.com.br/2VtPEkT8Cx",
+      "rating": 4.8,
+      "salesCount": 3242,
+      "official": true,
+      "seller": "Adora ",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
       "id": "58259714025",
       "title": "Corretivo Natura Una Cobertura Extrema 24h",
       "price": 40.26,
@@ -47,32 +62,17 @@
       "hot": true
     },
     {
-      "id": "58211442575",
-      "title": "Deo Colônia Kaiak Miniatura Masculino 25ml",
-      "price": 33.1,
-      "originalPrice": 49.28,
-      "discountPercent": 32.8,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pk-mopv3g8qnk7h17",
-      "url": "https://s.shopee.com.br/6fj1vYVvQp",
-      "rating": 5,
-      "salesCount": 879,
-      "official": true,
-      "seller": "NATURA",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "58215575965",
-      "title": "Caixa de Som Gamer para PC Soundbar 6W RMS USB P2 Estéreo RGB Controle de Volume no Cabo",
-      "price": 39.99,
-      "originalPrice": 67.78,
-      "discountPercent": 41,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mrhfavs5g5c53e",
-      "url": "https://s.shopee.com.br/50aksUifEH",
+      "id": "21598656632",
+      "title": "Suporte Para Cpu Computador Ajustavel Rodizios",
+      "price": 22.2,
+      "originalPrice": 29.97,
+      "discountPercent": 25.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-li8txvm0m2wl05",
+      "url": "https://s.shopee.com.br/3g5Md71Mqe",
       "rating": 4.9,
-      "salesCount": 1128,
-      "seller": "TECHWORLD STORE",
-      "category": "Eletrônicos",
+      "salesCount": 1303,
+      "seller": "Draw Papelaria",
+      "category": "Casa e organização",
       "hot": true
     },
     {
@@ -90,19 +90,47 @@
       "hot": true
     },
     {
-      "id": "23298175238",
-      "title": "Bolinhas Coloridas Para Piscina Kit Unidades Qualidade Premium Não Amassa - Cores Vivas",
-      "price": 15.9,
-      "originalPrice": 30,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mu9hvmt6esxsbc",
-      "url": "https://s.shopee.com.br/1LhWJAjVcj",
+      "id": "27496067131",
+      "title": "[OFFICIAL] Arencia Vitamin C / Glycolic Acid Skincare Sachet",
+      "price": 19.99,
+      "originalPrice": 26.65,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825ba-mubmnt7o88at42",
+      "url": "https://s.shopee.com.br/5LDc9uhpwW",
+      "rating": 5,
+      "salesCount": 141,
+      "official": true,
+      "seller": "koksara.kbeauty",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "19598142136",
+      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
+      "price": 118.15,
+      "originalPrice": 139,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
+      "url": "https://s.shopee.com.br/9AQJB8QVS6",
+      "rating": 5,
+      "salesCount": 2292,
+      "official": true,
+      "seller": "meuollie",
+      "category": "Beleza"
+    },
+    {
+      "id": "23698958223",
+      "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
+      "price": 39.9,
+      "originalPrice": 47.9,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-muxv8arqggzned",
+      "url": "https://s.shopee.com.br/1LhVbHZRM3",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 2240,
-      "seller": "EF Brinquedos",
-      "category": "Pet e bebê",
-      "hot": true
+      "salesCount": 923,
+      "seller": "Jab Bazar Presentes",
+      "category": "Casa e organização"
     },
     {
       "id": "41183604135",
@@ -120,18 +148,32 @@
       "hot": true
     },
     {
-      "id": "54967366461",
-      "title": "Kit 12 Galhos Azevinho Vermelho 60cm – Enfeite Natalino / Ramos Decorativos para Árvore, Vaso e Arranjo",
-      "price": 35.93,
-      "originalPrice": 42.91,
-      "discountPercent": 16.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258u-mspp1nzd2gao51",
-      "url": "https://s.shopee.com.br/2qWFdRH6zq",
+      "id": "22698677025",
+      "title": "Varal De Chão 3 Andares Roupa Calcinha Dobrável Grade Reforçado com 4 Rodas Portátil e Compacto",
+      "price": 67.99,
+      "originalPrice": 79.98,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhg7txeyy7erfb",
+      "url": "https://s.shopee.com.br/1qdiRcBZto",
       "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 975,
-      "seller": "VCOMMERCE_",
+      "rating": 4.9,
+      "salesCount": 7875,
+      "seller": "CASA DALONSO",
       "category": "Casa e organização"
+    },
+    {
+      "id": "19139965863",
+      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
+      "price": 42.41,
+      "originalPrice": 49.9,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
+      "url": "https://s.shopee.com.br/3B99lFOLnb",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 283,
+      "seller": "Gift Presentes",
+      "category": "Presentes e papelaria"
     }
   ]
 }
