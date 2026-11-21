@@ -1,20 +1,6 @@
 {
-  "updatedAt": "2026-11-21T16:30:44.139Z",
+  "updatedAt": "2026-11-21T16:51:58.691Z",
   "offers": [
-    {
-      "id": "58205100450",
-      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
-      "price": 19.8,
-      "originalPrice": 37.96,
-      "discountPercent": 47.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
-      "url": "https://s.shopee.com.br/5LDeLBLmZ9",
-      "rating": 4.8,
-      "salesCount": 2102,
-      "seller": "Ela&Ela",
-      "category": "Beleza",
-      "hot": true
-    },
     {
       "id": "23398219832",
       "title": "20  Gancho De Parede Forte Transparente Com Ventosa Para Cozinha / Banheiro Multiuso Gancho Porta Não-Amarcaing Em stock",
@@ -30,21 +16,6 @@
       "hot": true
     },
     {
-      "id": "26320343473",
-      "title": "[NEW] JBSARA CENTELLA 77 WATERY CREAM 80ML",
-      "price": 62.99,
-      "originalPrice": 94.01,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8259n-mvoc5aopuzghec",
-      "url": "https://s.shopee.com.br/60TL8PJFDL",
-      "rating": 5,
-      "salesCount": 2194,
-      "official": true,
-      "seller": "koksara.kbeauty",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
       "id": "47810770730",
       "title": "Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza linhas - Kaziva",
       "price": 22.9,
@@ -57,6 +28,22 @@
       "official": true,
       "seller": "Adora ",
       "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "58259714025",
+      "title": "Corretivo Natura Una Cobertura Extrema 24h",
+      "price": 40.26,
+      "originalPrice": 62.91,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820nd-mnkhyugbycqsec",
+      "url": "https://s.shopee.com.br/1gKJM5eWZn",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 1213,
+      "official": true,
+      "seller": "NATURA",
+      "category": "Beleza",
       "hot": true
     },
     {
@@ -85,7 +72,7 @@
       "rating": 4.9,
       "salesCount": 1314,
       "seller": "Draw Papelaria",
-      "category": "Eletrônicos",
+      "category": "Casa e organização",
       "hot": true
     },
     {
@@ -104,6 +91,21 @@
       "hot": true
     },
     {
+      "id": "27496067131",
+      "title": "[OFFICIAL] Arencia Vitamin C / Glycolic Acid Skincare Sachet",
+      "price": 19.99,
+      "originalPrice": 26.65,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825ba-mubmnt7o88at42",
+      "url": "https://s.shopee.com.br/5LDc9uhpwW",
+      "rating": 5,
+      "salesCount": 136,
+      "official": true,
+      "seller": "koksara.kbeauty",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
       "id": "19598142136",
       "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
       "price": 118.15,
@@ -116,20 +118,6 @@
       "official": true,
       "seller": "meuollie",
       "category": "Beleza"
-    },
-    {
-      "id": "23698958223",
-      "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
-      "price": 39.9,
-      "originalPrice": 47.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-muxv8arqggzned",
-      "url": "https://s.shopee.com.br/1LhVbHZRM3",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 852,
-      "seller": "Jab Bazar Presentes",
-      "category": "Casa e organização"
     },
     {
       "id": "41183604135",
@@ -145,6 +133,20 @@
       "seller": "MiDi Store",
       "category": "Casa e organização",
       "hot": true
+    },
+    {
+      "id": "19139965863",
+      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
+      "price": 42.41,
+      "originalPrice": 49.9,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
+      "url": "https://s.shopee.com.br/3B99lFOLnb",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 288,
+      "seller": "Gift Presentes",
+      "category": "Presentes e papelaria"
     }
   ]
 }
