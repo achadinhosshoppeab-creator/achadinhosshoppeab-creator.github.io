@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-21T15:26:24.364Z",
+  "updatedAt": "2026-11-21T15:47:29.102Z",
   "offers": [
+    {
+      "id": "58205100450",
+      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
+      "price": 19.8,
+      "originalPrice": 37.96,
+      "discountPercent": 47.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
+      "url": "https://s.shopee.com.br/5LDeLBLmZ9",
+      "rating": 4.8,
+      "salesCount": 2102,
+      "seller": "Ela&Ela",
+      "category": "Beleza",
+      "hot": true
+    },
     {
       "id": "23398219832",
       "title": "20  Gancho De Parede Forte Transparente Com Ventosa Para Cozinha / Banheiro Multiuso Gancho Porta Não-Amarcaing Em stock",
@@ -13,6 +27,21 @@
       "salesCount": 3290,
       "seller": "Vida Criativa ",
       "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "26320343473",
+      "title": "[NEW] JBSARA CENTELLA 77 WATERY CREAM 80ML",
+      "price": 62.99,
+      "originalPrice": 94.01,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8259n-mvoc5aopuzghec",
+      "url": "https://s.shopee.com.br/60TL8PJFDL",
+      "rating": 5,
+      "salesCount": 2194,
+      "official": true,
+      "seller": "koksara.kbeauty",
+      "category": "Beleza",
       "hot": true
     },
     {
@@ -31,32 +60,19 @@
       "hot": true
     },
     {
-      "id": "58211442575",
-      "title": "Deo Colônia Kaiak Miniatura Masculino 25ml",
-      "price": 33.1,
-      "originalPrice": 49.28,
-      "discountPercent": 32.8,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pk-mopv3g8qnk7h17",
-      "url": "https://s.shopee.com.br/6fj1vYVvQp",
+      "id": "58259714025",
+      "title": "Corretivo Natura Una Cobertura Extrema 24h",
+      "price": 40.26,
+      "originalPrice": 62.91,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820nd-mnkhyugbycqsec",
+      "url": "https://s.shopee.com.br/1gKJM5eWZn",
+      "hasVariantPrices": true,
       "rating": 5,
-      "salesCount": 913,
+      "salesCount": 1213,
       "official": true,
       "seller": "NATURA",
       "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "21598656632",
-      "title": "Suporte Para Cpu Computador Ajustavel Rodizios",
-      "price": 22.2,
-      "originalPrice": 29.97,
-      "discountPercent": 25.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-li8txvm0m2wl05",
-      "url": "https://s.shopee.com.br/3g5Md71Mqe",
-      "rating": 4.9,
-      "salesCount": 1314,
-      "seller": "Draw Papelaria",
-      "category": "Casa e organização",
       "hot": true
     },
     {
@@ -72,21 +88,6 @@
       "official": true,
       "seller": "Abstract Decora",
       "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "27496067131",
-      "title": "[OFFICIAL] Arencia Vitamin C / Glycolic Acid Skincare Sachet",
-      "price": 19.99,
-      "originalPrice": 26.65,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825ba-mubmnt7o88at42",
-      "url": "https://s.shopee.com.br/5LDc9uhpwW",
-      "rating": 5,
-      "salesCount": 136,
-      "official": true,
-      "seller": "koksara.kbeauty",
-      "category": "Beleza",
       "hot": true
     },
     {
