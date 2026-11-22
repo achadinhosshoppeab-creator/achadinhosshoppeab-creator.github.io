@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T21:48:09.353Z",
+  "updatedAt": "2026-11-22T22:10:37.253Z",
   "offers": [
     {
       "id": "58205100450",
@@ -31,6 +31,21 @@
       "hot": true
     },
     {
+      "id": "23898813796",
+      "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
+      "price": 29.4,
+      "originalPrice": 39.9,
+      "discountPercent": 26.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mq228ungk5c142",
+      "url": "https://s.shopee.com.br/60TMF5sJOx",
+      "rating": 4.8,
+      "salesCount": 3936,
+      "official": true,
+      "seller": "Barbour's Beauty",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
       "id": "47810770730",
       "title": "Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza linhas - Kaziva",
       "price": 22.9,
@@ -43,6 +58,21 @@
       "official": true,
       "seller": "Adora ",
       "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "58271490008",
+      "title": "KIT Finalizadores Elseve Loreal Paris: Colágeno + Óleo Extraordinário + Liso dos Sonhos",
+      "price": 108.2,
+      "originalPrice": 183.39,
+      "discountPercent": 41,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mus3indp2tqb67",
+      "url": "https://s.shopee.com.br/AKcL4jaQ9D",
+      "rating": 4.9,
+      "salesCount": 1315,
+      "official": true,
+      "seller": "L'Oréal Paris - Loja Oficial",
+      "category": "Beleza",
       "hot": true
     },
     {
@@ -60,6 +90,36 @@
       "hot": true
     },
     {
+      "id": "22892800438",
+      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
+      "price": 39.99,
+      "originalPrice": 51,
+      "discountPercent": 21.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
+      "url": "https://s.shopee.com.br/7fbaBsdGqk",
+      "rating": 4.8,
+      "salesCount": 2564,
+      "official": true,
+      "seller": "Abstract Decora",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "23298175238",
+      "title": "Bolinhas Coloridas Para Piscina Kit Unidades Qualidade Premium Não Amassa - Cores Vivas",
+      "price": 15.9,
+      "originalPrice": 30,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mu9hvmt6esxsbc",
+      "url": "https://s.shopee.com.br/1LhWJAjVcj",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2319,
+      "seller": "EF Brinquedos",
+      "category": "Pet e bebê",
+      "hot": true
+    },
+    {
       "id": "23698958223",
       "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
       "price": 39.9,
@@ -71,8 +131,7 @@
       "rating": 4.9,
       "salesCount": 954,
       "seller": "Jab Bazar Presentes",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "51367771679",
@@ -85,8 +144,21 @@
       "rating": 4.9,
       "salesCount": 335,
       "seller": "BAGACEIRA CHIQUE 3D",
-      "category": "Ferramentas",
-      "hot": true
+      "category": "Ferramentas"
+    },
+    {
+      "id": "41183604135",
+      "title": "Organizador de Bonés em Acrílico Transparente Suporte Porta Boné Expositor para Closet Guarda-Roupa Loja",
+      "price": 19.73,
+      "originalPrice": 23.32,
+      "discountPercent": 15.4,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825az-mrzb10z3wxdw0e",
+      "url": "https://s.shopee.com.br/2La3qDxzj5",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1915,
+      "seller": "MiDi Store",
+      "category": "Moda"
     }
   ]
 }
