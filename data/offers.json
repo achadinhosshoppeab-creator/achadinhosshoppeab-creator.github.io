@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T15:23:44.428Z",
+  "updatedAt": "2026-11-22T15:45:40.466Z",
   "offers": [
     {
       "id": "22098181726",
@@ -17,18 +17,31 @@
       "hot": true
     },
     {
-      "id": "58218169635",
-      "title": "Protetor Solar Facial Anasol FPS 70 Clareador Anti-Manchas Toque Seco 60g",
-      "price": 39.9,
-      "originalPrice": 90.68,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mt5m3hxuij9g5b",
-      "url": "https://s.shopee.com.br/AUvmCkyNgN",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1467,
+      "id": "58205100450",
+      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
+      "price": 19.9,
+      "originalPrice": 37.96,
+      "discountPercent": 47.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
+      "url": "https://s.shopee.com.br/4LL8DsDfWP",
+      "rating": 4.8,
+      "salesCount": 2095,
+      "seller": "Ela&Ela",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "26320343473",
+      "title": "[NEW] JBSARA CENTELLA 77 WATERY CREAM 80ML",
+      "price": 62.99,
+      "originalPrice": 94.01,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8259n-mvoc5aopuzghec",
+      "url": "https://s.shopee.com.br/3g5RQeGCsL",
+      "rating": 5,
+      "salesCount": 2242,
       "official": true,
-      "seller": "Anasol Oficial",
+      "seller": "koksara.kbeauty",
       "category": "Beleza",
       "hot": true
     },
@@ -89,7 +102,20 @@
       "rating": 4.9,
       "salesCount": 1303,
       "seller": "Draw Papelaria",
-      "category": "Casa e organização",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "48565120227",
+      "title": "Bomba Submersa Bombinha Para Fonte De Água Aquário E Bebedouro Pet Produ 180 L/h Silenciosa 220V",
+      "price": 15.49,
+      "originalPrice": 23.47,
+      "discountPercent": 34,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mmc5mo07oqo455",
+      "url": "https://s.shopee.com.br/6AmnD5pwKR",
+      "rating": 4.8,
+      "salesCount": 575,
+      "seller": "COMERCCIOBRASIL",
+      "category": "Pet e bebê",
       "hot": true
     },
     {
@@ -106,32 +132,33 @@
       "category": "Ferramentas"
     },
     {
-      "id": "22892800438",
-      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
-      "price": 39.99,
-      "originalPrice": 51,
-      "discountPercent": 21.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
-      "url": "https://s.shopee.com.br/7fbaBsdGqk",
-      "rating": 4.8,
-      "salesCount": 2711,
+      "id": "27496067131",
+      "title": "[OFFICIAL] Arencia Vitamin C / Glycolic Acid Skincare Sachet",
+      "price": 19.99,
+      "originalPrice": 26.65,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825ba-mubmnt7o88at42",
+      "url": "https://s.shopee.com.br/7KyjnOJMk8",
+      "rating": 5,
+      "salesCount": 141,
       "official": true,
-      "seller": "Abstract Decora",
-      "category": "Casa e organização"
+      "seller": "koksara.kbeauty",
+      "category": "Beleza"
     },
     {
-      "id": "19598142136",
-      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
-      "price": 118.15,
-      "originalPrice": 139,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
-      "url": "https://s.shopee.com.br/2VtU2VTNbk",
-      "rating": 5,
-      "salesCount": 2292,
-      "official": true,
-      "seller": "meuollie",
-      "category": "Beleza"
+      "id": "23298175238",
+      "title": "Bolinhas Coloridas Para Piscina Kit Unidades Qualidade Premium Não Amassa - Cores Vivas",
+      "price": 15.9,
+      "originalPrice": 30,
+      "discountPercent": 47,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mu9hvmt6esxsbc",
+      "url": "https://s.shopee.com.br/1LhWJAjVcj",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2240,
+      "seller": "EF Brinquedos",
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "22994183291",
@@ -144,24 +171,21 @@
       "rating": 5,
       "salesCount": 671,
       "seller": "DJMORCHLTDA",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
-      "id": "58200486959",
-      "title": "Protetor Solar Stick Tonalizante FPS 80",
-      "price": 109,
-      "originalPrice": 175.81,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ff-mh0kxuqjsikv32",
-      "url": "https://s.shopee.com.br/7pv16CIasu",
+      "id": "23698958223",
+      "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
+      "price": 39.9,
+      "originalPrice": 47.9,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-muxv8arqggzned",
+      "url": "https://s.shopee.com.br/6VPcnnkdKo",
       "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1151,
-      "official": true,
-      "seller": "ADCOS",
-      "category": "Beleza",
-      "hot": true
+      "rating": 4.9,
+      "salesCount": 923,
+      "seller": "Jab Bazar Presentes",
+      "category": "Casa e organização"
     },
     {
       "id": "41183604135",
@@ -175,7 +199,21 @@
       "rating": 4.8,
       "salesCount": 1937,
       "seller": "MiDi Store",
-      "category": "Moda"
+      "category": "Casa e organização"
+    },
+    {
+      "id": "54967366461",
+      "title": "Kit 12 Galhos Azevinho Vermelho 60cm – Enfeite Natalino / Ramos Decorativos para Árvore, Vaso e Arranjo",
+      "price": 35.93,
+      "originalPrice": 42.91,
+      "discountPercent": 16.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258u-mspp1nzd2gao51",
+      "url": "https://s.shopee.com.br/4fxycQ54wm",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 975,
+      "seller": "VCOMMERCE_",
+      "category": "Casa e organização"
     }
   ]
 }
