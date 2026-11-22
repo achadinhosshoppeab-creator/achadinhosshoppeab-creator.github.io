@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T22:31:25.693Z",
+  "updatedAt": "2026-11-22T22:53:38.007Z",
   "offers": [
     {
       "id": "22098181726",
@@ -13,6 +13,21 @@
       "salesCount": 754,
       "official": true,
       "seller": "Hinode ",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "23898813796",
+      "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
+      "price": 29.4,
+      "originalPrice": 39.9,
+      "discountPercent": 26.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mq228ungk5c142",
+      "url": "https://s.shopee.com.br/60TMF5sJOx",
+      "rating": 4.8,
+      "salesCount": 3936,
+      "official": true,
+      "seller": "Barbour's Beauty",
       "category": "Beleza",
       "hot": true
     },
@@ -61,21 +76,6 @@
       "hot": true
     },
     {
-      "id": "22892800438",
-      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
-      "price": 39.99,
-      "originalPrice": 51,
-      "discountPercent": 21.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
-      "url": "https://s.shopee.com.br/7fbaBsdGqk",
-      "rating": 4.8,
-      "salesCount": 2564,
-      "official": true,
-      "seller": "Abstract Decora",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "27496067131",
       "title": "[OFFICIAL] Arencia Vitamin C / Glycolic Acid Skincare Sachet",
       "price": 19.99,
@@ -106,6 +106,34 @@
       "hot": true
     },
     {
+      "id": "22994183291",
+      "title": "2 Bases De Glicerina Branca e Transparente  Sabonete Nossa Terra",
+      "price": 49.77,
+      "originalPrice": 69.13,
+      "discountPercent": 28,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgxv2vjv2olc1e",
+      "url": "https://s.shopee.com.br/1C98BX6zx",
+      "rating": 5,
+      "salesCount": 666,
+      "seller": "DJMORCHLTDA",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "23698958223",
+      "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
+      "price": 39.9,
+      "originalPrice": 47.9,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-muxv8arqggzned",
+      "url": "https://s.shopee.com.br/6VPcnnkdKo",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 954,
+      "seller": "Jab Bazar Presentes",
+      "category": "Casa e organização"
+    },
+    {
       "id": "41183604135",
       "title": "Organizador de Bonés em Acrílico Transparente Suporte Porta Boné Expositor para Closet Guarda-Roupa Loja",
       "price": 19.73,
@@ -117,22 +145,21 @@
       "rating": 4.8,
       "salesCount": 1915,
       "seller": "MiDi Store",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Moda"
     },
     {
-      "id": "54967366461",
-      "title": "Kit 12 Galhos Azevinho Vermelho 60cm – Enfeite Natalino / Ramos Decorativos para Árvore, Vaso e Arranjo",
-      "price": 35.93,
-      "originalPrice": 42.91,
-      "discountPercent": 16.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258u-mspp1nzd2gao51",
-      "url": "https://s.shopee.com.br/4fxycQ54wm",
+      "id": "19139965863",
+      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
+      "price": 42.41,
+      "originalPrice": 49.9,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
+      "url": "https://s.shopee.com.br/AUvlZI1NAI",
       "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1084,
-      "seller": "VCOMMERCE_",
-      "category": "Casa e organização"
+      "rating": 4.9,
+      "salesCount": 278,
+      "seller": "Gift Presentes",
+      "category": "Presentes e papelaria"
     }
   ]
 }
