@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T11:51:19.285Z",
+  "updatedAt": "2026-11-22T12:12:00.813Z",
   "offers": [
     {
       "id": "22098181726",
@@ -13,21 +13,6 @@
       "salesCount": 698,
       "official": true,
       "seller": "Hinode ",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "23898813796",
-      "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
-      "price": 29.4,
-      "originalPrice": 39.9,
-      "discountPercent": 26.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mq228ungk5c142",
-      "url": "https://s.shopee.com.br/60TMF5sJOx",
-      "rating": 4.8,
-      "salesCount": 3773,
-      "official": true,
-      "seller": "Barbour's Beauty",
       "category": "Beleza",
       "hot": true
     },
@@ -88,7 +73,7 @@
       "rating": 4.9,
       "salesCount": 1303,
       "seller": "Draw Papelaria",
-      "category": "Casa e organização",
+      "category": "Eletrônicos",
       "hot": true
     },
     {
@@ -118,7 +103,8 @@
       "salesCount": 141,
       "official": true,
       "seller": "koksara.kbeauty",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "22994183291",
@@ -135,20 +121,6 @@
       "hot": true
     },
     {
-      "id": "23698958223",
-      "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
-      "price": 39.9,
-      "originalPrice": 47.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-muxv8arqggzned",
-      "url": "https://s.shopee.com.br/6VPcnnkdKo",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 923,
-      "seller": "Jab Bazar Presentes",
-      "category": "Casa e organização"
-    },
-    {
       "id": "41183604135",
       "title": "Organizador de Bonés em Acrílico Transparente Suporte Porta Boné Expositor para Closet Guarda-Roupa Loja",
       "price": 19.73,
@@ -160,7 +132,21 @@
       "rating": 4.8,
       "salesCount": 1937,
       "seller": "MiDi Store",
-      "category": "Casa e organização"
+      "category": "Moda"
+    },
+    {
+      "id": "19139965863",
+      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
+      "price": 42.41,
+      "originalPrice": 49.9,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
+      "url": "https://s.shopee.com.br/AUvlZI1NAI",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 283,
+      "seller": "Gift Presentes",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "54967366461",
