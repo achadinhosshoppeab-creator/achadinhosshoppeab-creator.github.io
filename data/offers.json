@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T02:38:13.835Z",
+  "updatedAt": "2026-11-22T03:09:48.205Z",
   "offers": [
     {
       "id": "58205100450",
@@ -27,6 +27,21 @@
       "salesCount": 2242,
       "official": true,
       "seller": "koksara.kbeauty",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "23898813796",
+      "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
+      "price": 29.4,
+      "originalPrice": 39.9,
+      "discountPercent": 26.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mq228ungk5c142",
+      "url": "https://s.shopee.com.br/3LSWGZ87yJ",
+      "rating": 4.8,
+      "salesCount": 3773,
+      "official": true,
+      "seller": "Barbour's Beauty",
       "category": "Beleza",
       "hot": true
     },
@@ -100,23 +115,7 @@
       "rating": 4.9,
       "salesCount": 1303,
       "seller": "Draw Papelaria",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "18097711008",
-      "title": "Kit Calcinha Fio Empina Bumbum Ribaninha Qualidade e Conforto Forro de Algodão Não Marca PLUS SIZE",
-      "price": 28.98,
-      "originalPrice": 80.5,
-      "discountPercent": 64,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lx5z3pt3ilpya3",
-      "url": "https://s.shopee.com.br/qlFzBwMHv",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 1599,
-      "seller": "USE AD LINGERIE ",
-      "category": "Moda",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "51367771679",
@@ -160,20 +159,6 @@
       "category": "Beleza"
     },
     {
-      "id": "19598142136",
-      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
-      "price": 118.15,
-      "originalPrice": 139,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
-      "url": "https://s.shopee.com.br/9AQJB8QVS6",
-      "rating": 5,
-      "salesCount": 2292,
-      "official": true,
-      "seller": "meuollie",
-      "category": "Beleza"
-    },
-    {
       "id": "23298175238",
       "title": "Bolinhas Coloridas Para Piscina Kit Unidades Qualidade Premium Não Amassa - Cores Vivas",
       "price": 15.9,
@@ -186,6 +171,20 @@
       "salesCount": 2240,
       "seller": "EF Brinquedos",
       "category": "Pet e bebê",
+      "hot": true
+    },
+    {
+      "id": "25583979154",
+      "title": "120 Paleta De Sombra Colorida Mate Maquiagem Altamente Pigmentada Em Pó Longa Duração À Prova D'água",
+      "price": 41.19,
+      "originalPrice": 60.43,
+      "discountPercent": 31.8,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyl-mcamfjuyaj3r09",
+      "url": "https://s.shopee.com.br/gRlVMhgXA",
+      "rating": 4.7,
+      "salesCount": 359,
+      "seller": "Choice Oficial",
+      "category": "Beleza",
       "hot": true
     },
     {
@@ -217,20 +216,6 @@
       "category": "Moda"
     },
     {
-      "id": "22698677025",
-      "title": "Varal De Chão 3 Andares Roupa Calcinha Dobrável Grade Reforçado com 4 Rodas Portátil e Compacto",
-      "price": 67.99,
-      "originalPrice": 79.98,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhg7txeyy7erfb",
-      "url": "https://s.shopee.com.br/1qdiRcBZto",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 7875,
-      "seller": "CASA DALONSO",
-      "category": "Casa e organização"
-    },
-    {
       "id": "19139965863",
       "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
       "price": 42.41,
@@ -257,6 +242,20 @@
       "salesCount": 975,
       "seller": "VCOMMERCE_",
       "category": "Casa e organização"
+    },
+    {
+      "id": "58219797761",
+      "title": "Regata Feminina Antonella Top Halter Ajustado Decote Frente Unica Costa Nua Casual Moda Verão",
+      "price": 19.9,
+      "originalPrice": 24.9,
+      "discountPercent": 20.1,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259w-mtygvemvaxoj8f",
+      "url": "https://s.shopee.com.br/2qWFdWo9Yi",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 3870,
+      "seller": "Ousadia Moda Gringa ",
+      "category": "Moda"
     }
   ]
 }
