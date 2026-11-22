@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T02:07:26.896Z",
+  "updatedAt": "2026-11-22T02:38:13.835Z",
   "offers": [
     {
       "id": "58205100450",
@@ -56,7 +56,37 @@
       "salesCount": 3242,
       "official": true,
       "seller": "Adora ",
-      "category": "Casa e organização",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58259714025",
+      "title": "Corretivo Natura Una Cobertura Extrema 24h",
+      "price": 40.26,
+      "originalPrice": 62.91,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820nd-mnkhyugbycqsec",
+      "url": "https://s.shopee.com.br/1gKJM5eWZn",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 1211,
+      "official": true,
+      "seller": "NATURA",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "58211442575",
+      "title": "Deo Colônia Kaiak Miniatura Masculino 25ml",
+      "price": 33.1,
+      "originalPrice": 49.28,
+      "discountPercent": 32.8,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pk-mopv3g8qnk7h17",
+      "url": "https://s.shopee.com.br/6fj1vYVvQp",
+      "rating": 5,
+      "salesCount": 879,
+      "official": true,
+      "seller": "NATURA",
+      "category": "Beleza",
       "hot": true
     },
     {
@@ -74,6 +104,21 @@
       "hot": true
     },
     {
+      "id": "18097711008",
+      "title": "Kit Calcinha Fio Empina Bumbum Ribaninha Qualidade e Conforto Forro de Algodão Não Marca PLUS SIZE",
+      "price": 28.98,
+      "originalPrice": 80.5,
+      "discountPercent": 64,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lx5z3pt3ilpya3",
+      "url": "https://s.shopee.com.br/qlFzBwMHv",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 1599,
+      "seller": "USE AD LINGERIE ",
+      "category": "Moda",
+      "hot": true
+    },
+    {
       "id": "51367771679",
       "title": "Enfeite Natalino Para Porta com Papai Noel Trenó Renas Duendes Presentes Decoração Para Entrada Sala e Comércio",
       "price": 29,
@@ -84,8 +129,7 @@
       "rating": 4.9,
       "salesCount": 316,
       "seller": "BAGACEIRA CHIQUE 3D",
-      "category": "Ferramentas",
-      "hot": true
+      "category": "Ferramentas"
     },
     {
       "id": "22892800438",
@@ -99,8 +143,21 @@
       "salesCount": 2711,
       "official": true,
       "seller": "Abstract Decora",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
+    },
+    {
+      "id": "27496067131",
+      "title": "[OFFICIAL] Arencia Vitamin C / Glycolic Acid Skincare Sachet",
+      "price": 19.99,
+      "originalPrice": 26.65,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825ba-mubmnt7o88at42",
+      "url": "https://s.shopee.com.br/5LDc9uhpwW",
+      "rating": 5,
+      "salesCount": 141,
+      "official": true,
+      "seller": "koksara.kbeauty",
+      "category": "Beleza"
     },
     {
       "id": "19598142136",
@@ -130,6 +187,20 @@
       "seller": "EF Brinquedos",
       "category": "Pet e bebê",
       "hot": true
+    },
+    {
+      "id": "23698958223",
+      "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
+      "price": 39.9,
+      "originalPrice": 47.9,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-muxv8arqggzned",
+      "url": "https://s.shopee.com.br/1LhVbHZRM3",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 923,
+      "seller": "Jab Bazar Presentes",
+      "category": "Casa e organização"
     },
     {
       "id": "41183604135",
