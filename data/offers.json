@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T09:56:26.949Z",
+  "updatedAt": "2026-11-22T10:27:50.131Z",
   "offers": [
     {
       "id": "58205100450",
@@ -60,22 +60,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58259714025",
-      "title": "Corretivo Natura Una Cobertura Extrema 24h",
-      "price": 40.26,
-      "originalPrice": 62.91,
-      "discountPercent": 36,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820nd-mnkhyugbycqsec",
-      "url": "https://s.shopee.com.br/6q2TCSUxDZ",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1211,
-      "official": true,
-      "seller": "NATURA",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
       "id": "58211442575",
       "title": "Deo Colônia Kaiak Miniatura Masculino 25ml",
       "price": 33.1,
@@ -101,7 +85,7 @@
       "rating": 4.9,
       "salesCount": 1303,
       "seller": "Draw Papelaria",
-      "category": "Eletrônicos",
+      "category": "Casa e organização",
       "hot": true
     },
     {
@@ -129,7 +113,8 @@
       "salesCount": 2711,
       "official": true,
       "seller": "Abstract Decora",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "27496067131",
@@ -158,21 +143,6 @@
       "official": true,
       "seller": "meuollie",
       "category": "Beleza"
-    },
-    {
-      "id": "23298175238",
-      "title": "Bolinhas Coloridas Para Piscina Kit Unidades Qualidade Premium Não Amassa - Cores Vivas",
-      "price": 15.9,
-      "originalPrice": 30,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mu9hvmt6esxsbc",
-      "url": "https://s.shopee.com.br/1LhWJAjVcj",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2240,
-      "seller": "EF Brinquedos",
-      "category": "Pet e bebê",
-      "hot": true
     },
     {
       "id": "22994183291",
@@ -256,7 +226,8 @@
       "rating": 4.7,
       "salesCount": 3870,
       "seller": "Ousadia Moda Gringa ",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     }
   ]
 }
