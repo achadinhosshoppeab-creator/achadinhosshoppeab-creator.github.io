@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-11-22T23:35:38.257Z",
+  "updatedAt": "2026-11-22T23:56:59.243Z",
   "offers": [
+    {
+      "id": "23898813796",
+      "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
+      "price": 29.4,
+      "originalPrice": 39.9,
+      "discountPercent": 26.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mq228ungk5c142",
+      "url": "https://s.shopee.com.br/60TMF5sJOx",
+      "rating": 4.8,
+      "salesCount": 3936,
+      "official": true,
+      "seller": "Barbour's Beauty",
+      "category": "Beleza",
+      "hot": true
+    },
     {
       "id": "21598656632",
       "title": "Suporte Para Cpu Computador Ajustavel Rodizios",
@@ -61,20 +76,6 @@
       "hot": true
     },
     {
-      "id": "51367771679",
-      "title": "Enfeite Natalino Para Porta com Papai Noel Trenó Renas Duendes Presentes Decoração Para Entrada Sala e Comércio",
-      "price": 29,
-      "originalPrice": 34.45,
-      "discountPercent": 15.8,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b4-mu11qrpviolm7c",
-      "url": "https://s.shopee.com.br/5LDfPmlhqu",
-      "rating": 4.9,
-      "salesCount": 335,
-      "seller": "BAGACEIRA CHIQUE 3D",
-      "category": "Ferramentas",
-      "hot": true
-    },
-    {
       "id": "41183604135",
       "title": "Organizador de Bonés em Acrílico Transparente Suporte Porta Boné Expositor para Closet Guarda-Roupa Loja",
       "price": 19.73,
@@ -102,6 +103,21 @@
       "salesCount": 278,
       "seller": "Gift Presentes",
       "category": "Presentes e papelaria",
+      "hot": true
+    },
+    {
+      "id": "54967366461",
+      "title": "Kit 12 Galhos Azevinho Vermelho 60cm – Enfeite Natalino / Ramos Decorativos para Árvore, Vaso e Arranjo",
+      "price": 35.93,
+      "originalPrice": 42.91,
+      "discountPercent": 16.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258u-mspp1nzd2gao51",
+      "url": "https://s.shopee.com.br/4fxycQ54wm",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 1084,
+      "seller": "VCOMMERCE_",
+      "category": "Casa e organização",
       "hot": true
     }
   ]
