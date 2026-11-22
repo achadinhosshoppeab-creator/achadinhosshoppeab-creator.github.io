@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T04:11:50.900Z",
+  "updatedAt": "2026-11-22T04:43:02.923Z",
   "offers": [
     {
       "id": "58205100450",
@@ -49,8 +49,8 @@
       "id": "47810770730",
       "title": "Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza linhas - Kaziva",
       "price": 22.9,
-      "originalPrice": 28.9,
-      "discountPercent": 20.8,
+      "originalPrice": 27.9,
+      "discountPercent": 17.9,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moe991hva9z909",
       "url": "https://s.shopee.com.br/4VeYQ2Gfck",
       "rating": 4.8,
@@ -72,6 +72,21 @@
       "salesCount": 1211,
       "official": true,
       "seller": "NATURA",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "58271490008",
+      "title": "KIT Finalizadores Elseve Loreal Paris: Colágeno + Óleo Extraordinário + Liso dos Sonhos",
+      "price": 108.2,
+      "originalPrice": 183.39,
+      "discountPercent": 41,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mus3indp2tqb67",
+      "url": "https://s.shopee.com.br/AKcL4jaQ9D",
+      "rating": 4.9,
+      "salesCount": 1164,
+      "official": true,
+      "seller": "L'Oréal Paris - Loja Oficial",
       "category": "Beleza",
       "hot": true
     },
@@ -129,8 +144,7 @@
       "salesCount": 2711,
       "official": true,
       "seller": "Abstract Decora",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "27496067131",
@@ -173,6 +187,19 @@
       "seller": "Choice Oficial",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "22994183291",
+      "title": "2 Bases De Glicerina Branca e Transparente  Sabonete Nossa Terra",
+      "price": 49.77,
+      "originalPrice": 69.13,
+      "discountPercent": 28,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgxv2vjv2olc1e",
+      "url": "https://s.shopee.com.br/1C98BX6zx",
+      "rating": 5,
+      "salesCount": 671,
+      "seller": "DJMORCHLTDA",
+      "category": "Beleza"
     },
     {
       "id": "23698958223",
