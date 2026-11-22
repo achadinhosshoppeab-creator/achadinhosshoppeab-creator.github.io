@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T14:41:13.664Z",
+  "updatedAt": "2026-11-22T15:01:18.617Z",
   "offers": [
     {
       "id": "22098181726",
@@ -17,35 +17,6 @@
       "hot": true
     },
     {
-      "id": "58205100450",
-      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
-      "price": 19.9,
-      "originalPrice": 37.96,
-      "discountPercent": 47.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
-      "url": "https://s.shopee.com.br/4LL8DsDfWP",
-      "rating": 4.8,
-      "salesCount": 2095,
-      "seller": "Ela&Ela",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "26320343473",
-      "title": "[NEW] JBSARA CENTELLA 77 WATERY CREAM 80ML",
-      "price": 62.99,
-      "originalPrice": 94.01,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8259n-mvoc5aopuzghec",
-      "url": "https://s.shopee.com.br/3g5RQeGCsL",
-      "rating": 5,
-      "salesCount": 2242,
-      "official": true,
-      "seller": "koksara.kbeauty",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
       "id": "23898813796",
       "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
       "price": 29.4,
@@ -57,22 +28,6 @@
       "salesCount": 3773,
       "official": true,
       "seller": "Barbour's Beauty",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "58259714025",
-      "title": "Corretivo Natura Una Cobertura Extrema 24h",
-      "price": 40.26,
-      "originalPrice": 62.91,
-      "discountPercent": 36,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820nd-mnkhyugbycqsec",
-      "url": "https://s.shopee.com.br/6q2TCSUxDZ",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1211,
-      "official": true,
-      "seller": "NATURA",
       "category": "Beleza",
       "hot": true
     },
@@ -107,19 +62,6 @@
       "hot": true
     },
     {
-      "id": "21598656632",
-      "title": "Suporte Para Cpu Computador Ajustavel Rodizios",
-      "price": 22.2,
-      "originalPrice": 29.97,
-      "discountPercent": 25.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-li8txvm0m2wl05",
-      "url": "https://s.shopee.com.br/8VAhBcUusA",
-      "rating": 4.9,
-      "salesCount": 1303,
-      "seller": "Draw Papelaria",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "51367771679",
       "title": "Enfeite Natalino Para Porta com Papai Noel Trenó Renas Duendes Presentes Decoração Para Entrada Sala e Comércio",
       "price": 29,
@@ -130,7 +72,8 @@
       "rating": 4.9,
       "salesCount": 316,
       "seller": "BAGACEIRA CHIQUE 3D",
-      "category": "Ferramentas"
+      "category": "Ferramentas",
+      "hot": true
     },
     {
       "id": "22892800438",
@@ -144,63 +87,50 @@
       "salesCount": 2711,
       "official": true,
       "seller": "Abstract Decora",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "23298175238",
-      "title": "Bolinhas Coloridas Para Piscina Kit Unidades Qualidade Premium Não Amassa - Cores Vivas",
-      "price": 15.9,
-      "originalPrice": 30,
-      "discountPercent": 47,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mu9hvmt6esxsbc",
-      "url": "https://s.shopee.com.br/1LhWJAjVcj",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2240,
-      "seller": "EF Brinquedos",
-      "category": "Pet e bebê",
+      "category": "Casa e organização",
       "hot": true
     },
     {
-      "id": "23698958223",
-      "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
-      "price": 39.9,
-      "originalPrice": 47.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-muxv8arqggzned",
-      "url": "https://s.shopee.com.br/6VPcnnkdKo",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 923,
-      "seller": "Jab Bazar Presentes",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "19139965863",
-      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
-      "price": 42.41,
-      "originalPrice": 49.9,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
-      "url": "https://s.shopee.com.br/AUvlZI1NAI",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 283,
-      "seller": "Gift Presentes",
-      "category": "Presentes e papelaria"
-    },
-    {
-      "id": "54967366461",
-      "title": "Kit 12 Galhos Azevinho Vermelho 60cm – Enfeite Natalino / Ramos Decorativos para Árvore, Vaso e Arranjo",
-      "price": 35.93,
-      "originalPrice": 42.91,
-      "discountPercent": 16.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258u-mspp1nzd2gao51",
-      "url": "https://s.shopee.com.br/4fxycQ54wm",
-      "hasVariantPrices": true,
+      "id": "27496067131",
+      "title": "[OFFICIAL] Arencia Vitamin C / Glycolic Acid Skincare Sachet",
+      "price": 19.99,
+      "originalPrice": 26.65,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825ba-mubmnt7o88at42",
+      "url": "https://s.shopee.com.br/7KyjnOJMk8",
       "rating": 5,
-      "salesCount": 975,
-      "seller": "VCOMMERCE_",
+      "salesCount": 141,
+      "official": true,
+      "seller": "koksara.kbeauty",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "22994183291",
+      "title": "2 Bases De Glicerina Branca e Transparente  Sabonete Nossa Terra",
+      "price": 49.77,
+      "originalPrice": 69.13,
+      "discountPercent": 28,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgxv2vjv2olc1e",
+      "url": "https://s.shopee.com.br/1C98BX6zx",
+      "rating": 5,
+      "salesCount": 671,
+      "seller": "DJMORCHLTDA",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "41183604135",
+      "title": "Organizador de Bonés em Acrílico Transparente Suporte Porta Boné Expositor para Closet Guarda-Roupa Loja",
+      "price": 19.73,
+      "originalPrice": 23.32,
+      "discountPercent": 15.4,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825az-mrzb10z3wxdw0e",
+      "url": "https://s.shopee.com.br/2La3qDxzj5",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 1937,
+      "seller": "MiDi Store",
       "category": "Casa e organização"
     }
   ]
