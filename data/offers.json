@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T10:57:58.159Z",
+  "updatedAt": "2026-11-23T11:28:57.710Z",
   "offers": [
     {
       "id": "22098181726",
@@ -13,35 +13,6 @@
       "salesCount": 754,
       "official": true,
       "seller": "Hinode ",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "58205100450",
-      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
-      "price": 19.8,
-      "originalPrice": 37.96,
-      "discountPercent": 47.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
-      "url": "https://s.shopee.com.br/4LL8DsDfWP",
-      "rating": 4.8,
-      "salesCount": 2066,
-      "seller": "Ela&Ela",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "26320343473",
-      "title": "[NEW] JBSARA CENTELLA 77 WATERY CREAM 80ML",
-      "price": 62.99,
-      "originalPrice": 94.01,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8259n-mvoc5aopuzghec",
-      "url": "https://s.shopee.com.br/3g5RQeGCsL",
-      "rating": 5,
-      "salesCount": 2243,
-      "official": true,
-      "seller": "koksara.kbeauty",
       "category": "Beleza",
       "hot": true
     },
@@ -77,21 +48,6 @@
       "hot": true
     },
     {
-      "id": "58271490008",
-      "title": "KIT Finalizadores Elseve Loreal Paris: Colágeno + Óleo Extraordinário + Liso dos Sonhos",
-      "price": 108.2,
-      "originalPrice": 183.39,
-      "discountPercent": 41,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mus3indp2tqb67",
-      "url": "https://s.shopee.com.br/AKcL4jaQ9D",
-      "rating": 4.9,
-      "salesCount": 1315,
-      "official": true,
-      "seller": "L'Oréal Paris - Loja Oficial",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
       "id": "21598656632",
       "title": "Suporte Para Cpu Computador Ajustavel Rodizios",
       "price": 22.2,
@@ -102,21 +58,8 @@
       "rating": 4.9,
       "salesCount": 1285,
       "seller": "Draw Papelaria",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "22892800438",
-      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
-      "price": 39.99,
-      "originalPrice": 51,
-      "discountPercent": 21.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
-      "url": "https://s.shopee.com.br/7fbaBsdGqk",
-      "rating": 4.8,
-      "salesCount": 2564,
-      "official": true,
-      "seller": "Abstract Decora",
-      "category": "Casa e organização"
+      "category": "Eletrônicos",
+      "hot": true
     },
     {
       "id": "58266799438",
@@ -148,20 +91,6 @@
       "category": "Beleza"
     },
     {
-      "id": "58217669744",
-      "title": "Bebedouro Automático Aves Galinha Codorna Copinho Vermelho",
-      "price": 18,
-      "originalPrice": 23.98,
-      "discountPercent": 24.9,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aq-mstl4ht3lqf6a0",
-      "url": "https://s.shopee.com.br/4B1i1dCCqF",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1148,
-      "seller": "Lunexis",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "58263021202",
       "title": "BRILHO NOVO Kit Escova Sanitária Sem Contato, Refis Descartáveis com Detergente Incorporado | Cabo + Base + 36 Refis",
       "price": 45.9,
@@ -173,7 +102,8 @@
       "rating": 4.9,
       "salesCount": 4057,
       "seller": "BRILHO NOVO BR",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "25583979154",
@@ -186,20 +116,8 @@
       "rating": 4.7,
       "salesCount": 357,
       "seller": "Choice Oficial",
-      "category": "Beleza"
-    },
-    {
-      "id": "22994183291",
-      "title": "2 Bases De Glicerina Branca e Transparente  Sabonete Nossa Terra",
-      "price": 49.77,
-      "originalPrice": 69.13,
-      "discountPercent": 28,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgxv2vjv2olc1e",
-      "url": "https://s.shopee.com.br/1C98BX6zx",
-      "rating": 5,
-      "salesCount": 666,
-      "seller": "DJMORCHLTDA",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "58200486959",
@@ -245,32 +163,17 @@
       "category": "Moda"
     },
     {
-      "id": "19139965863",
-      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
-      "price": 42.41,
-      "originalPrice": 49.9,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
-      "url": "https://s.shopee.com.br/AUvlZI1NAI",
+      "id": "54967366461",
+      "title": "Kit 12 Galhos Azevinho Vermelho 60cm – Enfeite Natalino / Ramos Decorativos para Árvore, Vaso e Arranjo",
+      "price": 35.93,
+      "originalPrice": 42.91,
+      "discountPercent": 16.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258u-mspp1nzd2gao51",
+      "url": "https://s.shopee.com.br/4fxycQ54wm",
       "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 278,
-      "seller": "Gift Presentes",
-      "category": "Presentes e papelaria"
-    },
-    {
-      "id": "51352412625",
-      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
-      "price": 51.99,
-      "originalPrice": 64.9,
-      "discountPercent": 19.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
-      "url": "https://s.shopee.com.br/70LtOj0Bvf",
-      "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 2386,
-      "official": true,
-      "seller": "impório_ecommerce",
+      "rating": 5,
+      "salesCount": 1084,
+      "seller": "VCOMMERCE_",
       "category": "Casa e organização"
     }
   ]
