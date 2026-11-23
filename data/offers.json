@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T07:17:52.200Z",
+  "updatedAt": "2026-11-23T08:52:13.131Z",
   "offers": [
     {
       "id": "22098181726",
@@ -271,21 +271,6 @@
       "salesCount": 278,
       "seller": "Gift Presentes",
       "category": "Presentes e papelaria"
-    },
-    {
-      "id": "51352412625",
-      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
-      "price": 51.99,
-      "originalPrice": 64.9,
-      "discountPercent": 19.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
-      "url": "https://s.shopee.com.br/70LtOj0Bvf",
-      "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 2386,
-      "official": true,
-      "seller": "impório_ecommerce",
-      "category": "Casa e organização"
     },
     {
       "id": "54967366461",
