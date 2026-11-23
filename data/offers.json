@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T10:27:22.470Z",
+  "updatedAt": "2026-11-23T10:57:58.159Z",
   "offers": [
     {
       "id": "22098181726",
@@ -75,20 +75,6 @@
       "seller": "Barbour's Beauty",
       "category": "Beleza",
       "hot": true
-    },
-    {
-      "id": "47810770730",
-      "title": "Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza linhas - Kaziva",
-      "price": 22.9,
-      "originalPrice": 27.9,
-      "discountPercent": 17.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moe991hva9z909",
-      "url": "https://s.shopee.com.br/4VeYQ2Gfck",
-      "rating": 4.8,
-      "salesCount": 3128,
-      "official": true,
-      "seller": "Adora ",
-      "category": "Casa e organização"
     },
     {
       "id": "58271490008",
@@ -203,6 +189,19 @@
       "category": "Beleza"
     },
     {
+      "id": "22994183291",
+      "title": "2 Bases De Glicerina Branca e Transparente  Sabonete Nossa Terra",
+      "price": 49.77,
+      "originalPrice": 69.13,
+      "discountPercent": 28,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgxv2vjv2olc1e",
+      "url": "https://s.shopee.com.br/1C98BX6zx",
+      "rating": 5,
+      "salesCount": 666,
+      "seller": "DJMORCHLTDA",
+      "category": "Beleza"
+    },
+    {
       "id": "58200486959",
       "title": "Protetor Solar Stick Tonalizante FPS 80",
       "price": 109,
@@ -260,17 +259,18 @@
       "category": "Presentes e papelaria"
     },
     {
-      "id": "54967366461",
-      "title": "Kit 12 Galhos Azevinho Vermelho 60cm – Enfeite Natalino / Ramos Decorativos para Árvore, Vaso e Arranjo",
-      "price": 35.93,
-      "originalPrice": 42.91,
-      "discountPercent": 16.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258u-mspp1nzd2gao51",
-      "url": "https://s.shopee.com.br/4fxycQ54wm",
+      "id": "51352412625",
+      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
+      "price": 51.99,
+      "originalPrice": 64.9,
+      "discountPercent": 19.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
+      "url": "https://s.shopee.com.br/70LtOj0Bvf",
       "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1084,
-      "seller": "VCOMMERCE_",
+      "rating": 4.5,
+      "salesCount": 2386,
+      "official": true,
+      "seller": "impório_ecommerce",
       "category": "Casa e organização"
     }
   ]
