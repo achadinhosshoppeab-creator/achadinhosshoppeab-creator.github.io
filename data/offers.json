@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T17:30:40.744Z",
+  "updatedAt": "2026-11-23T17:52:57.582Z",
   "offers": [
     {
       "id": "22098181726",
@@ -13,6 +13,66 @@
       "salesCount": 754,
       "official": true,
       "seller": "Hinode ",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "58205100450",
+      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
+      "price": 19.8,
+      "originalPrice": 37.96,
+      "discountPercent": 47.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
+      "url": "https://s.shopee.com.br/4LL8DsDfWP",
+      "rating": 4.8,
+      "salesCount": 2066,
+      "seller": "Ela&Ela",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "26320343473",
+      "title": "[NEW] JBSARA CENTELLA 77 WATERY CREAM 80ML",
+      "price": 62.99,
+      "originalPrice": 94.01,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8259n-mvoc5aopuzghec",
+      "url": "https://s.shopee.com.br/3g5RQeGCsL",
+      "rating": 5,
+      "salesCount": 2243,
+      "official": true,
+      "seller": "koksara.kbeauty",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "58218169635",
+      "title": "Protetor Solar Facial Anasol FPS 70 Clareador Anti-Manchas Toque Seco 60g",
+      "price": 44.9,
+      "originalPrice": 102.05,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mt5m3hxuij9g5b",
+      "url": "https://s.shopee.com.br/AUvmCkyNgN",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1515,
+      "official": true,
+      "seller": "Anasol Oficial",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "23898813796",
+      "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
+      "price": 29.4,
+      "originalPrice": 39.9,
+      "discountPercent": 26.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mq228ungk5c142",
+      "url": "https://s.shopee.com.br/60TMF5sJOx",
+      "rating": 4.8,
+      "salesCount": 3936,
+      "official": true,
+      "seller": "Barbour's Beauty",
       "category": "Beleza",
       "hot": true
     },
@@ -56,23 +116,35 @@
       "rating": 4.9,
       "salesCount": 1285,
       "seller": "Draw Papelaria",
-      "category": "Eletrônicos",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
-      "id": "22892800438",
-      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
-      "price": 39.99,
-      "originalPrice": 51,
-      "discountPercent": 21.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
-      "url": "https://s.shopee.com.br/7fbaBsdGqk",
-      "rating": 4.8,
-      "salesCount": 2564,
+      "id": "52664692788",
+      "title": "Kriska Desodorante Colônia Miniatura 25 ml",
+      "price": 39.95,
+      "originalPrice": 54,
+      "discountPercent": 26,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259a-mr0o1qwmce1841",
+      "url": "https://s.shopee.com.br/6q2Tga6az1",
+      "rating": 4.9,
+      "salesCount": 1143,
       "official": true,
-      "seller": "Abstract Decora",
-      "category": "Casa e organização",
-      "hot": true
+      "seller": "NATURA",
+      "category": "Beleza"
+    },
+    {
+      "id": "23893056825",
+      "title": "Amend Essencial Acidificante Máscara Equilíbrio do PH - 250g",
+      "price": 32.9,
+      "originalPrice": 39.9,
+      "discountPercent": 17.5,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1e4r99socpsae",
+      "url": "https://s.shopee.com.br/5LDfPia7fr",
+      "rating": 5,
+      "salesCount": 3660,
+      "official": true,
+      "seller": "AMEND OFICIAL",
+      "category": "Beleza"
     },
     {
       "id": "58266799438",
@@ -90,6 +162,34 @@
       "hot": true
     },
     {
+      "id": "19598142136",
+      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
+      "price": 118.15,
+      "originalPrice": 139,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
+      "url": "https://s.shopee.com.br/2VtU2VTNbk",
+      "rating": 5,
+      "salesCount": 2348,
+      "official": true,
+      "seller": "meuollie",
+      "category": "Beleza"
+    },
+    {
+      "id": "58217669744",
+      "title": "Bebedouro Automático Aves Galinha Codorna Copinho Vermelho",
+      "price": 18,
+      "originalPrice": 23.98,
+      "discountPercent": 24.9,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aq-mstl4ht3lqf6a0",
+      "url": "https://s.shopee.com.br/4B1i1dCCqF",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1148,
+      "seller": "Lunexis",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "58263021202",
       "title": "BRILHO NOVO Kit Escova Sanitária Sem Contato, Refis Descartáveis com Detergente Incorporado | Cabo + Base + 36 Refis",
       "price": 45.9,
@@ -101,8 +201,7 @@
       "rating": 4.9,
       "salesCount": 4057,
       "seller": "BRILHO NOVO BR",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "25583979154",
@@ -115,22 +214,22 @@
       "rating": 4.7,
       "salesCount": 357,
       "seller": "Choice Oficial",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
-      "id": "23698958223",
-      "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
-      "price": 39.9,
-      "originalPrice": 47.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-muxv8arqggzned",
-      "url": "https://s.shopee.com.br/6VPcnnkdKo",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 954,
-      "seller": "Jab Bazar Presentes",
-      "category": "Casa e organização"
+      "id": "58200486959",
+      "title": "Protetor Solar Stick Tonalizante FPS 80",
+      "price": 109,
+      "originalPrice": 175.81,
+      "discountPercent": 38,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ff-mh0kxuqjsikv32",
+      "url": "https://s.shopee.com.br/7pv16CIasu",
+      "rating": 5,
+      "salesCount": 1236,
+      "official": true,
+      "seller": "ADCOS",
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "41183604135",
@@ -144,23 +243,7 @@
       "rating": 4.8,
       "salesCount": 1915,
       "seller": "MiDi Store",
-      "category": "Moda"
-    },
-    {
-      "id": "51352412625",
-      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
-      "price": 51.99,
-      "originalPrice": 64.9,
-      "discountPercent": 19.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
-      "url": "https://s.shopee.com.br/70LtOj0Bvf",
-      "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 2386,
-      "official": true,
-      "seller": "impório_ecommerce",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "54967366461",
@@ -174,6 +257,20 @@
       "rating": 5,
       "salesCount": 1084,
       "seller": "VCOMMERCE_",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "47053971674",
+      "title": "Ventilador Torre Climatizador Ventisol Clit Abastece 3,6 Litros 5 em 1 Silencioso",
+      "price": 288.1,
+      "originalPrice": 354.99,
+      "discountPercent": 18.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivobz12jx1e76",
+      "url": "https://s.shopee.com.br/30pkjoCdMA",
+      "rating": 4.9,
+      "salesCount": 1454,
+      "official": true,
+      "seller": "Melhor para Você",
       "category": "Casa e organização"
     }
   ]
