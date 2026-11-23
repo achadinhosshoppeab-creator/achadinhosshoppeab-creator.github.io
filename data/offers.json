@@ -1,19 +1,48 @@
 {
-  "updatedAt": "2026-11-23T13:36:07.856Z",
+  "updatedAt": "2026-11-23T13:57:50.829Z",
   "offers": [
     {
-      "id": "23898813796",
-      "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
-      "price": 29.4,
-      "originalPrice": 39.9,
-      "discountPercent": 26.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mq228ungk5c142",
-      "url": "https://s.shopee.com.br/60TMF5sJOx",
+      "id": "58205100450",
+      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
+      "price": 19.8,
+      "originalPrice": 37.96,
+      "discountPercent": 47.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
+      "url": "https://s.shopee.com.br/4LL8DsDfWP",
       "rating": 4.8,
-      "salesCount": 3936,
-      "official": true,
-      "seller": "Barbour's Beauty",
+      "salesCount": 2066,
+      "seller": "Ela&Ela",
       "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "26320343473",
+      "title": "[NEW] JBSARA CENTELLA 77 WATERY CREAM 80ML",
+      "price": 62.99,
+      "originalPrice": 94.01,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8259n-mvoc5aopuzghec",
+      "url": "https://s.shopee.com.br/3g5RQeGCsL",
+      "rating": 5,
+      "salesCount": 2243,
+      "official": true,
+      "seller": "koksara.kbeauty",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "47810770730",
+      "title": "Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza linhas - Kaziva",
+      "price": 22.9,
+      "originalPrice": 27.9,
+      "discountPercent": 17.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moe991hva9z909",
+      "url": "https://s.shopee.com.br/4VeYQ2Gfck",
+      "rating": 4.8,
+      "salesCount": 3128,
+      "official": true,
+      "seller": "Adora ",
+      "category": "Casa e organização",
       "hot": true
     },
     {
@@ -31,18 +60,18 @@
       "hot": true
     },
     {
-      "id": "52664692788",
-      "title": "Kriska Desodorante Colônia Miniatura 25 ml",
-      "price": 39.95,
-      "originalPrice": 54,
-      "discountPercent": 26,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259a-mr0o1qwmce1841",
-      "url": "https://s.shopee.com.br/6q2Tga6az1",
-      "rating": 4.9,
-      "salesCount": 1143,
+      "id": "22892800438",
+      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
+      "price": 39.99,
+      "originalPrice": 51,
+      "discountPercent": 21.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
+      "url": "https://s.shopee.com.br/7fbaBsdGqk",
+      "rating": 4.8,
+      "salesCount": 2564,
       "official": true,
-      "seller": "NATURA",
-      "category": "Beleza",
+      "seller": "Abstract Decora",
+      "category": "Casa e organização",
       "hot": true
     },
     {
@@ -58,21 +87,6 @@
       "official": true,
       "seller": "Coala Essências Oficial",
       "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "58217669744",
-      "title": "Bebedouro Automático Aves Galinha Codorna Copinho Vermelho",
-      "price": 18,
-      "originalPrice": 23.98,
-      "discountPercent": 24.9,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aq-mstl4ht3lqf6a0",
-      "url": "https://s.shopee.com.br/4B1i1dCCqF",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1148,
-      "seller": "Lunexis",
-      "category": "Pet e bebê",
       "hot": true
     },
     {
@@ -105,6 +119,20 @@
       "hot": true
     },
     {
+      "id": "23698958223",
+      "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
+      "price": 39.9,
+      "originalPrice": 47.9,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-muxv8arqggzned",
+      "url": "https://s.shopee.com.br/6VPcnnkdKo",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 954,
+      "seller": "Jab Bazar Presentes",
+      "category": "Casa e organização"
+    },
+    {
       "id": "41183604135",
       "title": "Organizador de Bonés em Acrílico Transparente Suporte Porta Boné Expositor para Closet Guarda-Roupa Loja",
       "price": 19.73,
@@ -119,34 +147,18 @@
       "category": "Moda"
     },
     {
-      "id": "19139965863",
-      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
-      "price": 42.41,
-      "originalPrice": 49.9,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
-      "url": "https://s.shopee.com.br/AUvlZI1NAI",
+      "id": "54967366461",
+      "title": "Kit 12 Galhos Azevinho Vermelho 60cm – Enfeite Natalino / Ramos Decorativos para Árvore, Vaso e Arranjo",
+      "price": 35.93,
+      "originalPrice": 42.91,
+      "discountPercent": 16.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258u-mspp1nzd2gao51",
+      "url": "https://s.shopee.com.br/4fxycQ54wm",
       "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 278,
-      "seller": "Gift Presentes",
-      "category": "Presentes e papelaria"
-    },
-    {
-      "id": "51352412625",
-      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
-      "price": 51.99,
-      "originalPrice": 64.9,
-      "discountPercent": 19.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
-      "url": "https://s.shopee.com.br/70LtOj0Bvf",
-      "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 2386,
-      "official": true,
-      "seller": "impório_ecommerce",
-      "category": "Casa e organização",
-      "hot": true
+      "rating": 5,
+      "salesCount": 1084,
+      "seller": "VCOMMERCE_",
+      "category": "Casa e organização"
     }
   ]
 }
