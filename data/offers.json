@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T05:12:41.779Z",
+  "updatedAt": "2026-11-23T07:17:52.200Z",
   "offers": [
     {
       "id": "22098181726",
@@ -176,6 +176,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "58263021202",
+      "title": "BRILHO NOVO Kit Escova Sanitária Sem Contato, Refis Descartáveis com Detergente Incorporado | Cabo + Base + 36 Refis",
+      "price": 45.9,
+      "originalPrice": 59.8,
+      "discountPercent": 23.2,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-msdw742h9vd1fe",
+      "url": "https://s.shopee.com.br/AAIvAYafdR",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 4057,
+      "seller": "BRILHO NOVO BR",
+      "category": "Casa e organização"
+    },
+    {
       "id": "25583979154",
       "title": "120 Paleta De Sombra Colorida Mate Maquiagem Altamente Pigmentada Em Pó Longa Duração À Prova D'água",
       "price": 41.19,
@@ -209,7 +223,6 @@
       "discountPercent": 38,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ff-mh0kxuqjsikv32",
       "url": "https://s.shopee.com.br/7pv16CIasu",
-      "hasVariantPrices": true,
       "rating": 5,
       "salesCount": 1236,
       "official": true,
