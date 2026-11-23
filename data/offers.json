@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T22:11:29.570Z",
+  "updatedAt": "2026-11-23T22:32:18.936Z",
   "offers": [
     {
       "id": "22098181726",
@@ -13,21 +13,6 @@
       "salesCount": 778,
       "official": true,
       "seller": "Hinode ",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "58271490008",
-      "title": "KIT Finalizadores Elseve Loreal Paris: Colágeno + Óleo Extraordinário + Liso dos Sonhos",
-      "price": 108.2,
-      "originalPrice": 183.39,
-      "discountPercent": 41,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mus3indp2tqb67",
-      "url": "https://s.shopee.com.br/AKcL4jaQ9D",
-      "rating": 4.9,
-      "salesCount": 1425,
-      "official": true,
-      "seller": "L'Oréal Paris - Loja Oficial",
       "category": "Beleza",
       "hot": true
     },
@@ -62,6 +47,21 @@
       "hot": true
     },
     {
+      "id": "23898813796",
+      "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
+      "price": 29.4,
+      "originalPrice": 39.9,
+      "discountPercent": 26.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mq228ungk5c142",
+      "url": "https://s.shopee.com.br/60TMF5sJOx",
+      "rating": 4.8,
+      "salesCount": 4097,
+      "official": true,
+      "seller": "Barbour's Beauty",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
       "id": "47810770730",
       "title": "Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza linhas - Kaziva",
       "price": 22.9,
@@ -91,17 +91,18 @@
       "hot": true
     },
     {
-      "id": "21598656632",
-      "title": "Suporte Para Cpu Computador Ajustavel Rodizios",
-      "price": 22.2,
-      "originalPrice": 29.97,
-      "discountPercent": 25.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-li8txvm0m2wl05",
-      "url": "https://s.shopee.com.br/8VAhBcUusA",
+      "id": "52664692788",
+      "title": "Kriska Desodorante Colônia Miniatura 25 ml",
+      "price": 39.95,
+      "originalPrice": 54,
+      "discountPercent": 26,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259a-mr0o1qwmce1841",
+      "url": "https://s.shopee.com.br/6q2Tga6az1",
       "rating": 4.9,
-      "salesCount": 1276,
-      "seller": "Draw Papelaria",
-      "category": "Casa e organização"
+      "salesCount": 1084,
+      "official": true,
+      "seller": "NATURA",
+      "category": "Beleza"
     },
     {
       "id": "19598142136",
@@ -116,6 +117,20 @@
       "official": true,
       "seller": "meuollie",
       "category": "Beleza"
+    },
+    {
+      "id": "21078240245",
+      "title": "Mop Giratório Com Cesto Em Inox C/2 Refil  Cabo 140 cm e Dispenser Para Sabão - Nybc",
+      "price": 59.9,
+      "originalPrice": 93.59,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mpwg5a2epczm1e",
+      "url": "https://s.shopee.com.br/30pj0S4Lkf",
+      "rating": 4.8,
+      "salesCount": 1568,
+      "seller": "Loja Nybc Oficial",
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "23092618942",
@@ -144,20 +159,6 @@
       "seller": "COMERCCIOBRASIL",
       "category": "Pet e bebê",
       "hot": true
-    },
-    {
-      "id": "22892800438",
-      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
-      "price": 39.99,
-      "originalPrice": 51,
-      "discountPercent": 21.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
-      "url": "https://s.shopee.com.br/7fbaBsdGqk",
-      "rating": 4.8,
-      "salesCount": 2414,
-      "official": true,
-      "seller": "Abstract Decora",
-      "category": "Casa e organização"
     },
     {
       "id": "58266799438",
@@ -200,8 +201,7 @@
       "rating": 4.9,
       "salesCount": 3857,
       "seller": "BRILHO NOVO BR",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "58200486959",
@@ -219,20 +219,6 @@
       "hot": true
     },
     {
-      "id": "23698958223",
-      "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
-      "price": 39.9,
-      "originalPrice": 47.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-muxv8arqggzned",
-      "url": "https://s.shopee.com.br/6VPcnnkdKo",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 985,
-      "seller": "Jab Bazar Presentes",
-      "category": "Casa e organização"
-    },
-    {
       "id": "41183604135",
       "title": "Organizador de Bonés em Acrílico Transparente Suporte Porta Boné Expositor para Closet Guarda-Roupa Loja",
       "price": 19.73,
@@ -245,63 +231,6 @@
       "salesCount": 1891,
       "seller": "MiDi Store",
       "category": "Moda"
-    },
-    {
-      "id": "19139965863",
-      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
-      "price": 42.41,
-      "originalPrice": 49.9,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
-      "url": "https://s.shopee.com.br/AUvlZI1NAI",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 273,
-      "seller": "Gift Presentes",
-      "category": "Presentes e papelaria"
-    },
-    {
-      "id": "51352412625",
-      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
-      "price": 51.99,
-      "originalPrice": 64.9,
-      "discountPercent": 19.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
-      "url": "https://s.shopee.com.br/70LtOj0Bvf",
-      "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 2331,
-      "official": true,
-      "seller": "impório_ecommerce",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "54967366461",
-      "title": "Kit 12 Galhos Azevinho Vermelho 60cm – Enfeite Natalino / Ramos Decorativos para Árvore, Vaso e Arranjo",
-      "price": 35.93,
-      "originalPrice": 42.91,
-      "discountPercent": 16.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258u-mspp1nzd2gao51",
-      "url": "https://s.shopee.com.br/4fxycQ54wm",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1156,
-      "seller": "VCOMMERCE_",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "47053971674",
-      "title": "Ventilador Torre Climatizador Ventisol Clit Abastece 3,6 Litros 5 em 1 Silencioso",
-      "price": 288.1,
-      "originalPrice": 354.99,
-      "discountPercent": 18.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivobz12jx1e76",
-      "url": "https://s.shopee.com.br/30pkjoCdMA",
-      "rating": 4.9,
-      "salesCount": 1472,
-      "official": true,
-      "seller": "Melhor para Você",
-      "category": "Casa e organização"
     },
     {
       "id": "23398654174",
