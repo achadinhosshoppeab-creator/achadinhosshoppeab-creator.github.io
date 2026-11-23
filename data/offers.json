@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T18:57:29.959Z",
+  "updatedAt": "2026-11-23T19:19:07.201Z",
   "offers": [
     {
       "id": "22098181726",
@@ -33,21 +33,6 @@
       "hot": true
     },
     {
-      "id": "23898813796",
-      "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
-      "price": 29.4,
-      "originalPrice": 39.9,
-      "discountPercent": 26.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mq228ungk5c142",
-      "url": "https://s.shopee.com.br/60TMF5sJOx",
-      "rating": 4.8,
-      "salesCount": 3936,
-      "official": true,
-      "seller": "Barbour's Beauty",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
       "id": "58271490008",
       "title": "KIT Finalizadores Elseve Loreal Paris: Colágeno + Óleo Extraordinário + Liso dos Sonhos",
       "price": 108.2,
@@ -71,7 +56,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pk-mopv3g8qnk7h17",
       "url": "https://s.shopee.com.br/1LhWeFaa0i",
       "rating": 5,
-      "salesCount": 808,
+      "salesCount": 727,
       "official": true,
       "seller": "NATURA",
       "category": "Beleza",
@@ -86,37 +71,10 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-li8txvm0m2wl05",
       "url": "https://s.shopee.com.br/8VAhBcUusA",
       "rating": 4.9,
-      "salesCount": 1285,
+      "salesCount": 1276,
       "seller": "Draw Papelaria",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "48565120227",
-      "title": "Bomba Submersa Bombinha Para Fonte De Água Aquário E Bebedouro Pet Produ 180 L/h Silenciosa 220V",
-      "price": 15.49,
-      "originalPrice": 23.47,
-      "discountPercent": 34,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mmc5mo07oqo455",
-      "url": "https://s.shopee.com.br/6AmnD5pwKR",
-      "rating": 4.8,
-      "salesCount": 628,
-      "seller": "COMERCCIOBRASIL",
-      "category": "Pet e bebê",
+      "category": "Casa e organização",
       "hot": true
-    },
-    {
-      "id": "22892800438",
-      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
-      "price": 39.99,
-      "originalPrice": 51,
-      "discountPercent": 21.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
-      "url": "https://s.shopee.com.br/7fbaBsdGqk",
-      "rating": 4.8,
-      "salesCount": 2564,
-      "official": true,
-      "seller": "Abstract Decora",
-      "category": "Casa e organização"
     },
     {
       "id": "58266799438",
@@ -127,7 +85,7 @@
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-msa1d1kgw2dh93",
       "url": "https://s.shopee.com.br/6fj307RrIH",
       "rating": 5,
-      "salesCount": 4529,
+      "salesCount": 4465,
       "official": true,
       "seller": "Coala Essências Oficial",
       "category": "Casa e organização",
@@ -148,20 +106,6 @@
       "category": "Beleza"
     },
     {
-      "id": "58217669744",
-      "title": "Bebedouro Automático Aves Galinha Codorna Copinho Vermelho",
-      "price": 18,
-      "originalPrice": 23.98,
-      "discountPercent": 24.9,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aq-mstl4ht3lqf6a0",
-      "url": "https://s.shopee.com.br/4B1i1dCCqF",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1148,
-      "seller": "Lunexis",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "58263021202",
       "title": "BRILHO NOVO Kit Escova Sanitária Sem Contato, Refis Descartáveis com Detergente Incorporado | Cabo + Base + 36 Refis",
       "price": 45.9,
@@ -173,20 +117,8 @@
       "rating": 4.9,
       "salesCount": 4057,
       "seller": "BRILHO NOVO BR",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "25583979154",
-      "title": "120 Paleta De Sombra Colorida Mate Maquiagem Altamente Pigmentada Em Pó Longa Duração À Prova D'água",
-      "price": 43.25,
-      "originalPrice": 60.43,
-      "discountPercent": 28.4,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyl-mcamfjuyaj3r09",
-      "url": "https://s.shopee.com.br/3B9ApccT4Q",
-      "rating": 4.7,
-      "salesCount": 357,
-      "seller": "Choice Oficial",
-      "category": "Beleza"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "58200486959",
@@ -202,20 +134,6 @@
       "seller": "ADCOS",
       "category": "Beleza",
       "hot": true
-    },
-    {
-      "id": "23698958223",
-      "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
-      "price": 39.9,
-      "originalPrice": 47.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-muxv8arqggzned",
-      "url": "https://s.shopee.com.br/6VPcnnkdKo",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 954,
-      "seller": "Jab Bazar Presentes",
-      "category": "Casa e organização"
     },
     {
       "id": "41183604135",
@@ -255,7 +173,7 @@
       "url": "https://s.shopee.com.br/4fxycQ54wm",
       "hasVariantPrices": true,
       "rating": 5,
-      "salesCount": 1084,
+      "salesCount": 1156,
       "seller": "VCOMMERCE_",
       "category": "Casa e organização"
     }
