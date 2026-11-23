@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T08:52:13.131Z",
+  "updatedAt": "2026-11-23T09:24:18.157Z",
   "offers": [
     {
       "id": "22098181726",
@@ -91,21 +91,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58271490008",
-      "title": "KIT Finalizadores Elseve Loreal Paris: Colágeno + Óleo Extraordinário + Liso dos Sonhos",
-      "price": 108.2,
-      "originalPrice": 183.39,
-      "discountPercent": 41,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mus3indp2tqb67",
-      "url": "https://s.shopee.com.br/AKcL4jaQ9D",
-      "rating": 4.9,
-      "salesCount": 1315,
-      "official": true,
-      "seller": "L'Oréal Paris - Loja Oficial",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
       "id": "21598656632",
       "title": "Suporte Para Cpu Computador Ajustavel Rodizios",
       "price": 22.2,
@@ -187,7 +172,8 @@
       "rating": 4.9,
       "salesCount": 4057,
       "seller": "BRILHO NOVO BR",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "25583979154",
@@ -200,7 +186,8 @@
       "rating": 4.7,
       "salesCount": 357,
       "seller": "Choice Oficial",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "22994183291",
@@ -214,21 +201,6 @@
       "salesCount": 666,
       "seller": "DJMORCHLTDA",
       "category": "Beleza"
-    },
-    {
-      "id": "58200486959",
-      "title": "Protetor Solar Stick Tonalizante FPS 80",
-      "price": 109,
-      "originalPrice": 175.81,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ff-mh0kxuqjsikv32",
-      "url": "https://s.shopee.com.br/7pv16CIasu",
-      "rating": 5,
-      "salesCount": 1236,
-      "official": true,
-      "seller": "ADCOS",
-      "category": "Beleza",
-      "hot": true
     },
     {
       "id": "23698958223",
@@ -271,6 +243,21 @@
       "salesCount": 278,
       "seller": "Gift Presentes",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "51352412625",
+      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
+      "price": 51.99,
+      "originalPrice": 64.9,
+      "discountPercent": 19.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
+      "url": "https://s.shopee.com.br/70LtOj0Bvf",
+      "hasVariantPrices": true,
+      "rating": 4.5,
+      "salesCount": 2386,
+      "official": true,
+      "seller": "impório_ecommerce",
+      "category": "Casa e organização"
     },
     {
       "id": "54967366461",
