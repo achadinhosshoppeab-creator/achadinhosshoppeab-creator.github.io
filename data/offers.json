@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T18:13:32.927Z",
+  "updatedAt": "2026-11-23T18:35:31.594Z",
   "offers": [
     {
       "id": "22098181726",
@@ -57,7 +57,7 @@
       "rating": 4.9,
       "salesCount": 1285,
       "seller": "Draw Papelaria",
-      "category": "Casa e organização",
+      "category": "Eletrônicos",
       "hot": true
     },
     {
@@ -76,19 +76,60 @@
       "hot": true
     },
     {
-      "id": "58266799438",
-      "title": "Kit coala Home Chá Branco - 4 Itens",
-      "price": 49.9,
-      "originalPrice": 67.9,
-      "discountPercent": 26.5,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-msa1d1kgw2dh93",
-      "url": "https://s.shopee.com.br/6fj307RrIH",
-      "rating": 5,
-      "salesCount": 4529,
-      "official": true,
-      "seller": "Coala Essências Oficial",
+      "id": "21078240245",
+      "title": "Mop Giratório Com Cesto Em Inox C/2 Refil  Cabo 140 cm e Dispenser Para Sabão - Nybc",
+      "price": 59.9,
+      "originalPrice": 93.59,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mpwg5a2epczm1e",
+      "url": "https://s.shopee.com.br/30pj0S4Lkf",
+      "rating": 4.8,
+      "salesCount": 1499,
+      "seller": "Loja Nybc Oficial",
       "category": "Casa e organização",
       "hot": true
+    },
+    {
+      "id": "48565120227",
+      "title": "Bomba Submersa Bombinha Para Fonte De Água Aquário E Bebedouro Pet Produ 180 L/h Silenciosa 220V",
+      "price": 15.49,
+      "originalPrice": 23.47,
+      "discountPercent": 34,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mmc5mo07oqo455",
+      "url": "https://s.shopee.com.br/6AmnD5pwKR",
+      "rating": 4.8,
+      "salesCount": 628,
+      "seller": "COMERCCIOBRASIL",
+      "category": "Pet e bebê",
+      "hot": true
+    },
+    {
+      "id": "22892800438",
+      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
+      "price": 39.99,
+      "originalPrice": 51,
+      "discountPercent": 21.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
+      "url": "https://s.shopee.com.br/7fbaBsdGqk",
+      "rating": 4.8,
+      "salesCount": 2564,
+      "official": true,
+      "seller": "Abstract Decora",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58217669744",
+      "title": "Bebedouro Automático Aves Galinha Codorna Copinho Vermelho",
+      "price": 18,
+      "originalPrice": 23.98,
+      "discountPercent": 24.9,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aq-mstl4ht3lqf6a0",
+      "url": "https://s.shopee.com.br/4B1i1dCCqF",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1148,
+      "seller": "Lunexis",
+      "category": "Pet e bebê"
     },
     {
       "id": "58263021202",
@@ -103,20 +144,6 @@
       "salesCount": 4057,
       "seller": "BRILHO NOVO BR",
       "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "25583979154",
-      "title": "120 Paleta De Sombra Colorida Mate Maquiagem Altamente Pigmentada Em Pó Longa Duração À Prova D'água",
-      "price": 43.25,
-      "originalPrice": 60.43,
-      "discountPercent": 28.4,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyl-mcamfjuyaj3r09",
-      "url": "https://s.shopee.com.br/3B9ApccT4Q",
-      "rating": 4.7,
-      "salesCount": 357,
-      "seller": "Choice Oficial",
-      "category": "Beleza",
       "hot": true
     },
     {
@@ -160,6 +187,35 @@
       "salesCount": 278,
       "seller": "Gift Presentes",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "51352412625",
+      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
+      "price": 51.99,
+      "originalPrice": 64.9,
+      "discountPercent": 19.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
+      "url": "https://s.shopee.com.br/70LtOj0Bvf",
+      "hasVariantPrices": true,
+      "rating": 4.5,
+      "salesCount": 2386,
+      "official": true,
+      "seller": "impório_ecommerce",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "47053971674",
+      "title": "Ventilador Torre Climatizador Ventisol Clit Abastece 3,6 Litros 5 em 1 Silencioso",
+      "price": 288.1,
+      "originalPrice": 354.99,
+      "discountPercent": 18.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivobz12jx1e76",
+      "url": "https://s.shopee.com.br/30pkjoCdMA",
+      "rating": 4.9,
+      "salesCount": 1454,
+      "official": true,
+      "seller": "Melhor para Você",
+      "category": "Casa e organização"
     }
   ]
 }
