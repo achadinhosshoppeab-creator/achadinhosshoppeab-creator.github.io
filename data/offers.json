@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T23:35:20.238Z",
+  "updatedAt": "2026-11-23T23:58:12.737Z",
   "offers": [
     {
       "id": "22098181726",
@@ -31,21 +31,6 @@
       "hot": true
     },
     {
-      "id": "58271490008",
-      "title": "KIT Finalizadores Elseve Loreal Paris: Colágeno + Óleo Extraordinário + Liso dos Sonhos",
-      "price": 108.2,
-      "originalPrice": 183.39,
-      "discountPercent": 41,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mus3indp2tqb67",
-      "url": "https://s.shopee.com.br/AKcL4jaQ9D",
-      "rating": 4.9,
-      "salesCount": 1425,
-      "official": true,
-      "seller": "L'Oréal Paris - Loja Oficial",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
       "id": "22697502615",
       "title": "Perfume Masculino Lattitude Brave Hinode 100ml",
       "price": 112.69,
@@ -71,21 +56,6 @@
       "salesCount": 2252,
       "official": true,
       "seller": "koksara.kbeauty",
-      "category": "Beleza"
-    },
-    {
-      "id": "58218169635",
-      "title": "Protetor Solar Facial Anasol FPS 70 Clareador Anti-Manchas Toque Seco 60g",
-      "price": 44.9,
-      "originalPrice": 102.05,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mt5m3hxuij9g5b",
-      "url": "https://s.shopee.com.br/AUvmCkyNgN",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1548,
-      "official": true,
-      "seller": "Anasol Oficial",
       "category": "Beleza",
       "hot": true
     },
@@ -105,6 +75,20 @@
       "hot": true
     },
     {
+      "id": "47810770730",
+      "title": "Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza linhas - Kaziva",
+      "price": 22.9,
+      "originalPrice": 27.9,
+      "discountPercent": 17.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moe991hva9z909",
+      "url": "https://s.shopee.com.br/4VeYQ2Gfck",
+      "rating": 4.8,
+      "salesCount": 3006,
+      "official": true,
+      "seller": "Adora ",
+      "category": "Casa e organização"
+    },
+    {
       "id": "58211442575",
       "title": "Deo Colônia Kaiak Miniatura Masculino 25ml",
       "price": 33.1,
@@ -120,32 +104,32 @@
       "hot": true
     },
     {
-      "id": "19598142136",
-      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
-      "price": 118.15,
-      "originalPrice": 139,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
-      "url": "https://s.shopee.com.br/2VtU2VTNbk",
-      "rating": 5,
-      "salesCount": 2405,
-      "official": true,
-      "seller": "meuollie",
-      "category": "Beleza"
+      "id": "21078240245",
+      "title": "Mop Giratório Com Cesto Em Inox C/2 Refil  Cabo 140 cm e Dispenser Para Sabão - Nybc",
+      "price": 59.9,
+      "originalPrice": 93.59,
+      "discountPercent": 36,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mpwg5a2epczm1e",
+      "url": "https://s.shopee.com.br/30pj0S4Lkf",
+      "rating": 4.8,
+      "salesCount": 1568,
+      "seller": "Loja Nybc Oficial",
+      "category": "Casa e organização",
+      "hot": true
     },
     {
-      "id": "23092618942",
-      "title": "Óleo de Tratamento SOS Cachos 10 em 1 Multibenefícios 42ml",
-      "price": 15.96,
-      "originalPrice": 18.8,
-      "discountPercent": 15.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a4-mfubjf1fva4pe1",
-      "url": "https://s.shopee.com.br/5q9wBLU38n",
-      "rating": 4.9,
-      "salesCount": 3052,
-      "official": true,
-      "seller": "Salon Line",
-      "category": "Beleza"
+      "id": "48565120227",
+      "title": "Bomba Submersa Bombinha Para Fonte De Água Aquário E Bebedouro Pet Produ 180 L/h Silenciosa 220V",
+      "price": 15.49,
+      "originalPrice": 23.47,
+      "discountPercent": 34,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mmc5mo07oqo455",
+      "url": "https://s.shopee.com.br/6AmnD5pwKR",
+      "rating": 4.8,
+      "salesCount": 643,
+      "seller": "COMERCCIOBRASIL",
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
       "id": "58266799438",
@@ -163,6 +147,20 @@
       "hot": true
     },
     {
+      "id": "58217669744",
+      "title": "Bebedouro Automático Aves Galinha Codorna Copinho Vermelho",
+      "price": 18,
+      "originalPrice": 23.98,
+      "discountPercent": 24.9,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aq-mstl4ht3lqf6a0",
+      "url": "https://s.shopee.com.br/4B1i1dCCqF",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1125,
+      "seller": "Lunexis",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "58263021202",
       "title": "BRILHO NOVO Kit Escova Sanitária Sem Contato, Refis Descartáveis com Detergente Incorporado | Cabo + Base + 36 Refis",
       "price": 45.9,
@@ -175,21 +173,6 @@
       "salesCount": 3857,
       "seller": "BRILHO NOVO BR",
       "category": "Casa e organização"
-    },
-    {
-      "id": "58200486959",
-      "title": "Protetor Solar Stick Tonalizante FPS 80",
-      "price": 109,
-      "originalPrice": 175.81,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ff-mh0kxuqjsikv32",
-      "url": "https://s.shopee.com.br/7pv16CIasu",
-      "rating": 5,
-      "salesCount": 1308,
-      "official": true,
-      "seller": "ADCOS",
-      "category": "Beleza",
-      "hot": true
     },
     {
       "id": "41183604135",
@@ -206,18 +189,18 @@
       "category": "Moda"
     },
     {
-      "id": "58212047034",
-      "title": "Lampião Solar LED Recarregável Camping Lanterna USB Luz Emergência Power Bank Portátil",
-      "price": 52.99,
-      "originalPrice": 63.99,
-      "discountPercent": 17.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mp9jmnv3sk5f57",
-      "url": "https://s.shopee.com.br/3Vm1iLUudK",
+      "id": "19139965863",
+      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
+      "price": 42.41,
+      "originalPrice": 49.9,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
+      "url": "https://s.shopee.com.br/AUvlZI1NAI",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1446,
-      "seller": "YiMarket",
-      "category": "Ferramentas"
+      "salesCount": 273,
+      "seller": "Gift Presentes",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "51352412625",
@@ -247,6 +230,20 @@
       "official": true,
       "seller": "Melhor para Você",
       "category": "Casa e organização"
+    },
+    {
+      "id": "23398654174",
+      "title": "Calça Jeans Infantil  Wide Leg Cargo Black Juvenil 6 ao 14  ALTO PADRÃO LINHA PREMIUM",
+      "price": 49.9,
+      "originalPrice": 58.9,
+      "discountPercent": 15.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhur5wacvep7d",
+      "url": "https://s.shopee.com.br/4VeYQDTpD1",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3349,
+      "seller": "MUNDO INFANTIL ",
+      "category": "Moda"
     }
   ]
 }
