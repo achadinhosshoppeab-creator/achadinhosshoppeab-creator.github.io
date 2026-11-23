@@ -1,64 +1,20 @@
 {
-  "updatedAt": "2026-11-23T13:15:14.774Z",
+  "updatedAt": "2026-11-23T13:36:07.856Z",
   "offers": [
     {
-      "id": "58205100450",
-      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
-      "price": 19.8,
-      "originalPrice": 37.96,
-      "discountPercent": 47.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
-      "url": "https://s.shopee.com.br/4LL8DsDfWP",
+      "id": "23898813796",
+      "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
+      "price": 29.4,
+      "originalPrice": 39.9,
+      "discountPercent": 26.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mq228ungk5c142",
+      "url": "https://s.shopee.com.br/60TMF5sJOx",
       "rating": 4.8,
-      "salesCount": 2066,
-      "seller": "Ela&Ela",
+      "salesCount": 3936,
+      "official": true,
+      "seller": "Barbour's Beauty",
       "category": "Beleza",
       "hot": true
-    },
-    {
-      "id": "26320343473",
-      "title": "[NEW] JBSARA CENTELLA 77 WATERY CREAM 80ML",
-      "price": 62.99,
-      "originalPrice": 94.01,
-      "discountPercent": 33,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8259n-mvoc5aopuzghec",
-      "url": "https://s.shopee.com.br/3g5RQeGCsL",
-      "rating": 5,
-      "salesCount": 2243,
-      "official": true,
-      "seller": "koksara.kbeauty",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "58218169635",
-      "title": "Protetor Solar Facial Anasol FPS 70 Clareador Anti-Manchas Toque Seco 60g",
-      "price": 44.9,
-      "originalPrice": 102.05,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mt5m3hxuij9g5b",
-      "url": "https://s.shopee.com.br/AUvmCkyNgN",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1515,
-      "official": true,
-      "seller": "Anasol Oficial",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "47810770730",
-      "title": "Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza linhas - Kaziva",
-      "price": 22.9,
-      "originalPrice": 27.9,
-      "discountPercent": 17.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moe991hva9z909",
-      "url": "https://s.shopee.com.br/4VeYQ2Gfck",
-      "rating": 4.8,
-      "salesCount": 3128,
-      "official": true,
-      "seller": "Adora ",
-      "category": "Casa e organização"
     },
     {
       "id": "21598656632",
@@ -71,7 +27,22 @@
       "rating": 4.9,
       "salesCount": 1285,
       "seller": "Draw Papelaria",
-      "category": "Eletrônicos",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "52664692788",
+      "title": "Kriska Desodorante Colônia Miniatura 25 ml",
+      "price": 39.95,
+      "originalPrice": 54,
+      "discountPercent": 26,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259a-mr0o1qwmce1841",
+      "url": "https://s.shopee.com.br/6q2Tga6az1",
+      "rating": 4.9,
+      "salesCount": 1143,
+      "official": true,
+      "seller": "NATURA",
+      "category": "Beleza",
       "hot": true
     },
     {
@@ -88,20 +59,6 @@
       "seller": "Coala Essências Oficial",
       "category": "Casa e organização",
       "hot": true
-    },
-    {
-      "id": "19598142136",
-      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
-      "price": 118.15,
-      "originalPrice": 139,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
-      "url": "https://s.shopee.com.br/2VtU2VTNbk",
-      "rating": 5,
-      "salesCount": 2348,
-      "official": true,
-      "seller": "meuollie",
-      "category": "Beleza"
     },
     {
       "id": "58217669744",
@@ -134,33 +91,18 @@
       "hot": true
     },
     {
-      "id": "58200486959",
-      "title": "Protetor Solar Stick Tonalizante FPS 80",
-      "price": 109,
-      "originalPrice": 175.81,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ff-mh0kxuqjsikv32",
-      "url": "https://s.shopee.com.br/7pv16CIasu",
-      "rating": 5,
-      "salesCount": 1236,
-      "official": true,
-      "seller": "ADCOS",
+      "id": "25583979154",
+      "title": "120 Paleta De Sombra Colorida Mate Maquiagem Altamente Pigmentada Em Pó Longa Duração À Prova D'água",
+      "price": 41.19,
+      "originalPrice": 60.43,
+      "discountPercent": 31.8,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyl-mcamfjuyaj3r09",
+      "url": "https://s.shopee.com.br/3B9ApccT4Q",
+      "rating": 4.7,
+      "salesCount": 357,
+      "seller": "Choice Oficial",
       "category": "Beleza",
       "hot": true
-    },
-    {
-      "id": "23698958223",
-      "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
-      "price": 39.9,
-      "originalPrice": 47.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-muxv8arqggzned",
-      "url": "https://s.shopee.com.br/6VPcnnkdKo",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 954,
-      "seller": "Jab Bazar Presentes",
-      "category": "Casa e organização"
     },
     {
       "id": "41183604135",
@@ -177,6 +119,20 @@
       "category": "Moda"
     },
     {
+      "id": "19139965863",
+      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
+      "price": 42.41,
+      "originalPrice": 49.9,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
+      "url": "https://s.shopee.com.br/AUvlZI1NAI",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 278,
+      "seller": "Gift Presentes",
+      "category": "Presentes e papelaria"
+    },
+    {
       "id": "51352412625",
       "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
       "price": 51.99,
@@ -189,21 +145,8 @@
       "salesCount": 2386,
       "official": true,
       "seller": "impório_ecommerce",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "54967366461",
-      "title": "Kit 12 Galhos Azevinho Vermelho 60cm – Enfeite Natalino / Ramos Decorativos para Árvore, Vaso e Arranjo",
-      "price": 35.93,
-      "originalPrice": 42.91,
-      "discountPercent": 16.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258u-mspp1nzd2gao51",
-      "url": "https://s.shopee.com.br/4fxycQ54wm",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1084,
-      "seller": "VCOMMERCE_",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     }
   ]
 }
