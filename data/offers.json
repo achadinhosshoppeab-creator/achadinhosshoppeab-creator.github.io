@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-11-23T23:15:21.362Z",
+  "updatedAt": "2026-11-23T23:35:20.238Z",
   "offers": [
+    {
+      "id": "22098181726",
+      "title": "Perfume Masculino Empire Sport HINODE 100ml",
+      "price": 75.21,
+      "originalPrice": 174.91,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mspkfpuk19txe8",
+      "url": "https://s.shopee.com.br/6q2TgRj5KW",
+      "rating": 4.9,
+      "salesCount": 778,
+      "official": true,
+      "seller": "Hinode ",
+      "category": "Beleza",
+      "hot": true
+    },
     {
       "id": "58205100450",
       "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
@@ -31,6 +46,20 @@
       "hot": true
     },
     {
+      "id": "22697502615",
+      "title": "Perfume Masculino Lattitude Brave Hinode 100ml",
+      "price": 112.69,
+      "originalPrice": 169.9,
+      "discountPercent": 33.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mspkcyvxh8uc6a",
+      "url": "https://s.shopee.com.br/1BO6RwbDLX",
+      "rating": 4.9,
+      "salesCount": 779,
+      "official": true,
+      "seller": "Hinode ",
+      "category": "Beleza"
+    },
+    {
       "id": "26320343473",
       "title": "[NEW] JBSARA CENTELLA 77 WATERY CREAM 80ML",
       "price": 62.99,
@@ -42,8 +71,7 @@
       "salesCount": 2252,
       "official": true,
       "seller": "koksara.kbeauty",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "58218169635",
@@ -62,31 +90,33 @@
       "hot": true
     },
     {
-      "id": "47810770730",
-      "title": "Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza linhas - Kaziva",
-      "price": 22.9,
-      "originalPrice": 27.9,
-      "discountPercent": 17.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moe991hva9z909",
-      "url": "https://s.shopee.com.br/4VeYQ2Gfck",
+      "id": "23898813796",
+      "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
+      "price": 29.4,
+      "originalPrice": 39.9,
+      "discountPercent": 26.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mq228ungk5c142",
+      "url": "https://s.shopee.com.br/60TMF5sJOx",
       "rating": 4.8,
-      "salesCount": 3006,
+      "salesCount": 4097,
       "official": true,
-      "seller": "Adora ",
-      "category": "Casa e organização"
+      "seller": "Barbour's Beauty",
+      "category": "Beleza",
+      "hot": true
     },
     {
-      "id": "21598656632",
-      "title": "Suporte Para Cpu Computador Ajustavel Rodizios",
-      "price": 22.2,
-      "originalPrice": 29.97,
-      "discountPercent": 25.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-li8txvm0m2wl05",
-      "url": "https://s.shopee.com.br/8VAhBcUusA",
-      "rating": 4.9,
-      "salesCount": 1276,
-      "seller": "Draw Papelaria",
-      "category": "Eletrônicos",
+      "id": "58211442575",
+      "title": "Deo Colônia Kaiak Miniatura Masculino 25ml",
+      "price": 33.1,
+      "originalPrice": 49.28,
+      "discountPercent": 32.8,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pk-mopv3g8qnk7h17",
+      "url": "https://s.shopee.com.br/1LhWeFaa0i",
+      "rating": 5,
+      "salesCount": 727,
+      "official": true,
+      "seller": "NATURA",
+      "category": "Beleza",
       "hot": true
     },
     {
@@ -104,20 +134,6 @@
       "category": "Beleza"
     },
     {
-      "id": "21078240245",
-      "title": "Mop Giratório Com Cesto Em Inox C/2 Refil  Cabo 140 cm e Dispenser Para Sabão - Nybc",
-      "price": 59.9,
-      "originalPrice": 93.59,
-      "discountPercent": 36,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mpwg5a2epczm1e",
-      "url": "https://s.shopee.com.br/30pj0S4Lkf",
-      "rating": 4.8,
-      "salesCount": 1568,
-      "seller": "Loja Nybc Oficial",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "23092618942",
       "title": "Óleo de Tratamento SOS Cachos 10 em 1 Multibenefícios 42ml",
       "price": 15.96,
@@ -132,6 +148,21 @@
       "category": "Beleza"
     },
     {
+      "id": "58266799438",
+      "title": "Kit coala Home Chá Branco - 4 Itens",
+      "price": 49.9,
+      "originalPrice": 67.9,
+      "discountPercent": 26.5,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-msa1d1kgw2dh93",
+      "url": "https://s.shopee.com.br/6fj307RrIH",
+      "rating": 5,
+      "salesCount": 4465,
+      "official": true,
+      "seller": "Coala Essências Oficial",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
       "id": "58263021202",
       "title": "BRILHO NOVO Kit Escova Sanitária Sem Contato, Refis Descartáveis com Detergente Incorporado | Cabo + Base + 36 Refis",
       "price": 45.9,
@@ -143,8 +174,7 @@
       "rating": 4.9,
       "salesCount": 3857,
       "seller": "BRILHO NOVO BR",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "58200486959",
@@ -162,18 +192,18 @@
       "hot": true
     },
     {
-      "id": "23698958223",
-      "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
-      "price": 39.9,
-      "originalPrice": 47.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-muxv8arqggzned",
-      "url": "https://s.shopee.com.br/6VPcnnkdKo",
+      "id": "41183604135",
+      "title": "Organizador de Bonés em Acrílico Transparente Suporte Porta Boné Expositor para Closet Guarda-Roupa Loja",
+      "price": 19.73,
+      "originalPrice": 23.32,
+      "discountPercent": 15.4,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825az-mrzb10z3wxdw0e",
+      "url": "https://s.shopee.com.br/2La3qDxzj5",
       "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 985,
-      "seller": "Jab Bazar Presentes",
-      "category": "Casa e organização"
+      "rating": 4.8,
+      "salesCount": 1891,
+      "seller": "MiDi Store",
+      "category": "Moda"
     },
     {
       "id": "58212047034",
@@ -217,20 +247,6 @@
       "official": true,
       "seller": "Melhor para Você",
       "category": "Casa e organização"
-    },
-    {
-      "id": "23398654174",
-      "title": "Calça Jeans Infantil  Wide Leg Cargo Black Juvenil 6 ao 14  ALTO PADRÃO LINHA PREMIUM",
-      "price": 49.9,
-      "originalPrice": 58.9,
-      "discountPercent": 15.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhur5wacvep7d",
-      "url": "https://s.shopee.com.br/4VeYQDTpD1",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3349,
-      "seller": "MUNDO INFANTIL ",
-      "category": "Moda"
     }
   ]
 }
