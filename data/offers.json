@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T05:14:26.228Z",
+  "updatedAt": "2026-11-24T06:17:40.025Z",
   "offers": [
     {
       "id": "22098181726",
@@ -143,6 +143,20 @@
       "url": "https://s.shopee.com.br/1LhWeFaa0i",
       "rating": 5,
       "salesCount": 727,
+      "official": true,
+      "seller": "NATURA",
+      "category": "Beleza"
+    },
+    {
+      "id": "52664692788",
+      "title": "Kriska Desodorante Colônia Miniatura 25 ml",
+      "price": 39.95,
+      "originalPrice": 54,
+      "discountPercent": 26,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259a-mr0o1qwmce1841",
+      "url": "https://s.shopee.com.br/6q2Tga6az1",
+      "rating": 4.9,
+      "salesCount": 1084,
       "official": true,
       "seller": "NATURA",
       "category": "Beleza"
