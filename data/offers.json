@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T02:07:13.241Z",
+  "updatedAt": "2026-11-24T02:38:01.650Z",
   "offers": [
     {
       "id": "22098181726",
@@ -13,6 +13,20 @@
       "salesCount": 778,
       "official": true,
       "seller": "Hinode ",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "58205100450",
+      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
+      "price": 19.9,
+      "originalPrice": 37.96,
+      "discountPercent": 47.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
+      "url": "https://s.shopee.com.br/4LL8DsDfWP",
+      "rating": 4.8,
+      "salesCount": 2046,
+      "seller": "Ela&Ela",
       "category": "Beleza",
       "hot": true
     },
@@ -43,6 +57,20 @@
       "salesCount": 779,
       "official": true,
       "seller": "Hinode ",
+      "category": "Beleza"
+    },
+    {
+      "id": "26320343473",
+      "title": "[NEW] JBSARA CENTELLA 77 WATERY CREAM 80ML",
+      "price": 62.99,
+      "originalPrice": 94.01,
+      "discountPercent": 33,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8259n-mvoc5aopuzghec",
+      "url": "https://s.shopee.com.br/3g5RQeGCsL",
+      "rating": 5,
+      "salesCount": 2252,
+      "official": true,
+      "seller": "koksara.kbeauty",
       "category": "Beleza"
     },
     {
@@ -161,20 +189,6 @@
       "hot": true
     },
     {
-      "id": "22892800438",
-      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
-      "price": 39.99,
-      "originalPrice": 51,
-      "discountPercent": 21.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
-      "url": "https://s.shopee.com.br/7fbaBsdGqk",
-      "rating": 4.8,
-      "salesCount": 2414,
-      "official": true,
-      "seller": "Abstract Decora",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58266799438",
       "title": "Kit coala Home Chá Branco - 4 Itens",
       "price": 49.9,
@@ -229,8 +243,21 @@
       "salesCount": 1308,
       "official": true,
       "seller": "ADCOS",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
+    },
+    {
+      "id": "23698958223",
+      "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
+      "price": 39.9,
+      "originalPrice": 47.9,
+      "discountPercent": 16.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-muxv8arqggzned",
+      "url": "https://s.shopee.com.br/6VPcnnkdKo",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 985,
+      "seller": "Jab Bazar Presentes",
+      "category": "Casa e organização"
     },
     {
       "id": "41183604135",
@@ -247,18 +274,18 @@
       "category": "Moda"
     },
     {
-      "id": "58212047034",
-      "title": "Lampião Solar LED Recarregável Camping Lanterna USB Luz Emergência Power Bank Portátil",
-      "price": 52.99,
-      "originalPrice": 63.99,
-      "discountPercent": 17.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mp9jmnv3sk5f57",
-      "url": "https://s.shopee.com.br/3Vm1iLUudK",
+      "id": "19139965863",
+      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
+      "price": 42.41,
+      "originalPrice": 49.9,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
+      "url": "https://s.shopee.com.br/AUvlZI1NAI",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1446,
-      "seller": "YiMarket",
-      "category": "Ferramentas"
+      "salesCount": 273,
+      "seller": "Gift Presentes",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "51352412625",
