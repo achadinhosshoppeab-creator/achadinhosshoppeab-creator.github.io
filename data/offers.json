@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T09:25:35.166Z",
+  "updatedAt": "2026-11-24T09:57:15.507Z",
   "offers": [
     {
       "id": "22098181726",
@@ -134,6 +134,21 @@
       "category": "Casa e organização"
     },
     {
+      "id": "22294347174",
+      "title": "Kit 10/20/30/40/50 Sacola Transparente PVC para Presente Lembrancinha Festa Infantil Casamento Embalagem Reutilizável",
+      "price": 29.99,
+      "originalPrice": 90.88,
+      "discountPercent": 67,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mlyli9sbtmv801",
+      "url": "https://s.shopee.com.br/8pnbBmQxlm",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1708,
+      "seller": "VidaBoa Store",
+      "category": "Presentes e papelaria",
+      "hot": true
+    },
+    {
       "id": "58211442575",
       "title": "Deo Colônia Kaiak Miniatura Masculino 25ml",
       "price": 33.1,
@@ -230,8 +245,7 @@
       "salesCount": 1308,
       "official": true,
       "seller": "ADCOS",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "23698958223",
