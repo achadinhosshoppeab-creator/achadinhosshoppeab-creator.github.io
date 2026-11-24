@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T12:56:06.354Z",
+  "updatedAt": "2026-11-24T13:17:06.101Z",
   "offers": [
     {
       "id": "22098181726",
@@ -17,35 +17,6 @@
       "hot": true
     },
     {
-      "id": "58205100450",
-      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
-      "price": 19.8,
-      "originalPrice": 37.96,
-      "discountPercent": 47.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
-      "url": "https://s.shopee.com.br/4LL8DsDfWP",
-      "rating": 4.8,
-      "salesCount": 2046,
-      "seller": "Ela&Ela",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "58271490008",
-      "title": "KIT Finalizadores Elseve Loreal Paris: Colágeno + Óleo Extraordinário + Liso dos Sonhos",
-      "price": 108.2,
-      "originalPrice": 183.39,
-      "discountPercent": 41,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mus3indp2tqb67",
-      "url": "https://s.shopee.com.br/AKcL4jaQ9D",
-      "rating": 4.9,
-      "salesCount": 1425,
-      "official": true,
-      "seller": "L'Oréal Paris - Loja Oficial",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
       "id": "22697502615",
       "title": "Perfume Masculino Lattitude Brave Hinode 100ml",
       "price": 112.69,
@@ -57,38 +28,8 @@
       "salesCount": 779,
       "official": true,
       "seller": "Hinode ",
-      "category": "Beleza"
-    },
-    {
-      "id": "58218169635",
-      "title": "Protetor Solar Facial Anasol FPS 70 Clareador Anti-Manchas Toque Seco 60g",
-      "price": 44.9,
-      "originalPrice": 102.05,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mt5m3hxuij9g5b",
-      "url": "https://s.shopee.com.br/AUvmCkyNgN",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1548,
-      "official": true,
-      "seller": "Anasol Oficial",
       "category": "Beleza",
       "hot": true
-    },
-    {
-      "id": "28867680104",
-      "title": "[NEW] NUMBUZIN No.9 NAD BIO Lifting Sil Essence 30ml, 50ml",
-      "price": 63.99,
-      "originalPrice": 92.68,
-      "discountPercent": 31,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8257x-mrgvlvtzbjt2da",
-      "url": "https://s.shopee.com.br/2gCuEob8Cp",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1859,
-      "official": true,
-      "seller": "GLORY OF SEOUL",
-      "category": "Beleza"
     },
     {
       "id": "23898813796",
@@ -135,20 +76,6 @@
       "hot": true
     },
     {
-      "id": "19598142136",
-      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
-      "price": 118.15,
-      "originalPrice": 139,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
-      "url": "https://s.shopee.com.br/2VtU2VTNbk",
-      "rating": 5,
-      "salesCount": 2405,
-      "official": true,
-      "seller": "meuollie",
-      "category": "Beleza"
-    },
-    {
       "id": "58263021202",
       "title": "BRILHO NOVO Kit Escova Sanitária Sem Contato, Refis Descartáveis com Detergente Incorporado | Cabo + Base + 36 Refis",
       "price": 38.9,
@@ -164,6 +91,21 @@
       "hot": true
     },
     {
+      "id": "22892800438",
+      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
+      "price": 39.99,
+      "originalPrice": 51,
+      "discountPercent": 21.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
+      "url": "https://s.shopee.com.br/7fbaBsdGqk",
+      "rating": 4.8,
+      "salesCount": 2414,
+      "official": true,
+      "seller": "Abstract Decora",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
       "id": "58217669744",
       "title": "Bebedouro Automático Aves Galinha Codorna Copinho Vermelho",
       "price": 18,
@@ -175,21 +117,22 @@
       "rating": 4.9,
       "salesCount": 1125,
       "seller": "Lunexis",
-      "category": "Pet e bebê"
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
-      "id": "58200486959",
-      "title": "Protetor Solar Stick Tonalizante FPS 80",
-      "price": 109,
-      "originalPrice": 175.81,
-      "discountPercent": 38,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ff-mh0kxuqjsikv32",
-      "url": "https://s.shopee.com.br/7pv16CIasu",
-      "rating": 5,
-      "salesCount": 1308,
-      "official": true,
-      "seller": "ADCOS",
-      "category": "Beleza",
+      "id": "58263885872",
+      "title": "OralGos Escova de Dentes com Cerdas Ultrafinas,Limpa Língua, Limpeza Completa,6 Cores",
+      "price": 29.9,
+      "originalPrice": 49.83,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-muivdbab11c239",
+      "url": "https://s.shopee.com.br/9071VtXcMe",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1918,
+      "seller": "Toya Corp",
+      "category": "Casa e organização",
       "hot": true
     },
     {
@@ -207,32 +150,19 @@
       "category": "Casa e organização"
     },
     {
-      "id": "19139965863",
-      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
-      "price": 42.41,
-      "originalPrice": 49.9,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
-      "url": "https://s.shopee.com.br/AUvlZI1NAI",
+      "id": "51352412625",
+      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
+      "price": 51.99,
+      "originalPrice": 64.9,
+      "discountPercent": 19.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
+      "url": "https://s.shopee.com.br/70LtOj0Bvf",
       "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 273,
-      "seller": "Gift Presentes",
-      "category": "Presentes e papelaria"
-    },
-    {
-      "id": "23398654174",
-      "title": "Calça Jeans Infantil  Wide Leg Cargo Black Juvenil 6 ao 14  ALTO PADRÃO LINHA PREMIUM",
-      "price": 49.9,
-      "originalPrice": 58.9,
-      "discountPercent": 15.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhur5wacvep7d",
-      "url": "https://s.shopee.com.br/4VeYQDTpD1",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3349,
-      "seller": "MUNDO INFANTIL ",
-      "category": "Moda"
+      "rating": 4.5,
+      "salesCount": 2331,
+      "official": true,
+      "seller": "impório_ecommerce",
+      "category": "Casa e organização"
     }
   ]
 }
