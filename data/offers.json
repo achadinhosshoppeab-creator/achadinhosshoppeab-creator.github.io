@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-11-24T18:37:59.073Z",
+  "updatedAt": "2026-11-24T19:00:09.365Z",
   "offers": [
+    {
+      "id": "22098181726",
+      "title": "Perfume Masculino Empire Sport HINODE 100ml",
+      "price": 75.21,
+      "originalPrice": 174.91,
+      "discountPercent": 57,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mspkfpuk19txe8",
+      "url": "https://s.shopee.com.br/6q2TgRj5KW",
+      "rating": 4.9,
+      "salesCount": 778,
+      "official": true,
+      "seller": "Hinode ",
+      "category": "Beleza",
+      "hot": true
+    },
     {
       "id": "58205100450",
       "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
@@ -16,19 +31,49 @@
       "hot": true
     },
     {
-      "id": "58271490008",
-      "title": "KIT Finalizadores Elseve Loreal Paris: Colágeno + Óleo Extraordinário + Liso dos Sonhos",
-      "price": 108.2,
-      "originalPrice": 183.39,
-      "discountPercent": 41,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mus3indp2tqb67",
-      "url": "https://s.shopee.com.br/AKcL4jaQ9D",
+      "id": "58218169635",
+      "title": "Protetor Solar Facial Anasol FPS 70 Clareador Anti-Manchas Toque Seco 60g",
+      "price": 44.9,
+      "originalPrice": 102.05,
+      "discountPercent": 56,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mt5m3hxuij9g5b",
+      "url": "https://s.shopee.com.br/AUvmCkyNgN",
+      "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1425,
+      "salesCount": 1548,
       "official": true,
-      "seller": "L'Oréal Paris - Loja Oficial",
+      "seller": "Anasol Oficial",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "58211442575",
+      "title": "Deo Colônia Kaiak Miniatura Masculino 25ml",
+      "price": 33.1,
+      "originalPrice": 49.28,
+      "discountPercent": 32.8,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pk-mopv3g8qnk7h17",
+      "url": "https://s.shopee.com.br/1LhWeFaa0i",
+      "rating": 5,
+      "salesCount": 727,
+      "official": true,
+      "seller": "NATURA",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "19598142136",
+      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
+      "price": 118.15,
+      "originalPrice": 139,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
+      "url": "https://s.shopee.com.br/2VtU2VTNbk",
+      "rating": 5,
+      "salesCount": 2405,
+      "official": true,
+      "seller": "meuollie",
+      "category": "Beleza"
     },
     {
       "id": "48565120227",
@@ -42,6 +87,21 @@
       "salesCount": 643,
       "seller": "COMERCCIOBRASIL",
       "category": "Pet e bebê",
+      "hot": true
+    },
+    {
+      "id": "22892800438",
+      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
+      "price": 39.99,
+      "originalPrice": 51,
+      "discountPercent": 21.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
+      "url": "https://s.shopee.com.br/7fbaBsdGqk",
+      "rating": 4.8,
+      "salesCount": 2414,
+      "official": true,
+      "seller": "Abstract Decora",
+      "category": "Casa e organização",
       "hot": true
     },
     {
@@ -60,20 +120,33 @@
       "hot": true
     },
     {
-      "id": "51352412625",
-      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
-      "price": 51.99,
-      "originalPrice": 64.9,
-      "discountPercent": 19.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
-      "url": "https://s.shopee.com.br/70LtOj0Bvf",
+      "id": "58210453351",
+      "title": "Organizador de Banheiro com Tampa Deslizante e Base Rotativa – 3 Espaços para Escovas de Dentes",
+      "price": 28.99,
+      "originalPrice": 37.49,
+      "discountPercent": 22.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtpblnio9eyo35",
+      "url": "https://s.shopee.com.br/906xmOEyph",
       "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 2331,
-      "official": true,
-      "seller": "impório_ecommerce",
+      "rating": 4.9,
+      "salesCount": 2347,
+      "seller": "CECES BRANDS BRASI",
       "category": "Casa e organização",
       "hot": true
+    },
+    {
+      "id": "47053971674",
+      "title": "Ventilador Torre Climatizador Ventisol Clit Abastece 3,6 Litros 5 em 1 Silencioso",
+      "price": 288.1,
+      "originalPrice": 354.99,
+      "discountPercent": 18.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivobz12jx1e76",
+      "url": "https://s.shopee.com.br/30pkjoCdMA",
+      "rating": 4.9,
+      "salesCount": 1472,
+      "official": true,
+      "seller": "Melhor para Você",
+      "category": "Casa e organização"
     },
     {
       "id": "41781797063",
@@ -87,8 +160,7 @@
       "rating": 4.9,
       "salesCount": 58,
       "seller": "YELLOW LASER 3",
-      "category": "Presentes e papelaria",
-      "hot": true
+      "category": "Presentes e papelaria"
     },
     {
       "id": "23398654174",
@@ -102,8 +174,7 @@
       "rating": 4.9,
       "salesCount": 3349,
       "seller": "MUNDO INFANTIL ",
-      "category": "Moda",
-      "hot": true
+      "category": "Moda"
     }
   ]
 }
