@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T09:57:15.507Z",
+  "updatedAt": "2026-11-24T10:28:54.258Z",
   "offers": [
     {
       "id": "22098181726",
@@ -90,21 +90,6 @@
       "hot": true
     },
     {
-      "id": "28867680104",
-      "title": "[NEW] NUMBUZIN No.9 NAD BIO Lifting Sil Essence 30ml, 50ml",
-      "price": 63.99,
-      "originalPrice": 92.68,
-      "discountPercent": 31,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8257x-mrgvlvtzbjt2da",
-      "url": "https://s.shopee.com.br/2gCuEob8Cp",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1859,
-      "official": true,
-      "seller": "GLORY OF SEOUL",
-      "category": "Beleza"
-    },
-    {
       "id": "23898813796",
       "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
       "price": 29.4,
@@ -132,21 +117,6 @@
       "official": true,
       "seller": "Adora ",
       "category": "Casa e organização"
-    },
-    {
-      "id": "22294347174",
-      "title": "Kit 10/20/30/40/50 Sacola Transparente PVC para Presente Lembrancinha Festa Infantil Casamento Embalagem Reutilizável",
-      "price": 29.99,
-      "originalPrice": 90.88,
-      "discountPercent": 67,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mlyli9sbtmv801",
-      "url": "https://s.shopee.com.br/8pnbBmQxlm",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1708,
-      "seller": "VidaBoa Store",
-      "category": "Presentes e papelaria",
-      "hot": true
     },
     {
       "id": "58211442575",
@@ -245,7 +215,8 @@
       "salesCount": 1308,
       "official": true,
       "seller": "ADCOS",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "23698958223",
@@ -259,6 +230,20 @@
       "rating": 4.9,
       "salesCount": 985,
       "seller": "Jab Bazar Presentes",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58210453351",
+      "title": "Organizador de Banheiro com Tampa Deslizante e Base Rotativa – 3 Espaços para Escovas de Dentes",
+      "price": 28.99,
+      "originalPrice": 37.49,
+      "discountPercent": 22.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtpblnio9eyo35",
+      "url": "https://s.shopee.com.br/906xmOEyph",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 2347,
+      "seller": "CECES BRANDS BRASI",
       "category": "Casa e organização"
     },
     {
@@ -288,21 +273,6 @@
       "salesCount": 273,
       "seller": "Gift Presentes",
       "category": "Presentes e papelaria"
-    },
-    {
-      "id": "51352412625",
-      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
-      "price": 51.99,
-      "originalPrice": 64.9,
-      "discountPercent": 19.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
-      "url": "https://s.shopee.com.br/70LtOj0Bvf",
-      "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 2331,
-      "official": true,
-      "seller": "impório_ecommerce",
-      "category": "Casa e organização"
     },
     {
       "id": "47053971674",
