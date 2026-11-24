@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T03:09:33.291Z",
+  "updatedAt": "2026-11-24T03:40:06.135Z",
   "offers": [
     {
       "id": "22098181726",
@@ -162,20 +162,6 @@
       "category": "Beleza"
     },
     {
-      "id": "21078240245",
-      "title": "Mop Giratório Com Cesto Em Inox C/2 Refil  Cabo 140 cm e Dispenser Para Sabão - Nybc",
-      "price": 59.9,
-      "originalPrice": 93.59,
-      "discountPercent": 36,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mpwg5a2epczm1e",
-      "url": "https://s.shopee.com.br/30pj0S4Lkf",
-      "rating": 4.8,
-      "salesCount": 1568,
-      "seller": "Loja Nybc Oficial",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "58263021202",
       "title": "BRILHO NOVO Kit Escova Sanitária Sem Contato, Refis Descartáveis com Detergente Incorporado | Cabo + Base + 36 Refis",
       "price": 38.9,
@@ -189,20 +175,6 @@
       "seller": "BRILHO NOVO BR",
       "category": "Casa e organização",
       "hot": true
-    },
-    {
-      "id": "23893056825",
-      "title": "Amend Essencial Acidificante Máscara Equilíbrio do PH - 250g",
-      "price": 32.9,
-      "originalPrice": 39.9,
-      "discountPercent": 17.5,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1e4r99socpsae",
-      "url": "https://s.shopee.com.br/5LDfPia7fr",
-      "rating": 5,
-      "salesCount": 3589,
-      "official": true,
-      "seller": "AMEND OFICIAL",
-      "category": "Beleza"
     },
     {
       "id": "23092618942",
@@ -272,7 +244,8 @@
       "salesCount": 1308,
       "official": true,
       "seller": "ADCOS",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "23698958223",
@@ -287,6 +260,20 @@
       "salesCount": 985,
       "seller": "Jab Bazar Presentes",
       "category": "Casa e organização"
+    },
+    {
+      "id": "58212047034",
+      "title": "Lampião Solar LED Recarregável Camping Lanterna USB Luz Emergência Power Bank Portátil",
+      "price": 52.99,
+      "originalPrice": 63.99,
+      "discountPercent": 17.2,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mp9jmnv3sk5f57",
+      "url": "https://s.shopee.com.br/3Vm1iLUudK",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1446,
+      "seller": "YiMarket",
+      "category": "Ferramentas"
     },
     {
       "id": "19139965863",
@@ -315,6 +302,20 @@
       "salesCount": 2331,
       "official": true,
       "seller": "impório_ecommerce",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "47053971674",
+      "title": "Ventilador Torre Climatizador Ventisol Clit Abastece 3,6 Litros 5 em 1 Silencioso",
+      "price": 288.1,
+      "originalPrice": 354.99,
+      "discountPercent": 18.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivobz12jx1e76",
+      "url": "https://s.shopee.com.br/30pkjoCdMA",
+      "rating": 4.9,
+      "salesCount": 1472,
+      "official": true,
+      "seller": "Melhor para Você",
       "category": "Casa e organização"
     },
     {
