@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T11:51:45.662Z",
+  "updatedAt": "2026-11-24T12:11:34.045Z",
   "offers": [
     {
       "id": "22098181726",
@@ -17,35 +17,6 @@
       "hot": true
     },
     {
-      "id": "58205100450",
-      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
-      "price": 19.8,
-      "originalPrice": 37.96,
-      "discountPercent": 47.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
-      "url": "https://s.shopee.com.br/4LL8DsDfWP",
-      "rating": 4.8,
-      "salesCount": 2046,
-      "seller": "Ela&Ela",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "58271490008",
-      "title": "KIT Finalizadores Elseve Loreal Paris: Colágeno + Óleo Extraordinário + Liso dos Sonhos",
-      "price": 108.2,
-      "originalPrice": 183.39,
-      "discountPercent": 41,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mus3indp2tqb67",
-      "url": "https://s.shopee.com.br/AKcL4jaQ9D",
-      "rating": 4.9,
-      "salesCount": 1425,
-      "official": true,
-      "seller": "L'Oréal Paris - Loja Oficial",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
       "id": "22697502615",
       "title": "Perfume Masculino Lattitude Brave Hinode 100ml",
       "price": 112.69,
@@ -57,21 +28,6 @@
       "salesCount": 779,
       "official": true,
       "seller": "Hinode ",
-      "category": "Beleza"
-    },
-    {
-      "id": "58218169635",
-      "title": "Protetor Solar Facial Anasol FPS 70 Clareador Anti-Manchas Toque Seco 60g",
-      "price": 44.9,
-      "originalPrice": 102.05,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mt5m3hxuij9g5b",
-      "url": "https://s.shopee.com.br/AUvmCkyNgN",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1548,
-      "official": true,
-      "seller": "Anasol Oficial",
       "category": "Beleza",
       "hot": true
     },
@@ -91,6 +47,21 @@
       "hot": true
     },
     {
+      "id": "47810770730",
+      "title": "Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza linhas - Kaziva",
+      "price": 22.9,
+      "originalPrice": 27.9,
+      "discountPercent": 17.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moe991hva9z909",
+      "url": "https://s.shopee.com.br/4VeYQ2Gfck",
+      "rating": 4.8,
+      "salesCount": 3006,
+      "official": true,
+      "seller": "Adora ",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
       "id": "58211442575",
       "title": "Deo Colônia Kaiak Miniatura Masculino 25ml",
       "price": 33.1,
@@ -106,64 +77,6 @@
       "hot": true
     },
     {
-      "id": "19598142136",
-      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
-      "price": 118.15,
-      "originalPrice": 139,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
-      "url": "https://s.shopee.com.br/2VtU2VTNbk",
-      "rating": 5,
-      "salesCount": 2405,
-      "official": true,
-      "seller": "meuollie",
-      "category": "Beleza"
-    },
-    {
-      "id": "58263021202",
-      "title": "BRILHO NOVO Kit Escova Sanitária Sem Contato, Refis Descartáveis com Detergente Incorporado | Cabo + Base + 36 Refis",
-      "price": 38.9,
-      "originalPrice": 59.8,
-      "discountPercent": 34.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-msdw742h9vd1fe",
-      "url": "https://s.shopee.com.br/AAIvAYafdR",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3857,
-      "seller": "BRILHO NOVO BR",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "22892800438",
-      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
-      "price": 39.99,
-      "originalPrice": 51,
-      "discountPercent": 21.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
-      "url": "https://s.shopee.com.br/7fbaBsdGqk",
-      "rating": 4.8,
-      "salesCount": 2414,
-      "official": true,
-      "seller": "Abstract Decora",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58263885872",
-      "title": "OralGos Escova de Dentes com Cerdas Ultrafinas,Limpa Língua, Limpeza Completa,6 Cores",
-      "price": 29.9,
-      "originalPrice": 49.83,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-muivdbab11c239",
-      "url": "https://s.shopee.com.br/9071VtXcMe",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1918,
-      "seller": "Toya Corp",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "23698958223",
       "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
       "price": 39.9,
@@ -175,7 +88,8 @@
       "rating": 4.9,
       "salesCount": 985,
       "seller": "Jab Bazar Presentes",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "51352412625",
@@ -190,35 +104,8 @@
       "salesCount": 2331,
       "official": true,
       "seller": "impório_ecommerce",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "47053971674",
-      "title": "Ventilador Torre Climatizador Ventisol Clit Abastece 3,6 Litros 5 em 1 Silencioso",
-      "price": 288.1,
-      "originalPrice": 354.99,
-      "discountPercent": 18.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivobz12jx1e76",
-      "url": "https://s.shopee.com.br/30pkjoCdMA",
-      "rating": 4.9,
-      "salesCount": 1472,
-      "official": true,
-      "seller": "Melhor para Você",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "41781797063",
-      "title": "ESPELHO DE CORAÇÃO E RETANGULO PARA BOTTON MAQUINA CHINESA ACHADINHOS DA SHOPEE",
-      "price": 19.92,
-      "originalPrice": 23.98,
-      "discountPercent": 16.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mvma47ic3if426",
-      "url": "https://s.shopee.com.br/3B9ApausIt",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 58,
-      "seller": "YELLOW LASER 3",
-      "category": "Presentes e papelaria"
+      "category": "Casa e organização",
+      "hot": true
     }
   ]
 }
