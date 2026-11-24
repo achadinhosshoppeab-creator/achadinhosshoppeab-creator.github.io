@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T10:28:54.258Z",
+  "updatedAt": "2026-11-24T11:00:06.101Z",
   "offers": [
     {
       "id": "22098181726",
@@ -90,6 +90,21 @@
       "hot": true
     },
     {
+      "id": "28867680104",
+      "title": "[NEW] NUMBUZIN No.9 NAD BIO Lifting Sil Essence 30ml, 50ml",
+      "price": 63.99,
+      "originalPrice": 92.68,
+      "discountPercent": 31,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8257x-mrgvlvtzbjt2da",
+      "url": "https://s.shopee.com.br/2gCuEob8Cp",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 1859,
+      "official": true,
+      "seller": "GLORY OF SEOUL",
+      "category": "Beleza"
+    },
+    {
       "id": "23898813796",
       "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
       "price": 29.4,
@@ -176,20 +191,6 @@
       "hot": true
     },
     {
-      "id": "22892800438",
-      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
-      "price": 39.99,
-      "originalPrice": 51,
-      "discountPercent": 21.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
-      "url": "https://s.shopee.com.br/7fbaBsdGqk",
-      "rating": 4.8,
-      "salesCount": 2414,
-      "official": true,
-      "seller": "Abstract Decora",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58217669744",
       "title": "Bebedouro Automático Aves Galinha Codorna Copinho Vermelho",
       "price": 18,
@@ -219,48 +220,6 @@
       "hot": true
     },
     {
-      "id": "23698958223",
-      "title": "Organizador de Maquiagem com Espelho e Gavetas - Compacto e Sofisticado, Modelo A885",
-      "price": 39.9,
-      "originalPrice": 47.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-muxv8arqggzned",
-      "url": "https://s.shopee.com.br/6VPcnnkdKo",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 985,
-      "seller": "Jab Bazar Presentes",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58210453351",
-      "title": "Organizador de Banheiro com Tampa Deslizante e Base Rotativa – 3 Espaços para Escovas de Dentes",
-      "price": 28.99,
-      "originalPrice": 37.49,
-      "discountPercent": 22.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtpblnio9eyo35",
-      "url": "https://s.shopee.com.br/906xmOEyph",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2347,
-      "seller": "CECES BRANDS BRASI",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58212047034",
-      "title": "Lampião Solar LED Recarregável Camping Lanterna USB Luz Emergência Power Bank Portátil",
-      "price": 52.99,
-      "originalPrice": 63.99,
-      "discountPercent": 17.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mp9jmnv3sk5f57",
-      "url": "https://s.shopee.com.br/3Vm1iLUudK",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1446,
-      "seller": "YiMarket",
-      "category": "Ferramentas"
-    },
-    {
       "id": "19139965863",
       "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
       "price": 42.41,
@@ -275,17 +234,18 @@
       "category": "Presentes e papelaria"
     },
     {
-      "id": "47053971674",
-      "title": "Ventilador Torre Climatizador Ventisol Clit Abastece 3,6 Litros 5 em 1 Silencioso",
-      "price": 288.1,
-      "originalPrice": 354.99,
-      "discountPercent": 18.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivobz12jx1e76",
-      "url": "https://s.shopee.com.br/30pkjoCdMA",
-      "rating": 4.9,
-      "salesCount": 1472,
+      "id": "51352412625",
+      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
+      "price": 51.99,
+      "originalPrice": 64.9,
+      "discountPercent": 19.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
+      "url": "https://s.shopee.com.br/70LtOj0Bvf",
+      "hasVariantPrices": true,
+      "rating": 4.5,
+      "salesCount": 2331,
       "official": true,
-      "seller": "Melhor para Você",
+      "seller": "impório_ecommerce",
       "category": "Casa e organização"
     },
     {
