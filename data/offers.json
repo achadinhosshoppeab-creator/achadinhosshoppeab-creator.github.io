@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-24T20:47:12.556Z",
+  "updatedAt": "2026-11-24T21:08:06.841Z",
   "offers": [
+    {
+      "id": "58205100450",
+      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
+      "price": 19.9,
+      "originalPrice": 37.96,
+      "discountPercent": 47.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
+      "url": "https://s.shopee.com.br/4LL8DsDfWP",
+      "rating": 4.8,
+      "salesCount": 2098,
+      "seller": "Ela&Ela",
+      "category": "Beleza",
+      "hot": true
+    },
     {
       "id": "58271490008",
       "title": "KIT Finalizadores Elseve Loreal Paris: Colágeno + Óleo Extraordinário + Liso dos Sonhos",
@@ -33,6 +47,22 @@
       "hot": true
     },
     {
+      "id": "9315675115",
+      "title": "Bota Texana GiGiL Feminina Cano Alto Salto Médio Western Bordada",
+      "price": 59.99,
+      "originalPrice": 119.99,
+      "discountPercent": 50,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu2-mknq92e0nf2a2f",
+      "url": "https://s.shopee.com.br/2BGdg4K71B",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 407,
+      "official": true,
+      "seller": "GiGiL",
+      "category": "Moda",
+      "hot": true
+    },
+    {
       "id": "19598142136",
       "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
       "price": 118.15,
@@ -44,8 +74,7 @@
       "salesCount": 2472,
       "official": true,
       "seller": "meuollie",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "58263021202",
@@ -78,34 +107,35 @@
       "hot": true
     },
     {
-      "id": "44251970715",
-      "title": "Planta Artificial Palmeira com Vaso 15 Folhas  Polietileno Cone Romano",
-      "price": 64.9,
-      "originalPrice": 80.9,
-      "discountPercent": 19.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mtr3kl0m40zmd0",
-      "url": "https://s.shopee.com.br/6q2TCP5d7J",
+      "id": "23498300221",
+      "title": "Bota Feminina GiGiL Cano Médio Enrugado Slouch Western Salto Alto Bico Fino Texana Country Elegante",
+      "price": 59.99,
+      "originalPrice": 99.99,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8luys2iiidt9d",
+      "url": "https://s.shopee.com.br/1W0wsqMeMz",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 915,
+      "salesCount": 373,
       "official": true,
-      "seller": "Agiani Decor",
-      "category": "Casa e organização",
+      "seller": "GiGiL",
+      "category": "Moda",
       "hot": true
     },
     {
-      "id": "41781797063",
-      "title": "ESPELHO DE CORAÇÃO E RETANGULO PARA BOTTON MAQUINA CHINESA ACHADINHOS DA SHOPEE",
-      "price": 19.92,
-      "originalPrice": 23.98,
-      "discountPercent": 16.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mvma47ic3if426",
-      "url": "https://s.shopee.com.br/3B9ApausIt",
+      "id": "51352412625",
+      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
+      "price": 51.99,
+      "originalPrice": 64.9,
+      "discountPercent": 19.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
+      "url": "https://s.shopee.com.br/70LtOj0Bvf",
       "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 58,
-      "seller": "YELLOW LASER 3",
-      "category": "Presentes e papelaria",
+      "rating": 4.5,
+      "salesCount": 2330,
+      "official": true,
+      "seller": "impório_ecommerce",
+      "category": "Casa e organização",
       "hot": true
     }
   ]
