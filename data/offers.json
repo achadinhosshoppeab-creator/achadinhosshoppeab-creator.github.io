@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T13:19:03.260Z",
+  "updatedAt": "2026-11-25T13:40:47.994Z",
   "offers": [
     {
       "id": "58205100450",
@@ -41,8 +41,7 @@
       "rating": 4.9,
       "salesCount": 889,
       "seller": "eKing commerce",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "25745811858",
@@ -59,18 +58,18 @@
       "category": "Cozinha"
     },
     {
-      "id": "19598142136",
-      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
-      "price": 118.15,
-      "originalPrice": 139,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
-      "url": "https://s.shopee.com.br/1qds4AYcK5",
-      "rating": 5,
-      "salesCount": 2472,
-      "official": true,
-      "seller": "meuollie",
-      "category": "Beleza",
+      "id": "58203668922",
+      "title": "Jarra De Vidro 1L Com Tampa Para Água Suco Garrafa Modelo Suíça",
+      "price": 21.98,
+      "originalPrice": 38.56,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mvw91ychr20wf0",
+      "url": "https://s.shopee.com.br/30ppxtVKj6",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1616,
+      "seller": "JV  Store",
+      "category": "Cozinha",
       "hot": true
     },
     {
@@ -89,33 +88,64 @@
       "hot": true
     },
     {
-      "id": "21135940174",
-      "title": "Fone de ouvido Headset Gamer para Jogos Xbox One Ps4 Celular Pc com Microfone LC-862",
-      "price": 39.96,
-      "originalPrice": 90.96,
-      "discountPercent": 56.1,
-      "imageUrl": "https://cf.shopee.com.br/file/bd9c7cc4a4f13e10b38af3025e8f4b27",
-      "url": "https://s.shopee.com.br/1CEOQb8uH",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 430,
-      "seller": "Ankco Shop",
-      "category": "Eletrônicos",
+      "id": "22892800438",
+      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
+      "price": 39.99,
+      "originalPrice": 51,
+      "discountPercent": 21.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
+      "url": "https://s.shopee.com.br/6AmrBqMklO",
+      "rating": 4.8,
+      "salesCount": 2312,
+      "official": true,
+      "seller": "Abstract Decora",
+      "category": "Casa e organização",
       "hot": true
     },
     {
-      "id": "55465012839",
-      "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos - 500 mL",
-      "price": 16.88,
-      "originalPrice": 23.87,
-      "discountPercent": 29.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mr7pr7orsr9j54",
-      "url": "https://s.shopee.com.br/5fqbBpJxwC",
+      "id": "58263885872",
+      "title": "OralGos Escova de Dentes com Cerdas Ultrafinas,Limpa Língua, Limpeza Completa,6 Cores",
+      "price": 29.9,
+      "originalPrice": 49.83,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-muivdbab11c239",
+      "url": "https://s.shopee.com.br/9071VtXcMe",
+      "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 592,
+      "salesCount": 2046,
+      "seller": "Toya Corp",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "22892923302",
+      "title": "Scarpin Feminino Shekinah Bico Fino Salto Bloco Grosso Noiva Casamento",
+      "price": 65.84,
+      "originalPrice": 79.9,
+      "discountPercent": 17.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-msk80zc2xjpg6c",
+      "url": "https://s.shopee.com.br/4fy3PFxYL5",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3288,
       "official": true,
-      "seller": "mypetone",
-      "category": "Pet e bebê",
+      "seller": "Shekinah Calçados",
+      "category": "Moda",
+      "hot": true
+    },
+    {
+      "id": "22493863963",
+      "title": "The Perfect Top Insider",
+      "price": 69,
+      "originalPrice": 99,
+      "discountPercent": 30.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257y-mfv6dm045f6354",
+      "url": "https://s.shopee.com.br/9V3JA8f9WZ",
+      "rating": 4.9,
+      "salesCount": 7391,
+      "official": true,
+      "seller": "INSIDER",
+      "category": "Moda",
       "hot": true
     },
     {
@@ -131,21 +161,6 @@
       "official": true,
       "seller": "Melhor para Você",
       "category": "Casa e organização"
-    },
-    {
-      "id": "58209212381",
-      "title": "5 Trenas 5m Fita Métrica Profissional Aço Reforçado Emborrachada com Trava e Clip Alta Precisão",
-      "price": 17.98,
-      "originalPrice": 21.98,
-      "discountPercent": 18.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mn9pi191uzgi34",
-      "url": "https://s.shopee.com.br/1BOBErerpu",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 475,
-      "seller": "PENGFA TECH LTDA",
-      "category": "Ferramentas",
-      "hot": true
     }
   ]
 }
