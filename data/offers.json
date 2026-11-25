@@ -1,49 +1,6 @@
 {
-  "updatedAt": "2026-11-25T14:45:10.638Z",
+  "updatedAt": "2026-11-25T15:05:23.603Z",
   "offers": [
-    {
-      "id": "58205100450",
-      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
-      "price": 19.8,
-      "originalPrice": 37.96,
-      "discountPercent": 47.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
-      "url": "https://s.shopee.com.br/8AXw7RwMt1",
-      "rating": 4.8,
-      "salesCount": 2098,
-      "seller": "Ela&Ela",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "25745811858",
-      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
-      "price": 247.9,
-      "originalPrice": 307.6,
-      "discountPercent": 19.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
-      "url": "https://s.shopee.com.br/4fy3P4g8Tz",
-      "rating": 4.9,
-      "salesCount": 1727,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Cozinha"
-    },
-    {
-      "id": "58203668922",
-      "title": "Jarra De Vidro 1L Com Tampa Para Água Suco Garrafa Modelo Suíça",
-      "price": 21.98,
-      "originalPrice": 38.56,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mvw91ychr20wf0",
-      "url": "https://s.shopee.com.br/30ppxtVKj6",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1616,
-      "seller": "JV  Store",
-      "category": "Cozinha",
-      "hot": true
-    },
     {
       "id": "58263021202",
       "title": "BRILHO NOVO Kit Escova Sanitária Sem Contato, Refis Descartáveis com Detergente Incorporado | Cabo + Base + 36 Refis",
@@ -60,18 +17,32 @@
       "hot": true
     },
     {
-      "id": "21135940174",
-      "title": "Fone de ouvido Headset Gamer para Jogos Xbox One Ps4 Celular Pc com Microfone LC-862",
-      "price": 39.96,
-      "originalPrice": 90.96,
-      "discountPercent": 56.1,
-      "imageUrl": "https://cf.shopee.com.br/file/bd9c7cc4a4f13e10b38af3025e8f4b27",
-      "url": "https://s.shopee.com.br/1CEOQb8uH",
+      "id": "58210453351",
+      "title": "Organizador de Banheiro com Tampa Deslizante e Base Rotativa – 3 Espaços para Escovas de Dentes",
+      "price": 28.99,
+      "originalPrice": 45.99,
+      "discountPercent": 37,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtpblnio9eyo35",
+      "url": "https://s.shopee.com.br/7AfONkQ87F",
+      "rating": 4.9,
+      "salesCount": 2413,
+      "seller": "CECES BRANDS BRASI",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "58263885872",
+      "title": "OralGos Escova de Dentes com Cerdas Ultrafinas,Limpa Língua, Limpeza Completa,6 Cores",
+      "price": 29.9,
+      "originalPrice": 49.83,
+      "discountPercent": 40,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-muivdbab11c239",
+      "url": "https://s.shopee.com.br/9071VtXcMe",
       "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 430,
-      "seller": "Ankco Shop",
-      "category": "Eletrônicos",
+      "rating": 4.9,
+      "salesCount": 2046,
+      "seller": "Toya Corp",
+      "category": "Casa e organização",
       "hot": true
     },
     {
@@ -102,7 +73,8 @@
       "salesCount": 3288,
       "official": true,
       "seller": "Shekinah Calçados",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "22493863963",
@@ -110,7 +82,7 @@
       "price": 69,
       "originalPrice": 99,
       "discountPercent": 30.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4k-m7wmqzkvz4x3e4",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257y-mfv6dm045f6354",
       "url": "https://s.shopee.com.br/9V3JA8f9WZ",
       "rating": 4.9,
       "salesCount": 7391,
@@ -118,36 +90,6 @@
       "seller": "INSIDER",
       "category": "Moda",
       "hot": true
-    },
-    {
-      "id": "51352412625",
-      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
-      "price": 51.99,
-      "originalPrice": 64.9,
-      "discountPercent": 19.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
-      "url": "https://s.shopee.com.br/BVe2tclK0",
-      "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 2330,
-      "official": true,
-      "seller": "impório_ecommerce",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "47053971674",
-      "title": "Ventilador Torre Climatizador Ventisol Clit Abastece 3,6 Litros 5 em 1 Silencioso",
-      "price": 288.1,
-      "originalPrice": 354.99,
-      "discountPercent": 18.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivobz12jx1e76",
-      "url": "https://s.shopee.com.br/3g5WDKPmXX",
-      "rating": 4.9,
-      "salesCount": 1500,
-      "official": true,
-      "seller": "Melhor para Você",
-      "category": "Casa e organização"
     },
     {
       "id": "58209212381",
@@ -161,7 +103,8 @@
       "rating": 4.8,
       "salesCount": 475,
       "seller": "PENGFA TECH LTDA",
-      "category": "Ferramentas"
+      "category": "Ferramentas",
+      "hot": true
     },
     {
       "id": "41781797063",
@@ -175,21 +118,7 @@
       "rating": 4.9,
       "salesCount": 58,
       "seller": "YELLOW LASER 3",
-      "category": "Presentes e papelaria"
-    },
-    {
-      "id": "23398654174",
-      "title": "Calça Jeans Infantil  Wide Leg Cargo Black Juvenil 6 ao 14  ALTO PADRÃO LINHA PREMIUM",
-      "price": 49.9,
-      "originalPrice": 58.9,
-      "discountPercent": 15.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhur5wacvep7d",
-      "url": "https://s.shopee.com.br/7pv5B4gknp",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3294,
-      "seller": "MUNDO INFANTIL ",
-      "category": "Moda",
+      "category": "Presentes e papelaria",
       "hot": true
     }
   ]
