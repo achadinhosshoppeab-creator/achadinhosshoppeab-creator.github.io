@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T20:25:16.483Z",
+  "updatedAt": "2026-11-25T20:46:55.631Z",
   "offers": [
     {
       "id": "55957404904",
@@ -32,18 +32,48 @@
       "hot": true
     },
     {
-      "id": "55465012839",
-      "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos - 500 mL",
-      "price": 16.88,
-      "originalPrice": 23.87,
-      "discountPercent": 29.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mr7pr7orsr9j54",
-      "url": "https://s.shopee.com.br/5fqbBpJxwC",
-      "rating": 4.9,
-      "salesCount": 569,
+      "id": "19598142136",
+      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
+      "price": 118.15,
+      "originalPrice": 139,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
+      "url": "https://s.shopee.com.br/1qds4AYcK5",
+      "rating": 5,
+      "salesCount": 2545,
       "official": true,
-      "seller": "mypetone",
-      "category": "Pet e bebê",
+      "seller": "meuollie",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "58263021202",
+      "title": "BRILHO NOVO Kit Escova Sanitária Sem Contato, Refis Descartáveis com Detergente Incorporado | Cabo + Base + 36 Refis",
+      "price": 38.9,
+      "originalPrice": 59.8,
+      "discountPercent": 34.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-msdw742h9vd1fe",
+      "url": "https://s.shopee.com.br/4B1moGEkBe",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3716,
+      "seller": "BRILHO NOVO BR",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "21135940174",
+      "title": "Fone de ouvido Headset Gamer para Jogos Xbox One Ps4 Celular Pc com Microfone LC-862",
+      "price": 39.96,
+      "originalPrice": 90.96,
+      "discountPercent": 56.1,
+      "imageUrl": "https://cf.shopee.com.br/file/bd9c7cc4a4f13e10b38af3025e8f4b27",
+      "url": "https://s.shopee.com.br/1CEOQb8uH",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 432,
+      "seller": "Ankco Shop",
+      "category": "Eletrônicos",
       "hot": true
     },
     {
@@ -62,6 +92,52 @@
       "hot": true
     },
     {
+      "id": "22892923302",
+      "title": "Scarpin Feminino Shekinah Bico Fino Salto Bloco Grosso Noiva Casamento",
+      "price": 65.84,
+      "originalPrice": 79.9,
+      "discountPercent": 17.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-msk80zc2xjpg6c",
+      "url": "https://s.shopee.com.br/4fy3PFxYL5",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3313,
+      "official": true,
+      "seller": "Shekinah Calçados",
+      "category": "Moda",
+      "hot": true
+    },
+    {
+      "id": "22493863963",
+      "title": "The Perfect Top Insider",
+      "price": 69,
+      "originalPrice": 99,
+      "discountPercent": 30.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a6-mfv6e6a9jqxb60",
+      "url": "https://s.shopee.com.br/9V3JA8f9WZ",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 7991,
+      "official": true,
+      "seller": "INSIDER",
+      "category": "Moda",
+      "hot": true
+    },
+    {
+      "id": "19139965863",
+      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
+      "price": 42.41,
+      "originalPrice": 49.9,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
+      "url": "https://s.shopee.com.br/4B1moO6hSq",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 272,
+      "seller": "Gift Presentes",
+      "category": "Presentes e papelaria"
+    },
+    {
       "id": "47053971674",
       "title": "Ventilador Torre Climatizador Ventisol Clit Abastece 3,6 Litros 5 em 1 Silencioso",
       "price": 288.1,
@@ -73,38 +149,7 @@
       "salesCount": 1521,
       "official": true,
       "seller": "Melhor para Você",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
-      "id": "41781797063",
-      "title": "ESPELHO DE CORAÇÃO E RETANGULO PARA BOTTON MAQUINA CHINESA ACHADINHOS DA SHOPEE",
-      "price": 19.92,
-      "originalPrice": 23.98,
-      "discountPercent": 16.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mvma47ic3if426",
-      "url": "https://s.shopee.com.br/2BGiQTXurQ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 60,
-      "seller": "YELLOW LASER 3",
-      "category": "Presentes e papelaria",
-      "hot": true
-    },
-    {
-      "id": "23398654174",
-      "title": "Calça Jeans Infantil  Wide Leg Cargo Black Juvenil 6 ao 14  ALTO PADRÃO LINHA PREMIUM",
-      "price": 49.9,
-      "originalPrice": 58.9,
-      "discountPercent": 15.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhur5wacvep7d",
-      "url": "https://s.shopee.com.br/7pv5B4gknp",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3262,
-      "seller": "MUNDO INFANTIL ",
-      "category": "Moda",
-      "hot": true
+      "category": "Casa e organização"
     }
   ]
 }
