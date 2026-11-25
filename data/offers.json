@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T04:13:08.154Z",
+  "updatedAt": "2026-11-25T04:43:55.037Z",
   "offers": [
     {
       "id": "22098181726",
@@ -91,21 +91,6 @@
       "category": "Beleza"
     },
     {
-      "id": "49516260857",
-      "title": "Kit 10 Pote Vidro Hermético Marmita 1040ml Micro-ondas Freezer Forno Organização Geladeira",
-      "price": 78.9,
-      "originalPrice": 149.9,
-      "discountPercent": 47.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-ms23v6ge87466e",
-      "url": "https://s.shopee.com.br/1CDqYIgfn",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1503,
-      "seller": "Usual Mix",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "58263021202",
       "title": "BRILHO NOVO Kit Escova Sanitária Sem Contato, Refis Descartáveis com Detergente Incorporado | Cabo + Base + 36 Refis",
       "price": 38.9,
@@ -135,20 +120,6 @@
       "category": "Beleza"
     },
     {
-      "id": "22892800438",
-      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
-      "price": 39.99,
-      "originalPrice": 50.45,
-      "discountPercent": 20.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
-      "url": "https://s.shopee.com.br/6AmrBqMklO",
-      "rating": 4.8,
-      "salesCount": 2312,
-      "official": true,
-      "seller": "Abstract Decora",
-      "category": "Casa e organização"
-    },
-    {
       "id": "25583979154",
       "title": "120 Paleta De Sombra Colorida Mate Maquiagem Altamente Pigmentada Em Pó Longa Duração À Prova D'água",
       "price": 41.19,
@@ -159,7 +130,8 @@
       "rating": 4.7,
       "salesCount": 355,
       "seller": "Choice Oficial",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "44251970715",
