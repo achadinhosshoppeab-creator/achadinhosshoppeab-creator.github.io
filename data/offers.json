@@ -1,20 +1,6 @@
 {
-  "updatedAt": "2026-11-25T22:12:45.213Z",
+  "updatedAt": "2026-11-25T22:34:00.804Z",
   "offers": [
-    {
-      "id": "58205100450",
-      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
-      "price": 19.9,
-      "originalPrice": 37.96,
-      "discountPercent": 47.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
-      "url": "https://s.shopee.com.br/8AXw7RwMt1",
-      "rating": 4.8,
-      "salesCount": 2154,
-      "seller": "Ela&Ela",
-      "category": "Beleza",
-      "hot": true
-    },
     {
       "id": "55957404904",
       "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
@@ -45,21 +31,6 @@
       "hot": true
     },
     {
-      "id": "25745811858",
-      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
-      "price": 247.9,
-      "originalPrice": 307.6,
-      "discountPercent": 19.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
-      "url": "https://s.shopee.com.br/4fy3P4g8Tz",
-      "rating": 4.9,
-      "salesCount": 1766,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Cozinha",
-      "hot": true
-    },
-    {
       "id": "19598142136",
       "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
       "price": 118.15,
@@ -71,7 +42,21 @@
       "salesCount": 2545,
       "official": true,
       "seller": "meuollie",
-      "category": "Beleza",
+      "category": "Beleza"
+    },
+    {
+      "id": "58263021202",
+      "title": "BRILHO NOVO Kit Escova Sanitária Sem Contato, Refis Descartáveis com Detergente Incorporado | Cabo + Base + 36 Refis",
+      "price": 38.9,
+      "originalPrice": 59.8,
+      "discountPercent": 34.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-msdw742h9vd1fe",
+      "url": "https://s.shopee.com.br/4B1moGEkBe",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3716,
+      "seller": "BRILHO NOVO BR",
+      "category": "Casa e organização",
       "hot": true
     },
     {
@@ -90,36 +75,6 @@
       "hot": true
     },
     {
-      "id": "21135940174",
-      "title": "Fone de ouvido Headset Gamer para Jogos Xbox One Ps4 Celular Pc com Microfone LC-862",
-      "price": 39.96,
-      "originalPrice": 90.96,
-      "discountPercent": 56.1,
-      "imageUrl": "https://cf.shopee.com.br/file/bd9c7cc4a4f13e10b38af3025e8f4b27",
-      "url": "https://s.shopee.com.br/1CEOQb8uH",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 432,
-      "seller": "Ankco Shop",
-      "category": "Eletrônicos",
-      "hot": true
-    },
-    {
-      "id": "58210453351",
-      "title": "Organizador de Banheiro com Tampa Deslizante e Base Rotativa – 3 Espaços para Escovas de Dentes",
-      "price": 28.99,
-      "originalPrice": 45.99,
-      "discountPercent": 37,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtpblnio9eyo35",
-      "url": "https://s.shopee.com.br/7AfONkQ87F",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2473,
-      "seller": "CECES BRANDS BRASI",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "19139965863",
       "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
       "price": 42.41,
@@ -132,6 +87,81 @@
       "salesCount": 272,
       "seller": "Gift Presentes",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "51352412625",
+      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
+      "price": 51.99,
+      "originalPrice": 64.9,
+      "discountPercent": 19.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
+      "url": "https://s.shopee.com.br/BVe2tclK0",
+      "hasVariantPrices": true,
+      "rating": 4.5,
+      "salesCount": 2384,
+      "official": true,
+      "seller": "impório_ecommerce",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "58219341014",
+      "title": "Escova Secadora Mondial ES-02-BI 1200W",
+      "price": 79.9,
+      "originalPrice": 112.1,
+      "discountPercent": 28.7,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257s-mtqptq2pwirpa0",
+      "url": "https://s.shopee.com.br/3Vm60xNhY1",
+      "rating": 4.9,
+      "salesCount": 878,
+      "official": true,
+      "seller": "Magalu",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "47053971674",
+      "title": "Ventilador Torre Climatizador Ventisol Clit Abastece 3,6 Litros 5 em 1 Silencioso",
+      "price": 288.1,
+      "originalPrice": 354.99,
+      "discountPercent": 18.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivobz12jx1e76",
+      "url": "https://s.shopee.com.br/3g5WDKPmXX",
+      "rating": 4.9,
+      "salesCount": 1521,
+      "official": true,
+      "seller": "Melhor para Você",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58209212381",
+      "title": "5 Trenas 5m Fita Métrica Profissional Aço Reforçado Emborrachada com Trava e Clip Alta Precisão",
+      "price": 17.98,
+      "originalPrice": 21.98,
+      "discountPercent": 18.2,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mn9pi191uzgi34",
+      "url": "https://s.shopee.com.br/1BOBErerpu",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 476,
+      "seller": "PENGFA TECH LTDA",
+      "category": "Ferramentas",
+      "hot": true
+    },
+    {
+      "id": "23398654174",
+      "title": "Calça Jeans Infantil  Wide Leg Cargo Black Juvenil 6 ao 14  ALTO PADRÃO LINHA PREMIUM",
+      "price": 49.9,
+      "originalPrice": 58.9,
+      "discountPercent": 15.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhur5wacvep7d",
+      "url": "https://s.shopee.com.br/7pv5B4gknp",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3262,
+      "seller": "MUNDO INFANTIL ",
+      "category": "Moda",
+      "hot": true
     }
   ]
 }
