@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T05:14:50.040Z",
+  "updatedAt": "2026-11-25T05:46:23.648Z",
   "offers": [
     {
       "id": "22098181726",
@@ -264,20 +264,6 @@
       "official": true,
       "seller": "Melhor para Você",
       "category": "Casa e organização"
-    },
-    {
-      "id": "58209212381",
-      "title": "5 Trenas 5m Fita Métrica Profissional Aço Reforçado Emborrachada com Trava e Clip Alta Precisão",
-      "price": 17.98,
-      "originalPrice": 21.98,
-      "discountPercent": 18.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mn9pi191uzgi34",
-      "url": "https://s.shopee.com.br/1BOBErerpu",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 475,
-      "seller": "PENGFA TECH LTDA",
-      "category": "Ferramentas"
     },
     {
       "id": "41781797063",
