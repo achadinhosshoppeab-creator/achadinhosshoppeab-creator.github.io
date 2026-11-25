@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T02:39:15.176Z",
+  "updatedAt": "2026-11-25T03:11:09.648Z",
   "offers": [
     {
       "id": "22098181726",
@@ -19,9 +19,9 @@
     {
       "id": "58205100450",
       "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
-      "price": 19.9,
+      "price": 19.8,
       "originalPrice": 37.96,
-      "discountPercent": 47.6,
+      "discountPercent": 47.8,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
       "url": "https://s.shopee.com.br/4LL8DsDfWP",
       "rating": 4.8,
@@ -63,19 +63,18 @@
       "hot": true
     },
     {
-      "id": "58211442575",
-      "title": "Deo Colônia Kaiak Miniatura Masculino 25ml",
-      "price": 33.1,
-      "originalPrice": 49.28,
-      "discountPercent": 32.8,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pk-mopv3g8qnk7h17",
-      "url": "https://s.shopee.com.br/1LhWeFaa0i",
-      "rating": 5,
-      "salesCount": 656,
+      "id": "25745811858",
+      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
+      "price": 247.9,
+      "originalPrice": 307.6,
+      "discountPercent": 19.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
+      "url": "https://s.shopee.com.br/3Vm1ED6nzk",
+      "rating": 4.9,
+      "salesCount": 1727,
       "official": true,
-      "seller": "NATURA",
-      "category": "Beleza",
-      "hot": true
+      "seller": "Na Web Group De Marcas",
+      "category": "Cozinha"
     },
     {
       "id": "19598142136",
@@ -135,32 +134,17 @@
       "hot": true
     },
     {
-      "id": "22892800438",
-      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
-      "price": 39.99,
-      "originalPrice": 50.45,
-      "discountPercent": 20.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
-      "url": "https://s.shopee.com.br/7fbaBsdGqk",
-      "rating": 4.8,
-      "salesCount": 2312,
-      "official": true,
-      "seller": "Abstract Decora",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58217669744",
-      "title": "Bebedouro Automático Aves Galinha Codorna Copinho Vermelho",
-      "price": 18,
-      "originalPrice": 23.98,
-      "discountPercent": 24.9,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aq-mstl4ht3lqf6a0",
-      "url": "https://s.shopee.com.br/4B1i1dCCqF",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1095,
-      "seller": "Lunexis",
-      "category": "Pet e bebê"
+      "id": "25583979154",
+      "title": "120 Paleta De Sombra Colorida Mate Maquiagem Altamente Pigmentada Em Pó Longa Duração À Prova D'água",
+      "price": 41.19,
+      "originalPrice": 60.43,
+      "discountPercent": 31.8,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyl-mcamfjuyaj3r09",
+      "url": "https://s.shopee.com.br/3B9ApccT4Q",
+      "rating": 4.7,
+      "salesCount": 355,
+      "seller": "Choice Oficial",
+      "category": "Beleza"
     },
     {
       "id": "44251970715",
@@ -185,6 +169,7 @@
       "discountPercent": 17.6,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-msk80zc2xjpg6c",
       "url": "https://s.shopee.com.br/7fbaC206PK",
+      "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 3288,
       "official": true,
@@ -204,6 +189,21 @@
       "salesCount": 373,
       "official": true,
       "seller": "GiGiL",
+      "category": "Moda",
+      "hot": true
+    },
+    {
+      "id": "22493863963",
+      "title": "The Perfect Top Insider",
+      "price": 69,
+      "originalPrice": 99,
+      "discountPercent": 30.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824he-mfo1di4agjd7d4",
+      "url": "https://s.shopee.com.br/1LhWeOODFd",
+      "rating": 4.9,
+      "salesCount": 7391,
+      "official": true,
+      "seller": "INSIDER",
       "category": "Moda",
       "hot": true
     },
