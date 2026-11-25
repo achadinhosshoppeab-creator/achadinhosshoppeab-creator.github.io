@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T14:23:16.128Z",
+  "updatedAt": "2026-11-25T14:45:10.638Z",
   "offers": [
     {
       "id": "58205100450",
@@ -12,21 +12,6 @@
       "rating": 4.8,
       "salesCount": 2098,
       "seller": "Ela&Ela",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "55957404904",
-      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
-      "price": 29.9,
-      "originalPrice": 39.9,
-      "discountPercent": 25.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
-      "url": "https://s.shopee.com.br/3Vm60x5gtA",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2222,
-      "seller": "Lescent",
       "category": "Beleza",
       "hot": true
     },
@@ -45,33 +30,33 @@
       "category": "Cozinha"
     },
     {
-      "id": "19598142136",
-      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
-      "price": 118.15,
-      "originalPrice": 139,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
-      "url": "https://s.shopee.com.br/1qds4AYcK5",
-      "rating": 5,
-      "salesCount": 2472,
-      "official": true,
-      "seller": "meuollie",
-      "category": "Beleza"
-    },
-    {
-      "id": "9315675115",
-      "title": "Bota Texana GiGiL Feminina Cano Alto Salto Médio Western Bordada",
-      "price": 69.99,
-      "originalPrice": 113.8,
-      "discountPercent": 38.5,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu2-mknq92e0nf2a2f",
-      "url": "https://s.shopee.com.br/8VAm0SdE9x",
+      "id": "58203668922",
+      "title": "Jarra De Vidro 1L Com Tampa Para Água Suco Garrafa Modelo Suíça",
+      "price": 21.98,
+      "originalPrice": 38.56,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mvw91ychr20wf0",
+      "url": "https://s.shopee.com.br/30ppxtVKj6",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 407,
-      "official": true,
-      "seller": "GiGiL",
-      "category": "Moda",
+      "salesCount": 1616,
+      "seller": "JV  Store",
+      "category": "Cozinha",
+      "hot": true
+    },
+    {
+      "id": "58263021202",
+      "title": "BRILHO NOVO Kit Escova Sanitária Sem Contato, Refis Descartáveis com Detergente Incorporado | Cabo + Base + 36 Refis",
+      "price": 38.9,
+      "originalPrice": 59.8,
+      "discountPercent": 34.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-msdw742h9vd1fe",
+      "url": "https://s.shopee.com.br/4B1moGEkBe",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3763,
+      "seller": "BRILHO NOVO BR",
+      "category": "Casa e organização",
       "hot": true
     },
     {
@@ -90,18 +75,18 @@
       "hot": true
     },
     {
-      "id": "22892800438",
-      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
-      "price": 39.99,
-      "originalPrice": 50.45,
-      "discountPercent": 20.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
-      "url": "https://s.shopee.com.br/6AmrBqMklO",
-      "rating": 4.8,
-      "salesCount": 2312,
+      "id": "55465012839",
+      "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos - 500 mL",
+      "price": 16.88,
+      "originalPrice": 23.87,
+      "discountPercent": 29.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mr7pr7orsr9j54",
+      "url": "https://s.shopee.com.br/5fqbBpJxwC",
+      "rating": 4.9,
+      "salesCount": 592,
       "official": true,
-      "seller": "Abstract Decora",
-      "category": "Casa e organização",
+      "seller": "mypetone",
+      "category": "Pet e bebê",
       "hot": true
     },
     {
@@ -117,8 +102,7 @@
       "salesCount": 3288,
       "official": true,
       "seller": "Shekinah Calçados",
-      "category": "Moda",
-      "hot": true
+      "category": "Moda"
     },
     {
       "id": "22493863963",
@@ -126,13 +110,29 @@
       "price": 69,
       "originalPrice": 99,
       "discountPercent": 30.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824he-mfo1di4agjd7d4",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4k-m7wmqzkvz4x3e4",
       "url": "https://s.shopee.com.br/9V3JA8f9WZ",
       "rating": 4.9,
       "salesCount": 7391,
       "official": true,
       "seller": "INSIDER",
       "category": "Moda",
+      "hot": true
+    },
+    {
+      "id": "51352412625",
+      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
+      "price": 51.99,
+      "originalPrice": 64.9,
+      "discountPercent": 19.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
+      "url": "https://s.shopee.com.br/BVe2tclK0",
+      "hasVariantPrices": true,
+      "rating": 4.5,
+      "salesCount": 2330,
+      "official": true,
+      "seller": "impório_ecommerce",
+      "category": "Casa e organização",
       "hot": true
     },
     {
@@ -162,6 +162,20 @@
       "salesCount": 475,
       "seller": "PENGFA TECH LTDA",
       "category": "Ferramentas"
+    },
+    {
+      "id": "41781797063",
+      "title": "ESPELHO DE CORAÇÃO E RETANGULO PARA BOTTON MAQUINA CHINESA ACHADINHOS DA SHOPEE",
+      "price": 19.92,
+      "originalPrice": 23.98,
+      "discountPercent": 16.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mvma47ic3if426",
+      "url": "https://s.shopee.com.br/2BGiQTXurQ",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 58,
+      "seller": "YELLOW LASER 3",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "23398654174",
