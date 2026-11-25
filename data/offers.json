@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-11-25T15:05:23.603Z",
+  "updatedAt": "2026-11-25T15:27:54.776Z",
   "offers": [
+    {
+      "id": "58203668922",
+      "title": "Jarra De Vidro 1L Com Tampa Para Água Suco Garrafa Modelo Suíça",
+      "price": 21.98,
+      "originalPrice": 38.56,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mvw91ychr20wf0",
+      "url": "https://s.shopee.com.br/30ppxtVKj6",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1616,
+      "seller": "JV  Store",
+      "category": "Cozinha",
+      "hot": true
+    },
     {
       "id": "58263021202",
       "title": "BRILHO NOVO Kit Escova Sanitária Sem Contato, Refis Descartáveis com Detergente Incorporado | Cabo + Base + 36 Refis",
@@ -17,16 +32,46 @@
       "hot": true
     },
     {
-      "id": "58210453351",
-      "title": "Organizador de Banheiro com Tampa Deslizante e Base Rotativa – 3 Espaços para Escovas de Dentes",
-      "price": 28.99,
-      "originalPrice": 45.99,
-      "discountPercent": 37,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtpblnio9eyo35",
-      "url": "https://s.shopee.com.br/7AfONkQ87F",
-      "rating": 4.9,
-      "salesCount": 2413,
-      "seller": "CECES BRANDS BRASI",
+      "id": "48565120227",
+      "title": "Bomba Submersa Bombinha Para Fonte De Água Aquário E Bebedouro Pet Produ 180 L/h Silenciosa 220V",
+      "price": 15.49,
+      "originalPrice": 23.47,
+      "discountPercent": 34,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mmc5mo07oqo455",
+      "url": "https://s.shopee.com.br/6AmnD5pwKR",
+      "rating": 4.8,
+      "salesCount": 666,
+      "seller": "COMERCCIOBRASIL",
+      "category": "Pet e bebê",
+      "hot": true
+    },
+    {
+      "id": "21135940174",
+      "title": "Fone de ouvido Headset Gamer para Jogos Xbox One Ps4 Celular Pc com Microfone LC-862",
+      "price": 39.96,
+      "originalPrice": 90.96,
+      "discountPercent": 56.1,
+      "imageUrl": "https://cf.shopee.com.br/file/bd9c7cc4a4f13e10b38af3025e8f4b27",
+      "url": "https://s.shopee.com.br/1CEOQb8uH",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 430,
+      "seller": "Ankco Shop",
+      "category": "Eletrônicos",
+      "hot": true
+    },
+    {
+      "id": "22892800438",
+      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
+      "price": 39.99,
+      "originalPrice": 50.45,
+      "discountPercent": 20.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
+      "url": "https://s.shopee.com.br/6AmrBqMklO",
+      "rating": 4.8,
+      "salesCount": 2312,
+      "official": true,
+      "seller": "Abstract Decora",
       "category": "Casa e organização",
       "hot": true
     },
@@ -73,8 +118,7 @@
       "salesCount": 3288,
       "official": true,
       "seller": "Shekinah Calçados",
-      "category": "Moda",
-      "hot": true
+      "category": "Moda"
     },
     {
       "id": "22493863963",
@@ -82,7 +126,7 @@
       "price": 69,
       "originalPrice": 99,
       "discountPercent": 30.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257y-mfv6dm045f6354",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4k-m7wmqzkvz4x3e4",
       "url": "https://s.shopee.com.br/9V3JA8f9WZ",
       "rating": 4.9,
       "salesCount": 7391,
@@ -103,8 +147,7 @@
       "rating": 4.8,
       "salesCount": 475,
       "seller": "PENGFA TECH LTDA",
-      "category": "Ferramentas",
-      "hot": true
+      "category": "Ferramentas"
     },
     {
       "id": "41781797063",
@@ -118,8 +161,7 @@
       "rating": 4.9,
       "salesCount": 58,
       "seller": "YELLOW LASER 3",
-      "category": "Presentes e papelaria",
-      "hot": true
+      "category": "Presentes e papelaria"
     }
   ]
 }
