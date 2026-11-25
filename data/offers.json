@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-25T11:31:15.300Z",
+  "updatedAt": "2026-11-25T11:53:43.861Z",
   "offers": [
+    {
+      "id": "58205100450",
+      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
+      "price": 19.8,
+      "originalPrice": 37.96,
+      "discountPercent": 47.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
+      "url": "https://s.shopee.com.br/8AXw7RwMt1",
+      "rating": 4.8,
+      "salesCount": 2098,
+      "seller": "Ela&Ela",
+      "category": "Beleza",
+      "hot": true
+    },
     {
       "id": "25745811858",
       "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
@@ -17,11 +31,26 @@
       "hot": true
     },
     {
+      "id": "58203668922",
+      "title": "Jarra De Vidro 1L Com Tampa Para Água Suco Garrafa Modelo Suíça",
+      "price": 21.98,
+      "originalPrice": 38.56,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mvw91ychr20wf0",
+      "url": "https://s.shopee.com.br/30ppxtVKj6",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1616,
+      "seller": "JV  Store",
+      "category": "Cozinha",
+      "hot": true
+    },
+    {
       "id": "9315675115",
       "title": "Bota Texana GiGiL Feminina Cano Alto Salto Médio Western Bordada",
       "price": 69.99,
-      "originalPrice": 116.895,
-      "discountPercent": 40.1,
+      "originalPrice": 113.8,
+      "discountPercent": 38.5,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu2-mknq92e0nf2a2f",
       "url": "https://s.shopee.com.br/8VAm0SdE9x",
       "hasVariantPrices": true,
@@ -33,18 +62,33 @@
       "hot": true
     },
     {
-      "id": "22892800438",
-      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
-      "price": 39.99,
-      "originalPrice": 50.45,
-      "discountPercent": 20.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
-      "url": "https://s.shopee.com.br/6AmrBqMklO",
-      "rating": 4.8,
-      "salesCount": 2312,
-      "official": true,
-      "seller": "Abstract Decora",
+      "id": "58263021202",
+      "title": "BRILHO NOVO Kit Escova Sanitária Sem Contato, Refis Descartáveis com Detergente Incorporado | Cabo + Base + 36 Refis",
+      "price": 38.9,
+      "originalPrice": 59.8,
+      "discountPercent": 34.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-msdw742h9vd1fe",
+      "url": "https://s.shopee.com.br/4B1moGEkBe",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3763,
+      "seller": "BRILHO NOVO BR",
       "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "21135940174",
+      "title": "Fone de ouvido Headset Gamer para Jogos Xbox One Ps4 Celular Pc com Microfone LC-862",
+      "price": 39.96,
+      "originalPrice": 90.96,
+      "discountPercent": 56.1,
+      "imageUrl": "https://cf.shopee.com.br/file/bd9c7cc4a4f13e10b38af3025e8f4b27",
+      "url": "https://s.shopee.com.br/1CEOQb8uH",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 430,
+      "seller": "Ankco Shop",
+      "category": "Eletrônicos",
       "hot": true
     },
     {
@@ -64,19 +108,33 @@
       "hot": true
     },
     {
-      "id": "23398654174",
-      "title": "Calça Jeans Infantil  Wide Leg Cargo Black Juvenil 6 ao 14  ALTO PADRÃO LINHA PREMIUM",
-      "price": 49.9,
-      "originalPrice": 58.9,
-      "discountPercent": 15.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhur5wacvep7d",
-      "url": "https://s.shopee.com.br/7pv5B4gknp",
+      "id": "47053971674",
+      "title": "Ventilador Torre Climatizador Ventisol Clit Abastece 3,6 Litros 5 em 1 Silencioso",
+      "price": 288.1,
+      "originalPrice": 354.99,
+      "discountPercent": 18.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivobz12jx1e76",
+      "url": "https://s.shopee.com.br/3g5WDKPmXX",
+      "rating": 4.9,
+      "salesCount": 1500,
+      "official": true,
+      "seller": "Melhor para Você",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "41781797063",
+      "title": "ESPELHO DE CORAÇÃO E RETANGULO PARA BOTTON MAQUINA CHINESA ACHADINHOS DA SHOPEE",
+      "price": 19.92,
+      "originalPrice": 23.98,
+      "discountPercent": 16.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mvma47ic3if426",
+      "url": "https://s.shopee.com.br/2BGiQTXurQ",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 3294,
-      "seller": "MUNDO INFANTIL ",
-      "category": "Moda",
-      "hot": true
+      "salesCount": 58,
+      "seller": "YELLOW LASER 3",
+      "category": "Presentes e papelaria"
     }
   ]
 }
