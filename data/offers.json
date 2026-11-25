@@ -1,21 +1,62 @@
 {
-  "updatedAt": "2026-11-25T12:58:08.191Z",
+  "updatedAt": "2026-11-25T13:19:03.260Z",
   "offers": [
     {
-      "id": "58218169635",
-      "title": "Protetor Solar Facial Anasol FPS 70 Clareador Anti-Manchas Toque Seco 60g",
-      "price": 44.9,
-      "originalPrice": 102.05,
-      "discountPercent": 56,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mt5m3hxuij9g5b",
-      "url": "https://s.shopee.com.br/4fy3RNNpZq",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1598,
-      "official": true,
-      "seller": "Anasol Oficial",
+      "id": "58205100450",
+      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
+      "price": 19.8,
+      "originalPrice": 37.96,
+      "discountPercent": 47.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
+      "url": "https://s.shopee.com.br/8AXw7RwMt1",
+      "rating": 4.8,
+      "salesCount": 2098,
+      "seller": "Ela&Ela",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "55957404904",
+      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
+      "price": 29.9,
+      "originalPrice": 39.9,
+      "discountPercent": 25.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
+      "url": "https://s.shopee.com.br/3Vm60x5gtA",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2222,
+      "seller": "Lescent",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "18298022046",
+      "title": "Kit 20 Potes Herméticos 2,3litros 1,1litro 480ml Organização",
+      "price": 175.92,
+      "originalPrice": 229.9,
+      "discountPercent": 23.5,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mp8722qtssg1d3",
+      "url": "https://s.shopee.com.br/BVdT3uOEp",
+      "rating": 4.9,
+      "salesCount": 889,
+      "seller": "eKing commerce",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "25745811858",
+      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
+      "price": 247.9,
+      "originalPrice": 307.6,
+      "discountPercent": 19.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
+      "url": "https://s.shopee.com.br/4fy3P4g8Tz",
+      "rating": 4.9,
+      "salesCount": 1727,
+      "official": true,
+      "seller": "Na Web Group De Marcas",
+      "category": "Cozinha"
     },
     {
       "id": "19598142136",
@@ -63,21 +104,6 @@
       "hot": true
     },
     {
-      "id": "58263885872",
-      "title": "OralGos Escova de Dentes com Cerdas Ultrafinas,Limpa Língua, Limpeza Completa,6 Cores",
-      "price": 29.9,
-      "originalPrice": 49.83,
-      "discountPercent": 40,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-muivdbab11c239",
-      "url": "https://s.shopee.com.br/9071VtXcMe",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2046,
-      "seller": "Toya Corp",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "55465012839",
       "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos - 500 mL",
       "price": 16.88,
@@ -90,22 +116,6 @@
       "official": true,
       "seller": "mypetone",
       "category": "Pet e bebê",
-      "hot": true
-    },
-    {
-      "id": "51352412625",
-      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
-      "price": 51.99,
-      "originalPrice": 64.9,
-      "discountPercent": 19.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
-      "url": "https://s.shopee.com.br/BVe2tclK0",
-      "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 2330,
-      "official": true,
-      "seller": "impório_ecommerce",
-      "category": "Casa e organização",
       "hot": true
     },
     {
@@ -136,20 +146,6 @@
       "seller": "PENGFA TECH LTDA",
       "category": "Ferramentas",
       "hot": true
-    },
-    {
-      "id": "41781797063",
-      "title": "ESPELHO DE CORAÇÃO E RETANGULO PARA BOTTON MAQUINA CHINESA ACHADINHOS DA SHOPEE",
-      "price": 19.92,
-      "originalPrice": 23.98,
-      "discountPercent": 16.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mvma47ic3if426",
-      "url": "https://s.shopee.com.br/2BGiQTXurQ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 58,
-      "seller": "YELLOW LASER 3",
-      "category": "Presentes e papelaria"
     }
   ]
 }
