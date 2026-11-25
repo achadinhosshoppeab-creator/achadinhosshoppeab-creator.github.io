@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T02:08:33.856Z",
+  "updatedAt": "2026-11-25T02:39:15.176Z",
   "offers": [
     {
       "id": "22098181726",
@@ -234,6 +234,20 @@
       "salesCount": 2330,
       "official": true,
       "seller": "impório_ecommerce",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "47053971674",
+      "title": "Ventilador Torre Climatizador Ventisol Clit Abastece 3,6 Litros 5 em 1 Silencioso",
+      "price": 288.1,
+      "originalPrice": 354.99,
+      "discountPercent": 18.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivobz12jx1e76",
+      "url": "https://s.shopee.com.br/30pkjoCdMA",
+      "rating": 4.9,
+      "salesCount": 1500,
+      "official": true,
+      "seller": "Melhor para Você",
       "category": "Casa e organização"
     },
     {
