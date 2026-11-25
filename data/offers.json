@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T03:41:47.818Z",
+  "updatedAt": "2026-11-25T04:13:08.154Z",
   "offers": [
     {
       "id": "22098181726",
@@ -23,7 +23,7 @@
       "originalPrice": 37.96,
       "discountPercent": 47.8,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
-      "url": "https://s.shopee.com.br/20xIEJZS5M",
+      "url": "https://s.shopee.com.br/Lp4HPVWnk",
       "rating": 4.8,
       "salesCount": 2098,
       "seller": "Ela&Ela",
@@ -37,7 +37,7 @@
       "originalPrice": 102.05,
       "discountPercent": 56,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mt5m3hxuij9g5b",
-      "url": "https://s.shopee.com.br/6q2XzCLJXZ",
+      "url": "https://s.shopee.com.br/4fy3RNNpZq",
       "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 1598,
@@ -47,27 +47,13 @@
       "hot": true
     },
     {
-      "id": "23098651097",
-      "title": "Escorredor de Louça 2 Andares Inox com Bandeja Coletora e Suportes – Organizador de Cozinha Compacta",
-      "price": 77.59,
-      "originalPrice": 298.42,
-      "discountPercent": 74,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbeodzmknr3t9b",
-      "url": "https://s.shopee.com.br/6fj7mo1yFX",
-      "rating": 4.7,
-      "salesCount": 743,
-      "seller": "NOVEVE Kitchen",
-      "category": "Cozinha",
-      "hot": true
-    },
-    {
       "id": "9315675115",
       "title": "Bota Texana GiGiL Feminina Cano Alto Salto Médio Western Bordada",
       "price": 59.99,
       "originalPrice": 119.99,
       "discountPercent": 50,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu2-mknq92e0nf2a2f",
-      "url": "https://s.shopee.com.br/2BGdg4K71B",
+      "url": "https://s.shopee.com.br/8VAm0SdE9x",
       "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 407,
@@ -97,12 +83,27 @@
       "originalPrice": 139,
       "discountPercent": 15,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
-      "url": "https://s.shopee.com.br/3LSfolYddg",
+      "url": "https://s.shopee.com.br/1qds4AYcK5",
       "rating": 5,
       "salesCount": 2472,
       "official": true,
       "seller": "meuollie",
       "category": "Beleza"
+    },
+    {
+      "id": "49516260857",
+      "title": "Kit 10 Pote Vidro Hermético Marmita 1040ml Micro-ondas Freezer Forno Organização Geladeira",
+      "price": 78.9,
+      "originalPrice": 149.9,
+      "discountPercent": 47.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-ms23v6ge87466e",
+      "url": "https://s.shopee.com.br/1CDqYIgfn",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 1503,
+      "seller": "Usual Mix",
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "58263021202",
@@ -148,6 +149,19 @@
       "category": "Casa e organização"
     },
     {
+      "id": "25583979154",
+      "title": "120 Paleta De Sombra Colorida Mate Maquiagem Altamente Pigmentada Em Pó Longa Duração À Prova D'água",
+      "price": 41.19,
+      "originalPrice": 60.43,
+      "discountPercent": 31.8,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyl-mcamfjuyaj3r09",
+      "url": "https://s.shopee.com.br/7Kyoc9KxzX",
+      "rating": 4.7,
+      "salesCount": 355,
+      "seller": "Choice Oficial",
+      "category": "Beleza"
+    },
+    {
       "id": "44251970715",
       "title": "Planta Artificial Palmeira com Vaso 15 Folhas  Polietileno Cone Romano",
       "price": 64.9,
@@ -184,7 +198,7 @@
       "originalPrice": 99.99,
       "discountPercent": 40,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8luys2iiidt9d",
-      "url": "https://s.shopee.com.br/1W0wsqMeMz",
+      "url": "https://s.shopee.com.br/AUvqO8Vc6H",
       "hasVariantPrices": true,
       "rating": 4.9,
       "salesCount": 373,
