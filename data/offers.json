@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T08:24:21.437Z",
+  "updatedAt": "2026-11-25T08:54:21.573Z",
   "offers": [
     {
       "id": "22098181726",
@@ -47,22 +47,6 @@
       "hot": true
     },
     {
-      "id": "9315675115",
-      "title": "Bota Texana GiGiL Feminina Cano Alto Salto Médio Western Bordada",
-      "price": 59.99,
-      "originalPrice": 119.99,
-      "discountPercent": 50,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu2-mknq92e0nf2a2f",
-      "url": "https://s.shopee.com.br/8VAm0SdE9x",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 407,
-      "official": true,
-      "seller": "GiGiL",
-      "category": "Moda",
-      "hot": true
-    },
-    {
       "id": "25745811858",
       "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
       "price": 247.9,
@@ -75,6 +59,22 @@
       "official": true,
       "seller": "Na Web Group De Marcas",
       "category": "Cozinha"
+    },
+    {
+      "id": "9315675115",
+      "title": "Bota Texana GiGiL Feminina Cano Alto Salto Médio Western Bordada",
+      "price": 59.99,
+      "originalPrice": 116.895,
+      "discountPercent": 48.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu2-mknq92e0nf2a2f",
+      "url": "https://s.shopee.com.br/8VAm0SdE9x",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 407,
+      "official": true,
+      "seller": "GiGiL",
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "19598142136",
