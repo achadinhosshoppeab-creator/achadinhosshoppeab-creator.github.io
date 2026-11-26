@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T04:13:35.588Z",
+  "updatedAt": "2026-11-26T04:44:15.427Z",
   "offers": [
     {
       "id": "58205100450",
@@ -46,17 +46,17 @@
       "hot": true
     },
     {
-      "id": "55957404904",
-      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
-      "price": 29.9,
-      "originalPrice": 39.9,
-      "discountPercent": 25.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
-      "url": "https://s.shopee.com.br/20xJmwYlba",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2292,
-      "seller": "Lescent",
+      "id": "58257250172",
+      "title": "Principia Kit Hidratação Corporal Dupla c/ Loção Hidratante LH-02 500ml + Creme Hidratante CH-02 454g",
+      "price": 80.99,
+      "originalPrice": 107.99,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mm0tuogwuebq30",
+      "url": "https://s.shopee.com.br/3qOxyTOEF0",
+      "rating": 4.9,
+      "salesCount": 1815,
+      "official": true,
+      "seller": "Principia Skincare",
       "category": "Beleza"
     },
     {
@@ -329,6 +329,19 @@
       "official": true,
       "seller": "Perfumaria Sumirê",
       "category": "Beleza"
+    },
+    {
+      "id": "46905847586",
+      "title": "Escorredor de louças 3 andares Aço Inoxidável Organizador Louça Preto - Brielli Home",
+      "price": 103.9,
+      "originalPrice": 129.9,
+      "discountPercent": 20,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mvbwhxmd3f29cc",
+      "url": "https://s.shopee.com.br/90747qc6wB",
+      "rating": 4.8,
+      "salesCount": 706,
+      "seller": "LARUNO",
+      "category": "Cozinha"
     },
     {
       "id": "55465012839",
