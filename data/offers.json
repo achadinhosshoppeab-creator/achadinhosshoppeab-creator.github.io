@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T23:37:50.168Z",
+  "updatedAt": "2026-11-26T00:00:07.416Z",
   "offers": [
     {
       "id": "58205100450",
@@ -13,6 +13,20 @@
       "salesCount": 2154,
       "seller": "Ela&Ela",
       "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "23098651097",
+      "title": "Escorredor de Louça 2 Andares Inox com Bandeja Coletora e Suportes – Organizador de Cozinha Compacta",
+      "price": 77.59,
+      "originalPrice": 298.42,
+      "discountPercent": 74,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbeodzmknr3t9b",
+      "url": "https://s.shopee.com.br/6fj7mo1yFX",
+      "rating": 4.7,
+      "salesCount": 768,
+      "seller": "NOVEVE Kitchen",
+      "category": "Cozinha",
       "hot": true
     },
     {
@@ -44,6 +58,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "25745811858",
+      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
+      "price": 247.9,
+      "originalPrice": 307.6,
+      "discountPercent": 19.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
+      "url": "https://s.shopee.com.br/4fy3P4g8Tz",
+      "rating": 4.9,
+      "salesCount": 1766,
+      "official": true,
+      "seller": "Na Web Group De Marcas",
+      "category": "Cozinha"
+    },
+    {
       "id": "58203668922",
       "title": "Jarra De Vidro 1L Com Tampa Para Água Suco Garrafa Modelo Suíça",
       "price": 21.98,
@@ -57,20 +85,6 @@
       "seller": "JV  Store",
       "category": "Cozinha",
       "hot": true
-    },
-    {
-      "id": "19598142136",
-      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
-      "price": 118.15,
-      "originalPrice": 139,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
-      "url": "https://s.shopee.com.br/1qds4AYcK5",
-      "rating": 5,
-      "salesCount": 2545,
-      "official": true,
-      "seller": "meuollie",
-      "category": "Beleza"
     },
     {
       "id": "58263021202",
@@ -131,36 +145,6 @@
       "hot": true
     },
     {
-      "id": "9315675115",
-      "title": "Bota Texana GiGiL Feminina Cano Alto Salto Médio Western Bordada",
-      "price": 92.99,
-      "originalPrice": 113.8,
-      "discountPercent": 18.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu2-mknq92e0nf2a2f",
-      "url": "https://s.shopee.com.br/8VAm0SdE9x",
-      "rating": 4.9,
-      "salesCount": 406,
-      "official": true,
-      "seller": "GiGiL",
-      "category": "Moda"
-    },
-    {
-      "id": "51352412625",
-      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
-      "price": 51.99,
-      "originalPrice": 64.9,
-      "discountPercent": 19.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
-      "url": "https://s.shopee.com.br/BVe2tclK0",
-      "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 2384,
-      "official": true,
-      "seller": "impório_ecommerce",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "58219341014",
       "title": "Escova Secadora Mondial ES-02-BI 1200W",
       "price": 79.9,
@@ -188,6 +172,20 @@
       "salesCount": 60,
       "seller": "YELLOW LASER 3",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "23398654174",
+      "title": "Calça Jeans Infantil  Wide Leg Cargo Black Juvenil 6 ao 14  ALTO PADRÃO LINHA PREMIUM",
+      "price": 49.9,
+      "originalPrice": 58.9,
+      "discountPercent": 15.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhur5wacvep7d",
+      "url": "https://s.shopee.com.br/7pv5B4gknp",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3262,
+      "seller": "MUNDO INFANTIL ",
+      "category": "Moda"
     }
   ]
 }
