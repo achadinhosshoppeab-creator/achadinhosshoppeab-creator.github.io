@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T04:44:15.427Z",
+  "updatedAt": "2026-11-26T05:15:32.248Z",
   "offers": [
     {
       "id": "58205100450",
@@ -44,6 +44,20 @@
       "seller": "NATURA",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "55957404904",
+      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
+      "price": 29.9,
+      "originalPrice": 39.9,
+      "discountPercent": 25.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
+      "url": "https://s.shopee.com.br/20xJmwYlba",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2292,
+      "seller": "Lescent",
+      "category": "Beleza"
     },
     {
       "id": "58257250172",
