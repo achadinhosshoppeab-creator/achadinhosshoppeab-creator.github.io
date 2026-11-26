@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T05:46:29.027Z",
+  "updatedAt": "2026-11-26T06:18:36.695Z",
   "offers": [
     {
       "id": "58205100450",
@@ -270,8 +270,7 @@
       "salesCount": 4827,
       "official": true,
       "seller": "Coala Essências Oficial",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "21135940174",
@@ -384,6 +383,21 @@
       "official": true,
       "seller": "GiGiL",
       "category": "Moda"
+    },
+    {
+      "id": "58217570189",
+      "title": "Painel Ripado Autocolante 5mm de EVA Flexivel Rolo",
+      "price": 35.8,
+      "originalPrice": 68.85,
+      "discountPercent": 48,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mspts9g52w3rd5",
+      "url": "https://s.shopee.com.br/1gKTbSFXuJ",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 7379,
+      "seller": "RS Smart Home",
+      "category": "Presentes e papelaria",
+      "hot": true
     },
     {
       "id": "22892923302",
