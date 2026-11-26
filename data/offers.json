@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T00:20:47.474Z",
+  "updatedAt": "2026-11-26T00:41:36.027Z",
   "offers": [
     {
       "id": "23098651097",
@@ -13,6 +13,21 @@
       "salesCount": 768,
       "seller": "NOVEVE Kitchen",
       "category": "Cozinha",
+      "hot": true
+    },
+    {
+      "id": "55957404904",
+      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
+      "price": 29.9,
+      "originalPrice": 39.9,
+      "discountPercent": 25.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
+      "url": "https://s.shopee.com.br/3Vm60x5gtA",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2292,
+      "seller": "Lescent",
+      "category": "Beleza",
       "hot": true
     },
     {
@@ -59,21 +74,6 @@
       "category": "Beleza"
     },
     {
-      "id": "58263021202",
-      "title": "BRILHO NOVO Kit Escova Sanitária Sem Contato, Refis Descartáveis com Detergente Incorporado | Cabo + Base + 36 Refis",
-      "price": 38.9,
-      "originalPrice": 59.8,
-      "discountPercent": 34.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-msdw742h9vd1fe",
-      "url": "https://s.shopee.com.br/4B1moGEkBe",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3716,
-      "seller": "BRILHO NOVO BR",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "23092618942",
       "title": "Óleo de Tratamento SOS Cachos 10 em 1 Multibenefícios 42ml",
       "price": 15.96,
@@ -103,33 +103,49 @@
       "hot": true
     },
     {
-      "id": "19139965863",
-      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
-      "price": 42.41,
-      "originalPrice": 49.9,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
-      "url": "https://s.shopee.com.br/4B1moO6hSq",
-      "hasVariantPrices": true,
+      "id": "55465012839",
+      "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos - 500 mL",
+      "price": 16.88,
+      "originalPrice": 23.87,
+      "discountPercent": 29.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mr7pr7orsr9j54",
+      "url": "https://s.shopee.com.br/5fqbBpJxwC",
       "rating": 4.9,
-      "salesCount": 272,
-      "seller": "Gift Presentes",
-      "category": "Presentes e papelaria"
+      "salesCount": 569,
+      "official": true,
+      "seller": "mypetone",
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
-      "id": "51352412625",
-      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
-      "price": 51.99,
-      "originalPrice": 64.9,
-      "discountPercent": 19.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
-      "url": "https://s.shopee.com.br/BVe2tclK0",
+      "id": "22892923302",
+      "title": "Scarpin Feminino Shekinah Bico Fino Salto Bloco Grosso Noiva Casamento",
+      "price": 65.84,
+      "originalPrice": 79.9,
+      "discountPercent": 17.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-msk80zc2xjpg6c",
+      "url": "https://s.shopee.com.br/4fy3PFxYL5",
       "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 2384,
+      "rating": 4.9,
+      "salesCount": 3313,
       "official": true,
-      "seller": "impório_ecommerce",
-      "category": "Casa e organização",
+      "seller": "Shekinah Calçados",
+      "category": "Moda"
+    },
+    {
+      "id": "22493863963",
+      "title": "The Perfect Top Insider",
+      "price": 69,
+      "originalPrice": 99,
+      "discountPercent": 30.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824he-mfo1di4agjd7d4",
+      "url": "https://s.shopee.com.br/9V3JA8f9WZ",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 7991,
+      "official": true,
+      "seller": "INSIDER",
+      "category": "Moda",
       "hot": true
     },
     {
@@ -148,20 +164,6 @@
       "hot": true
     },
     {
-      "id": "58209212381",
-      "title": "5 Trenas 5m Fita Métrica Profissional Aço Reforçado Emborrachada com Trava e Clip Alta Precisão",
-      "price": 17.98,
-      "originalPrice": 21.98,
-      "discountPercent": 18.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mn9pi191uzgi34",
-      "url": "https://s.shopee.com.br/1BOBErerpu",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 476,
-      "seller": "PENGFA TECH LTDA",
-      "category": "Ferramentas"
-    },
-    {
       "id": "41781797063",
       "title": "ESPELHO DE CORAÇÃO E RETANGULO PARA BOTTON MAQUINA CHINESA ACHADINHOS DA SHOPEE",
       "price": 19.92,
@@ -174,21 +176,6 @@
       "salesCount": 60,
       "seller": "YELLOW LASER 3",
       "category": "Presentes e papelaria"
-    },
-    {
-      "id": "23398654174",
-      "title": "Calça Jeans Infantil  Wide Leg Cargo Black Juvenil 6 ao 14  ALTO PADRÃO LINHA PREMIUM",
-      "price": 49.9,
-      "originalPrice": 58.9,
-      "discountPercent": 15.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhur5wacvep7d",
-      "url": "https://s.shopee.com.br/7pv5B4gknp",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3262,
-      "seller": "MUNDO INFANTIL ",
-      "category": "Moda",
-      "hot": true
     }
   ]
 }
