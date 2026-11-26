@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T08:55:04.452Z",
+  "updatedAt": "2026-11-26T09:27:17.465Z",
   "offers": [
     {
       "id": "58205100450",
@@ -59,20 +59,6 @@
       "seller": "NATURA",
       "category": "Beleza",
       "hot": true
-    },
-    {
-      "id": "55957404904",
-      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
-      "price": 29.9,
-      "originalPrice": 39.9,
-      "discountPercent": 25.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
-      "url": "https://s.shopee.com.br/20xJmwYlba",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2292,
-      "seller": "Lescent",
-      "category": "Beleza"
     },
     {
       "id": "58257250172",
@@ -143,6 +129,20 @@
       "salesCount": 6405,
       "official": true,
       "seller": "Primacial",
+      "category": "Beleza"
+    },
+    {
+      "id": "55957404904",
+      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
+      "price": 29.9,
+      "originalPrice": 37.4,
+      "discountPercent": 20.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
+      "url": "https://s.shopee.com.br/20xJmwYlba",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2292,
+      "seller": "Lescent",
       "category": "Beleza"
     },
     {
@@ -244,20 +244,6 @@
       "salesCount": 1819,
       "official": true,
       "seller": "Casa de Gê",
-      "category": "Beleza"
-    },
-    {
-      "id": "23092618942",
-      "title": "Óleo de Tratamento SOS Cachos 10 em 1 Multibenefícios 42ml",
-      "price": 15.96,
-      "originalPrice": 18.8,
-      "discountPercent": 15.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a4-mfubjf1fva4pe1",
-      "url": "https://s.shopee.com.br/6VPj9MRgK9",
-      "rating": 4.9,
-      "salesCount": 3052,
-      "official": true,
-      "seller": "Salon Line",
       "category": "Beleza"
     },
     {
