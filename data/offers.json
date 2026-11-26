@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T09:27:17.465Z",
+  "updatedAt": "2026-11-26T09:58:35.371Z",
   "offers": [
     {
       "id": "58205100450",
@@ -275,20 +275,6 @@
       "category": "Presentes e papelaria"
     },
     {
-      "id": "22892800438",
-      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
-      "price": 39.99,
-      "originalPrice": 51,
-      "discountPercent": 21.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
-      "url": "https://s.shopee.com.br/3LShNNdEvq",
-      "rating": 4.8,
-      "salesCount": 2219,
-      "official": true,
-      "seller": "Abstract Decora",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58266799438",
       "title": "Kit coala Home Chá Branco - 4 Itens",
       "price": 49.9,
@@ -318,6 +304,20 @@
       "hot": true
     },
     {
+      "id": "22892800438",
+      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
+      "price": 39.99,
+      "originalPrice": 50.45,
+      "discountPercent": 20.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
+      "url": "https://s.shopee.com.br/3LShNNdEvq",
+      "rating": 4.8,
+      "salesCount": 2219,
+      "official": true,
+      "seller": "Abstract Decora",
+      "category": "Casa e organização"
+    },
+    {
       "id": "58217669744",
       "title": "Bebedouro Automático Aves Galinha Codorna Copinho Vermelho",
       "price": 18,
@@ -338,7 +338,7 @@
       "originalPrice": 149,
       "discountPercent": 29.6,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
-      "url": "https://s.shopee.com.br/7VIGLH4FrM",
+      "url": "https://s.shopee.com.br/5qA2oCmlXC",
       "rating": 4.9,
       "salesCount": 1549,
       "official": true,
@@ -443,6 +443,20 @@
       "category": "Moda"
     },
     {
+      "id": "58251353658",
+      "title": "Varal De Chão Com Abas Dobrável Aço Secalux 12kg Varal de Apartamento Retratil",
+      "price": 50.9,
+      "originalPrice": 59.9,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqf3kve4phd06",
+      "url": "https://s.shopee.com.br/6q2ZXuAMK8",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 6060,
+      "seller": "Big_ecommerce",
+      "category": "Casa e organização"
+    },
+    {
       "id": "23194269838",
       "title": "Promoção Pijama Curto Em Malha Blogueirinha Short e Blusa Amamentação",
       "price": 27.9,
@@ -483,20 +497,6 @@
       "salesCount": 3455,
       "seller": "Mainha Baby",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "58210453351",
-      "title": "Organizador de Banheiro com Tampa Deslizante e Base Rotativa – 3 Espaços para Escovas de Dentes",
-      "price": 28.99,
-      "originalPrice": 37.49,
-      "discountPercent": 22.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtpblnio9eyo35",
-      "url": "https://s.shopee.com.br/1BOCnTfCp2",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2473,
-      "seller": "CECES BRANDS BRASI",
-      "category": "Casa e organização"
     },
     {
       "id": "22493863963",
@@ -609,6 +609,20 @@
       "salesCount": 5636,
       "official": true,
       "seller": "Droga Clara",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "23699194017",
+      "title": "Varal De Chão Varal de Apartamento Retratil Com Abas Reforçado Dobrável Aço Secalux 12kg",
+      "price": 47.9,
+      "originalPrice": 59.9,
+      "discountPercent": 20,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqf3kve1wchb4",
+      "url": "https://s.shopee.com.br/1qdtaiTOTi",
+      "hasVariantPrices": true,
+      "rating": 4.6,
+      "salesCount": 1396,
+      "seller": "Big_ecommerce",
       "category": "Casa e organização"
     },
     {
