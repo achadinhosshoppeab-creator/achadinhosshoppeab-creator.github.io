@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T03:11:05.185Z",
+  "updatedAt": "2026-11-26T03:42:12.640Z",
   "offers": [
     {
       "id": "58205100450",
@@ -57,20 +57,6 @@
       "rating": 4.8,
       "salesCount": 2292,
       "seller": "Lescent",
-      "category": "Beleza"
-    },
-    {
-      "id": "58257250172",
-      "title": "Principia Kit Hidratação Corporal Dupla c/ Loção Hidratante LH-02 500ml + Creme Hidratante CH-02 454g",
-      "price": 80.99,
-      "originalPrice": 107.99,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mm0tuogwuebq30",
-      "url": "https://s.shopee.com.br/3qOxyTOEF0",
-      "rating": 4.9,
-      "salesCount": 1815,
-      "official": true,
-      "seller": "Principia Skincare",
       "category": "Beleza"
     },
     {
@@ -189,20 +175,6 @@
       "hot": true
     },
     {
-      "id": "23893056825",
-      "title": "Amend Essencial Acidificante Máscara Equilíbrio do PH - 250g",
-      "price": 32.9,
-      "originalPrice": 39.9,
-      "discountPercent": 17.5,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1e4r99socpsae",
-      "url": "https://s.shopee.com.br/AKcRiP4Hvp",
-      "rating": 5,
-      "salesCount": 3609,
-      "official": true,
-      "seller": "AMEND OFICIAL",
-      "category": "Beleza"
-    },
-    {
       "id": "10951188066",
       "title": "Amaciante Urca Brisa Azul - 5l",
       "price": 16.33,
@@ -231,20 +203,6 @@
       "category": "Beleza"
     },
     {
-      "id": "18497402527",
-      "title": "AMEND MÁSCARA NUTRITIVA EXPERTISE MARULA FABULOUS NUTRITION 300G",
-      "price": 33.9,
-      "originalPrice": 39.9,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98q-llwdbl7vtgja73",
-      "url": "https://s.shopee.com.br/Lp5o1gMEI",
-      "rating": 4.9,
-      "salesCount": 2016,
-      "official": true,
-      "seller": "AMEND OFICIAL",
-      "category": "Beleza"
-    },
-    {
       "id": "23693686267",
       "title": "Kit 5 Organizadores Lápis 3D Lúdico Coloridos Formatura Plasútil",
       "price": 28.9,
@@ -259,20 +217,6 @@
       "category": "Presentes e papelaria"
     },
     {
-      "id": "22892800438",
-      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
-      "price": 39.99,
-      "originalPrice": 51,
-      "discountPercent": 21.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
-      "url": "https://s.shopee.com.br/3LShNNdEvq",
-      "rating": 4.8,
-      "salesCount": 2219,
-      "official": true,
-      "seller": "Abstract Decora",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58266799438",
       "title": "Kit coala Home Chá Branco - 4 Itens",
       "price": 49.9,
@@ -284,7 +228,8 @@
       "salesCount": 4827,
       "official": true,
       "seller": "Coala Essências Oficial",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "21135940174",
@@ -300,6 +245,20 @@
       "seller": "Ankco Shop",
       "category": "Eletrônicos",
       "hot": true
+    },
+    {
+      "id": "22892800438",
+      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
+      "price": 39.99,
+      "originalPrice": 50.45,
+      "discountPercent": 20.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
+      "url": "https://s.shopee.com.br/3LShNNdEvq",
+      "rating": 4.8,
+      "salesCount": 2219,
+      "official": true,
+      "seller": "Abstract Decora",
+      "category": "Casa e organização"
     },
     {
       "id": "58217669744",
@@ -322,40 +281,12 @@
       "originalPrice": 149,
       "discountPercent": 29.6,
       "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
-      "url": "https://s.shopee.com.br/gRwCiGvuL",
+      "url": "https://s.shopee.com.br/7VIGLH4FrM",
       "rating": 4.9,
       "salesCount": 1549,
       "official": true,
       "seller": "Eletricario Loja Oficial",
       "category": "Ferramentas"
-    },
-    {
-      "id": "21098988899",
-      "title": "Máscara Tratamento Capilar Wella Professionals Enrich 150ml",
-      "price": 79.9,
-      "originalPrice": 119.98,
-      "discountPercent": 33.4,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbmi-lmg4pfsmxs0524",
-      "url": "https://s.shopee.com.br/6AmskkK9Nu",
-      "rating": 4.9,
-      "salesCount": 3344,
-      "official": true,
-      "seller": "Perfumaria Sumirê",
-      "category": "Beleza"
-    },
-    {
-      "id": "58210453351",
-      "title": "Organizador de Banheiro com Tampa Deslizante e Base Rotativa – 3 Espaços para Escovas de Dentes",
-      "price": 28.99,
-      "originalPrice": 45.99,
-      "discountPercent": 37,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtpblnio9eyo35",
-      "url": "https://s.shopee.com.br/1BOCnTfCp2",
-      "rating": 4.9,
-      "salesCount": 2473,
-      "seller": "CECES BRANDS BRASI",
-      "category": "Casa e organização",
-      "hot": true
     },
     {
       "id": "55465012839",
@@ -470,12 +401,25 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "58210453351",
+      "title": "Organizador de Banheiro com Tampa Deslizante e Base Rotativa – 3 Espaços para Escovas de Dentes",
+      "price": 28.99,
+      "originalPrice": 37.49,
+      "discountPercent": 22.7,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtpblnio9eyo35",
+      "url": "https://s.shopee.com.br/1BOCnTfCp2",
+      "rating": 4.9,
+      "salesCount": 2473,
+      "seller": "CECES BRANDS BRASI",
+      "category": "Casa e organização"
+    },
+    {
       "id": "22493863963",
       "title": "The Perfect Top Insider",
       "price": 69,
       "originalPrice": 99,
       "discountPercent": 30.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824j3-mfo1d0tts1l4ea",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258c-mfv6dozri1oscf",
       "url": "https://s.shopee.com.br/8VAnX4NezZ",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -511,19 +455,6 @@
       "official": true,
       "seller": "Deend",
       "category": "Ferramentas"
-    },
-    {
-      "id": "28944042529",
-      "title": "Kit 10 Marmitas Conjunto Potes 850ml com Travas Laterais Livre de BPA - Organizadores de Congelador",
-      "price": 29.94,
-      "originalPrice": 36.98,
-      "discountPercent": 19,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mtpdofdf7gu950",
-      "url": "https://s.shopee.com.br/8VAnWpKRE0",
-      "rating": 4.5,
-      "salesCount": 1405,
-      "seller": "A T E N A S",
-      "category": "Casa e organização"
     },
     {
       "id": "23193844232",
@@ -567,6 +498,19 @@
       "official": true,
       "seller": "Magalu",
       "category": "Beleza"
+    },
+    {
+      "id": "54857767078",
+      "title": "Jogo De Panelas 10 Peças Antiaderente Conjunto com Tampas de Vidro e Kit de Utensílios Marfim",
+      "price": 154.24,
+      "originalPrice": 188.09,
+      "discountPercent": 18,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mpm9dmjlux36be",
+      "url": "https://s.shopee.com.br/2qWQobn0q0",
+      "rating": 4.7,
+      "salesCount": 1883,
+      "seller": "A.R.S Alumínios",
+      "category": "Cozinha"
     },
     {
       "id": "23799188673",
