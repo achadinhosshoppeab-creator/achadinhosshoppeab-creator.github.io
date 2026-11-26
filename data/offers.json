@@ -1,18 +1,17 @@
 {
-  "updatedAt": "2026-11-26T01:46:15.915Z",
+  "updatedAt": "2026-11-26T02:07:54.785Z",
   "offers": [
     {
-      "id": "54359629558",
-      "title": "Sérum Roll-On Área dos Olhos Adeus Olheiras 10ml Kokeshi",
-      "price": 24.9,
-      "originalPrice": 40.9,
-      "discountPercent": 39.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mrk8zl0quccnf3",
-      "url": "https://s.shopee.com.br/8AXwzX1mx9",
-      "rating": 4.9,
-      "salesCount": 5054,
-      "official": true,
-      "seller": "KOKESHI OFICIAL",
+      "id": "58205100450",
+      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
+      "price": 19.9,
+      "originalPrice": 37.96,
+      "discountPercent": 47.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
+      "url": "https://s.shopee.com.br/8AXw7RwMt1",
+      "rating": 4.8,
+      "salesCount": 2154,
+      "seller": "Ela&Ela",
       "category": "Beleza",
       "hot": true
     },
@@ -29,6 +28,35 @@
       "seller": "NOVEVE Kitchen",
       "category": "Cozinha",
       "hot": true
+    },
+    {
+      "id": "55957404904",
+      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
+      "price": 29.9,
+      "originalPrice": 39.9,
+      "discountPercent": 25.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
+      "url": "https://s.shopee.com.br/3Vm60x5gtA",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 2292,
+      "seller": "Lescent",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "58257250172",
+      "title": "Principia Kit Hidratação Corporal Dupla c/ Loção Hidratante LH-02 500ml + Creme Hidratante CH-02 454g",
+      "price": 80.99,
+      "originalPrice": 107.99,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mm0tuogwuebq30",
+      "url": "https://s.shopee.com.br/4LLEV3Y7om",
+      "rating": 4.9,
+      "salesCount": 1815,
+      "official": true,
+      "seller": "Principia Skincare",
+      "category": "Beleza"
     },
     {
       "id": "18298022046",
@@ -56,6 +84,21 @@
       "official": true,
       "seller": "Na Web Group De Marcas",
       "category": "Cozinha"
+    },
+    {
+      "id": "58203668922",
+      "title": "Jarra De Vidro 1L Com Tampa Para Água Suco Garrafa Modelo Suíça",
+      "price": 21.98,
+      "originalPrice": 38.56,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mvw91ychr20wf0",
+      "url": "https://s.shopee.com.br/30ppxtVKj6",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1626,
+      "seller": "JV  Store",
+      "category": "Cozinha",
+      "hot": true
     },
     {
       "id": "58263021202",
@@ -87,6 +130,35 @@
       "category": "Beleza"
     },
     {
+      "id": "22892800438",
+      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
+      "price": 39.99,
+      "originalPrice": 51,
+      "discountPercent": 21.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
+      "url": "https://s.shopee.com.br/6AmrBqMklO",
+      "rating": 4.8,
+      "salesCount": 2219,
+      "official": true,
+      "seller": "Abstract Decora",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "21135940174",
+      "title": "Fone de ouvido Headset Gamer para Jogos Xbox One Ps4 Celular Pc com Microfone LC-862",
+      "price": 39.96,
+      "originalPrice": 90.96,
+      "discountPercent": 56.1,
+      "imageUrl": "https://cf.shopee.com.br/file/bd9c7cc4a4f13e10b38af3025e8f4b27",
+      "url": "https://s.shopee.com.br/1CEOQb8uH",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 432,
+      "seller": "Ankco Shop",
+      "category": "Eletrônicos",
+      "hot": true
+    },
+    {
       "id": "58210453351",
       "title": "Organizador de Banheiro com Tampa Deslizante e Base Rotativa – 3 Espaços para Escovas de Dentes",
       "price": 28.99,
@@ -112,8 +184,21 @@
       "salesCount": 569,
       "official": true,
       "seller": "mypetone",
-      "category": "Pet e bebê",
-      "hot": true
+      "category": "Pet e bebê"
+    },
+    {
+      "id": "9315675115",
+      "title": "Bota Texana GiGiL Feminina Cano Alto Salto Médio Western Bordada",
+      "price": 92.99,
+      "originalPrice": 113.8,
+      "discountPercent": 18.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu2-mknq92e0nf2a2f",
+      "url": "https://s.shopee.com.br/8VAm0SdE9x",
+      "rating": 4.9,
+      "salesCount": 406,
+      "official": true,
+      "seller": "GiGiL",
+      "category": "Moda"
     },
     {
       "id": "22892923302",
@@ -147,6 +232,20 @@
       "hot": true
     },
     {
+      "id": "19139965863",
+      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
+      "price": 42.41,
+      "originalPrice": 49.9,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
+      "url": "https://s.shopee.com.br/4B1moO6hSq",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 272,
+      "seller": "Gift Presentes",
+      "category": "Presentes e papelaria"
+    },
+    {
       "id": "58219341014",
       "title": "Escova Secadora Mondial ES-02-BI 1200W",
       "price": 79.9,
@@ -158,8 +257,35 @@
       "salesCount": 878,
       "official": true,
       "seller": "Magalu",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
+    },
+    {
+      "id": "47053971674",
+      "title": "Ventilador Torre Climatizador Ventisol Clit Abastece 3,6 Litros 5 em 1 Silencioso",
+      "price": 288.1,
+      "originalPrice": 354.99,
+      "discountPercent": 18.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivobz12jx1e76",
+      "url": "https://s.shopee.com.br/3g5WDKPmXX",
+      "rating": 4.9,
+      "salesCount": 1521,
+      "official": true,
+      "seller": "Melhor para Você",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "58209212381",
+      "title": "5 Trenas 5m Fita Métrica Profissional Aço Reforçado Emborrachada com Trava e Clip Alta Precisão",
+      "price": 17.98,
+      "originalPrice": 21.98,
+      "discountPercent": 18.2,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mn9pi191uzgi34",
+      "url": "https://s.shopee.com.br/1BOBErerpu",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 476,
+      "seller": "PENGFA TECH LTDA",
+      "category": "Ferramentas"
     },
     {
       "id": "41781797063",
@@ -187,8 +313,7 @@
       "rating": 4.9,
       "salesCount": 3262,
       "seller": "MUNDO INFANTIL ",
-      "category": "Moda",
-      "hot": true
+      "category": "Moda"
     }
   ]
 }
