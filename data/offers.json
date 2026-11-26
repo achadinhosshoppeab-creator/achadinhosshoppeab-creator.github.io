@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-11-26T21:49:13.025Z",
+  "updatedAt": "2026-11-26T22:10:19.552Z",
   "offers": [
+    {
+      "id": "54359629558",
+      "title": "Sérum Roll-On Área dos Olhos Adeus Olheiras 10ml Kokeshi",
+      "price": 19.9,
+      "originalPrice": 40.9,
+      "discountPercent": 51.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mrk8zl0quccnf3",
+      "url": "https://s.shopee.com.br/5AuLpy1Hlh",
+      "rating": 4.9,
+      "salesCount": 5432,
+      "official": true,
+      "seller": "KOKESHI OFICIAL",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "58205100450",
+      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
+      "price": 19.8,
+      "originalPrice": 37.96,
+      "discountPercent": 47.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
+      "url": "https://s.shopee.com.br/9pgB7TbOVd",
+      "rating": 4.8,
+      "salesCount": 2221,
+      "seller": "Ela&Ela",
+      "category": "Beleza",
+      "hot": true
+    },
     {
       "id": "23898813796",
       "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
@@ -32,19 +61,33 @@
       "hot": true
     },
     {
-      "id": "23293919571",
-      "title": "KIT 9 Esfregões Milagrosos Limpa Seco e Úmido sem Enxague Balde com Raspador Dobrável e Super Absorvente -S10",
-      "price": 69.99,
-      "originalPrice": 170.71,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mun7gelqvdhc44",
-      "url": "https://s.shopee.com.br/3LShgoniYu",
-      "hasVariantPrices": true,
+      "id": "22494941454",
+      "title": "Kit Facial Kokeshi Completo 3 Passos Hidratação e Colágeno",
+      "price": 44.9,
+      "originalPrice": 59.9,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mqbygibr40sg7a",
+      "url": "https://s.shopee.com.br/W8W8lO2sZ",
       "rating": 4.9,
-      "salesCount": 1590,
-      "seller": "Minhacesta",
-      "category": "Casa e organização",
+      "salesCount": 10527,
+      "official": true,
+      "seller": "KOKESHI OFICIAL",
+      "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "18599922423",
+      "title": "Kit Skin Care Geleia de colágeno e olhos de gueixa kokeshi",
+      "price": 30.9,
+      "originalPrice": 39.9,
+      "discountPercent": 22.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mna1ftruvb412d",
+      "url": "https://s.shopee.com.br/6VPj9Lo5Gv",
+      "rating": 4.9,
+      "salesCount": 2422,
+      "official": true,
+      "seller": "KOKESHI OFICIAL",
+      "category": "Beleza"
     },
     {
       "id": "22094238842",
@@ -58,6 +101,34 @@
       "salesCount": 6771,
       "official": true,
       "seller": "Primacial",
+      "category": "Beleza"
+    },
+    {
+      "id": "20099233176",
+      "title": "Kit Shampoo e Condicionador Hidra Kids Cachinhos 300ml",
+      "price": 15.6,
+      "originalPrice": 19.22,
+      "discountPercent": 18.8,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259k-muxnddxzkrnlc5",
+      "url": "https://s.shopee.com.br/9pgB7ToWez",
+      "rating": 4.9,
+      "salesCount": 5385,
+      "official": true,
+      "seller": "Salon Line",
+      "category": "Beleza"
+    },
+    {
+      "id": "58255657495",
+      "title": "Body Splash Afrodite Garden 200ml - AURA Beauty by. Jade Picon",
+      "price": 85.56,
+      "originalPrice": 119,
+      "discountPercent": 28.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mrhc4ue2rz0mba",
+      "url": "https://s.shopee.com.br/qlMOxveEe",
+      "rating": 4.9,
+      "salesCount": 2242,
+      "official": true,
+      "seller": "AURA Beauty Club",
       "category": "Beleza"
     },
     {
@@ -91,45 +162,17 @@
       "hot": true
     },
     {
-      "id": "23893056825",
-      "title": "Amend Essencial Acidificante Máscara Equilíbrio do PH - 250g",
-      "price": 32.9,
-      "originalPrice": 39.9,
-      "discountPercent": 17.5,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1e4r99socpsae",
-      "url": "https://s.shopee.com.br/AKcRiP4Hvp",
-      "rating": 5,
-      "salesCount": 3581,
-      "official": true,
-      "seller": "AMEND OFICIAL",
-      "category": "Beleza"
-    },
-    {
       "id": "10951188066",
       "title": "Amaciante Urca Brisa Azul - 5l",
       "price": 16.33,
-      "originalPrice": 19.6,
-      "discountPercent": 16.7,
+      "originalPrice": 19.25,
+      "discountPercent": 15.2,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40g08sd675t69",
       "url": "https://s.shopee.com.br/1qdu9D5lYL",
       "rating": 4.9,
       "salesCount": 1846,
       "official": true,
       "seller": "Casa de Gê",
-      "category": "Beleza"
-    },
-    {
-      "id": "18497402527",
-      "title": "AMEND MÁSCARA NUTRITIVA EXPERTISE MARULA FABULOUS NUTRITION 300G",
-      "price": 33.9,
-      "originalPrice": 39.9,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98q-llwdbl7vtgja73",
-      "url": "https://s.shopee.com.br/1BODOs6OOp",
-      "rating": 4.9,
-      "salesCount": 2017,
-      "official": true,
-      "seller": "AMEND OFICIAL",
       "category": "Beleza"
     },
     {
@@ -148,21 +191,6 @@
       "hot": true
     },
     {
-      "id": "58266799438",
-      "title": "Kit coala Home Chá Branco - 4 Itens",
-      "price": 49.9,
-      "originalPrice": 67.9,
-      "discountPercent": 26.5,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-msa1d1kgw2dh93",
-      "url": "https://s.shopee.com.br/2VtaNwrK8P",
-      "rating": 5,
-      "salesCount": 4987,
-      "official": true,
-      "seller": "Coala Essências Oficial",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "22892800438",
       "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
       "price": 39.99,
@@ -177,33 +205,18 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58217669744",
-      "title": "Bebedouro Automático Aves Galinha Codorna Copinho Vermelho",
-      "price": 18,
-      "originalPrice": 23.98,
-      "discountPercent": 24.9,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aq-mstl4ht3lqf6a0",
-      "url": "https://s.shopee.com.br/3qOxyWwDRi",
-      "hasVariantPrices": true,
+      "id": "18698826077",
+      "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
+      "price": 104.9,
+      "originalPrice": 149,
+      "discountPercent": 29.6,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
+      "url": "https://s.shopee.com.br/5qA2oCmlXC",
       "rating": 4.9,
-      "salesCount": 1042,
-      "seller": "Lunexis",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "21098988899",
-      "title": "Máscara Tratamento Capilar Wella Professionals Enrich 150ml",
-      "price": 79.9,
-      "originalPrice": 119.98,
-      "discountPercent": 33.4,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbmi-lmg4pfsmxs0524",
-      "url": "https://s.shopee.com.br/6AmskkK9Nu",
-      "rating": 4.9,
-      "salesCount": 3383,
+      "salesCount": 1550,
       "official": true,
-      "seller": "Perfumaria Sumirê",
-      "category": "Beleza",
-      "hot": true
+      "seller": "Eletricario Loja Oficial",
+      "category": "Ferramentas"
     },
     {
       "id": "55465012839",
@@ -217,36 +230,7 @@
       "salesCount": 527,
       "official": true,
       "seller": "mypetone",
-      "category": "Pet e bebê",
-      "hot": true
-    },
-    {
-      "id": "9315675115",
-      "title": "Bota Texana GiGiL Feminina Cano Alto Salto Médio Western Bordada",
-      "price": 92.99,
-      "originalPrice": 113.8,
-      "discountPercent": 18.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu2-mknq92e0nf2a2f",
-      "url": "https://s.shopee.com.br/90747zlfiL",
-      "rating": 4.9,
-      "salesCount": 399,
-      "official": true,
-      "seller": "GiGiL",
-      "category": "Moda"
-    },
-    {
-      "id": "13697446869",
-      "title": "Varal Portátil Para Apartamento Secador De Roupas Prático e Retrátil Para Janela e Parede",
-      "price": 22.5,
-      "originalPrice": 26.99,
-      "discountPercent": 16.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mr21ahxh7w92fe",
-      "url": "https://s.shopee.com.br/70LzkD9izD",
-      "rating": 4.8,
-      "salesCount": 3991,
-      "official": true,
-      "seller": "SELLNEEDS",
-      "category": "Casa e organização"
+      "category": "Pet e bebê"
     },
     {
       "id": "41183604135",
@@ -263,20 +247,6 @@
       "category": "Moda"
     },
     {
-      "id": "58251353658",
-      "title": "Varal De Chão Com Abas Dobrável Aço Secalux 12kg Varal de Apartamento Retratil",
-      "price": 50.9,
-      "originalPrice": 59.9,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqf3kve4phd06",
-      "url": "https://s.shopee.com.br/6q2ZXuAMK8",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 6136,
-      "seller": "Big_ecommerce",
-      "category": "Casa e organização"
-    },
-    {
       "id": "23194269838",
       "title": "Promoção Pijama Curto Em Malha Blogueirinha Short e Blusa Amamentação",
       "price": 27.9,
@@ -291,6 +261,34 @@
       "category": "Moda"
     },
     {
+      "id": "23892413591",
+      "title": "Chapinha Prancha Taiff Cerâmica PTC Action 180ºC Bivolt",
+      "price": 94.9,
+      "originalPrice": 119.98,
+      "discountPercent": 20.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsjz9ggk6xot07",
+      "url": "https://s.shopee.com.br/AAJ1VxYtAu",
+      "rating": 4.9,
+      "salesCount": 1632,
+      "official": true,
+      "seller": "Perfumaria Sumirê",
+      "category": "Beleza"
+    },
+    {
+      "id": "17882461983",
+      "title": "Trocador Plastificado Impermeável Anatômico Americano de Cômoda Para Troca de Fraldas",
+      "price": 44.09,
+      "originalPrice": 54.47,
+      "discountPercent": 19.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maab9aclh7smf5",
+      "url": "https://s.shopee.com.br/9KjuWS6NzT",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 3454,
+      "seller": "Mainha Baby",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "22192944289",
       "title": "Kit Desodorante Aerosol Antitranspirante Tabu Collection Baladadeira + Linda + Delicada + Livre + Ousada (5 unidades)",
       "price": 25.9,
@@ -303,6 +301,22 @@
       "official": true,
       "seller": "Dana Cosmeticos",
       "category": "Beleza"
+    },
+    {
+      "id": "22493863963",
+      "title": "The Perfect Top Insider",
+      "price": 69,
+      "originalPrice": 99,
+      "discountPercent": 30.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd52-m7wmqucrqn5354",
+      "url": "https://s.shopee.com.br/8VAnX4NezZ",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 8534,
+      "official": true,
+      "seller": "INSIDER",
+      "category": "Moda",
+      "hot": true
     },
     {
       "id": "52653471245",
@@ -320,33 +334,19 @@
       "category": "Casa e organização"
     },
     {
-      "id": "51352412625",
-      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
-      "price": 51.99,
-      "originalPrice": 64.9,
-      "discountPercent": 19.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
-      "url": "https://s.shopee.com.br/8KrNKf4eHb",
+      "id": "57208357922",
+      "title": "Jogo Escovas de Aço para Furadeira e Parafusadeira Limpeza Ferrugem Luatek 3 ou 6 Peças",
+      "price": 15.96,
+      "originalPrice": 19.95,
+      "discountPercent": 20,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mmrx40p02t4xd5",
+      "url": "https://s.shopee.com.br/5qA2MDAbF0",
       "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 2508,
-      "official": true,
-      "seller": "impório_ecommerce",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "47053971674",
-      "title": "Ventilador Torre Climatizador Ventisol Clit Abastece 3,6 Litros 5 em 1 Silencioso",
-      "price": 288.1,
-      "originalPrice": 354.99,
-      "discountPercent": 18.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivobz12jx1e76",
-      "url": "https://s.shopee.com.br/8AXx8M5Hec",
       "rating": 4.9,
-      "salesCount": 1532,
+      "salesCount": 1815,
       "official": true,
-      "seller": "Melhor para Você",
-      "category": "Casa e organização"
+      "seller": "Belin Life ",
+      "category": "Ferramentas"
     },
     {
       "id": "41781797063",
@@ -361,6 +361,20 @@
       "salesCount": 58,
       "seller": "YELLOW LASER 3",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "23398654174",
+      "title": "Calça Jeans Infantil  Wide Leg Cargo Black Juvenil 6 ao 14  ALTO PADRÃO LINHA PREMIUM",
+      "price": 49.9,
+      "originalPrice": 58.9,
+      "discountPercent": 15.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhur5wacvep7d",
+      "url": "https://s.shopee.com.br/7VIGLEVrog",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3268,
+      "seller": "MUNDO INFANTIL ",
+      "category": "Moda"
     }
   ]
 }
