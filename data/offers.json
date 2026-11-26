@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T08:24:00.678Z",
+  "updatedAt": "2026-11-26T08:55:04.452Z",
   "offers": [
     {
       "id": "58205100450",
@@ -72,6 +72,20 @@
       "rating": 4.8,
       "salesCount": 2292,
       "seller": "Lescent",
+      "category": "Beleza"
+    },
+    {
+      "id": "58257250172",
+      "title": "Principia Kit Hidratação Corporal Dupla c/ Loção Hidratante LH-02 500ml + Creme Hidratante CH-02 454g",
+      "price": 80.99,
+      "originalPrice": 107.99,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mm0tuogwuebq30",
+      "url": "https://s.shopee.com.br/3qOxyTOEF0",
+      "rating": 4.9,
+      "salesCount": 1815,
+      "official": true,
+      "seller": "Principia Skincare",
       "category": "Beleza"
     },
     {
