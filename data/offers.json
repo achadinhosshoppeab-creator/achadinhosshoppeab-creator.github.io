@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T07:21:39.540Z",
+  "updatedAt": "2026-11-26T07:51:58.695Z",
   "offers": [
     {
       "id": "58205100450",
@@ -73,6 +73,21 @@
       "salesCount": 2292,
       "seller": "Lescent",
       "category": "Beleza"
+    },
+    {
+      "id": "23293919571",
+      "title": "KIT 9 Esfregões Milagrosos Limpa Seco e Úmido sem Enxague Balde com Raspador Dobrável e Super Absorvente -S10",
+      "price": 69.99,
+      "originalPrice": 170.71,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mun7gelqvdhc44",
+      "url": "https://s.shopee.com.br/3LShgoniYu",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1550,
+      "seller": "Minhacesta",
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "18599922423",
@@ -372,20 +387,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "9315675115",
-      "title": "Bota Texana GiGiL Feminina Cano Alto Salto Médio Western Bordada",
-      "price": 92.99,
-      "originalPrice": 113.8,
-      "discountPercent": 18.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu2-mknq92e0nf2a2f",
-      "url": "https://s.shopee.com.br/90747zlfiL",
-      "rating": 4.9,
-      "salesCount": 406,
-      "official": true,
-      "seller": "GiGiL",
-      "category": "Moda"
-    },
-    {
       "id": "22892923302",
       "title": "Scarpin Feminino Shekinah Bico Fino Salto Bloco Grosso Noiva Casamento",
       "price": 65.84,
@@ -594,8 +595,7 @@
       "salesCount": 5636,
       "official": true,
       "seller": "Droga Clara",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "47053971674",
