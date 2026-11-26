@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T13:18:00.935Z",
+  "updatedAt": "2026-11-26T13:39:58.448Z",
   "offers": [
     {
       "id": "58205100450",
@@ -16,6 +16,51 @@
       "hot": true
     },
     {
+      "id": "54359629558",
+      "title": "Sérum Roll-On Área dos Olhos Adeus Olheiras 10ml Kokeshi",
+      "price": 24.9,
+      "originalPrice": 40.9,
+      "discountPercent": 39.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mrk8zl0quccnf3",
+      "url": "https://s.shopee.com.br/5AuLpy1Hlh",
+      "rating": 4.9,
+      "salesCount": 5054,
+      "official": true,
+      "seller": "KOKESHI OFICIAL",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "23898813796",
+      "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
+      "price": 25.2,
+      "originalPrice": 39.9,
+      "discountPercent": 36.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mq228ungk5c142",
+      "url": "https://s.shopee.com.br/3Vm7ZrlUou",
+      "rating": 4.8,
+      "salesCount": 4758,
+      "official": true,
+      "seller": "Barbour's Beauty",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "28867680104",
+      "title": "[NEW] NUMBUZIN No.9 NAD BIO Lifting Sil Essence 30ml, 50ml",
+      "price": 63.99,
+      "originalPrice": 92.68,
+      "discountPercent": 31,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8257x-mrgvlvtzbjt2da",
+      "url": "https://s.shopee.com.br/5fqc9ozZfS",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 1908,
+      "official": true,
+      "seller": "GLORY OF SEOUL",
+      "category": "Beleza"
+    },
+    {
       "id": "58211442575",
       "title": "Deo Colônia Kaiak Miniatura Masculino 25ml",
       "price": 26.48,
@@ -28,6 +73,21 @@
       "official": true,
       "seller": "NATURA",
       "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "23293919571",
+      "title": "KIT 9 Esfregões Milagrosos Limpa Seco e Úmido sem Enxague Balde com Raspador Dobrável e Super Absorvente -S10",
+      "price": 69.99,
+      "originalPrice": 170.71,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mun7gelqvdhc44",
+      "url": "https://s.shopee.com.br/3LShgoniYu",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1550,
+      "seller": "Minhacesta",
+      "category": "Casa e organização",
       "hot": true
     },
     {
@@ -59,33 +119,32 @@
       "category": "Beleza"
     },
     {
-      "id": "58209330202",
-      "title": "Tapete de Água Inflável para Bebê Sensorial Coordenação Motora Brinquedo Educativo Tummy Time Interativo",
-      "price": 18.99,
-      "originalPrice": 49.97,
-      "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mncwlmtr5ds1e9",
-      "url": "https://s.shopee.com.br/3g5Xm2El44",
-      "rating": 4.9,
-      "salesCount": 828,
-      "seller": "BPR Shop",
-      "category": "Pet e bebê",
-      "hot": true
+      "id": "22094238842",
+      "title": "BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL",
+      "price": 19.9,
+      "originalPrice": 24.9,
+      "discountPercent": 20.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mukoqlfdn280c5",
+      "url": "https://s.shopee.com.br/9AQUK77U3p",
+      "rating": 4.8,
+      "salesCount": 6405,
+      "official": true,
+      "seller": "Primacial",
+      "category": "Beleza"
     },
     {
-      "id": "18199723451",
-      "title": "Espelho Lopazzi Grande Corpo Inteiro Decorativo Polido Moderno 90x40cm Quarto Sala Banheiro",
-      "price": 67.99,
-      "originalPrice": 79.99,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lk-mr0wpk5f89adf4",
-      "url": "https://s.shopee.com.br/30prXEmU2k",
-      "hasVariantPrices": true,
+      "id": "58255657495",
+      "title": "Body Splash Afrodite Garden 200ml - AURA Beauty by. Jade Picon",
+      "price": 85.56,
+      "originalPrice": 119,
+      "discountPercent": 28.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mrhc4ue2rz0mba",
+      "url": "https://s.shopee.com.br/qlMOxveEe",
       "rating": 4.9,
-      "salesCount": 911,
+      "salesCount": 2154,
       "official": true,
-      "seller": "Loja Lopazzi",
-      "category": "Casa e organização"
+      "seller": "AURA Beauty Club",
+      "category": "Beleza"
     },
     {
       "id": "19598142136",
@@ -131,20 +190,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "22892800438",
-      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
-      "price": 39.99,
-      "originalPrice": 51,
-      "discountPercent": 21.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
-      "url": "https://s.shopee.com.br/3LShNNdEvq",
-      "rating": 4.8,
-      "salesCount": 2219,
-      "official": true,
-      "seller": "Abstract Decora",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58266799438",
       "title": "Kit coala Home Chá Branco - 4 Itens",
       "price": 49.9,
@@ -160,19 +205,18 @@
       "hot": true
     },
     {
-      "id": "21135940174",
-      "title": "Fone de ouvido Headset Gamer para Jogos Xbox One Ps4 Celular Pc com Microfone LC-862",
-      "price": 39.96,
-      "originalPrice": 90.96,
-      "discountPercent": 56.1,
-      "imageUrl": "https://cf.shopee.com.br/file/bd9c7cc4a4f13e10b38af3025e8f4b27",
-      "url": "https://s.shopee.com.br/Lp5o031iD",
+      "id": "58217669744",
+      "title": "Bebedouro Automático Aves Galinha Codorna Copinho Vermelho",
+      "price": 18,
+      "originalPrice": 23.98,
+      "discountPercent": 24.9,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aq-mstl4ht3lqf6a0",
+      "url": "https://s.shopee.com.br/3qOxyWwDRi",
       "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 432,
-      "seller": "Ankco Shop",
-      "category": "Eletrônicos",
-      "hot": true
+      "rating": 4.9,
+      "salesCount": 1074,
+      "seller": "Lunexis",
+      "category": "Pet e bebê"
     },
     {
       "id": "18698826077",
@@ -187,6 +231,20 @@
       "official": true,
       "seller": "Eletricario Loja Oficial",
       "category": "Ferramentas"
+    },
+    {
+      "id": "55465012839",
+      "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos - 500 mL",
+      "price": 16.88,
+      "originalPrice": 23.87,
+      "discountPercent": 29.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mr7pr7orsr9j54",
+      "url": "https://s.shopee.com.br/Lp5o6Dnjj",
+      "rating": 4.9,
+      "salesCount": 569,
+      "official": true,
+      "seller": "mypetone",
+      "category": "Pet e bebê"
     },
     {
       "id": "9315675115",
@@ -242,7 +300,7 @@
       "rating": 4.8,
       "salesCount": 1922,
       "seller": "MiDi Store",
-      "category": "Casa e organização"
+      "category": "Moda"
     },
     {
       "id": "58251353658",
@@ -259,6 +317,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "56168786435",
+      "title": "Óleo Capilar Nutritivo OX Nutre 120ml",
+      "price": 29.9,
+      "originalPrice": 38.87,
+      "discountPercent": 23.1,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b2-mtybxmwwf3m08f",
+      "url": "https://s.shopee.com.br/9KjuWZGtZe",
+      "rating": 5,
+      "salesCount": 3245,
+      "official": true,
+      "seller": "Perfumaria Sumirê",
+      "category": "Beleza"
+    },
+    {
       "id": "23892413591",
       "title": "Chapinha Prancha Taiff Cerâmica PTC Action 180ºC Bivolt",
       "price": 94.9,
@@ -273,20 +345,6 @@
       "category": "Beleza"
     },
     {
-      "id": "17882461983",
-      "title": "Trocador Plastificado Impermeável Anatômico Americano de Cômoda Para Troca de Fraldas",
-      "price": 44.09,
-      "originalPrice": 54.47,
-      "discountPercent": 19.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maab9aclh7smf5",
-      "url": "https://s.shopee.com.br/9KjuWS6NzT",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 3455,
-      "seller": "Mainha Baby",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "22493863963",
       "title": "The Perfect Top Insider",
       "price": 69,
@@ -299,8 +357,21 @@
       "salesCount": 7991,
       "official": true,
       "seller": "INSIDER",
-      "category": "Moda",
-      "hot": true
+      "category": "Moda"
+    },
+    {
+      "id": "19139965863",
+      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
+      "price": 42.41,
+      "originalPrice": 49.9,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
+      "url": "https://s.shopee.com.br/9pgB7ZuUOv",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 272,
+      "seller": "Gift Presentes",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "52768536168",
@@ -361,6 +432,19 @@
       "category": "Beleza"
     },
     {
+      "id": "54857767078",
+      "title": "Jogo De Panelas 10 Peças Antiaderente Conjunto com Tampas de Vidro e Kit de Utensílios Marfim",
+      "price": 154.24,
+      "originalPrice": 188.09,
+      "discountPercent": 18,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mpm9dmjlux36be",
+      "url": "https://s.shopee.com.br/20xKLNvADA",
+      "rating": 4.7,
+      "salesCount": 1883,
+      "seller": "A.R.S Alumínios",
+      "category": "Cozinha"
+    },
+    {
       "id": "23799188673",
       "title": "kit 1400 Toalhas Umedecidas Bebê Limpinho",
       "price": 57.99,
@@ -388,6 +472,20 @@
       "salesCount": 1396,
       "seller": "Big_ecommerce",
       "category": "Casa e organização"
+    },
+    {
+      "id": "58209212381",
+      "title": "5 Trenas 5m Fita Métrica Profissional Aço Reforçado Emborrachada com Trava e Clip Alta Precisão",
+      "price": 17.98,
+      "originalPrice": 21.98,
+      "discountPercent": 18.2,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mn9pi191uzgi34",
+      "url": "https://s.shopee.com.br/9pgB7Z8ZXw",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 476,
+      "seller": "PENGFA TECH LTDA",
+      "category": "Ferramentas"
     },
     {
       "id": "22392646521",
