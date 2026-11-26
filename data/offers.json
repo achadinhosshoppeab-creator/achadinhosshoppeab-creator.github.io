@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T07:51:58.695Z",
+  "updatedAt": "2026-11-26T08:24:00.678Z",
   "offers": [
     {
       "id": "58205100450",
@@ -387,6 +387,20 @@
       "category": "Pet e bebê"
     },
     {
+      "id": "9315675115",
+      "title": "Bota Texana GiGiL Feminina Cano Alto Salto Médio Western Bordada",
+      "price": 92.99,
+      "originalPrice": 113.8,
+      "discountPercent": 18.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu2-mknq92e0nf2a2f",
+      "url": "https://s.shopee.com.br/90747zlfiL",
+      "rating": 4.9,
+      "salesCount": 406,
+      "official": true,
+      "seller": "GiGiL",
+      "category": "Moda"
+    },
+    {
       "id": "22892923302",
       "title": "Scarpin Feminino Shekinah Bico Fino Salto Bloco Grosso Noiva Casamento",
       "price": 65.84,
@@ -490,7 +504,7 @@
       "price": 69,
       "originalPrice": 99,
       "discountPercent": 30.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258c-mfv6dozri1oscf",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a5-mg4na21nlg5q74",
       "url": "https://s.shopee.com.br/8VAnX4NezZ",
       "hasVariantPrices": true,
       "rating": 4.9,
