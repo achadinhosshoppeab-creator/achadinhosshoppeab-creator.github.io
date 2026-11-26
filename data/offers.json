@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T06:49:30.795Z",
+  "updatedAt": "2026-11-26T07:21:39.540Z",
   "offers": [
     {
       "id": "58205100450",
@@ -12,6 +12,21 @@
       "rating": 4.8,
       "salesCount": 2154,
       "seller": "Ela&Ela",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "54359629558",
+      "title": "Sérum Roll-On Área dos Olhos Adeus Olheiras 10ml Kokeshi",
+      "price": 24.9,
+      "originalPrice": 40.9,
+      "discountPercent": 39.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mrk8zl0quccnf3",
+      "url": "https://s.shopee.com.br/5AuLpy1Hlh",
+      "rating": 4.9,
+      "salesCount": 5054,
+      "official": true,
+      "seller": "KOKESHI OFICIAL",
       "category": "Beleza",
       "hot": true
     },
@@ -245,6 +260,20 @@
       "category": "Presentes e papelaria"
     },
     {
+      "id": "22892800438",
+      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
+      "price": 39.99,
+      "originalPrice": 51,
+      "discountPercent": 21.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
+      "url": "https://s.shopee.com.br/3LShNNdEvq",
+      "rating": 4.8,
+      "salesCount": 2219,
+      "official": true,
+      "seller": "Abstract Decora",
+      "category": "Casa e organização"
+    },
+    {
       "id": "58266799438",
       "title": "Kit coala Home Chá Branco - 4 Itens",
       "price": 49.9,
@@ -256,8 +285,7 @@
       "salesCount": 4827,
       "official": true,
       "seller": "Coala Essências Oficial",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "21135940174",
@@ -273,20 +301,6 @@
       "seller": "Ankco Shop",
       "category": "Eletrônicos",
       "hot": true
-    },
-    {
-      "id": "22892800438",
-      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
-      "price": 39.99,
-      "originalPrice": 50.45,
-      "discountPercent": 20.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
-      "url": "https://s.shopee.com.br/3LShNNdEvq",
-      "rating": 4.8,
-      "salesCount": 2219,
-      "official": true,
-      "seller": "Abstract Decora",
-      "category": "Casa e organização"
     },
     {
       "id": "58217669744",
