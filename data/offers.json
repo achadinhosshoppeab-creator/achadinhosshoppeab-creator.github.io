@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T02:07:54.785Z",
+  "updatedAt": "2026-11-26T02:39:39.894Z",
   "offers": [
     {
       "id": "58205100450",
@@ -45,18 +45,19 @@
       "hot": true
     },
     {
-      "id": "58257250172",
-      "title": "Principia Kit Hidratação Corporal Dupla c/ Loção Hidratante LH-02 500ml + Creme Hidratante CH-02 454g",
-      "price": 80.99,
-      "originalPrice": 107.99,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mm0tuogwuebq30",
-      "url": "https://s.shopee.com.br/4LLEV3Y7om",
+      "id": "23293919571",
+      "title": "KIT 9 Esfregões Milagrosos Limpa Seco e Úmido sem Enxague Balde com Raspador Dobrável e Super Absorvente -S10",
+      "price": 69.99,
+      "originalPrice": 170.71,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mun7gelqvdhc44",
+      "url": "https://s.shopee.com.br/8fUDLvcOrD",
+      "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1815,
-      "official": true,
-      "seller": "Principia Skincare",
-      "category": "Beleza"
+      "salesCount": 1550,
+      "seller": "Minhacesta",
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "18298022046",
@@ -72,33 +73,18 @@
       "category": "Casa e organização"
     },
     {
-      "id": "25745811858",
-      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
-      "price": 247.9,
-      "originalPrice": 307.6,
-      "discountPercent": 19.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
-      "url": "https://s.shopee.com.br/4fy3P4g8Tz",
-      "rating": 4.9,
-      "salesCount": 1766,
+      "id": "19598142136",
+      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
+      "price": 118.15,
+      "originalPrice": 139,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
+      "url": "https://s.shopee.com.br/1qds4AYcK5",
+      "rating": 5,
+      "salesCount": 2545,
       "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Cozinha"
-    },
-    {
-      "id": "58203668922",
-      "title": "Jarra De Vidro 1L Com Tampa Para Água Suco Garrafa Modelo Suíça",
-      "price": 21.98,
-      "originalPrice": 38.56,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mvw91ychr20wf0",
-      "url": "https://s.shopee.com.br/30ppxtVKj6",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1626,
-      "seller": "JV  Store",
-      "category": "Cozinha",
-      "hot": true
+      "seller": "meuollie",
+      "category": "Beleza"
     },
     {
       "id": "58263021202",
@@ -221,7 +207,7 @@
       "price": 69,
       "originalPrice": 99,
       "discountPercent": 30.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824j3-mfo1d0tts1l4ea",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd5k-m7wmr3vpolkm5a",
       "url": "https://s.shopee.com.br/9V3JA8f9WZ",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -244,6 +230,21 @@
       "salesCount": 272,
       "seller": "Gift Presentes",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "51352412625",
+      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
+      "price": 51.99,
+      "originalPrice": 64.9,
+      "discountPercent": 19.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
+      "url": "https://s.shopee.com.br/BVe2tclK0",
+      "hasVariantPrices": true,
+      "rating": 4.5,
+      "salesCount": 2384,
+      "official": true,
+      "seller": "impório_ecommerce",
+      "category": "Casa e organização"
     },
     {
       "id": "58219341014",
@@ -272,20 +273,6 @@
       "official": true,
       "seller": "Melhor para Você",
       "category": "Casa e organização"
-    },
-    {
-      "id": "58209212381",
-      "title": "5 Trenas 5m Fita Métrica Profissional Aço Reforçado Emborrachada com Trava e Clip Alta Precisão",
-      "price": 17.98,
-      "originalPrice": 21.98,
-      "discountPercent": 18.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mn9pi191uzgi34",
-      "url": "https://s.shopee.com.br/1BOBErerpu",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 476,
-      "seller": "PENGFA TECH LTDA",
-      "category": "Ferramentas"
     },
     {
       "id": "41781797063",
