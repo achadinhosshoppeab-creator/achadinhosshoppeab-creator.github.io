@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-26T11:31:31.684Z",
+  "updatedAt": "2026-11-26T11:53:10.851Z",
   "offers": [
     {
-      "id": "28867680104",
-      "title": "[NEW] NUMBUZIN No.9 NAD BIO Lifting Sil Essence 30ml, 50ml",
-      "price": 63.99,
-      "originalPrice": 92.68,
-      "discountPercent": 31,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8257x-mrgvlvtzbjt2da",
-      "url": "https://s.shopee.com.br/5fqc9ozZfS",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1908,
+      "id": "54359629558",
+      "title": "Sérum Roll-On Área dos Olhos Adeus Olheiras 10ml Kokeshi",
+      "price": 24.9,
+      "originalPrice": 40.9,
+      "discountPercent": 39.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mrk8zl0quccnf3",
+      "url": "https://s.shopee.com.br/5AuLpy1Hlh",
+      "rating": 4.9,
+      "salesCount": 5054,
       "official": true,
-      "seller": "GLORY OF SEOUL",
-      "category": "Beleza"
+      "seller": "KOKESHI OFICIAL",
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "58211442575",
@@ -30,6 +30,35 @@
       "seller": "NATURA",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "23293919571",
+      "title": "KIT 9 Esfregões Milagrosos Limpa Seco e Úmido sem Enxague Balde com Raspador Dobrável e Super Absorvente -S10",
+      "price": 69.99,
+      "originalPrice": 170.71,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mun7gelqvdhc44",
+      "url": "https://s.shopee.com.br/3LShgoniYu",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1550,
+      "seller": "Minhacesta",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "22093231630",
+      "title": "Sabonete Facial em Gel Pele de Porcelana 190ml Kokeshi",
+      "price": 39.8,
+      "originalPrice": 49.9,
+      "discountPercent": 20.2,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mrszxvch3f2d73",
+      "url": "https://s.shopee.com.br/1gKTOTNbOH",
+      "rating": 4.9,
+      "salesCount": 372,
+      "official": true,
+      "seller": "KOKESHI OFICIAL",
+      "category": "Beleza"
     },
     {
       "id": "22094238842",
@@ -60,21 +89,6 @@
       "category": "Beleza"
     },
     {
-      "id": "58203668922",
-      "title": "Jarra De Vidro 1L Com Tampa Para Água Suco Garrafa Modelo Suíça",
-      "price": 21.98,
-      "originalPrice": 38.56,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mvw91ychr20wf0",
-      "url": "https://s.shopee.com.br/4qHVACIMty",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1626,
-      "seller": "JV  Store",
-      "category": "Cozinha",
-      "hot": true
-    },
-    {
       "id": "58209330202",
       "title": "Tapete de Água Inflável para Bebê Sensorial Coordenação Motora Brinquedo Educativo Tummy Time Interativo",
       "price": 18.99,
@@ -87,21 +101,6 @@
       "seller": "BPR Shop",
       "category": "Pet e bebê",
       "hot": true
-    },
-    {
-      "id": "18199723451",
-      "title": "Espelho Lopazzi Grande Corpo Inteiro Decorativo Polido Moderno 90x40cm Quarto Sala Banheiro",
-      "price": 67.99,
-      "originalPrice": 79.99,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lk-mr0wpk5f89adf4",
-      "url": "https://s.shopee.com.br/30prXEmU2k",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 911,
-      "official": true,
-      "seller": "Loja Lopazzi",
-      "category": "Casa e organização"
     },
     {
       "id": "19598142136",
@@ -133,20 +132,6 @@
       "hot": true
     },
     {
-      "id": "10951188066",
-      "title": "Amaciante Urca Brisa Azul - 5l",
-      "price": 16.33,
-      "originalPrice": 19.6,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40g08sd675t69",
-      "url": "https://s.shopee.com.br/1qdu9D5lYL",
-      "rating": 4.9,
-      "salesCount": 1819,
-      "official": true,
-      "seller": "Casa de Gê",
-      "category": "Beleza"
-    },
-    {
       "id": "23693686267",
       "title": "Kit 5 Organizadores Lápis 3D Lúdico Coloridos Formatura Plasútil",
       "price": 28.9,
@@ -158,8 +143,7 @@
       "salesCount": 1913,
       "official": true,
       "seller": "LOJA PLASÚTIL",
-      "category": "Casa e organização",
-      "hot": true
+      "category": "Casa e organização"
     },
     {
       "id": "58266799438",
@@ -177,20 +161,6 @@
       "hot": true
     },
     {
-      "id": "22892800438",
-      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
-      "price": 39.99,
-      "originalPrice": 50.45,
-      "discountPercent": 20.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
-      "url": "https://s.shopee.com.br/3LShNNdEvq",
-      "rating": 4.8,
-      "salesCount": 2219,
-      "official": true,
-      "seller": "Abstract Decora",
-      "category": "Casa e organização"
-    },
-    {
       "id": "18698826077",
       "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
       "price": 104.9,
@@ -203,6 +173,20 @@
       "official": true,
       "seller": "Eletricario Loja Oficial",
       "category": "Ferramentas"
+    },
+    {
+      "id": "9315675115",
+      "title": "Bota Texana GiGiL Feminina Cano Alto Salto Médio Western Bordada",
+      "price": 92.99,
+      "originalPrice": 113.8,
+      "discountPercent": 18.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu2-mknq92e0nf2a2f",
+      "url": "https://s.shopee.com.br/90747zlfiL",
+      "rating": 4.9,
+      "salesCount": 406,
+      "official": true,
+      "seller": "GiGiL",
+      "category": "Moda"
     },
     {
       "id": "22892923302",
@@ -230,7 +214,7 @@
       "rating": 4.8,
       "salesCount": 1922,
       "seller": "MiDi Store",
-      "category": "Casa e organização"
+      "category": "Moda"
     },
     {
       "id": "23194269838",
@@ -247,12 +231,26 @@
       "category": "Moda"
     },
     {
+      "id": "17882461983",
+      "title": "Trocador Plastificado Impermeável Anatômico Americano de Cômoda Para Troca de Fraldas",
+      "price": 44.09,
+      "originalPrice": 54.47,
+      "discountPercent": 19.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maab9aclh7smf5",
+      "url": "https://s.shopee.com.br/9KjuWS6NzT",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 3455,
+      "seller": "Mainha Baby",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "22493863963",
       "title": "The Perfect Top Insider",
       "price": 69,
       "originalPrice": 99,
       "discountPercent": 30.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ip-mfo1ct0dpatoc3",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824he-mfo1di4agjd7d4",
       "url": "https://s.shopee.com.br/8VAnX4NezZ",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -261,6 +259,20 @@
       "seller": "INSIDER",
       "category": "Moda",
       "hot": true
+    },
+    {
+      "id": "19139965863",
+      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
+      "price": 42.41,
+      "originalPrice": 49.9,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
+      "url": "https://s.shopee.com.br/9pgB7ZuUOv",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 272,
+      "seller": "Gift Presentes",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "52768536168",
@@ -315,8 +327,22 @@
       "salesCount": 5636,
       "official": true,
       "seller": "Droga Clara",
-      "category": "Casa e organização",
+      "category": "Pet e bebê",
       "hot": true
+    },
+    {
+      "id": "47053971674",
+      "title": "Ventilador Torre Climatizador Ventisol Clit Abastece 3,6 Litros 5 em 1 Silencioso",
+      "price": 288.1,
+      "originalPrice": 354.99,
+      "discountPercent": 18.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivobz12jx1e76",
+      "url": "https://s.shopee.com.br/8AXx8M5Hec",
+      "rating": 4.9,
+      "salesCount": 1521,
+      "official": true,
+      "seller": "Melhor para Você",
+      "category": "Casa e organização"
     },
     {
       "id": "58261060170",
@@ -359,20 +385,6 @@
       "official": true,
       "seller": "Britânia Oficial",
       "category": "Beleza"
-    },
-    {
-      "id": "23398654174",
-      "title": "Calça Jeans Infantil  Wide Leg Cargo Black Juvenil 6 ao 14  ALTO PADRÃO LINHA PREMIUM",
-      "price": 49.9,
-      "originalPrice": 58.9,
-      "discountPercent": 15.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhur5wacvep7d",
-      "url": "https://s.shopee.com.br/7VIGLEVrog",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3262,
-      "seller": "MUNDO INFANTIL ",
-      "category": "Moda"
     }
   ]
 }
