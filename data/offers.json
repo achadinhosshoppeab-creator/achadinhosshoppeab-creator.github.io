@@ -1,20 +1,6 @@
 {
-  "updatedAt": "2026-11-26T00:00:07.416Z",
+  "updatedAt": "2026-11-26T00:20:47.474Z",
   "offers": [
-    {
-      "id": "58205100450",
-      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
-      "price": 19.9,
-      "originalPrice": 37.96,
-      "discountPercent": 47.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
-      "url": "https://s.shopee.com.br/8AXw7RwMt1",
-      "rating": 4.8,
-      "salesCount": 2154,
-      "seller": "Ela&Ela",
-      "category": "Beleza",
-      "hot": true
-    },
     {
       "id": "23098651097",
       "title": "Escorredor de Louça 2 Andares Inox com Bandeja Coletora e Suportes – Organizador de Cozinha Compacta",
@@ -28,34 +14,6 @@
       "seller": "NOVEVE Kitchen",
       "category": "Cozinha",
       "hot": true
-    },
-    {
-      "id": "55957404904",
-      "title": "Perfume Deo Colônia Lescent N2 DELICATE LONDRES  Feminino",
-      "price": 29.9,
-      "originalPrice": 39.9,
-      "discountPercent": 25.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mr7eqciov3lz66",
-      "url": "https://s.shopee.com.br/3Vm60x5gtA",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 2292,
-      "seller": "Lescent",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "18298022046",
-      "title": "Kit 20 Potes Herméticos 2,3litros 1,1litro 480ml Organização",
-      "price": 175.92,
-      "originalPrice": 229.9,
-      "discountPercent": 23.5,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mp8722qtssg1d3",
-      "url": "https://s.shopee.com.br/BVdT3uOEp",
-      "rating": 4.9,
-      "salesCount": 943,
-      "seller": "eKing commerce",
-      "category": "Casa e organização"
     },
     {
       "id": "25745811858",
@@ -87,6 +45,20 @@
       "hot": true
     },
     {
+      "id": "19598142136",
+      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
+      "price": 118.15,
+      "originalPrice": 139,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
+      "url": "https://s.shopee.com.br/1qds4AYcK5",
+      "rating": 5,
+      "salesCount": 2545,
+      "official": true,
+      "seller": "meuollie",
+      "category": "Beleza"
+    },
+    {
       "id": "58263021202",
       "title": "BRILHO NOVO Kit Escova Sanitária Sem Contato, Refis Descartáveis com Detergente Incorporado | Cabo + Base + 36 Refis",
       "price": 38.9,
@@ -113,21 +85,7 @@
       "salesCount": 3052,
       "official": true,
       "seller": "Salon Line",
-      "category": "Beleza"
-    },
-    {
-      "id": "21135940174",
-      "title": "Fone de ouvido Headset Gamer para Jogos Xbox One Ps4 Celular Pc com Microfone LC-862",
-      "price": 39.96,
-      "originalPrice": 90.96,
-      "discountPercent": 56.1,
-      "imageUrl": "https://cf.shopee.com.br/file/bd9c7cc4a4f13e10b38af3025e8f4b27",
-      "url": "https://s.shopee.com.br/1CEOQb8uH",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 432,
-      "seller": "Ankco Shop",
-      "category": "Eletrônicos",
+      "category": "Beleza",
       "hot": true
     },
     {
@@ -145,6 +103,36 @@
       "hot": true
     },
     {
+      "id": "19139965863",
+      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
+      "price": 42.41,
+      "originalPrice": 49.9,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
+      "url": "https://s.shopee.com.br/4B1moO6hSq",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 272,
+      "seller": "Gift Presentes",
+      "category": "Presentes e papelaria"
+    },
+    {
+      "id": "51352412625",
+      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
+      "price": 51.99,
+      "originalPrice": 64.9,
+      "discountPercent": 19.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
+      "url": "https://s.shopee.com.br/BVe2tclK0",
+      "hasVariantPrices": true,
+      "rating": 4.5,
+      "salesCount": 2384,
+      "official": true,
+      "seller": "impório_ecommerce",
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
       "id": "58219341014",
       "title": "Escova Secadora Mondial ES-02-BI 1200W",
       "price": 79.9,
@@ -158,6 +146,20 @@
       "seller": "Magalu",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "58209212381",
+      "title": "5 Trenas 5m Fita Métrica Profissional Aço Reforçado Emborrachada com Trava e Clip Alta Precisão",
+      "price": 17.98,
+      "originalPrice": 21.98,
+      "discountPercent": 18.2,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mn9pi191uzgi34",
+      "url": "https://s.shopee.com.br/1BOBErerpu",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 476,
+      "seller": "PENGFA TECH LTDA",
+      "category": "Ferramentas"
     },
     {
       "id": "41781797063",
@@ -185,7 +187,8 @@
       "rating": 4.9,
       "salesCount": 3262,
       "seller": "MUNDO INFANTIL ",
-      "category": "Moda"
+      "category": "Moda",
+      "hot": true
     }
   ]
 }
