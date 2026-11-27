@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T00:40:14.474Z",
+  "updatedAt": "2026-11-27T01:01:17.485Z",
   "offers": [
     {
       "id": "54359629558",
@@ -17,6 +17,20 @@
       "hot": true
     },
     {
+      "id": "58205100450",
+      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
+      "price": 19.9,
+      "originalPrice": 37.96,
+      "discountPercent": 47.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
+      "url": "https://s.shopee.com.br/9pgB7TbOVd",
+      "rating": 4.8,
+      "salesCount": 2221,
+      "seller": "Ela&Ela",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
       "id": "23898813796",
       "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
       "price": 25.2,
@@ -28,6 +42,21 @@
       "salesCount": 5114,
       "official": true,
       "seller": "Barbour's Beauty",
+      "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "58211442575",
+      "title": "Deo Colônia Kaiak Miniatura Masculino 25ml",
+      "price": 26.48,
+      "originalPrice": 49.28,
+      "discountPercent": 46.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pk-mopv3g8qnk7h17",
+      "url": "https://s.shopee.com.br/8KrNKaFXOT",
+      "rating": 5,
+      "salesCount": 613,
+      "official": true,
+      "seller": "NATURA",
       "category": "Beleza",
       "hot": true
     },
@@ -75,31 +104,17 @@
       "hot": true
     },
     {
-      "id": "58208432235",
-      "title": "Principia Kit Anti-Acne Essencial c/ Gel de Limpeza GL-01 + Hidratação GH-01 + Sérum Mix-01 + Protetor Solar PS-01 FPS60",
-      "price": 139.99,
-      "originalPrice": 179.18,
-      "discountPercent": 21.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mmsy97ne6q6c38",
-      "url": "https://s.shopee.com.br/AKcRiOhoCQ",
+      "id": "18599922423",
+      "title": "Kit Skin Care Geleia de colágeno e olhos de gueixa kokeshi",
+      "price": 30.9,
+      "originalPrice": 39.9,
+      "discountPercent": 22.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mna1ftruvb412d",
+      "url": "https://s.shopee.com.br/6VPj9Lo5Gv",
       "rating": 4.9,
-      "salesCount": 1718,
+      "salesCount": 2422,
       "official": true,
-      "seller": "Principia Skincare",
-      "category": "Beleza"
-    },
-    {
-      "id": "58200183117",
-      "title": "Principia Kit Antissinais Dia e Noite c/ Vitamina VC-10 + Sérum Retinol Rn-0,3",
-      "price": 88.99,
-      "originalPrice": 113.99,
-      "discountPercent": 21.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mmsy97ndvhmp77",
-      "url": "https://s.shopee.com.br/20xJn5DX73",
-      "rating": 4.9,
-      "salesCount": 1329,
-      "official": true,
-      "seller": "Principia Skincare",
+      "seller": "KOKESHI OFICIAL",
       "category": "Beleza"
     },
     {
@@ -117,17 +132,31 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58209766348",
-      "title": "Kit Skincare Kokeshi Cosméticos Completo 6 Itens Hidratação e Tratamento Facial",
-      "price": 92.91,
-      "originalPrice": 116.91,
-      "discountPercent": 20.5,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mqbygibee3nm0d",
-      "url": "https://s.shopee.com.br/6L6Ix2x2JW",
-      "rating": 4.9,
-      "salesCount": 2953,
+      "id": "22094238842",
+      "title": "BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL",
+      "price": 19.9,
+      "originalPrice": 24.9,
+      "discountPercent": 20.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mukoqlfdn280c5",
+      "url": "https://s.shopee.com.br/9AQUK77U3p",
+      "rating": 4.8,
+      "salesCount": 6771,
       "official": true,
-      "seller": "KOKESHI OFICIAL",
+      "seller": "Primacial",
+      "category": "Beleza"
+    },
+    {
+      "id": "23394690451",
+      "title": "Principia Kit Completo Peles Sensíveis c/ Gel de Limpeza GL-02 + Creme Hidratante CH-01 + Protetor Solar PS-01 FPS 60",
+      "price": 78.99,
+      "originalPrice": 98.14,
+      "discountPercent": 19.5,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh9d339f89af1c",
+      "url": "https://s.shopee.com.br/1gKTOT6PsJ",
+      "rating": 4.9,
+      "salesCount": 1966,
+      "official": true,
+      "seller": "Principia Skincare",
       "category": "Beleza"
     },
     {
@@ -142,22 +171,7 @@
       "salesCount": 5385,
       "official": true,
       "seller": "Salon Line",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "23593332489",
-      "title": "Espelho Lopazzi Base Reta Corpo Inteiro 170x70 Com Suporte de Chão Moldura Alumínio Quarto Sala Decorativo",
-      "price": 314.9,
-      "originalPrice": 419.9,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7taq0e5d7ys2c",
-      "url": "https://s.shopee.com.br/5AuLYkWGDJ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1151,
-      "official": true,
-      "seller": "Loja Lopazzi",
-      "category": "Casa e organização"
+      "category": "Beleza"
     },
     {
       "id": "25745811858",
@@ -172,6 +186,20 @@
       "official": true,
       "seller": "Na Web Group De Marcas",
       "category": "Cozinha"
+    },
+    {
+      "id": "58255657495",
+      "title": "Body Splash Afrodite Garden 200ml - AURA Beauty by. Jade Picon",
+      "price": 85.56,
+      "originalPrice": 119,
+      "discountPercent": 28.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mrhc4ue2rz0mba",
+      "url": "https://s.shopee.com.br/qlMOxveEe",
+      "rating": 4.9,
+      "salesCount": 2242,
+      "official": true,
+      "seller": "AURA Beauty Club",
+      "category": "Beleza"
     },
     {
       "id": "47465815591",
@@ -247,64 +275,6 @@
       "hot": true
     },
     {
-      "id": "22795170973",
-      "title": "CeraVe, Creme Hidratante Corporal Pele Seca a Extra Seca 454g",
-      "price": 79.9,
-      "originalPrice": 133.9,
-      "discountPercent": 40.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mti5ca6mf1mo23",
-      "url": "https://s.shopee.com.br/8pndvf5C5Q",
-      "rating": 4.9,
-      "salesCount": 8071,
-      "official": true,
-      "seller": "Cerave - Loja Oficial",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "58216689260",
-      "title": "CeraVe, Loção Hidratante Corporal, Textura Fluida e Ácido Hialurônico, 473ml",
-      "price": 79.9,
-      "originalPrice": 133.9,
-      "discountPercent": 40.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mti5ca6mdn28b4",
-      "url": "https://s.shopee.com.br/90747y4YkV",
-      "rating": 4.9,
-      "salesCount": 6404,
-      "official": true,
-      "seller": "Cerave - Loja Oficial",
-      "category": "Beleza"
-    },
-    {
-      "id": "18199723451",
-      "title": "Espelho Lopazzi Grande Corpo Inteiro Decorativo Polido Moderno 90x40cm Quarto Sala Banheiro",
-      "price": 67.99,
-      "originalPrice": 79.99,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lk-mr0wpk5f89adf4",
-      "url": "https://s.shopee.com.br/30prXEmU2k",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 922,
-      "official": true,
-      "seller": "Loja Lopazzi",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "18797677549",
-      "title": "Secador De Cabelo Taiff Style Profissional Original 2000W",
-      "price": 189.99,
-      "originalPrice": 267.99,
-      "discountPercent": 29.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824jf-mf0cfquk2m16e3",
-      "url": "https://s.shopee.com.br/AKcRiPLt2a",
-      "rating": 4.9,
-      "salesCount": 955,
-      "official": true,
-      "seller": "Beleza Renovada Oficial",
-      "category": "Beleza"
-    },
-    {
       "id": "58263021202",
       "title": "BRILHO NOVO Kit Escova Sanitária Sem Contato, Refis Descartáveis com Detergente Incorporado | Cabo + Base + 36 Refis",
       "price": 38.9,
@@ -319,17 +289,31 @@
       "category": "Casa e organização"
     },
     {
-      "id": "20199608460",
-      "title": "Secador De Cabelo Profissional Lizze Extreme",
-      "price": 319.9,
-      "originalPrice": 458.99,
-      "discountPercent": 30.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rccb-m6hdhdcr7ez62f",
-      "url": "https://s.shopee.com.br/W8W0KxJzV",
-      "rating": 5,
-      "salesCount": 944,
+      "id": "16824447023",
+      "title": "Máscara S.O.S Hidratação Óleo de Rícino Salon Line 1kg",
+      "price": 19.88,
+      "originalPrice": 24.2,
+      "discountPercent": 17.9,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a1-muxl71c7bf2hc3",
+      "url": "https://s.shopee.com.br/6L6Ix3SJf6",
+      "rating": 4.9,
+      "salesCount": 3134,
       "official": true,
-      "seller": "Lizze",
+      "seller": "Salon Line",
+      "category": "Beleza"
+    },
+    {
+      "id": "23092618942",
+      "title": "Óleo de Tratamento SOS Cachos 10 em 1 Multibenefícios 42ml",
+      "price": 15.96,
+      "originalPrice": 18.8,
+      "discountPercent": 15.1,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a4-mfubjf1fva4pe1",
+      "url": "https://s.shopee.com.br/6VPj9MRgK9",
+      "rating": 4.9,
+      "salesCount": 3025,
+      "official": true,
+      "seller": "Salon Line",
       "category": "Beleza"
     },
     {
@@ -372,36 +356,7 @@
       "salesCount": 2551,
       "official": true,
       "seller": "Yamase Loja Oficial",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "21135940174",
-      "title": "Fone de ouvido Headset Gamer para Jogos Xbox One Ps4 Celular Pc com Microfone LC-862",
-      "price": 39.96,
-      "originalPrice": 90.96,
-      "discountPercent": 56.1,
-      "imageUrl": "https://cf.shopee.com.br/file/bd9c7cc4a4f13e10b38af3025e8f4b27",
-      "url": "https://s.shopee.com.br/Lp5o031iD",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 426,
-      "seller": "Ankco Shop",
-      "category": "Eletrônicos",
-      "hot": true
-    },
-    {
-      "id": "22892800438",
-      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
-      "price": 39.99,
-      "originalPrice": 50.45,
-      "discountPercent": 20.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
-      "url": "https://s.shopee.com.br/3LShNNdEvq",
-      "rating": 4.8,
-      "salesCount": 2104,
-      "official": true,
-      "seller": "Abstract Decora",
-      "category": "Casa e organização"
+      "category": "Beleza"
     },
     {
       "id": "58217669744",
@@ -430,20 +385,6 @@
       "official": true,
       "seller": "Eletricario Loja Oficial",
       "category": "Ferramentas"
-    },
-    {
-      "id": "22892923302",
-      "title": "Scarpin Feminino Shekinah Bico Fino Salto Bloco Grosso Noiva Casamento",
-      "price": 60.72,
-      "originalPrice": 79.9,
-      "discountPercent": 24,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-msk80zc2xjpg6c",
-      "url": "https://s.shopee.com.br/2LaABjl8Vp",
-      "rating": 4.9,
-      "salesCount": 3333,
-      "official": true,
-      "seller": "Shekinah Calçados",
-      "category": "Moda"
     },
     {
       "id": "55465012839",
@@ -488,20 +429,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "22698935244",
-      "title": "Tripé Selfie Stick 4 Eixos 360° Rotação | Anti-tremor+Controle Bluetooth Sem Fio | Ideal para Vlog",
-      "price": 25,
-      "originalPrice": 29.99,
-      "discountPercent": 16.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mvodv2c6klj611",
-      "url": "https://s.shopee.com.br/8fUEqnDSGn",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 803,
-      "seller": "EXEED SHOPPING",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "41183604135",
       "title": "Organizador de Bonés em Acrílico Transparente Suporte Porta Boné Expositor para Closet Guarda-Roupa Loja",
       "price": 19.73,
@@ -528,6 +455,20 @@
       "salesCount": 6136,
       "seller": "Big_ecommerce",
       "category": "Casa e organização"
+    },
+    {
+      "id": "56168786435",
+      "title": "Óleo Capilar Nutritivo OX Nutre 120ml",
+      "price": 29.9,
+      "originalPrice": 38.87,
+      "discountPercent": 23.1,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b2-mtybxmwwf3m08f",
+      "url": "https://s.shopee.com.br/9KjuWZGtZe",
+      "rating": 5,
+      "salesCount": 3091,
+      "official": true,
+      "seller": "Perfumaria Sumirê",
+      "category": "Beleza"
     },
     {
       "id": "23194269838",
@@ -558,33 +499,18 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "22192944289",
-      "title": "Kit Desodorante Aerosol Antitranspirante Tabu Collection Baladadeira + Linda + Delicada + Livre + Ousada (5 unidades)",
-      "price": 25.9,
-      "originalPrice": 34.9,
-      "discountPercent": 25.8,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdi-ltmherygtgr31f",
-      "url": "https://s.shopee.com.br/40iPDsgfwP",
-      "rating": 4.9,
-      "salesCount": 1076,
-      "official": true,
-      "seller": "Dana Cosmeticos",
-      "category": "Beleza"
-    },
-    {
-      "id": "22493863963",
-      "title": "The Perfect Top Insider",
-      "price": 69,
-      "originalPrice": 99,
-      "discountPercent": 30.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824he-mfo1di4agjd7d4",
-      "url": "https://s.shopee.com.br/8VAnX4NezZ",
+      "id": "19139965863",
+      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
+      "price": 42.41,
+      "originalPrice": 49.9,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
+      "url": "https://s.shopee.com.br/9pgB7ZuUOv",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 8534,
-      "official": true,
-      "seller": "INSIDER",
-      "category": "Moda"
+      "salesCount": 274,
+      "seller": "Gift Presentes",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "53750943172",
@@ -613,6 +539,20 @@
       "salesCount": 2508,
       "official": true,
       "seller": "impório_ecommerce",
+      "category": "Casa e organização"
+    },
+    {
+      "id": "47053971674",
+      "title": "Ventilador Torre Climatizador Ventisol Clit Abastece 3,6 Litros 5 em 1 Silencioso",
+      "price": 288.1,
+      "originalPrice": 354.99,
+      "discountPercent": 18.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivobz12jx1e76",
+      "url": "https://s.shopee.com.br/8AXx8M5Hec",
+      "rating": 4.9,
+      "salesCount": 1532,
+      "official": true,
+      "seller": "Melhor para Você",
       "category": "Casa e organização"
     },
     {
@@ -657,20 +597,6 @@
       "salesCount": 58,
       "seller": "YELLOW LASER 3",
       "category": "Presentes e papelaria"
-    },
-    {
-      "id": "23398654174",
-      "title": "Calça Jeans Infantil  Wide Leg Cargo Black Juvenil 6 ao 14  ALTO PADRÃO LINHA PREMIUM",
-      "price": 49.9,
-      "originalPrice": 58.9,
-      "discountPercent": 15.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhur5wacvep7d",
-      "url": "https://s.shopee.com.br/7VIGLEVrog",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3268,
-      "seller": "MUNDO INFANTIL ",
-      "category": "Moda"
     }
   ]
 }
