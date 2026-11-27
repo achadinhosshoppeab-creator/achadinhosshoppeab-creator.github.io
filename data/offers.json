@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T09:57:14.462Z",
+  "updatedAt": "2026-11-27T10:29:10.878Z",
   "offers": [
     {
       "id": "58205100450",
@@ -333,21 +333,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "23593332489",
-      "title": "Espelho Lopazzi Base Reta Corpo Inteiro 170x70 Com Suporte de Chão Moldura Alumínio Quarto Sala Decorativo",
-      "price": 314.9,
-      "originalPrice": 419.9,
-      "discountPercent": 25,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7taq0e5d7ys2c",
-      "url": "https://s.shopee.com.br/5AuLYkWGDJ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1151,
-      "official": true,
-      "seller": "Loja Lopazzi",
-      "category": "Casa e organização"
-    },
-    {
       "id": "25745811858",
       "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
       "price": 249,
@@ -375,6 +360,20 @@
       "official": true,
       "seller": "GiGiL",
       "category": "Moda"
+    },
+    {
+      "id": "58255657495",
+      "title": "Body Splash Afrodite Garden 200ml - AURA Beauty by. Jade Picon",
+      "price": 85.56,
+      "originalPrice": 119,
+      "discountPercent": 28.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mrhc4ue2rz0mba",
+      "url": "https://s.shopee.com.br/qlMOxveEe",
+      "rating": 4.9,
+      "salesCount": 2242,
+      "official": true,
+      "seller": "AURA Beauty Club",
+      "category": "Beleza"
     },
     {
       "id": "47465815591",
@@ -545,20 +544,6 @@
       "category": "Beleza"
     },
     {
-      "id": "18797677549",
-      "title": "Secador De Cabelo Taiff Style Profissional Original 2000W",
-      "price": 189.99,
-      "originalPrice": 267.99,
-      "discountPercent": 29.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824jf-mf0cfquk2m16e3",
-      "url": "https://s.shopee.com.br/AKcRiPLt2a",
-      "rating": 4.9,
-      "salesCount": 955,
-      "official": true,
-      "seller": "Beleza Renovada Oficial",
-      "category": "Beleza"
-    },
-    {
       "id": "23691073707",
       "title": "Máscara Matizadora #todecacho Vermelho Cereja 300g",
       "price": 20.58,
@@ -654,20 +639,6 @@
       "official": true,
       "seller": "Salon Line",
       "category": "Beleza"
-    },
-    {
-      "id": "22892800438",
-      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
-      "price": 35.9,
-      "originalPrice": 50.45,
-      "discountPercent": 28.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
-      "url": "https://s.shopee.com.br/3LShNNdEvq",
-      "rating": 4.8,
-      "salesCount": 2104,
-      "official": true,
-      "seller": "Abstract Decora",
-      "category": "Casa e organização"
     },
     {
       "id": "18198165593",
@@ -867,33 +838,6 @@
       "category": "Beleza"
     },
     {
-      "id": "20199608460",
-      "title": "Secador De Cabelo Profissional Lizze Extreme",
-      "price": 319.9,
-      "originalPrice": 413.09,
-      "discountPercent": 22.6,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rccb-m6hdhdcr7ez62f",
-      "url": "https://s.shopee.com.br/W8W0KxJzV",
-      "rating": 5,
-      "salesCount": 944,
-      "official": true,
-      "seller": "Lizze",
-      "category": "Beleza"
-    },
-    {
-      "id": "25583979154",
-      "title": "120 Paleta De Sombra Colorida Mate Maquiagem Altamente Pigmentada Em Pó Longa Duração À Prova D'água",
-      "price": 41.19,
-      "originalPrice": 60.43,
-      "discountPercent": 31.8,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyl-mcamfjuyaj3r09",
-      "url": "https://s.shopee.com.br/5LDmJXurjU",
-      "rating": 4.7,
-      "salesCount": 343,
-      "seller": "Choice Oficial",
-      "category": "Beleza"
-    },
-    {
       "id": "23798178107",
       "title": "Kit Colmeia Organizadora de gavetas/Guarda Roupa P, M, G e GG - Maison Plus",
       "price": 15.9,
@@ -933,20 +877,6 @@
       "salesCount": 693,
       "seller": "Pet Vet Store",
       "category": "Pet e bebê"
-    },
-    {
-      "id": "40752263772",
-      "title": "Modelador de Cachos Mondial Infinity EM-12 Bivolt",
-      "price": 66.29,
-      "originalPrice": 79.99,
-      "discountPercent": 17.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82593-mr1jcmxkxkw76f",
-      "url": "https://s.shopee.com.br/80EWw7UlmE",
-      "rating": 4.9,
-      "salesCount": 968,
-      "official": true,
-      "seller": "LOI BRASIL",
-      "category": "Beleza"
     },
     {
       "id": "23098838990",
@@ -1103,20 +1033,6 @@
       "category": "Cozinha"
     },
     {
-      "id": "17882461983",
-      "title": "Trocador Plastificado Impermeável Anatômico Americano de Cômoda Para Troca de Fraldas",
-      "price": 44.09,
-      "originalPrice": 54.47,
-      "discountPercent": 19.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maab9aclh7smf5",
-      "url": "https://s.shopee.com.br/9KjuWS6NzT",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 3454,
-      "seller": "Mainha Baby",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "44221756147",
       "title": "Vestido Feminino Sem Manga Midi Elegante Soltinho Casual Festa Linho Premium",
       "price": 56.9,
@@ -1150,7 +1066,7 @@
       "price": 69,
       "originalPrice": 99,
       "discountPercent": 30.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a6-mfv6e6a9jqxb60",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd5k-m7wmr3vpolkm5a",
       "url": "https://s.shopee.com.br/8VAnX4NezZ",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -1409,19 +1325,6 @@
       "salesCount": 476,
       "seller": "PENGFA TECH LTDA",
       "category": "Ferramentas"
-    },
-    {
-      "id": "18999242314",
-      "title": "Óculos Vr Box 2.0 Realidade Virtual + Controle Cardboard 3d Bluetooth",
-      "price": 44.95,
-      "originalPrice": 56.97,
-      "discountPercent": 21.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zk-mkjftt3hslc700",
-      "url": "https://s.shopee.com.br/1qdu9C1dI2",
-      "rating": 4.5,
-      "salesCount": 953,
-      "seller": "LuxeElectra",
-      "category": "Eletrônicos"
     },
     {
       "id": "22897647269",
