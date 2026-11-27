@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T05:44:36.532Z",
+  "updatedAt": "2026-11-27T06:17:14.366Z",
   "offers": [
     {
       "id": "54359629558",
@@ -573,20 +573,6 @@
       "category": "Beleza"
     },
     {
-      "id": "19598142136",
-      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
-      "price": 118.15,
-      "originalPrice": 139,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
-      "url": "https://s.shopee.com.br/1qdtam5mXK",
-      "rating": 5,
-      "salesCount": 2595,
-      "official": true,
-      "seller": "meuollie",
-      "category": "Beleza"
-    },
-    {
       "id": "18797677549",
       "title": "Secador De Cabelo Taiff Style Profissional Original 2000W",
       "price": 189.99,
@@ -698,6 +684,19 @@
       "category": "Casa e organização"
     },
     {
+      "id": "18198165593",
+      "title": "Calça Jeans Feminina Wide Leg Cintura Alta Pantalona Tecido Leve 100% Algodão",
+      "price": 56.99,
+      "originalPrice": 69.9,
+      "discountPercent": 18.5,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7tz7imdb29uf2",
+      "url": "https://s.shopee.com.br/Lp5o3x9Lx",
+      "rating": 4.8,
+      "salesCount": 7029,
+      "seller": "ElisJeans",
+      "category": "Moda"
+    },
+    {
       "id": "23493088476",
       "title": "Jogo De Toalhas 4 Peças - Banho e Rosto Algodão Antipiling Yuna Karsten - BF Casa",
       "price": 114.75,
@@ -783,20 +782,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "20199608460",
-      "title": "Secador De Cabelo Profissional Lizze Extreme",
-      "price": 319.9,
-      "originalPrice": 436.03999999999996,
-      "discountPercent": 26.6,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rccb-m6hdhdcr7ez62f",
-      "url": "https://s.shopee.com.br/W8W0KxJzV",
-      "rating": 5,
-      "salesCount": 944,
-      "official": true,
-      "seller": "Lizze",
-      "category": "Beleza"
-    },
-    {
       "id": "58266799438",
       "title": "Kit coala Home Chá Branco - 4 Itens",
       "price": 49.9,
@@ -822,7 +807,7 @@
       "salesCount": 2551,
       "official": true,
       "seller": "Yamase Loja Oficial",
-      "category": "Beleza"
+      "category": "Casa e organização"
     },
     {
       "id": "21135940174",
@@ -893,6 +878,20 @@
       "salesCount": 3383,
       "official": true,
       "seller": "Perfumaria Sumirê",
+      "category": "Beleza"
+    },
+    {
+      "id": "20199608460",
+      "title": "Secador De Cabelo Profissional Lizze Extreme",
+      "price": 319.9,
+      "originalPrice": 413.09,
+      "discountPercent": 22.6,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rccb-m6hdhdcr7ez62f",
+      "url": "https://s.shopee.com.br/W8W0KxJzV",
+      "rating": 5,
+      "salesCount": 944,
+      "official": true,
+      "seller": "Lizze",
       "category": "Beleza"
     },
     {
@@ -1218,20 +1217,6 @@
       "category": "Ferramentas"
     },
     {
-      "id": "17665245238",
-      "title": "Lampada Bluetooth De Led Caixa De Som C Controle Rgb 12W",
-      "price": 16.99,
-      "originalPrice": 20.99,
-      "discountPercent": 19.1,
-      "imageUrl": "https://cf.shopee.com.br/file/3cd180176c379360f8b62b3f15f970eb",
-      "url": "https://s.shopee.com.br/8AXxgk20ry",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 1732,
-      "seller": "ZSZ_Official Store",
-      "category": "Eletrônicos"
-    },
-    {
       "id": "23492658062",
       "title": "Kit Comedouro e Bebedouro para Cachorro Cães e Gatos Automático 10LTS E 8LTS Promoção Envio Imediato",
       "price": 49.79,
@@ -1371,6 +1356,19 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23397741792",
+      "title": "Calça Jeans Feminina Cintura Alta Wide Leg Com Bolso",
+      "price": 57.9,
+      "originalPrice": 69.9,
+      "discountPercent": 17.2,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mw048wbnhjib5a",
+      "url": "https://s.shopee.com.br/40iOAnjBup",
+      "rating": 4.8,
+      "salesCount": 3816,
+      "seller": "Joy Jeans",
+      "category": "Moda"
+    },
+    {
       "id": "23099154378",
       "title": "Luminaria Projetor De Estrelas Galaxy Abajur Quarto Criancas Star Master Combinação de Duas Cores",
       "price": 22.99,
@@ -1481,6 +1479,20 @@
       "salesCount": 58,
       "seller": "YELLOW LASER 3",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "23398654174",
+      "title": "Calça Jeans Infantil  Wide Leg Cargo Black Juvenil 6 ao 14  ALTO PADRÃO LINHA PREMIUM",
+      "price": 49.9,
+      "originalPrice": 58.9,
+      "discountPercent": 15.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhur5wacvep7d",
+      "url": "https://s.shopee.com.br/7VIGLEVrog",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3268,
+      "seller": "MUNDO INFANTIL ",
+      "category": "Moda"
     }
   ]
 }
