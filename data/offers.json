@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T07:19:41.092Z",
+  "updatedAt": "2026-11-27T07:51:08.015Z",
   "offers": [
     {
       "id": "58205100450",
@@ -420,20 +420,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "22693731888",
-      "title": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
-      "price": 320.9,
-      "originalPrice": 458.99,
-      "discountPercent": 30.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6",
-      "url": "https://s.shopee.com.br/114mb77mlw",
-      "rating": 5,
-      "salesCount": 3175,
-      "official": true,
-      "seller": "Lizze",
-      "category": "Beleza"
-    },
-    {
       "id": "19399663917",
       "title": "Jogo Toalha de Banho 4 Peças 100% Algodão Grossa Felpuda Super Macia Excelente Absorção New Premier Habitat",
       "price": 59.9,
@@ -528,6 +514,20 @@
       "salesCount": 1402,
       "official": true,
       "seller": "Cicatribem oficial",
+      "category": "Beleza"
+    },
+    {
+      "id": "22693731888",
+      "title": "Lizze Chapinha De Cabelo Profissional 480 Extreme",
+      "price": 320.9,
+      "originalPrice": 436.03999999999996,
+      "discountPercent": 26.4,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdv-m6hdjprto3v6e6",
+      "url": "https://s.shopee.com.br/114mb77mlw",
+      "rating": 5,
+      "salesCount": 3175,
+      "official": true,
+      "seller": "Lizze",
       "category": "Beleza"
     },
     {
@@ -673,8 +673,8 @@
       "id": "22892800438",
       "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
       "price": 35.9,
-      "originalPrice": 50.45,
-      "discountPercent": 28.8,
+      "originalPrice": 51,
+      "discountPercent": 29.6,
       "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
       "url": "https://s.shopee.com.br/3LShNNdEvq",
       "rating": 4.8,
