@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T02:05:45.519Z",
+  "updatedAt": "2026-11-27T02:37:20.992Z",
   "offers": [
     {
       "id": "54359629558",
@@ -17,18 +17,31 @@
       "hot": true
     },
     {
-      "id": "58257250172",
-      "title": "Principia Kit Hidratação Corporal Dupla c/ Loção Hidratante LH-02 500ml + Creme Hidratante CH-02 454g",
-      "price": 59.99,
-      "originalPrice": 107.13,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mm0tuogwuebq30",
-      "url": "https://s.shopee.com.br/3qOxyTOEF0",
-      "rating": 4.9,
-      "salesCount": 1861,
-      "official": true,
-      "seller": "Principia Skincare",
+      "id": "58205100450",
+      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
+      "price": 19.9,
+      "originalPrice": 37.96,
+      "discountPercent": 47.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
+      "url": "https://s.shopee.com.br/9pgB7TbOVd",
+      "rating": 4.8,
+      "salesCount": 2221,
+      "seller": "Ela&Ela",
       "category": "Beleza",
+      "hot": true
+    },
+    {
+      "id": "23098651097",
+      "title": "Escorredor de Louça 2 Andares Inox com Bandeja Coletora e Suportes – Organizador de Cozinha Compacta",
+      "price": 79.99,
+      "originalPrice": 296.26,
+      "discountPercent": 73,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbeodzmknr3t9b",
+      "url": "https://s.shopee.com.br/AUvtO4h0WY",
+      "rating": 4.7,
+      "salesCount": 773,
+      "seller": "NOVEVE Kitchen",
+      "category": "Cozinha",
       "hot": true
     },
     {
@@ -43,8 +56,7 @@
       "salesCount": 613,
       "official": true,
       "seller": "NATURA",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "22898980977",
@@ -88,6 +100,20 @@
       "seller": "Minhacesta",
       "category": "Casa e organização",
       "hot": true
+    },
+    {
+      "id": "18599922423",
+      "title": "Kit Skin Care Geleia de colágeno e olhos de gueixa kokeshi",
+      "price": 30.9,
+      "originalPrice": 39.9,
+      "discountPercent": 22.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mna1ftruvb412d",
+      "url": "https://s.shopee.com.br/6VPj9Lo5Gv",
+      "rating": 4.9,
+      "salesCount": 2422,
+      "official": true,
+      "seller": "KOKESHI OFICIAL",
+      "category": "Beleza"
     },
     {
       "id": "58208432235",
@@ -203,6 +229,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "25745811858",
+      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
+      "price": 249,
+      "originalPrice": 307.6,
+      "discountPercent": 19.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
+      "url": "https://s.shopee.com.br/2LaAjzttXG",
+      "rating": 4.9,
+      "salesCount": 1774,
+      "official": true,
+      "seller": "Na Web Group De Marcas",
+      "category": "Cozinha"
+    },
+    {
       "id": "58255657495",
       "title": "Body Splash Afrodite Garden 200ml - AURA Beauty by. Jade Picon",
       "price": 85.56,
@@ -246,6 +286,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "23298979814",
+      "title": "Principia Kit Limpeza e Hidratação Dia a Dia c/ Gel de Limpeza GL-02 + Creme Hidratante CH-01",
+      "price": 54.99,
+      "originalPrice": 72.74,
+      "discountPercent": 24.4,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfio66cktblx93",
+      "url": "https://s.shopee.com.br/5fqc9orFxg",
+      "rating": 4.9,
+      "salesCount": 2584,
+      "official": true,
+      "seller": "Principia Skincare",
+      "category": "Beleza"
+    },
+    {
       "id": "58203668922",
       "title": "Jarra De Vidro 1L Com Tampa Para Água Suco Garrafa Modelo Suíça",
       "price": 21.98,
@@ -287,34 +341,6 @@
       "seller": "BPR Shop",
       "category": "Pet e bebê",
       "hot": true
-    },
-    {
-      "id": "22795170973",
-      "title": "CeraVe, Creme Hidratante Corporal Pele Seca a Extra Seca 454g",
-      "price": 79.9,
-      "originalPrice": 133.9,
-      "discountPercent": 40.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mti5ca6mf1mo23",
-      "url": "https://s.shopee.com.br/8pndvf5C5Q",
-      "rating": 4.9,
-      "salesCount": 8071,
-      "official": true,
-      "seller": "Cerave - Loja Oficial",
-      "category": "Beleza"
-    },
-    {
-      "id": "58216689260",
-      "title": "CeraVe, Loção Hidratante Corporal, Textura Fluida e Ácido Hialurônico, 473ml",
-      "price": 79.9,
-      "originalPrice": 133.9,
-      "discountPercent": 40.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mti5ca6mdn28b4",
-      "url": "https://s.shopee.com.br/90747y4YkV",
-      "rating": 4.9,
-      "salesCount": 6404,
-      "official": true,
-      "seller": "Cerave - Loja Oficial",
-      "category": "Beleza"
     },
     {
       "id": "18199723451",
@@ -444,20 +470,6 @@
       "category": "Beleza"
     },
     {
-      "id": "23092618942",
-      "title": "Óleo de Tratamento SOS Cachos 10 em 1 Multibenefícios 42ml",
-      "price": 15.96,
-      "originalPrice": 18.8,
-      "discountPercent": 15.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a4-mfubjf1fva4pe1",
-      "url": "https://s.shopee.com.br/6VPj9MRgK9",
-      "rating": 4.9,
-      "salesCount": 3025,
-      "official": true,
-      "seller": "Salon Line",
-      "category": "Beleza"
-    },
-    {
       "id": "18497402527",
       "title": "AMEND MÁSCARA NUTRITIVA EXPERTISE MARULA FABULOUS NUTRITION 300G",
       "price": 33.9,
@@ -525,7 +537,7 @@
       "salesCount": 2551,
       "official": true,
       "seller": "Yamase Loja Oficial",
-      "category": "Beleza"
+      "category": "Casa e organização"
     },
     {
       "id": "21135940174",
@@ -541,20 +553,6 @@
       "seller": "Ankco Shop",
       "category": "Eletrônicos",
       "hot": true
-    },
-    {
-      "id": "58217669744",
-      "title": "Bebedouro Automático Aves Galinha Codorna Copinho Vermelho",
-      "price": 18,
-      "originalPrice": 23.98,
-      "discountPercent": 24.9,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aq-mstl4ht3lqf6a0",
-      "url": "https://s.shopee.com.br/3qOxyWwDRi",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1042,
-      "seller": "Lunexis",
-      "category": "Pet e bebê"
     },
     {
       "id": "18698826077",
@@ -711,20 +709,6 @@
       "category": "Ferramentas"
     },
     {
-      "id": "56168786435",
-      "title": "Óleo Capilar Nutritivo OX Nutre 120ml",
-      "price": 29.9,
-      "originalPrice": 38.87,
-      "discountPercent": 23.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b2-mtybxmwwf3m08f",
-      "url": "https://s.shopee.com.br/9KjuWZGtZe",
-      "rating": 5,
-      "salesCount": 3091,
-      "official": true,
-      "seller": "Perfumaria Sumirê",
-      "category": "Beleza"
-    },
-    {
       "id": "23194269838",
       "title": "Promoção Pijama Curto Em Malha Blogueirinha Short e Blusa Amamentação",
       "price": 27.9,
@@ -753,6 +737,20 @@
       "category": "Beleza"
     },
     {
+      "id": "17882461983",
+      "title": "Trocador Plastificado Impermeável Anatômico Americano de Cômoda Para Troca de Fraldas",
+      "price": 44.09,
+      "originalPrice": 54.47,
+      "discountPercent": 19.1,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maab9aclh7smf5",
+      "url": "https://s.shopee.com.br/9KjuWS6NzT",
+      "hasVariantPrices": true,
+      "rating": 5,
+      "salesCount": 3454,
+      "seller": "Mainha Baby",
+      "category": "Pet e bebê"
+    },
+    {
       "id": "22192944289",
       "title": "Kit Desodorante Aerosol Antitranspirante Tabu Collection Baladadeira + Linda + Delicada + Livre + Ousada (5 unidades)",
       "price": 25.9,
@@ -772,7 +770,7 @@
       "price": 69,
       "originalPrice": 99,
       "discountPercent": 30.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a5-mg4na21nlg5q74",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd5k-m7wmr3vpolkm5a",
       "url": "https://s.shopee.com.br/8VAnX4NezZ",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -780,6 +778,34 @@
       "official": true,
       "seller": "INSIDER",
       "category": "Moda"
+    },
+    {
+      "id": "19139965863",
+      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
+      "price": 42.41,
+      "originalPrice": 49.9,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
+      "url": "https://s.shopee.com.br/9pgB7ZuUOv",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 274,
+      "seller": "Gift Presentes",
+      "category": "Presentes e papelaria"
+    },
+    {
+      "id": "53750943172",
+      "title": "Jogo De Panelas 10 Peças Antiaderente Conjunto Frigideira Fervedor tampa de vidro Cor Coffee Cappuccino Kit Talheres",
+      "price": 155.9,
+      "originalPrice": 201.9,
+      "discountPercent": 22.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-ms42s3kelced28",
+      "url": "https://s.shopee.com.br/9Kjv4rTFKO",
+      "rating": 4.7,
+      "salesCount": 9605,
+      "official": true,
+      "seller": "ARARAS ONLINE",
+      "category": "Cozinha"
     },
     {
       "id": "51352412625",
@@ -825,20 +851,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58209212381",
-      "title": "5 Trenas 5m Fita Métrica Profissional Aço Reforçado Emborrachada com Trava e Clip Alta Precisão",
-      "price": 17.98,
-      "originalPrice": 21.98,
-      "discountPercent": 18.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mn9pi191uzgi34",
-      "url": "https://s.shopee.com.br/9pgB7Z8ZXw",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 476,
-      "seller": "PENGFA TECH LTDA",
-      "category": "Ferramentas"
-    },
-    {
       "id": "57208357922",
       "title": "Jogo Escovas de Aço para Furadeira e Parafusadeira Limpeza Ferrugem Luatek 3 ou 6 Peças",
       "price": 15.96,
@@ -854,18 +866,18 @@
       "category": "Ferramentas"
     },
     {
-      "id": "41781797063",
-      "title": "ESPELHO DE CORAÇÃO E RETANGULO PARA BOTTON MAQUINA CHINESA ACHADINHOS DA SHOPEE",
-      "price": 19.92,
-      "originalPrice": 23.98,
-      "discountPercent": 16.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mvma47ic3if426",
-      "url": "https://s.shopee.com.br/50avMQSxyk",
+      "id": "23398654174",
+      "title": "Calça Jeans Infantil  Wide Leg Cargo Black Juvenil 6 ao 14  ALTO PADRÃO LINHA PREMIUM",
+      "price": 49.9,
+      "originalPrice": 58.9,
+      "discountPercent": 15.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhur5wacvep7d",
+      "url": "https://s.shopee.com.br/7VIGLEVrog",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 58,
-      "seller": "YELLOW LASER 3",
-      "category": "Presentes e papelaria"
+      "salesCount": 3268,
+      "seller": "MUNDO INFANTIL ",
+      "category": "Moda"
     }
   ]
 }
