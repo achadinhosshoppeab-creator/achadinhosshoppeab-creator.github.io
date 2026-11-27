@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T01:22:14.736Z",
+  "updatedAt": "2026-11-27T01:43:38.423Z",
   "offers": [
     {
       "id": "54359629558",
@@ -14,49 +14,6 @@
       "official": true,
       "seller": "KOKESHI OFICIAL",
       "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "58205100450",
-      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
-      "price": 19.9,
-      "originalPrice": 37.96,
-      "discountPercent": 47.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
-      "url": "https://s.shopee.com.br/9pgB7TbOVd",
-      "rating": 4.8,
-      "salesCount": 2221,
-      "seller": "Ela&Ela",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "23898813796",
-      "title": "Body Splash My Sweet Delight Barbour's Beauty 200ml Fragrância Fresca Corporal Colônia",
-      "price": 25.2,
-      "originalPrice": 39.9,
-      "discountPercent": 36.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mq228ungk5c142",
-      "url": "https://s.shopee.com.br/3Vm7ZrlUou",
-      "rating": 4.8,
-      "salesCount": 5114,
-      "official": true,
-      "seller": "Barbour's Beauty",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "23098651097",
-      "title": "Escorredor de Louça 2 Andares Inox com Bandeja Coletora e Suportes – Organizador de Cozinha Compacta",
-      "price": 79.99,
-      "originalPrice": 296.26,
-      "discountPercent": 73,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbeodzmknr3t9b",
-      "url": "https://s.shopee.com.br/AUvtO4h0WY",
-      "rating": 4.7,
-      "salesCount": 773,
-      "seller": "NOVEVE Kitchen",
-      "category": "Cozinha",
       "hot": true
     },
     {
@@ -100,21 +57,23 @@
       "salesCount": 10527,
       "official": true,
       "seller": "KOKESHI OFICIAL",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
-      "id": "18599922423",
-      "title": "Kit Skin Care Geleia de colágeno e olhos de gueixa kokeshi",
-      "price": 30.9,
-      "originalPrice": 39.9,
-      "discountPercent": 22.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mna1ftruvb412d",
-      "url": "https://s.shopee.com.br/6VPj9Lo5Gv",
+      "id": "23293919571",
+      "title": "KIT 9 Esfregões Milagrosos Limpa Seco e Úmido sem Enxague Balde com Raspador Dobrável e Super Absorvente -S10",
+      "price": 69.99,
+      "originalPrice": 170.71,
+      "discountPercent": 59,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mun7gelqvdhc44",
+      "url": "https://s.shopee.com.br/3LShgoniYu",
+      "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 2422,
-      "official": true,
-      "seller": "KOKESHI OFICIAL",
-      "category": "Beleza"
+      "salesCount": 1590,
+      "seller": "Minhacesta",
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "58208432235",
@@ -126,6 +85,20 @@
       "url": "https://s.shopee.com.br/AKcRiOhoCQ",
       "rating": 4.9,
       "salesCount": 1718,
+      "official": true,
+      "seller": "Principia Skincare",
+      "category": "Beleza"
+    },
+    {
+      "id": "58200183117",
+      "title": "Principia Kit Antissinais Dia e Noite c/ Vitamina VC-10 + Sérum Retinol Rn-0,3",
+      "price": 88.99,
+      "originalPrice": 113.99,
+      "discountPercent": 21.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mmsy97ndvhmp77",
+      "url": "https://s.shopee.com.br/20xJn5DX73",
+      "rating": 4.9,
+      "salesCount": 1329,
       "official": true,
       "seller": "Principia Skincare",
       "category": "Beleza"
@@ -143,6 +116,20 @@
       "official": true,
       "seller": "Adora ",
       "category": "Casa e organização"
+    },
+    {
+      "id": "58209766348",
+      "title": "Kit Skincare Kokeshi Cosméticos Completo 6 Itens Hidratação e Tratamento Facial",
+      "price": 92.91,
+      "originalPrice": 116.91,
+      "discountPercent": 20.5,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mqbygibee3nm0d",
+      "url": "https://s.shopee.com.br/6L6Ix2x2JW",
+      "rating": 4.9,
+      "salesCount": 2953,
+      "official": true,
+      "seller": "KOKESHI OFICIAL",
+      "category": "Beleza"
     },
     {
       "id": "22094238842",
@@ -187,18 +174,19 @@
       "category": "Beleza"
     },
     {
-      "id": "25745811858",
-      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
-      "price": 249,
-      "originalPrice": 307.6,
-      "discountPercent": 19.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
-      "url": "https://s.shopee.com.br/2LaAjzttXG",
+      "id": "23593332489",
+      "title": "Espelho Lopazzi Base Reta Corpo Inteiro 170x70 Com Suporte de Chão Moldura Alumínio Quarto Sala Decorativo",
+      "price": 314.9,
+      "originalPrice": 419.9,
+      "discountPercent": 25,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7taq0e5d7ys2c",
+      "url": "https://s.shopee.com.br/5AuLYkWGDJ",
+      "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 1774,
+      "salesCount": 1151,
       "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Cozinha"
+      "seller": "Loja Lopazzi",
+      "category": "Casa e organização"
     },
     {
       "id": "58255657495",
@@ -228,20 +216,6 @@
       "seller": "JORTAN",
       "category": "Eletrônicos",
       "hot": true
-    },
-    {
-      "id": "21071530577",
-      "title": "Varal De Chão Roupa Calcinha Grade 3 Andares Dobrável Portátil",
-      "price": 62.9,
-      "originalPrice": 79.9,
-      "discountPercent": 21.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7augbm6ixf693",
-      "url": "https://s.shopee.com.br/6AmskgCtfw",
-      "rating": 4.9,
-      "salesCount": 11719,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Casa e organização"
     },
     {
       "id": "58203668922",
@@ -274,18 +248,19 @@
       "category": "Beleza"
     },
     {
-      "id": "58209330202",
-      "title": "Tapete de Água Inflável para Bebê Sensorial Coordenação Motora Brinquedo Educativo Tummy Time Interativo",
-      "price": 18.99,
-      "originalPrice": 49.97,
-      "discountPercent": 62,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mncwlmtr5ds1e9",
-      "url": "https://s.shopee.com.br/3g5Xm2El44",
+      "id": "18199723451",
+      "title": "Espelho Lopazzi Grande Corpo Inteiro Decorativo Polido Moderno 90x40cm Quarto Sala Banheiro",
+      "price": 67.99,
+      "originalPrice": 79.99,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lk-mr0wpk5f89adf4",
+      "url": "https://s.shopee.com.br/30prXEmU2k",
+      "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 865,
-      "seller": "BPR Shop",
-      "category": "Pet e bebê",
-      "hot": true
+      "salesCount": 922,
+      "official": true,
+      "seller": "Loja Lopazzi",
+      "category": "Casa e organização"
     },
     {
       "id": "19598142136",
@@ -327,7 +302,22 @@
       "rating": 4.9,
       "salesCount": 3658,
       "seller": "BRILHO NOVO BR",
-      "category": "Casa e organização"
+      "category": "Casa e organização",
+      "hot": true
+    },
+    {
+      "id": "16824447023",
+      "title": "Máscara S.O.S Hidratação Óleo de Rícino Salon Line 1kg",
+      "price": 19.88,
+      "originalPrice": 24.2,
+      "discountPercent": 17.9,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a1-muxl71c7bf2hc3",
+      "url": "https://s.shopee.com.br/6L6Ix3SJf6",
+      "rating": 4.9,
+      "salesCount": 3134,
+      "official": true,
+      "seller": "Salon Line",
+      "category": "Beleza"
     },
     {
       "id": "20199608460",
@@ -341,6 +331,20 @@
       "salesCount": 944,
       "official": true,
       "seller": "Lizze",
+      "category": "Beleza"
+    },
+    {
+      "id": "23092618942",
+      "title": "Óleo de Tratamento SOS Cachos 10 em 1 Multibenefícios 42ml",
+      "price": 15.96,
+      "originalPrice": 18.8,
+      "discountPercent": 15.1,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a4-mfubjf1fva4pe1",
+      "url": "https://s.shopee.com.br/6VPj9MRgK9",
+      "rating": 4.9,
+      "salesCount": 3025,
+      "official": true,
+      "seller": "Salon Line",
       "category": "Beleza"
     },
     {
@@ -358,17 +362,17 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58266799438",
-      "title": "Kit coala Home Chá Branco - 4 Itens",
-      "price": 49.9,
-      "originalPrice": 67.9,
-      "discountPercent": 26.5,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-msa1d1kgw2dh93",
-      "url": "https://s.shopee.com.br/2VtaNwrK8P",
-      "rating": 5,
-      "salesCount": 4987,
+      "id": "22892800438",
+      "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
+      "price": 39.99,
+      "originalPrice": 51,
+      "discountPercent": 21.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqhtqt3x8gsi9e",
+      "url": "https://s.shopee.com.br/3LShNNdEvq",
+      "rating": 4.8,
+      "salesCount": 2104,
       "official": true,
-      "seller": "Coala Essências Oficial",
+      "seller": "Abstract Decora",
       "category": "Casa e organização"
     },
     {
@@ -386,6 +390,21 @@
       "category": "Beleza"
     },
     {
+      "id": "21135940174",
+      "title": "Fone de ouvido Headset Gamer para Jogos Xbox One Ps4 Celular Pc com Microfone LC-862",
+      "price": 39.96,
+      "originalPrice": 90.96,
+      "discountPercent": 56.1,
+      "imageUrl": "https://cf.shopee.com.br/file/bd9c7cc4a4f13e10b38af3025e8f4b27",
+      "url": "https://s.shopee.com.br/Lp5o031iD",
+      "hasVariantPrices": true,
+      "rating": 4.7,
+      "salesCount": 426,
+      "seller": "Ankco Shop",
+      "category": "Eletrônicos",
+      "hot": true
+    },
+    {
       "id": "18698826077",
       "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
       "price": 104.9,
@@ -398,20 +417,6 @@
       "official": true,
       "seller": "Eletricario Loja Oficial",
       "category": "Ferramentas"
-    },
-    {
-      "id": "22892923302",
-      "title": "Scarpin Feminino Shekinah Bico Fino Salto Bloco Grosso Noiva Casamento",
-      "price": 60.72,
-      "originalPrice": 79.9,
-      "discountPercent": 24,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-msk80zc2xjpg6c",
-      "url": "https://s.shopee.com.br/2LaABjl8Vp",
-      "rating": 4.9,
-      "salesCount": 3333,
-      "official": true,
-      "seller": "Shekinah Calçados",
-      "category": "Moda"
     },
     {
       "id": "55465012839",
@@ -428,18 +433,18 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "13697446869",
-      "title": "Varal Portátil Para Apartamento Secador De Roupas Prático e Retrátil Para Janela e Parede",
-      "price": 22.5,
-      "originalPrice": 26.99,
-      "discountPercent": 16.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mr21ahxh7w92fe",
-      "url": "https://s.shopee.com.br/70LzkD9izD",
-      "rating": 4.8,
-      "salesCount": 3991,
+      "id": "9315675115",
+      "title": "Bota Texana GiGiL Feminina Cano Alto Salto Médio Western Bordada",
+      "price": 92.99,
+      "originalPrice": 113.8,
+      "discountPercent": 18.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu2-mknq92e0nf2a2f",
+      "url": "https://s.shopee.com.br/90747zlfiL",
+      "rating": 4.9,
+      "salesCount": 399,
       "official": true,
-      "seller": "SELLNEEDS",
-      "category": "Casa e organização"
+      "seller": "GiGiL",
+      "category": "Moda"
     },
     {
       "id": "22698935244",
@@ -484,20 +489,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58251353658",
-      "title": "Varal De Chão Com Abas Dobrável Aço Secalux 12kg Varal de Apartamento Retratil",
-      "price": 50.9,
-      "originalPrice": 59.9,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqf3kve4phd06",
-      "url": "https://s.shopee.com.br/6q2ZXuAMK8",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 6136,
-      "seller": "Big_ecommerce",
-      "category": "Casa e organização"
-    },
-    {
       "id": "21299179885",
       "title": "Extratora Higienizadora Portátil  Borrifa Esfrega e Extrai Sujeira Colchão Sofá W3 1450W Wap",
       "price": 569,
@@ -512,18 +503,32 @@
       "category": "Ferramentas"
     },
     {
-      "id": "23194269838",
-      "title": "Promoção Pijama Curto Em Malha Blogueirinha Short e Blusa Amamentação",
-      "price": 27.9,
-      "originalPrice": 35.86,
-      "discountPercent": 22.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mt5xrstn3h1ide",
-      "url": "https://s.shopee.com.br/4VeelYPKNc",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 1485,
-      "seller": "LF & LG Pijamas 3",
-      "category": "Moda"
+      "id": "56168786435",
+      "title": "Óleo Capilar Nutritivo OX Nutre 120ml",
+      "price": 29.9,
+      "originalPrice": 38.87,
+      "discountPercent": 23.1,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b2-mtybxmwwf3m08f",
+      "url": "https://s.shopee.com.br/9KjuWZGtZe",
+      "rating": 5,
+      "salesCount": 3091,
+      "official": true,
+      "seller": "Perfumaria Sumirê",
+      "category": "Beleza"
+    },
+    {
+      "id": "23892413591",
+      "title": "Chapinha Prancha Taiff Cerâmica PTC Action 180ºC Bivolt",
+      "price": 94.9,
+      "originalPrice": 119.98,
+      "discountPercent": 20.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsjz9ggk6xot07",
+      "url": "https://s.shopee.com.br/AAJ1VxYtAu",
+      "rating": 4.9,
+      "salesCount": 1632,
+      "official": true,
+      "seller": "Perfumaria Sumirê",
+      "category": "Beleza"
     },
     {
       "id": "22192944289",
@@ -538,21 +543,6 @@
       "official": true,
       "seller": "Dana Cosmeticos",
       "category": "Beleza"
-    },
-    {
-      "id": "22493863963",
-      "title": "The Perfect Top Insider",
-      "price": 69,
-      "originalPrice": 99,
-      "discountPercent": 30.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824j3-mfo1d0tts1l4ea",
-      "url": "https://s.shopee.com.br/8VAnX4NezZ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 8534,
-      "official": true,
-      "seller": "INSIDER",
-      "category": "Moda"
     },
     {
       "id": "19139965863",
@@ -581,35 +571,6 @@
       "salesCount": 868,
       "official": true,
       "seller": "LuvinCo",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "53750943172",
-      "title": "Jogo De Panelas 10 Peças Antiaderente Conjunto Frigideira Fervedor tampa de vidro Cor Coffee Cappuccino Kit Talheres",
-      "price": 155.9,
-      "originalPrice": 201.9,
-      "discountPercent": 22.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-ms42s3kelced28",
-      "url": "https://s.shopee.com.br/9Kjv4rTFKO",
-      "rating": 4.7,
-      "salesCount": 9605,
-      "official": true,
-      "seller": "ARARAS ONLINE",
-      "category": "Cozinha"
-    },
-    {
-      "id": "51352412625",
-      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
-      "price": 51.99,
-      "originalPrice": 64.9,
-      "discountPercent": 19.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
-      "url": "https://s.shopee.com.br/8KrNKf4eHb",
-      "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 2508,
-      "official": true,
-      "seller": "impório_ecommerce",
       "category": "Casa e organização"
     },
     {
@@ -642,18 +603,18 @@
       "category": "Ferramentas"
     },
     {
-      "id": "41781797063",
-      "title": "ESPELHO DE CORAÇÃO E RETANGULO PARA BOTTON MAQUINA CHINESA ACHADINHOS DA SHOPEE",
-      "price": 19.92,
-      "originalPrice": 23.98,
-      "discountPercent": 16.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mvma47ic3if426",
-      "url": "https://s.shopee.com.br/50avMQSxyk",
+      "id": "23398654174",
+      "title": "Calça Jeans Infantil  Wide Leg Cargo Black Juvenil 6 ao 14  ALTO PADRÃO LINHA PREMIUM",
+      "price": 49.9,
+      "originalPrice": 58.9,
+      "discountPercent": 15.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhur5wacvep7d",
+      "url": "https://s.shopee.com.br/7VIGLEVrog",
       "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 58,
-      "seller": "YELLOW LASER 3",
-      "category": "Presentes e papelaria"
+      "salesCount": 3268,
+      "seller": "MUNDO INFANTIL ",
+      "category": "Moda"
     }
   ]
 }
