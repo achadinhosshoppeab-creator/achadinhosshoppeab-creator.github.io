@@ -1,20 +1,33 @@
 {
-  "updatedAt": "2026-11-27T14:42:27.880Z",
+  "updatedAt": "2026-11-27T15:03:16.946Z",
   "offers": [
     {
-      "id": "22494941454",
-      "title": "Kit Facial Kokeshi Completo 3 Passos Hidratação e Colágeno",
-      "price": 42.66,
-      "originalPrice": 59.9,
-      "discountPercent": 28.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mqbygibr40sg7a",
-      "url": "https://s.shopee.com.br/W8W8lO2sZ",
-      "rating": 4.9,
-      "salesCount": 10527,
-      "official": true,
-      "seller": "KOKESHI OFICIAL",
+      "id": "58205100450",
+      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
+      "price": 19.9,
+      "originalPrice": 37.96,
+      "discountPercent": 47.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
+      "url": "https://s.shopee.com.br/9pgB7TbOVd",
+      "rating": 4.8,
+      "salesCount": 2221,
+      "seller": "Ela&Ela",
       "category": "Beleza",
       "hot": true
+    },
+    {
+      "id": "22098181726",
+      "title": "Perfume Masculino Empire Sport HINODE 100ml",
+      "price": 52.47,
+      "originalPrice": 75.21,
+      "discountPercent": 30.2,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mvyxxo2d9kap27",
+      "url": "https://s.shopee.com.br/8AXx8HGAjS",
+      "rating": 4.9,
+      "salesCount": 852,
+      "official": true,
+      "seller": "Hinode ",
+      "category": "Beleza"
     },
     {
       "id": "40229158245",
@@ -29,21 +42,8 @@
       "salesCount": 2219,
       "official": true,
       "seller": "GLORY OF SEOUL",
-      "category": "Beleza"
-    },
-    {
-      "id": "22898980977",
-      "title": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
-      "price": 59.99,
-      "originalPrice": 77.99,
-      "discountPercent": 23.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mm1wtgtq87408a",
-      "url": "https://s.shopee.com.br/7VIGTcxOgE",
-      "rating": 4.9,
-      "salesCount": 5511,
-      "official": true,
-      "seller": "Principia Skincare",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "25316598909",
@@ -87,20 +87,6 @@
       "official": true,
       "seller": "Adora ",
       "category": "Casa e organização"
-    },
-    {
-      "id": "22194238759",
-      "title": "BODY SPLASH FEMININO ARABE AMBER ROYALE 100ML - PRIMACIAL PERFUME ORIENTAL",
-      "price": 19.9,
-      "originalPrice": 24.9,
-      "discountPercent": 20.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mukoqlfbx98j53",
-      "url": "https://s.shopee.com.br/7VIIVvk91L",
-      "rating": 4.8,
-      "salesCount": 1112,
-      "official": true,
-      "seller": "Primacial",
-      "category": "Beleza"
     },
     {
       "id": "23394690451",
@@ -147,21 +133,6 @@
       "hot": true
     },
     {
-      "id": "28895533623",
-      "title": "Celimax Hydrating Calming Cica Serum Mask, 2 Options",
-      "price": 32.99,
-      "originalPrice": 39.65,
-      "discountPercent": 16.8,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-82594-mrqwb62eccg1ff",
-      "url": "https://s.shopee.com.br/3qOy6tBM7P",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 2093,
-      "official": true,
-      "seller": "GLORY OF SEOUL",
-      "category": "Beleza"
-    },
-    {
       "id": "47050299220",
       "title": "CELIMAX Pore+Dark Spot Brightening Serum Mask 2 Options",
       "price": 32.99,
@@ -174,34 +145,6 @@
       "salesCount": 2435,
       "official": true,
       "seller": "GLORY OF SEOUL",
-      "category": "Beleza"
-    },
-    {
-      "id": "25745811858",
-      "title": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
-      "price": 249,
-      "originalPrice": 307.6,
-      "discountPercent": 19.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2p13dpzuvbd9",
-      "url": "https://s.shopee.com.br/2LaAjzttXG",
-      "rating": 4.9,
-      "salesCount": 1774,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Cozinha"
-    },
-    {
-      "id": "58255657495",
-      "title": "Body Splash Afrodite Garden 200ml - AURA Beauty by. Jade Picon",
-      "price": 85.56,
-      "originalPrice": 119,
-      "discountPercent": 28.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mrhc4ue2rz0mba",
-      "url": "https://s.shopee.com.br/8VAphlgKzJ",
-      "rating": 4.9,
-      "salesCount": 2242,
-      "official": true,
-      "seller": "AURA Beauty Club",
       "category": "Beleza"
     },
     {
@@ -262,6 +205,20 @@
       "category": "Beleza"
     },
     {
+      "id": "52664692788",
+      "title": "Kriska Desodorante Colônia Miniatura 25 ml",
+      "price": 39.95,
+      "originalPrice": 54,
+      "discountPercent": 26,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259a-mr0o1qwmce1841",
+      "url": "https://s.shopee.com.br/3B9JLxrqGh",
+      "rating": 4.9,
+      "salesCount": 955,
+      "official": true,
+      "seller": "NATURA",
+      "category": "Beleza"
+    },
+    {
       "id": "22795170973",
       "title": "CeraVe, Creme Hidratante Corporal Pele Seca a Extra Seca 454g",
       "price": 79.9,
@@ -292,34 +249,6 @@
       "hot": true
     },
     {
-      "id": "19598142136",
-      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
-      "price": 118.15,
-      "originalPrice": 139,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
-      "url": "https://s.shopee.com.br/1qdtam5mXK",
-      "rating": 5,
-      "salesCount": 2595,
-      "official": true,
-      "seller": "meuollie",
-      "category": "Beleza"
-    },
-    {
-      "id": "58212573737",
-      "title": "Tapete Higiênico Cães Carvão Bambu Ativado Aroma Lavanda 30 Unidades Absorvente Anti Odor Tamanho 60x60cm / 80x60cm",
-      "price": 42.21,
-      "originalPrice": 53,
-      "discountPercent": 20.4,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mrjuw7udmqdj44",
-      "url": "https://s.shopee.com.br/907481KsYA",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3135,
-      "seller": "Newpet - marca",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "58263021202",
       "title": "BRILHO NOVO Kit Escova Sanitária Sem Contato, Refis Descartáveis com Detergente Incorporado | Cabo + Base + 36 Refis",
       "price": 38.9,
@@ -335,19 +264,6 @@
       "hot": true
     },
     {
-      "id": "18198165593",
-      "title": "Calça Jeans Feminina Wide Leg Cintura Alta Pantalona Tecido Leve 100% Algodão",
-      "price": 56.99,
-      "originalPrice": 69.9,
-      "discountPercent": 18.5,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7tz7imdb29uf2",
-      "url": "https://s.shopee.com.br/Lp5o3x9Lx",
-      "rating": 4.8,
-      "salesCount": 7029,
-      "seller": "ElisJeans",
-      "category": "Moda"
-    },
-    {
       "id": "23493088476",
       "title": "Jogo De Toalhas 4 Peças - Banho e Rosto Algodão Antipiling Yuna Karsten - BF Casa",
       "price": 114.75,
@@ -361,21 +277,6 @@
       "official": true,
       "seller": "Bf Casa Oficial",
       "category": "Casa e organização"
-    },
-    {
-      "id": "21135940174",
-      "title": "Fone de ouvido Headset Gamer para Jogos Xbox One Ps4 Celular Pc com Microfone LC-862",
-      "price": 39.96,
-      "originalPrice": 90.96,
-      "discountPercent": 56.1,
-      "imageUrl": "https://cf.shopee.com.br/file/bd9c7cc4a4f13e10b38af3025e8f4b27",
-      "url": "https://s.shopee.com.br/Lp5o031iD",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 426,
-      "seller": "Ankco Shop",
-      "category": "Eletrônicos",
-      "hot": true
     },
     {
       "id": "18698826077",
@@ -406,20 +307,6 @@
       "category": "Moda"
     },
     {
-      "id": "23798178107",
-      "title": "Kit Colmeia Organizadora de gavetas/Guarda Roupa P, M, G e GG - Maison Plus",
-      "price": 15.9,
-      "originalPrice": 19.9,
-      "discountPercent": 20.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfvhv2o7wtfk77",
-      "url": "https://s.shopee.com.br/1qdtabjUWJ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3693,
-      "seller": "Maison Plus",
-      "category": "Casa e organização"
-    },
-    {
       "id": "23098838990",
       "title": "Tapete de Água Mágico Brinquedo Educativo para Criatividade Reutilizável com 3 Canetas Presente",
       "price": 19.99,
@@ -448,6 +335,47 @@
       "category": "Beleza"
     },
     {
+      "id": "58207201868",
+      "title": "Luz Noturna DIY Tulipa 3D Criativa Lâmpada Tridimensional Casal Presente",
+      "price": 15.99,
+      "originalPrice": 18.99,
+      "discountPercent": 15.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mm03thb7czycfe",
+      "url": "https://s.shopee.com.br/BVfbX3N1k",
+      "rating": 4.7,
+      "salesCount": 781,
+      "seller": "A casa iluminada",
+      "category": "Presentes e papelaria"
+    },
+    {
+      "id": "19497608994",
+      "title": "Extratora e Higienizadora Portatil WAP SpotCleaner W3 1450W",
+      "price": 489.99,
+      "originalPrice": 579.99,
+      "discountPercent": 15.5,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824g6-mpdlazjzzaq5f5",
+      "url": "https://s.shopee.com.br/7fbijYcROg",
+      "rating": 5,
+      "salesCount": 1296,
+      "official": true,
+      "seller": "LOI BRASIL",
+      "category": "Ferramentas"
+    },
+    {
+      "id": "21299179885",
+      "title": "Extratora Higienizadora Portátil  Borrifa Esfrega e Extrai Sujeira Colchão Sofá W3 1450W Wap",
+      "price": 569,
+      "originalPrice": 699,
+      "discountPercent": 18.6,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbn7-lqeu1vzxvsrqba",
+      "url": "https://s.shopee.com.br/4qHXMLnE9M",
+      "rating": 4.9,
+      "salesCount": 640,
+      "official": true,
+      "seller": "Eletricario Loja Oficial",
+      "category": "Ferramentas"
+    },
+    {
       "id": "23194269838",
       "title": "Promoção Pijama Curto Em Malha Blogueirinha Short e Blusa Amamentação",
       "price": 27.9,
@@ -462,33 +390,18 @@
       "category": "Moda"
     },
     {
-      "id": "18071105004",
-      "title": "Kit Cabides Veludo Para Roupas Adulto 30 Unidades Fino Resistente",
-      "price": 49.9,
-      "originalPrice": 59.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6qu5cyullio31",
-      "url": "https://s.shopee.com.br/5AuLYplq0D",
+      "id": "22192944289",
+      "title": "Kit Desodorante Aerosol Antitranspirante Tabu Collection Baladadeira + Linda + Delicada + Livre + Ousada (5 unidades)",
+      "price": 25.9,
+      "originalPrice": 34.9,
+      "discountPercent": 25.8,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdi-ltmherygtgr31f",
+      "url": "https://s.shopee.com.br/40iPDsgfwP",
       "rating": 4.9,
-      "salesCount": 1535,
+      "salesCount": 1076,
       "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "51608731933",
-      "title": "Panela de Pressão 4,5L Com Visor Fechamento Interno Antiaderente MTA CORES",
-      "price": 121.5,
-      "originalPrice": 142.99,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mts1nbh1mk1sde",
-      "url": "https://s.shopee.com.br/8VAo5KWQ1P",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2309,
-      "official": true,
-      "seller": "BUMPER MAGAZINE",
-      "category": "Cozinha"
+      "seller": "Dana Cosmeticos",
+      "category": "Beleza"
     },
     {
       "id": "22493863963",
@@ -496,7 +409,7 @@
       "price": 69,
       "originalPrice": 99,
       "discountPercent": 30.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a6-mfv6e6a9jqxb60",
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd5k-m7wmr3vpolkm5a",
       "url": "https://s.shopee.com.br/8VAnX4NezZ",
       "hasVariantPrices": true,
       "rating": 4.9,
@@ -505,6 +418,20 @@
       "seller": "INSIDER",
       "category": "Moda",
       "hot": true
+    },
+    {
+      "id": "19139965863",
+      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
+      "price": 42.41,
+      "originalPrice": 49.9,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
+      "url": "https://s.shopee.com.br/9pgB7ZuUOv",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 274,
+      "seller": "Gift Presentes",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "52768536168",
@@ -521,59 +448,18 @@
       "category": "Ferramentas"
     },
     {
-      "id": "53750943172",
-      "title": "Jogo De Panelas 10 Peças Antiaderente Conjunto Frigideira Fervedor tampa de vidro Cor Coffee Cappuccino Kit Talheres",
-      "price": 155.9,
-      "originalPrice": 201.9,
-      "discountPercent": 22.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-ms42s3kelced28",
-      "url": "https://s.shopee.com.br/9Kjv4rTFKO",
-      "rating": 4.7,
-      "salesCount": 9605,
-      "official": true,
-      "seller": "ARARAS ONLINE",
-      "category": "Cozinha"
-    },
-    {
-      "id": "23193844232",
-      "title": "Cadeira Escritório Ergonômica Mônaco BT07/WT07 Luvinco Malha Respirável Lombar Adaptável Apoio Pés",
-      "price": 989.99,
-      "originalPrice": 1199.99,
-      "discountPercent": 17.5,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjk4dwgzls0247",
-      "url": "https://s.shopee.com.br/8pneX2fRrM",
+      "id": "23099154378",
+      "title": "Luminaria Projetor De Estrelas Galaxy Abajur Quarto Criancas Star Master Combinação de Duas Cores",
+      "price": 22.99,
+      "originalPrice": 27.38,
+      "discountPercent": 16,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821e3-mglxtrrmns3tb2",
+      "url": "https://s.shopee.com.br/30pqyl9MkD",
+      "hasVariantPrices": true,
       "rating": 4.9,
-      "salesCount": 532,
-      "official": true,
-      "seller": "LuvinCo",
+      "salesCount": 2343,
+      "seller": "tola1brasil",
       "category": "Casa e organização"
-    },
-    {
-      "id": "19897425032",
-      "title": "Sutia Nayane Rodrigues Tomara que Caia com Bojo e Aro Liso de Alta Sustentacao Push Up Confortavel",
-      "price": 55.99,
-      "originalPrice": 65.99,
-      "discountPercent": 15.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mpwag034oow174",
-      "url": "https://s.shopee.com.br/3Vm7c2jguJ",
-      "rating": 4.9,
-      "salesCount": 5313,
-      "official": true,
-      "seller": "Deccó",
-      "category": "Moda"
-    },
-    {
-      "id": "23397741792",
-      "title": "Calça Jeans Feminina Cintura Alta Wide Leg Com Bolso",
-      "price": 57.9,
-      "originalPrice": 69.9,
-      "discountPercent": 17.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mw048wbnhjib5a",
-      "url": "https://s.shopee.com.br/40iOAnjBup",
-      "rating": 4.8,
-      "salesCount": 3816,
-      "seller": "Joy Jeans",
-      "category": "Moda"
     },
     {
       "id": "47053971674",
@@ -588,34 +474,6 @@
       "official": true,
       "seller": "Melhor para Você",
       "category": "Casa e organização"
-    },
-    {
-      "id": "58209212381",
-      "title": "5 Trenas 5m Fita Métrica Profissional Aço Reforçado Emborrachada com Trava e Clip Alta Precisão",
-      "price": 17.98,
-      "originalPrice": 21.98,
-      "discountPercent": 18.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mn9pi191uzgi34",
-      "url": "https://s.shopee.com.br/5VXE8J3OyU",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 476,
-      "seller": "PENGFA TECH LTDA",
-      "category": "Ferramentas"
-    },
-    {
-      "id": "22897647269",
-      "title": "Kit com 10 ou 5 Cuecas Boxer LISAS Adulto Envio Imediato microfibra cores variadas",
-      "price": 19.97,
-      "originalPrice": 24.97,
-      "discountPercent": 20,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ly194p3n5px293",
-      "url": "https://s.shopee.com.br/8KrNKmNotY",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 2672,
-      "seller": "AB STORE - ME",
-      "category": "Moda"
     },
     {
       "id": "57208357922",
@@ -645,20 +503,6 @@
       "salesCount": 58,
       "seller": "YELLOW LASER 3",
       "category": "Presentes e papelaria"
-    },
-    {
-      "id": "23398654174",
-      "title": "Calça Jeans Infantil  Wide Leg Cargo Black Juvenil 6 ao 14  ALTO PADRÃO LINHA PREMIUM",
-      "price": 49.9,
-      "originalPrice": 58.9,
-      "discountPercent": 15.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhur5wacvep7d",
-      "url": "https://s.shopee.com.br/7VIGLEVrog",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3268,
-      "seller": "MUNDO INFANTIL ",
-      "category": "Moda"
     }
   ]
 }
