@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T08:54:35.549Z",
+  "updatedAt": "2026-11-27T09:26:30.351Z",
   "offers": [
     {
       "id": "58205100450",
@@ -58,35 +58,6 @@
       "salesCount": 843,
       "official": true,
       "seller": "Hinode ",
-      "category": "Beleza"
-    },
-    {
-      "id": "58257250172",
-      "title": "Principia Kit Hidratação Corporal Dupla c/ Loção Hidratante LH-02 500ml + Creme Hidratante CH-02 454g",
-      "price": 59.99,
-      "originalPrice": 107.13,
-      "discountPercent": 44,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mm0tuogwuebq30",
-      "url": "https://s.shopee.com.br/3qOxyTOEF0",
-      "rating": 4.9,
-      "salesCount": 1861,
-      "official": true,
-      "seller": "Principia Skincare",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "22494941454",
-      "title": "Kit Facial Kokeshi Completo 3 Passos Hidratação e Colágeno",
-      "price": 42.66,
-      "originalPrice": 59.9,
-      "discountPercent": 28.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mqbygibr40sg7a",
-      "url": "https://s.shopee.com.br/W8W8lO2sZ",
-      "rating": 4.9,
-      "salesCount": 10527,
-      "official": true,
-      "seller": "KOKESHI OFICIAL",
       "category": "Beleza"
     },
     {
@@ -261,21 +232,6 @@
       "category": "Beleza"
     },
     {
-      "id": "58202329642",
-      "title": "Popozuda Creme Corporal Termoativo para Estrias e Celulite 200g | Efeito Aquecimento",
-      "price": 50,
-      "originalPrice": 69.9,
-      "discountPercent": 28.5,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mu2f856jdx4y80",
-      "url": "https://s.shopee.com.br/8AXx8R7jRM",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 6897,
-      "official": true,
-      "seller": "Popozuda Oficial",
-      "category": "Beleza"
-    },
-    {
       "id": "49512792618",
       "title": "[NEW] Celimax Retinal Shot Tightening Dual Cream, 50mL",
       "price": 158.99,
@@ -285,21 +241,6 @@
       "url": "https://s.shopee.com.br/70LzshzIhB",
       "rating": 5,
       "salesCount": 3394,
-      "official": true,
-      "seller": "GLORY OF SEOUL",
-      "category": "Beleza"
-    },
-    {
-      "id": "28895533623",
-      "title": "Celimax Hydrating Calming Cica Serum Mask, 2 Options",
-      "price": 32.99,
-      "originalPrice": 39.65,
-      "discountPercent": 16.8,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-82594-mrqwb62eccg1ff",
-      "url": "https://s.shopee.com.br/3qOy6tBM7P",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 2093,
       "official": true,
       "seller": "GLORY OF SEOUL",
       "category": "Beleza"
@@ -406,20 +347,6 @@
       "hot": true
     },
     {
-      "id": "21071530577",
-      "title": "Varal De Chão Roupa Calcinha Grade 3 Andares Dobrável Portátil",
-      "price": 62.9,
-      "originalPrice": 79.9,
-      "discountPercent": 21.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7augbm6ixf693",
-      "url": "https://s.shopee.com.br/6AmskgCtfw",
-      "rating": 4.9,
-      "salesCount": 11719,
-      "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Casa e organização"
-    },
-    {
       "id": "19399663917",
       "title": "Jogo Toalha de Banho 4 Peças 100% Algodão Grossa Felpuda Super Macia Excelente Absorção New Premier Habitat",
       "price": 59.9,
@@ -458,7 +385,8 @@
       "rating": 4.9,
       "salesCount": 1631,
       "seller": "JV  Store",
-      "category": "Cozinha"
+      "category": "Cozinha",
+      "hot": true
     },
     {
       "id": "22998007959",
@@ -528,34 +456,6 @@
       "salesCount": 3175,
       "official": true,
       "seller": "Lizze",
-      "category": "Beleza"
-    },
-    {
-      "id": "22795170973",
-      "title": "CeraVe, Creme Hidratante Corporal Pele Seca a Extra Seca 454g",
-      "price": 79.9,
-      "originalPrice": 133.9,
-      "discountPercent": 40.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mti5ca6mf1mo23",
-      "url": "https://s.shopee.com.br/8pndvf5C5Q",
-      "rating": 4.9,
-      "salesCount": 8071,
-      "official": true,
-      "seller": "Cerave - Loja Oficial",
-      "category": "Beleza"
-    },
-    {
-      "id": "58216689260",
-      "title": "CeraVe, Loção Hidratante Corporal, Textura Fluida e Ácido Hialurônico, 473ml",
-      "price": 79.9,
-      "originalPrice": 133.9,
-      "discountPercent": 40.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mti5ca6mdn28b4",
-      "url": "https://s.shopee.com.br/90747y4YkV",
-      "rating": 4.9,
-      "salesCount": 6404,
-      "official": true,
-      "seller": "Cerave - Loja Oficial",
       "category": "Beleza"
     },
     {
@@ -807,7 +707,7 @@
       "salesCount": 2551,
       "official": true,
       "seller": "Yamase Loja Oficial",
-      "category": "Beleza"
+      "category": "Casa e organização"
     },
     {
       "id": "21135940174",
@@ -851,20 +751,6 @@
       "official": true,
       "seller": "Eletricario Loja Oficial",
       "category": "Ferramentas"
-    },
-    {
-      "id": "22892923302",
-      "title": "Scarpin Feminino Shekinah Bico Fino Salto Bloco Grosso Noiva Casamento",
-      "price": 60.72,
-      "originalPrice": 79.9,
-      "discountPercent": 24,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-msk80zc2xjpg6c",
-      "url": "https://s.shopee.com.br/2LaABjl8Vp",
-      "rating": 4.9,
-      "salesCount": 3333,
-      "official": true,
-      "seller": "Shekinah Calçados",
-      "category": "Moda"
     },
     {
       "id": "21098988899",
@@ -977,20 +863,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "13697446869",
-      "title": "Varal Portátil Para Apartamento Secador De Roupas Prático e Retrátil Para Janela e Parede",
-      "price": 22.5,
-      "originalPrice": 26.99,
-      "discountPercent": 16.6,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mr21ahxh7w92fe",
-      "url": "https://s.shopee.com.br/70LzkD9izD",
-      "rating": 4.8,
-      "salesCount": 3991,
-      "official": true,
-      "seller": "SELLNEEDS",
-      "category": "Casa e organização"
-    },
-    {
       "id": "22698935244",
       "title": "Tripé Selfie Stick 4 Eixos 360° Rotação | Anti-tremor+Controle Bluetooth Sem Fio | Ideal para Vlog",
       "price": 25,
@@ -1030,20 +902,6 @@
       "official": true,
       "seller": "LOI BRASIL",
       "category": "Ferramentas"
-    },
-    {
-      "id": "58251353658",
-      "title": "Varal De Chão Com Abas Dobrável Aço Secalux 12kg Varal de Apartamento Retratil",
-      "price": 50.9,
-      "originalPrice": 59.9,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqf3kve4phd06",
-      "url": "https://s.shopee.com.br/6q2ZXuAMK8",
-      "hasVariantPrices": true,
-      "rating": 4.6,
-      "salesCount": 6136,
-      "seller": "Big_ecommerce",
-      "category": "Casa e organização"
     },
     {
       "id": "56168786435",
@@ -1159,50 +1017,6 @@
       "category": "Beleza"
     },
     {
-      "id": "22493863963",
-      "title": "The Perfect Top Insider",
-      "price": 69,
-      "originalPrice": 99,
-      "discountPercent": 30.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a2-mg4k43a2v40ac2",
-      "url": "https://s.shopee.com.br/8VAnX4NezZ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 8534,
-      "official": true,
-      "seller": "INSIDER",
-      "category": "Moda"
-    },
-    {
-      "id": "19139965863",
-      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
-      "price": 42.41,
-      "originalPrice": 49.9,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
-      "url": "https://s.shopee.com.br/9pgB7ZuUOv",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 274,
-      "seller": "Gift Presentes",
-      "category": "Presentes e papelaria"
-    },
-    {
-      "id": "52653471245",
-      "title": "Mesa Dobrável Vira Maleta Alumínio Com Alça Camping Pesca Jardim Branco LuvinCo",
-      "price": 79.99,
-      "originalPrice": 99.99,
-      "discountPercent": 20,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mv7vi56vb0ubbf",
-      "url": "https://s.shopee.com.br/3Vm7ZwnsWh",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 868,
-      "official": true,
-      "seller": "LuvinCo",
-      "category": "Casa e organização"
-    },
-    {
       "id": "52768536168",
       "title": "Parafusadeira e Furadeira a Bateria 12V 25Nm WF 12K3.2 com Maleta e Acessórios WAP",
       "price": 104.9,
@@ -1312,21 +1126,6 @@
       "official": true,
       "seller": "Deccó",
       "category": "Moda"
-    },
-    {
-      "id": "51352412625",
-      "title": "Varal De Chão Inox Reforçado Secalux Com Abas Dobrável Portátil Grande Roupas Apartamento",
-      "price": 51.99,
-      "originalPrice": 64.9,
-      "discountPercent": 19.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqehu6my0aq50",
-      "url": "https://s.shopee.com.br/8KrNKf4eHb",
-      "hasVariantPrices": true,
-      "rating": 4.5,
-      "salesCount": 2508,
-      "official": true,
-      "seller": "impório_ecommerce",
-      "category": "Casa e organização"
     },
     {
       "id": "54857767078",
