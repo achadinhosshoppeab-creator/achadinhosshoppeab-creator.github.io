@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T04:11:43.301Z",
+  "updatedAt": "2026-11-27T04:42:57.872Z",
   "offers": [
     {
       "id": "54359629558",
@@ -73,6 +73,20 @@
       "salesCount": 843,
       "official": true,
       "seller": "Hinode ",
+      "category": "Beleza"
+    },
+    {
+      "id": "58257250172",
+      "title": "Principia Kit Hidratação Corporal Dupla c/ Loção Hidratante LH-02 500ml + Creme Hidratante CH-02 454g",
+      "price": 59.99,
+      "originalPrice": 107.13,
+      "discountPercent": 44,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mm0tuogwuebq30",
+      "url": "https://s.shopee.com.br/3qOxyTOEF0",
+      "rating": 4.9,
+      "salesCount": 1861,
+      "official": true,
+      "seller": "Principia Skincare",
       "category": "Beleza"
     },
     {
@@ -258,6 +272,21 @@
       "salesCount": 5385,
       "official": true,
       "seller": "Salon Line",
+      "category": "Beleza"
+    },
+    {
+      "id": "58202329642",
+      "title": "Popozuda Creme Corporal Termoativo para Estrias e Celulite 200g | Efeito Aquecimento",
+      "price": 50,
+      "originalPrice": 69.9,
+      "discountPercent": 28.5,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mu2f856jdx4y80",
+      "url": "https://s.shopee.com.br/8AXx8R7jRM",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 6897,
+      "official": true,
+      "seller": "Popozuda Oficial",
       "category": "Beleza"
     },
     {
@@ -516,6 +545,34 @@
       "category": "Beleza"
     },
     {
+      "id": "22795170973",
+      "title": "CeraVe, Creme Hidratante Corporal Pele Seca a Extra Seca 454g",
+      "price": 79.9,
+      "originalPrice": 133.9,
+      "discountPercent": 40.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mti5ca6mf1mo23",
+      "url": "https://s.shopee.com.br/8pndvf5C5Q",
+      "rating": 4.9,
+      "salesCount": 8071,
+      "official": true,
+      "seller": "Cerave - Loja Oficial",
+      "category": "Beleza"
+    },
+    {
+      "id": "58216689260",
+      "title": "CeraVe, Loção Hidratante Corporal, Textura Fluida e Ácido Hialurônico, 473ml",
+      "price": 79.9,
+      "originalPrice": 133.9,
+      "discountPercent": 40.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mti5ca6mdn28b4",
+      "url": "https://s.shopee.com.br/90747y4YkV",
+      "rating": 4.9,
+      "salesCount": 6404,
+      "official": true,
+      "seller": "Cerave - Loja Oficial",
+      "category": "Beleza"
+    },
+    {
       "id": "19598142136",
       "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
       "price": 118.15,
@@ -541,6 +598,20 @@
       "salesCount": 955,
       "official": true,
       "seller": "Beleza Renovada Oficial",
+      "category": "Beleza"
+    },
+    {
+      "id": "23691073707",
+      "title": "Máscara Matizadora #todecacho Vermelho Cereja 300g",
+      "price": 20.58,
+      "originalPrice": 26.88,
+      "discountPercent": 23.4,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82586-muxmke88mh388f",
+      "url": "https://s.shopee.com.br/6L6Ix3JW2v",
+      "rating": 4.9,
+      "salesCount": 5278,
+      "official": true,
+      "seller": "Salon Line",
       "category": "Beleza"
     },
     {
@@ -599,6 +670,20 @@
       "category": "Casa e organização"
     },
     {
+      "id": "17224393523",
+      "title": "Máscara Meu Liso Matizador Preto Salon Line 300g",
+      "price": 35.26,
+      "originalPrice": 44,
+      "discountPercent": 19.9,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b3-muxm4lo66djea7",
+      "url": "https://s.shopee.com.br/gRwnx8IPg",
+      "rating": 4.9,
+      "salesCount": 1833,
+      "official": true,
+      "seller": "Salon Line",
+      "category": "Beleza"
+    },
+    {
       "id": "22892800438",
       "title": "Espelho Decorativo Adnet 40cm Couro Alça Suporte Banheiro Sala Quarto Escritório",
       "price": 35.9,
@@ -655,6 +740,20 @@
       "category": "Beleza"
     },
     {
+      "id": "23893056825",
+      "title": "Amend Essencial Acidificante Máscara Equilíbrio do PH - 250g",
+      "price": 32.9,
+      "originalPrice": 39.9,
+      "discountPercent": 17.5,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1e4r99socpsae",
+      "url": "https://s.shopee.com.br/AKcRiP4Hvp",
+      "rating": 5,
+      "salesCount": 3581,
+      "official": true,
+      "seller": "AMEND OFICIAL",
+      "category": "Beleza"
+    },
+    {
       "id": "20199608460",
       "title": "Secador De Cabelo Profissional Lizze Extreme",
       "price": 319.9,
@@ -680,6 +779,20 @@
       "salesCount": 3025,
       "official": true,
       "seller": "Salon Line",
+      "category": "Beleza"
+    },
+    {
+      "id": "18497402527",
+      "title": "AMEND MÁSCARA NUTRITIVA EXPERTISE MARULA FABULOUS NUTRITION 300G",
+      "price": 33.9,
+      "originalPrice": 39.9,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98q-llwdbl7vtgja73",
+      "url": "https://s.shopee.com.br/1BODOs6OOp",
+      "rating": 4.9,
+      "salesCount": 2017,
+      "official": true,
+      "seller": "AMEND OFICIAL",
       "category": "Beleza"
     },
     {
@@ -780,6 +893,20 @@
       "official": true,
       "seller": "Shekinah Calçados",
       "category": "Moda"
+    },
+    {
+      "id": "21098988899",
+      "title": "Máscara Tratamento Capilar Wella Professionals Enrich 150ml",
+      "price": 79.9,
+      "originalPrice": 119.98,
+      "discountPercent": 33.4,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbmi-lmg4pfsmxs0524",
+      "url": "https://s.shopee.com.br/6AmskkK9Nu",
+      "rating": 4.9,
+      "salesCount": 3383,
+      "official": true,
+      "seller": "Perfumaria Sumirê",
+      "category": "Beleza"
     },
     {
       "id": "25583979154",
