@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T17:13:07.048Z",
+  "updatedAt": "2026-11-27T17:33:20.259Z",
   "offers": [
     {
       "id": "58205100450",
@@ -16,106 +16,20 @@
       "hot": true
     },
     {
-      "id": "22098181726",
-      "title": "Perfume Masculino Empire Sport HINODE 100ml",
-      "price": 52.47,
-      "originalPrice": 75.21,
-      "discountPercent": 30.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mvyxxo2d9kap27",
-      "url": "https://s.shopee.com.br/8AXx8HGAjS",
-      "rating": 4.9,
-      "salesCount": 852,
-      "official": true,
-      "seller": "Hinode ",
-      "category": "Beleza"
-    },
-    {
-      "id": "22494941454",
-      "title": "Kit Facial Kokeshi Completo 3 Passos Hidratação e Colágeno",
-      "price": 42.66,
-      "originalPrice": 59.9,
-      "discountPercent": 28.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mqbygibr40sg7a",
-      "url": "https://s.shopee.com.br/W8W8lO2sZ",
-      "rating": 4.9,
-      "salesCount": 10527,
-      "official": true,
-      "seller": "KOKESHI OFICIAL",
-      "category": "Beleza",
-      "hot": true
-    },
-    {
-      "id": "40229158245",
-      "title": "[MINI] DR.REJUALL Advanced Miniature Collection 3 Options",
-      "price": 42.99,
-      "originalPrice": 59.82,
-      "discountPercent": 28.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-8260f-mln2r38cofeqc4",
-      "url": "https://s.shopee.com.br/5LDllD0qLM",
+      "id": "23598365903",
+      "title": "Bota Feminina Lumiss Salto Bloco Baixo Cano Curto Detalhe Metal",
+      "price": 48.9,
+      "originalPrice": 114.49,
+      "discountPercent": 57.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mlno0wjs1qfbb2",
+      "url": "https://s.shopee.com.br/7AfPwcseQe",
       "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 2219,
+      "rating": 4.9,
+      "salesCount": 455,
       "official": true,
-      "seller": "GLORY OF SEOUL",
-      "category": "Beleza",
+      "seller": "Lumiss",
+      "category": "Moda",
       "hot": true
-    },
-    {
-      "id": "22898980977",
-      "title": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
-      "price": 59.99,
-      "originalPrice": 77.99,
-      "discountPercent": 23.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mm1wtgtq87408a",
-      "url": "https://s.shopee.com.br/7VIGTcxOgE",
-      "rating": 4.9,
-      "salesCount": 5511,
-      "official": true,
-      "seller": "Principia Skincare",
-      "category": "Beleza"
-    },
-    {
-      "id": "25316598909",
-      "title": "SKIN1004 Madagascar Centella Asiatica Ampoule Facial Serum 55ml, 100ml",
-      "price": 62.99,
-      "originalPrice": 81.41,
-      "discountPercent": 22.6,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825a7-mrh1civb1l36ec",
-      "url": "https://s.shopee.com.br/9V3KirkytJ",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 1415,
-      "official": true,
-      "seller": "GLORY OF SEOUL",
-      "category": "Beleza"
-    },
-    {
-      "id": "58208432235",
-      "title": "Principia Kit Anti-Acne Essencial c/ Gel de Limpeza GL-01 + Hidratação GH-01 + Sérum Mix-01 + Protetor Solar PS-01 FPS60",
-      "price": 139.99,
-      "originalPrice": 179.18,
-      "discountPercent": 21.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mmsy97ne6q6c38",
-      "url": "https://s.shopee.com.br/AKcRiOhoCQ",
-      "rating": 4.9,
-      "salesCount": 1718,
-      "official": true,
-      "seller": "Principia Skincare",
-      "category": "Beleza"
-    },
-    {
-      "id": "47810770730",
-      "title": "Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza linhas - Kaziva",
-      "price": 21.9,
-      "originalPrice": 27.9,
-      "discountPercent": 21.5,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moe991hva9z909",
-      "url": "https://s.shopee.com.br/1W13BzBQRC",
-      "rating": 4.8,
-      "salesCount": 2661,
-      "official": true,
-      "seller": "Adora ",
-      "category": "Casa e organização"
     },
     {
       "id": "22194238759",
@@ -157,36 +71,6 @@
       "salesCount": 5385,
       "official": true,
       "seller": "Salon Line",
-      "category": "Beleza"
-    },
-    {
-      "id": "28895533623",
-      "title": "Celimax Hydrating Calming Cica Serum Mask, 2 Options",
-      "price": 32.99,
-      "originalPrice": 39.65,
-      "discountPercent": 16.8,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-82594-mrqwb62eccg1ff",
-      "url": "https://s.shopee.com.br/3qOy6tBM7P",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 2093,
-      "official": true,
-      "seller": "GLORY OF SEOUL",
-      "category": "Beleza"
-    },
-    {
-      "id": "47050299220",
-      "title": "CELIMAX Pore+Dark Spot Brightening Serum Mask 2 Options",
-      "price": 32.99,
-      "originalPrice": 39.65,
-      "discountPercent": 16.8,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825a6-mgdfmxypi619b0",
-      "url": "https://s.shopee.com.br/70LzkGuUxa",
-      "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 2435,
-      "official": true,
-      "seller": "GLORY OF SEOUL",
       "category": "Beleza"
     },
     {
@@ -247,20 +131,6 @@
       "category": "Casa e organização"
     },
     {
-      "id": "58203832002",
-      "title": "Cicatribem Clareamento Total Sérum Clareador & Clareador Dérmico 60g + Firmador Íntimo de Brinde",
-      "price": 215.87,
-      "originalPrice": 259.04,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mt9ls90xgete65",
-      "url": "https://s.shopee.com.br/2BGjzOCtm4",
-      "rating": 4.9,
-      "salesCount": 1402,
-      "official": true,
-      "seller": "Cicatribem oficial",
-      "category": "Beleza"
-    },
-    {
       "id": "52664692788",
       "title": "Kriska Desodorante Colônia Miniatura 25 ml",
       "price": 39.95,
@@ -272,20 +142,6 @@
       "salesCount": 955,
       "official": true,
       "seller": "NATURA",
-      "category": "Beleza"
-    },
-    {
-      "id": "19598142136",
-      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
-      "price": 118.15,
-      "originalPrice": 139,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
-      "url": "https://s.shopee.com.br/1qdtam5mXK",
-      "rating": 5,
-      "salesCount": 2595,
-      "official": true,
-      "seller": "meuollie",
       "category": "Beleza"
     },
     {
@@ -314,7 +170,8 @@
       "salesCount": 5278,
       "official": true,
       "seller": "Salon Line",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "58212573737",
@@ -328,7 +185,7 @@
       "rating": 4.9,
       "salesCount": 3135,
       "seller": "Newpet - marca",
-      "category": "Casa e organização"
+      "category": "Pet e bebê"
     },
     {
       "id": "58263021202",
@@ -403,20 +260,6 @@
       "category": "Beleza"
     },
     {
-      "id": "23092618942",
-      "title": "Óleo de Tratamento SOS Cachos 10 em 1 Multibenefícios 42ml",
-      "price": 15.96,
-      "originalPrice": 18.8,
-      "discountPercent": 15.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a4-mfubjf1fva4pe1",
-      "url": "https://s.shopee.com.br/6VPj9MRgK9",
-      "rating": 4.9,
-      "salesCount": 3025,
-      "official": true,
-      "seller": "Salon Line",
-      "category": "Beleza"
-    },
-    {
       "id": "23693686267",
       "title": "Kit 5 Organizadores Lápis 3D Lúdico Coloridos Formatura Plasútil",
       "price": 28.9,
@@ -458,35 +301,7 @@
       "salesCount": 2551,
       "official": true,
       "seller": "Yamase Loja Oficial",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58217669744",
-      "title": "Bebedouro Automático Aves Galinha Codorna Copinho Vermelho",
-      "price": 18,
-      "originalPrice": 23.98,
-      "discountPercent": 24.9,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aq-mstl4ht3lqf6a0",
-      "url": "https://s.shopee.com.br/3qOxyWwDRi",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1042,
-      "seller": "Lunexis",
-      "category": "Pet e bebê"
-    },
-    {
-      "id": "18698826077",
-      "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
-      "price": 104.9,
-      "originalPrice": 148.85,
-      "discountPercent": 29.5,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lkbb0guky0lu75",
-      "url": "https://s.shopee.com.br/5qA2oCmlXC",
-      "rating": 4.9,
-      "salesCount": 1550,
-      "official": true,
-      "seller": "Eletricario Loja Oficial",
-      "category": "Ferramentas"
+      "category": "Beleza"
     },
     {
       "id": "55260497129",
@@ -500,21 +315,7 @@
       "salesCount": 2503,
       "official": true,
       "seller": "Yamase Loja Oficial",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "22892923302",
-      "title": "Scarpin Feminino Shekinah Bico Fino Salto Bloco Grosso Noiva Casamento",
-      "price": 60.72,
-      "originalPrice": 79.9,
-      "discountPercent": 24,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-msk80zc2xjpg6c",
-      "url": "https://s.shopee.com.br/2LaABjl8Vp",
-      "rating": 4.9,
-      "salesCount": 3333,
-      "official": true,
-      "seller": "Shekinah Calçados",
-      "category": "Moda"
+      "category": "Beleza"
     },
     {
       "id": "20199608460",
@@ -531,60 +332,47 @@
       "category": "Beleza"
     },
     {
-      "id": "19497608994",
-      "title": "Extratora e Higienizadora Portatil WAP SpotCleaner W3 1450W",
-      "price": 489.99,
-      "originalPrice": 579.99,
-      "discountPercent": 15.5,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824g6-mpdlazjzzaq5f5",
-      "url": "https://s.shopee.com.br/7fbijYcROg",
-      "rating": 5,
-      "salesCount": 1296,
-      "official": true,
-      "seller": "LOI BRASIL",
-      "category": "Ferramentas"
-    },
-    {
-      "id": "21299179885",
-      "title": "Extratora Higienizadora Portátil  Borrifa Esfrega e Extrai Sujeira Colchão Sofá W3 1450W Wap",
-      "price": 569,
-      "originalPrice": 699,
-      "discountPercent": 18.6,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbn7-lqeu1vzxvsrqba",
-      "url": "https://s.shopee.com.br/4qHXMLnE9M",
+      "id": "55465012839",
+      "title": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos - 500 mL",
+      "price": 16.88,
+      "originalPrice": 23.87,
+      "discountPercent": 29.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mr7pr7orsr9j54",
+      "url": "https://s.shopee.com.br/5VXE9hzXRp",
       "rating": 4.9,
-      "salesCount": 640,
+      "salesCount": 527,
       "official": true,
-      "seller": "Eletricario Loja Oficial",
-      "category": "Ferramentas"
+      "seller": "mypetone",
+      "category": "Pet e bebê",
+      "hot": true
     },
     {
-      "id": "56168786435",
-      "title": "Óleo Capilar Nutritivo OX Nutre 120ml",
-      "price": 29.9,
-      "originalPrice": 38.87,
-      "discountPercent": 23.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b2-mtybxmwwf3m08f",
-      "url": "https://s.shopee.com.br/9KjuWZGtZe",
-      "rating": 5,
-      "salesCount": 3091,
-      "official": true,
-      "seller": "Perfumaria Sumirê",
-      "category": "Beleza"
-    },
-    {
-      "id": "18071105004",
-      "title": "Kit Cabides Veludo Para Roupas Adulto 30 Unidades Fino Resistente",
-      "price": 49.9,
-      "originalPrice": 59.9,
-      "discountPercent": 16.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6qu5cyullio31",
-      "url": "https://s.shopee.com.br/5AuLYplq0D",
+      "id": "9315675115",
+      "title": "Bota Texana GiGiL Feminina Cano Alto Salto Médio Western Bordada",
+      "price": 92.99,
+      "originalPrice": 113.8,
+      "discountPercent": 18.3,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu2-mknq92e0nf2a2f",
+      "url": "https://s.shopee.com.br/90747zlfiL",
       "rating": 4.9,
-      "salesCount": 1535,
+      "salesCount": 399,
       "official": true,
-      "seller": "Na Web Group De Marcas",
-      "category": "Casa e organização"
+      "seller": "GiGiL",
+      "category": "Moda"
+    },
+    {
+      "id": "58212047034",
+      "title": "Lampião Solar LED Recarregável Camping Lanterna USB Luz Emergência Power Bank Portátil",
+      "price": 49.99,
+      "originalPrice": 63.99,
+      "discountPercent": 21.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mp9jmnv3sk5f57",
+      "url": "https://s.shopee.com.br/9pgDb9P4Ca",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1552,
+      "seller": "YiMarket",
+      "category": "Ferramentas"
     },
     {
       "id": "44221756147",
@@ -629,22 +417,6 @@
       "category": "Beleza"
     },
     {
-      "id": "22493863963",
-      "title": "The Perfect Top Insider",
-      "price": 69,
-      "originalPrice": 99,
-      "discountPercent": 30.3,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a6-mfv6e6a9jqxb60",
-      "url": "https://s.shopee.com.br/8VAnX4NezZ",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 8534,
-      "official": true,
-      "seller": "INSIDER",
-      "category": "Moda",
-      "hot": true
-    },
-    {
       "id": "19139965863",
       "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
       "price": 42.41,
@@ -657,49 +429,6 @@
       "salesCount": 274,
       "seller": "Gift Presentes",
       "category": "Presentes e papelaria"
-    },
-    {
-      "id": "52653471245",
-      "title": "Mesa Dobrável Vira Maleta Alumínio Com Alça Camping Pesca Jardim Branco LuvinCo",
-      "price": 79.99,
-      "originalPrice": 99.99,
-      "discountPercent": 20,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mv7vi56vb0ubbf",
-      "url": "https://s.shopee.com.br/7VIIXOmyzd",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 868,
-      "official": true,
-      "seller": "LuvinCo",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "52768536168",
-      "title": "Parafusadeira e Furadeira a Bateria 12V 25Nm WF 12K3.2 com Maleta e Acessórios WAP",
-      "price": 104.9,
-      "originalPrice": 129.9,
-      "discountPercent": 19.2,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82582-mto6hokrg4xv56",
-      "url": "https://s.shopee.com.br/8fUDjPmTfc",
-      "rating": 4.9,
-      "salesCount": 3721,
-      "official": true,
-      "seller": "Deend",
-      "category": "Ferramentas"
-    },
-    {
-      "id": "23593551607",
-      "title": "Guarda Chuva Automático Portátil À Prova Vento UV Resistente e Protetor Solar Grande Dobrável",
-      "price": 34.88,
-      "originalPrice": 42.4,
-      "discountPercent": 17.7,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mp241zogbfnl20",
-      "url": "https://s.shopee.com.br/gRwCdADu1",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3021,
-      "seller": "SUMARS",
-      "category": "Beleza"
     },
     {
       "id": "40961639598",
@@ -757,20 +486,6 @@
       "category": "Moda"
     },
     {
-      "id": "23099154378",
-      "title": "Luminaria Projetor De Estrelas Galaxy Abajur Quarto Criancas Star Master Combinação de Duas Cores",
-      "price": 22.99,
-      "originalPrice": 27.38,
-      "discountPercent": 16,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821e3-mglxtrrmns3tb2",
-      "url": "https://s.shopee.com.br/30pqyl9MkD",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 2343,
-      "seller": "tola1brasil",
-      "category": "Casa e organização"
-    },
-    {
       "id": "58219341014",
       "title": "Escova Secadora Mondial ES-02-BI 1200W",
       "price": 84.11,
@@ -783,34 +498,6 @@
       "official": true,
       "seller": "Magalu",
       "category": "Beleza"
-    },
-    {
-      "id": "47053971674",
-      "title": "Ventilador Torre Climatizador Ventisol Clit Abastece 3,6 Litros 5 em 1 Silencioso",
-      "price": 288.1,
-      "originalPrice": 354.99,
-      "discountPercent": 18.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivobz12jx1e76",
-      "url": "https://s.shopee.com.br/8AXx8M5Hec",
-      "rating": 4.9,
-      "salesCount": 1532,
-      "official": true,
-      "seller": "Melhor para Você",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "58209212381",
-      "title": "5 Trenas 5m Fita Métrica Profissional Aço Reforçado Emborrachada com Trava e Clip Alta Precisão",
-      "price": 17.98,
-      "originalPrice": 21.98,
-      "discountPercent": 18.2,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mn9pi191uzgi34",
-      "url": "https://s.shopee.com.br/5VXE8J3OyU",
-      "hasVariantPrices": true,
-      "rating": 4.8,
-      "salesCount": 476,
-      "seller": "PENGFA TECH LTDA",
-      "category": "Ferramentas"
     },
     {
       "id": "18999242314",
@@ -838,21 +525,6 @@
       "salesCount": 2672,
       "seller": "AB STORE - ME",
       "category": "Moda"
-    },
-    {
-      "id": "57208357922",
-      "title": "Jogo Escovas de Aço para Furadeira e Parafusadeira Limpeza Ferrugem Luatek 3 ou 6 Peças",
-      "price": 15.96,
-      "originalPrice": 19.95,
-      "discountPercent": 20,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mmrx40p02t4xd5",
-      "url": "https://s.shopee.com.br/5qA2MDAbF0",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1815,
-      "official": true,
-      "seller": "Belin Life ",
-      "category": "Ferramentas"
     },
     {
       "id": "41781797063",
