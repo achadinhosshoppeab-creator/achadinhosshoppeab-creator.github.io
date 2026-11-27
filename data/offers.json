@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T01:01:17.485Z",
+  "updatedAt": "2026-11-27T01:22:14.736Z",
   "offers": [
     {
       "id": "54359629558",
@@ -46,6 +46,20 @@
       "hot": true
     },
     {
+      "id": "23098651097",
+      "title": "Escorredor de Louça 2 Andares Inox com Bandeja Coletora e Suportes – Organizador de Cozinha Compacta",
+      "price": 79.99,
+      "originalPrice": 296.26,
+      "discountPercent": 73,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbeodzmknr3t9b",
+      "url": "https://s.shopee.com.br/AUvtO4h0WY",
+      "rating": 4.7,
+      "salesCount": 773,
+      "seller": "NOVEVE Kitchen",
+      "category": "Cozinha",
+      "hot": true
+    },
+    {
       "id": "58211442575",
       "title": "Deo Colônia Kaiak Miniatura Masculino 25ml",
       "price": 26.48,
@@ -89,21 +103,6 @@
       "category": "Beleza"
     },
     {
-      "id": "23293919571",
-      "title": "KIT 9 Esfregões Milagrosos Limpa Seco e Úmido sem Enxague Balde com Raspador Dobrável e Super Absorvente -S10",
-      "price": 69.99,
-      "originalPrice": 170.71,
-      "discountPercent": 59,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mun7gelqvdhc44",
-      "url": "https://s.shopee.com.br/3LShgoniYu",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1590,
-      "seller": "Minhacesta",
-      "category": "Casa e organização",
-      "hot": true
-    },
-    {
       "id": "18599922423",
       "title": "Kit Skin Care Geleia de colágeno e olhos de gueixa kokeshi",
       "price": 30.9,
@@ -115,6 +114,20 @@
       "salesCount": 2422,
       "official": true,
       "seller": "KOKESHI OFICIAL",
+      "category": "Beleza"
+    },
+    {
+      "id": "58208432235",
+      "title": "Principia Kit Anti-Acne Essencial c/ Gel de Limpeza GL-01 + Hidratação GH-01 + Sérum Mix-01 + Protetor Solar PS-01 FPS60",
+      "price": 139.99,
+      "originalPrice": 179.18,
+      "discountPercent": 21.9,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mmsy97ne6q6c38",
+      "url": "https://s.shopee.com.br/AKcRiOhoCQ",
+      "rating": 4.9,
+      "salesCount": 1718,
+      "official": true,
+      "seller": "Principia Skincare",
       "category": "Beleza"
     },
     {
@@ -275,6 +288,34 @@
       "hot": true
     },
     {
+      "id": "19598142136",
+      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
+      "price": 118.15,
+      "originalPrice": 139,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
+      "url": "https://s.shopee.com.br/1qdtam5mXK",
+      "rating": 5,
+      "salesCount": 2595,
+      "official": true,
+      "seller": "meuollie",
+      "category": "Beleza"
+    },
+    {
+      "id": "18797677549",
+      "title": "Secador De Cabelo Taiff Style Profissional Original 2000W",
+      "price": 189.99,
+      "originalPrice": 267.99,
+      "discountPercent": 29.1,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824jf-mf0cfquk2m16e3",
+      "url": "https://s.shopee.com.br/AKcRiPLt2a",
+      "rating": 4.9,
+      "salesCount": 955,
+      "official": true,
+      "seller": "Beleza Renovada Oficial",
+      "category": "Beleza"
+    },
+    {
       "id": "58263021202",
       "title": "BRILHO NOVO Kit Escova Sanitária Sem Contato, Refis Descartáveis com Detergente Incorporado | Cabo + Base + 36 Refis",
       "price": 38.9,
@@ -289,31 +330,17 @@
       "category": "Casa e organização"
     },
     {
-      "id": "16824447023",
-      "title": "Máscara S.O.S Hidratação Óleo de Rícino Salon Line 1kg",
-      "price": 19.88,
-      "originalPrice": 24.2,
-      "discountPercent": 17.9,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a1-muxl71c7bf2hc3",
-      "url": "https://s.shopee.com.br/6L6Ix3SJf6",
-      "rating": 4.9,
-      "salesCount": 3134,
+      "id": "20199608460",
+      "title": "Secador De Cabelo Profissional Lizze Extreme",
+      "price": 319.9,
+      "originalPrice": 458.99,
+      "discountPercent": 30.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rccb-m6hdhdcr7ez62f",
+      "url": "https://s.shopee.com.br/W8W0KxJzV",
+      "rating": 5,
+      "salesCount": 944,
       "official": true,
-      "seller": "Salon Line",
-      "category": "Beleza"
-    },
-    {
-      "id": "23092618942",
-      "title": "Óleo de Tratamento SOS Cachos 10 em 1 Multibenefícios 42ml",
-      "price": 15.96,
-      "originalPrice": 18.8,
-      "discountPercent": 15.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a4-mfubjf1fva4pe1",
-      "url": "https://s.shopee.com.br/6VPj9MRgK9",
-      "rating": 4.9,
-      "salesCount": 3025,
-      "official": true,
-      "seller": "Salon Line",
+      "seller": "Lizze",
       "category": "Beleza"
     },
     {
@@ -359,20 +386,6 @@
       "category": "Beleza"
     },
     {
-      "id": "58217669744",
-      "title": "Bebedouro Automático Aves Galinha Codorna Copinho Vermelho",
-      "price": 18,
-      "originalPrice": 23.98,
-      "discountPercent": 24.9,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aq-mstl4ht3lqf6a0",
-      "url": "https://s.shopee.com.br/3qOxyWwDRi",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1042,
-      "seller": "Lunexis",
-      "category": "Pet e bebê"
-    },
-    {
       "id": "18698826077",
       "title": "Parafusadeira Furadeira Sem Fio 12V Com Maleta Brocas e Acessórios BPF 12K3 Wap",
       "price": 104.9,
@@ -385,6 +398,20 @@
       "official": true,
       "seller": "Eletricario Loja Oficial",
       "category": "Ferramentas"
+    },
+    {
+      "id": "22892923302",
+      "title": "Scarpin Feminino Shekinah Bico Fino Salto Bloco Grosso Noiva Casamento",
+      "price": 60.72,
+      "originalPrice": 79.9,
+      "discountPercent": 24,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-msk80zc2xjpg6c",
+      "url": "https://s.shopee.com.br/2LaABjl8Vp",
+      "rating": 4.9,
+      "salesCount": 3333,
+      "official": true,
+      "seller": "Shekinah Calçados",
+      "category": "Moda"
     },
     {
       "id": "55465012839",
@@ -401,20 +428,6 @@
       "category": "Pet e bebê"
     },
     {
-      "id": "9315675115",
-      "title": "Bota Texana GiGiL Feminina Cano Alto Salto Médio Western Bordada",
-      "price": 92.99,
-      "originalPrice": 113.8,
-      "discountPercent": 18.3,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu2-mknq92e0nf2a2f",
-      "url": "https://s.shopee.com.br/90747zlfiL",
-      "rating": 4.9,
-      "salesCount": 399,
-      "official": true,
-      "seller": "GiGiL",
-      "category": "Moda"
-    },
-    {
       "id": "13697446869",
       "title": "Varal Portátil Para Apartamento Secador De Roupas Prático e Retrátil Para Janela e Parede",
       "price": 22.5,
@@ -429,6 +442,34 @@
       "category": "Casa e organização"
     },
     {
+      "id": "22698935244",
+      "title": "Tripé Selfie Stick 4 Eixos 360° Rotação | Anti-tremor+Controle Bluetooth Sem Fio | Ideal para Vlog",
+      "price": 25,
+      "originalPrice": 29.99,
+      "discountPercent": 16.6,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mvodv2c6klj611",
+      "url": "https://s.shopee.com.br/8fUEqnDSGn",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 803,
+      "seller": "EXEED SHOPPING",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "19497608994",
+      "title": "Extratora e Higienizadora Portatil WAP SpotCleaner W3 1450W",
+      "price": 489.99,
+      "originalPrice": 579.99,
+      "discountPercent": 15.5,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824g6-mpdlazjzzaq5f5",
+      "url": "https://s.shopee.com.br/AKcRt0xw61",
+      "rating": 5,
+      "salesCount": 1296,
+      "official": true,
+      "seller": "LOI BRASIL",
+      "category": "Ferramentas"
+    },
+    {
       "id": "41183604135",
       "title": "Organizador de Bonés em Acrílico Transparente Suporte Porta Boné Expositor para Closet Guarda-Roupa Loja",
       "price": 19.73,
@@ -440,7 +481,7 @@
       "rating": 4.8,
       "salesCount": 1921,
       "seller": "MiDi Store",
-      "category": "Moda"
+      "category": "Casa e organização"
     },
     {
       "id": "58251353658",
@@ -457,18 +498,18 @@
       "category": "Casa e organização"
     },
     {
-      "id": "56168786435",
-      "title": "Óleo Capilar Nutritivo OX Nutre 120ml",
-      "price": 29.9,
-      "originalPrice": 38.87,
-      "discountPercent": 23.1,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b2-mtybxmwwf3m08f",
-      "url": "https://s.shopee.com.br/9KjuWZGtZe",
-      "rating": 5,
-      "salesCount": 3091,
+      "id": "21299179885",
+      "title": "Extratora Higienizadora Portátil  Borrifa Esfrega e Extrai Sujeira Colchão Sofá W3 1450W Wap",
+      "price": 569,
+      "originalPrice": 699,
+      "discountPercent": 18.6,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbn7-lqeu1vzxvsrqba",
+      "url": "https://s.shopee.com.br/6fj9WHBtXX",
+      "rating": 4.9,
+      "salesCount": 640,
       "official": true,
-      "seller": "Perfumaria Sumirê",
-      "category": "Beleza"
+      "seller": "Eletricario Loja Oficial",
+      "category": "Ferramentas"
     },
     {
       "id": "23194269838",
@@ -485,18 +526,33 @@
       "category": "Moda"
     },
     {
-      "id": "17882461983",
-      "title": "Trocador Plastificado Impermeável Anatômico Americano de Cômoda Para Troca de Fraldas",
-      "price": 44.09,
-      "originalPrice": 54.47,
-      "discountPercent": 19.1,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maab9aclh7smf5",
-      "url": "https://s.shopee.com.br/9KjuWS6NzT",
+      "id": "22192944289",
+      "title": "Kit Desodorante Aerosol Antitranspirante Tabu Collection Baladadeira + Linda + Delicada + Livre + Ousada (5 unidades)",
+      "price": 25.9,
+      "originalPrice": 34.9,
+      "discountPercent": 25.8,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdi-ltmherygtgr31f",
+      "url": "https://s.shopee.com.br/40iPDsgfwP",
+      "rating": 4.9,
+      "salesCount": 1076,
+      "official": true,
+      "seller": "Dana Cosmeticos",
+      "category": "Beleza"
+    },
+    {
+      "id": "22493863963",
+      "title": "The Perfect Top Insider",
+      "price": 69,
+      "originalPrice": 99,
+      "discountPercent": 30.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824j3-mfo1d0tts1l4ea",
+      "url": "https://s.shopee.com.br/8VAnX4NezZ",
       "hasVariantPrices": true,
-      "rating": 5,
-      "salesCount": 3454,
-      "seller": "Mainha Baby",
-      "category": "Pet e bebê"
+      "rating": 4.9,
+      "salesCount": 8534,
+      "official": true,
+      "seller": "INSIDER",
+      "category": "Moda"
     },
     {
       "id": "19139965863",
@@ -511,6 +567,21 @@
       "salesCount": 274,
       "seller": "Gift Presentes",
       "category": "Presentes e papelaria"
+    },
+    {
+      "id": "52653471245",
+      "title": "Mesa Dobrável Vira Maleta Alumínio Com Alça Camping Pesca Jardim Branco LuvinCo",
+      "price": 79.99,
+      "originalPrice": 99.99,
+      "discountPercent": 20,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mv7vi56vb0ubbf",
+      "url": "https://s.shopee.com.br/3Vm7ZwnsWh",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 868,
+      "official": true,
+      "seller": "LuvinCo",
+      "category": "Casa e organização"
     },
     {
       "id": "53750943172",
@@ -539,20 +610,6 @@
       "salesCount": 2508,
       "official": true,
       "seller": "impório_ecommerce",
-      "category": "Casa e organização"
-    },
-    {
-      "id": "47053971674",
-      "title": "Ventilador Torre Climatizador Ventisol Clit Abastece 3,6 Litros 5 em 1 Silencioso",
-      "price": 288.1,
-      "originalPrice": 354.99,
-      "discountPercent": 18.8,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivobz12jx1e76",
-      "url": "https://s.shopee.com.br/8AXx8M5Hec",
-      "rating": 4.9,
-      "salesCount": 1532,
-      "official": true,
-      "seller": "Melhor para Você",
       "category": "Casa e organização"
     },
     {
