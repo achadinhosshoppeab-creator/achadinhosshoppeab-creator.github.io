@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-28T03:09:48.892Z",
+  "updatedAt": "2026-11-28T03:40:31.972Z",
   "offers": [
+    {
+      "id": "58205100450",
+      "title": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
+      "price": 19.8,
+      "originalPrice": 37.96,
+      "discountPercent": 47.8,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
+      "url": "https://s.shopee.com.br/9pgB7TbOVd",
+      "rating": 4.8,
+      "salesCount": 2331,
+      "seller": "Ela&Ela",
+      "category": "Beleza",
+      "hot": true
+    },
     {
       "id": "28867680104",
       "title": "[NEW] NUMBUZIN No.9 NAD BIO Lifting Sil Essence 30ml, 50ml",
@@ -115,6 +129,20 @@
       "salesCount": 1432,
       "official": true,
       "seller": "Cicatribem oficial",
+      "category": "Beleza"
+    },
+    {
+      "id": "19598142136",
+      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
+      "price": 118.15,
+      "originalPrice": 139,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9517ntc6nc2e8",
+      "url": "https://s.shopee.com.br/1qdtam5mXK",
+      "rating": 5,
+      "salesCount": 2669,
+      "official": true,
+      "seller": "meuollie",
       "category": "Beleza"
     },
     {
@@ -345,6 +373,20 @@
       "category": "Beleza"
     },
     {
+      "id": "22192944289",
+      "title": "Kit Desodorante Aerosol Antitranspirante Tabu Collection Baladadeira + Linda + Delicada + Livre + Ousada (5 unidades)",
+      "price": 25.9,
+      "originalPrice": 34.9,
+      "discountPercent": 25.8,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdi-ltmherygtgr31f",
+      "url": "https://s.shopee.com.br/40iPDsgfwP",
+      "rating": 4.9,
+      "salesCount": 1083,
+      "official": true,
+      "seller": "Dana Cosmeticos",
+      "category": "Beleza"
+    },
+    {
       "id": "19139965863",
       "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
       "price": 42.41,
@@ -372,20 +414,6 @@
       "official": true,
       "seller": "LuvinCo",
       "category": "Casa e organização"
-    },
-    {
-      "id": "22197286720",
-      "title": "Esfregão Flat Mop com Balde,com Cabo Extensivel Inox,2 Refils giratório de limpeza Esfregão.",
-      "price": 45.99,
-      "originalPrice": 69.68,
-      "discountPercent": 34,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mlz35wjk8g7be0",
-      "url": "https://s.shopee.com.br/6q2cjcqWGN",
-      "rating": 4.6,
-      "salesCount": 1258,
-      "seller": "Formiga Brasil",
-      "category": "Casa e organização",
-      "hot": true
     },
     {
       "id": "51352412625",
