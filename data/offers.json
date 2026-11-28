@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T04:12:17.544Z",
+  "updatedAt": "2026-11-28T04:42:40.009Z",
   "offers": [
     {
       "id": "58205100450",
@@ -28,7 +28,8 @@
       "salesCount": 1824,
       "official": true,
       "seller": "GLORY OF SEOUL",
-      "category": "Beleza"
+      "category": "Beleza",
+      "hot": true
     },
     {
       "id": "58257250172",
@@ -101,21 +102,6 @@
       "official": true,
       "seller": "Salon Line",
       "category": "Beleza"
-    },
-    {
-      "id": "58203668922",
-      "title": "Jarra De Vidro 1L Com Tampa Para Água Suco Garrafa Modelo Suíça",
-      "price": 21.98,
-      "originalPrice": 38.56,
-      "discountPercent": 43,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mvw91ychr20wf0",
-      "url": "https://s.shopee.com.br/4qHVACIMty",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 1640,
-      "seller": "JV  Store",
-      "category": "Cozinha",
-      "hot": true
     },
     {
       "id": "58203832002",
@@ -385,6 +371,20 @@
       "official": true,
       "seller": "Dana Cosmeticos",
       "category": "Beleza"
+    },
+    {
+      "id": "19139965863",
+      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
+      "price": 42.41,
+      "originalPrice": 49.9,
+      "discountPercent": 15,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
+      "url": "https://s.shopee.com.br/9pgB7ZuUOv",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 274,
+      "seller": "Gift Presentes",
+      "category": "Presentes e papelaria"
     },
     {
       "id": "52653471245",
