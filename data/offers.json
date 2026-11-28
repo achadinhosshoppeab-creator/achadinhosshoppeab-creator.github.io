@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T06:16:36.042Z",
+  "updatedAt": "2026-11-28T06:47:37.850Z",
   "offers": [
     {
       "id": "58205100450",
@@ -157,8 +157,7 @@
       "salesCount": 5315,
       "official": true,
       "seller": "Salon Line",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "58263021202",
@@ -359,6 +358,21 @@
       "category": "Moda"
     },
     {
+      "id": "23198987139",
+      "title": "2 Peças 10M Trena Profissional Fita Métrica Fluorescente Com Trava",
+      "price": 22.9,
+      "originalPrice": 36.5,
+      "discountPercent": 37.3,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b8-mvvfcqti22o0d3",
+      "url": "https://s.shopee.com.br/7fbiiHv9Zh",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 832,
+      "seller": "K7mart",
+      "category": "Ferramentas",
+      "hot": true
+    },
+    {
       "id": "21098988899",
       "title": "Máscara Tratamento Capilar Wella Professionals Enrich 150ml",
       "price": 99.98,
@@ -370,20 +384,6 @@
       "salesCount": 3412,
       "official": true,
       "seller": "Perfumaria Sumirê",
-      "category": "Beleza"
-    },
-    {
-      "id": "22192944289",
-      "title": "Kit Desodorante Aerosol Antitranspirante Tabu Collection Baladadeira + Linda + Delicada + Livre + Ousada (5 unidades)",
-      "price": 25.9,
-      "originalPrice": 34.9,
-      "discountPercent": 25.8,
-      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdi-ltmherygtgr31f",
-      "url": "https://s.shopee.com.br/40iPDsgfwP",
-      "rating": 4.9,
-      "salesCount": 1083,
-      "official": true,
-      "seller": "Dana Cosmeticos",
       "category": "Beleza"
     },
     {
@@ -457,6 +457,20 @@
       "official": true,
       "seller": "Melhor para Você",
       "category": "Casa e organização"
+    },
+    {
+      "id": "58209212381",
+      "title": "5 Trenas 5m Fita Métrica Profissional Aço Reforçado Emborrachada com Trava e Clip Alta Precisão",
+      "price": 17.98,
+      "originalPrice": 21.98,
+      "discountPercent": 18.2,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mn9pi191uzgi34",
+      "url": "https://s.shopee.com.br/5VXE8J3OyU",
+      "hasVariantPrices": true,
+      "rating": 4.8,
+      "salesCount": 485,
+      "seller": "PENGFA TECH LTDA",
+      "category": "Ferramentas"
     },
     {
       "id": "22897647269",
