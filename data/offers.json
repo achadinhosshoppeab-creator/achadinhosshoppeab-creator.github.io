@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T06:47:37.850Z",
+  "updatedAt": "2026-11-28T07:50:29.098Z",
   "offers": [
     {
       "id": "58205100450",
@@ -157,21 +157,7 @@
       "salesCount": 5315,
       "official": true,
       "seller": "Salon Line",
-      "category": "Beleza"
-    },
-    {
-      "id": "58263021202",
-      "title": "BRILHO NOVO Kit Escova Sanitária Sem Contato, Refis Descartáveis com Detergente Incorporado | Cabo + Base + 36 Refis",
-      "price": 38.9,
-      "originalPrice": 59.8,
-      "discountPercent": 34.9,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-msdw742h9vd1fe",
-      "url": "https://s.shopee.com.br/7VIGL8h1G1",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 3589,
-      "seller": "BRILHO NOVO BR",
-      "category": "Casa e organização",
+      "category": "Beleza",
       "hot": true
     },
     {
@@ -246,21 +232,6 @@
       "category": "Beleza"
     },
     {
-      "id": "21135940174",
-      "title": "Fone de ouvido Headset Gamer para Jogos Xbox One Ps4 Celular Pc com Microfone LC-862",
-      "price": 39.96,
-      "originalPrice": 90.96,
-      "discountPercent": 56.1,
-      "imageUrl": "https://cf.shopee.com.br/file/bd9c7cc4a4f13e10b38af3025e8f4b27",
-      "url": "https://s.shopee.com.br/Lp5o031iD",
-      "hasVariantPrices": true,
-      "rating": 4.7,
-      "salesCount": 424,
-      "seller": "Ankco Shop",
-      "category": "Eletrônicos",
-      "hot": true
-    },
-    {
       "id": "58217669744",
       "title": "Bebedouro Automático Aves Galinha Codorna Copinho Vermelho",
       "price": 18,
@@ -273,6 +244,21 @@
       "salesCount": 1023,
       "seller": "Lunexis",
       "category": "Pet e bebê"
+    },
+    {
+      "id": "58263021202",
+      "title": "BRILHO NOVO Kit Escova Sanitária Sem Contato, Refis Descartáveis com Detergente Incorporado | Cabo + Base + 36 Refis",
+      "price": 45.9,
+      "originalPrice": 59.8,
+      "discountPercent": 23.2,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-msdw742h9vd1fe",
+      "url": "https://s.shopee.com.br/7VIGL8h1G1",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 3589,
+      "seller": "BRILHO NOVO BR",
+      "category": "Casa e organização",
+      "hot": true
     },
     {
       "id": "23798178107",
