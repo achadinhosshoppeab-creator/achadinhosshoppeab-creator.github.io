@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T10:28:10.159Z",
+  "updatedAt": "2026-11-28T10:59:24.324Z",
   "offers": [
     {
       "id": "58205100450",
@@ -28,8 +28,7 @@
       "salesCount": 1824,
       "official": true,
       "seller": "GLORY OF SEOUL",
-      "category": "Beleza",
-      "hot": true
+      "category": "Beleza"
     },
     {
       "id": "22494941454",
@@ -88,6 +87,21 @@
       "official": true,
       "seller": "Salon Line",
       "category": "Beleza"
+    },
+    {
+      "id": "58203668922",
+      "title": "Jarra De Vidro 1L Com Tampa Para Água Suco Garrafa Modelo Suíça",
+      "price": 21.98,
+      "originalPrice": 38.56,
+      "discountPercent": 43,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mvw91ychr20wf0",
+      "url": "https://s.shopee.com.br/4qHVACIMty",
+      "hasVariantPrices": true,
+      "rating": 4.9,
+      "salesCount": 1640,
+      "seller": "JV  Store",
+      "category": "Cozinha",
+      "hot": true
     },
     {
       "id": "58203832002",
