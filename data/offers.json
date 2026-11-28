@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T03:40:31.972Z",
+  "updatedAt": "2026-11-28T04:12:17.544Z",
   "offers": [
     {
       "id": "58205100450",
@@ -385,20 +385,6 @@
       "official": true,
       "seller": "Dana Cosmeticos",
       "category": "Beleza"
-    },
-    {
-      "id": "19139965863",
-      "title": "Quadro lousa Planejamento Mensal Planner 40x60 Metal",
-      "price": 42.41,
-      "originalPrice": 49.9,
-      "discountPercent": 15,
-      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lznnr53pd3f90a",
-      "url": "https://s.shopee.com.br/9pgB7ZuUOv",
-      "hasVariantPrices": true,
-      "rating": 4.9,
-      "salesCount": 274,
-      "seller": "Gift Presentes",
-      "category": "Presentes e papelaria"
     },
     {
       "id": "52653471245",
